@@ -5,7 +5,7 @@
 51, rue Guerlain,  
 92700 Colombes
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2621.3848954030345!2d2.260071015676809!3d48.92711037929425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e665e8429fc8cb%3A0xbe97f02df35cb18f!2s51%20Rue%20Guerlain%2C%2092700%20Colombes!5e0!3m2!1sfr!2sfr!4v1614333292584!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2621.3848954030345!2d2.260071015676809!3d48.92711037929425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e665e842c643b1%3A0x925e853e4532c!2sAtelier%20Fans%20de%20Terre!5e0!3m2!1sfr!2sfr!4v1614334056042!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
  
 ## Comment venir ?
 
