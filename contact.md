@@ -10,7 +10,7 @@
 ## Comment venir ?
 
 :footprints: 5 minutes à pied du cente-ville et de la gare de Colombes  
-:steam_locomotive: 15 minutes de Paris Saint-Lazare  
+:train2: 15 minutes de Paris Saint-Lazare  
 :car: A proximité de l'A86  
 :bus: Bus : 164-167-176-304-366-378-566
 
