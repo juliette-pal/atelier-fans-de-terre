@@ -1,19 +1,20 @@
 # Contact
 
-*Fans de Terre*
-
-51, rue Guerlain, 
-
+## Le lieu des ateliers de poterie
+*Fans de Terre*  
+51, rue Guerlain,  
 92700 Colombes
 
-[Nous contacter](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2621.3848954030345!2d2.260071015676809!3d48.92711037929425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e665e8429fc8cb%3A0xbe97f02df35cb18f!2s51%20Rue%20Guerlain%2C%2092700%20Colombes!5e0!3m2!1sfr!2sfr!4v1614333292584!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
  
+## Comment venir ?
 
-    5 minutes à pied du cente-ville et de la gare de Colombes
-    15 minutes de Paris Saint-Lazare
-    A proximité de l'A86
-    Bus :
-    164-167-176-304-366-378-566
+:footprints: 5 minutes à pied du cente-ville et de la gare de Colombes  
+:steam_locomotive: 15 minutes de Paris Saint-Lazare  
+:car: A proximité de l'A86  
+:bus: Bus : 164-167-176-304-366-378-566
 
-GPS : 48.927053,2.262293
+ :motorway: GPS : 48.927053,2.262293
+
+## Formulaire de contact
+[Nous contacter](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)
