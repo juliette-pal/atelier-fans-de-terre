@@ -24,8 +24,10 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
+      <div class="blur">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      </div>  
       <a href="page-1" class="btn">Voir page-1</a>
       <a href="contact" class="btn">Contact</a>
       {% if site.show_downloads %}
