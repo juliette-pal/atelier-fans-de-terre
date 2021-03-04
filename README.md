@@ -22,12 +22,15 @@
   - personnes qui veulent pratiquer régulièrement la technique de la céramique proche de chez eux (cours)
   - personnes qui veulent offrir un stage de céramique
  
- -  
- ## Mesures d'impact
  
  ## Retour utilisateurs
  - Besoin d'avoir accès rapidement aux informations des stages (info, dates, places restantes, réglement)
  
+ ## Exemple de site d'atelier de poterie
+[Atelier Mercier](https://www.ateliermercier-ceramique.com/cap-tournage)
+=> 
+[Terre et Feu](https://www.terre-et-feu.com/paris/cours-de-ceramique-paris/)
+[Le Bol](https://le-bol.fr/cours-de-poterie-en-ligne/)
 
 ## Welcome to GitHub Pages
 
