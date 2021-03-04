@@ -1,6 +1,6 @@
 # Contact
 
-## Le lieu des ateliers de poterie
+## Adresse de l'atelier
 **Fans de Terre**  
 51, rue Guerlain,  
 92700 Colombes
