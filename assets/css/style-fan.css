@@ -1,9 +1,23 @@
-.page-header {
+#banner-image {
   background: url("http://www.fansdeterre.com/attachments/Header/published_image_1.jpg") no-repeat;
   background-size: auto;
-  background-size: cover; 
+  background-size: cover;
+  width: 100vw;
+  height: 40vh;
 }
+#first-banner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(90, 128, 107);
+}
+#first-banner a {
+  margin: 0 !important;
+}
+
 h1, h2 {
   color: #860d0d;
 }
-
+.page-header {
+  padding: 0 !important;
+}
