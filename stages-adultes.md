@@ -51,8 +51,7 @@ L'effet, bronze vous tente ?  Venez appercevoir les possibilités infinies des p
 
 ## PARENT/ENFANT ou plutôt Adulte/enfant 
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
-**Durée** : 2H30 (modelage) ou 3H (tournage)
-**Modelage** : A partir de 3 ans
-**Tournage** : A partir de 8 ans  
+**Durée** : 2H30 (modelage) ou 3H (tournage)  
+**Niveau** : Modelage (à partir de 3 ans) - Tournage (à partir de 8 ans)  
 **Tarif** : 80€ (modelage) - 95€ (tournage)  
 [En savoir plus...](parent-enfant)
