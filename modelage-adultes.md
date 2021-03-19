@@ -1,3 +1,13 @@
+<!--
+Description longue
+Image
+Durée: H
+Niveau:
+Tarif:
+Les prochains stages :
+date - heure début -heure fin
+[Réserver](reserver)
+-->
 # STAGE MODELAGE ADULTES    
 Ce stage modelage permet d’expérimenter la forme et les techniques de modelage telles que le pincé, la plaque, ...
 En fonction de votre projet, vous pourrez texturer et décorer aux engobes votre pièce.

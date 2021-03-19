@@ -1,12 +1,21 @@
 # STAGES ADULTES
-## MODELAGE
-En 2H30 vous découvrirez une technique de façonnage autre que le tournage : plaque, colombin, pincé, coulage, décor à l’engobe…   
-**Niveau** : Débutant/Intermédiaire   
-[Dates et tarifs...](modelage_adultes)
+<!--
+## Nom de la technique
+_phrase d'accroche_
+Durée :
+Niveau : 
+Tarif :
+[En savoir plus...](page-technique)
+-->
 ## TOURNAGE  
 Sur une journée (10h – 17h) vous pouvez vous initier ou vous perfectionner à la technique du tournage en céramique.…   
 **Niveau** : Tous niveaux    
 [En savoir plus...](tournage_adultes)
+
+## MODELAGE
+En 2H30 vous découvrirez une technique de façonnage autre que le tournage : plaque, colombin, pincé, coulage, décor à l’engobe…   
+**Niveau** : Débutant/Intermédiaire   
+[Dates et tarifs...](modelage_adultes)
 
 ## RAKU  
 En 1 jour et demi, vous pourrez façonner puis décorer vos pièces selon la technique japonaise du raku…   
@@ -22,7 +31,6 @@ En 3H vous apprendrez à décorer sur biscuit et à émailler .
 Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
 **Niveau** : Tous niveaux
 [En savoir plus...](sculpture_adultes)
-
 
 ## PATINE  
 En une journée vous pourrez appercevoir les possibilités infinies de patines. Finir autrement ses pièces.…   
