@@ -15,7 +15,7 @@ Sur une journée (10h – 17h) vous pouvez vous initier ou vous perfectionner à
 ## MODELAGE
 En 2H30 vous découvrirez une technique de façonnage autre que le tournage : plaque, colombin, pincé, coulage, décor à l’engobe…   
 **Niveau** : Débutant/Intermédiaire   
-[Dates et tarifs...](modelage_adultes)
+[Dates et tarifs...](modelage-adultes)
 
 ## RAKU  
 En 1 jour et demi, vous pourrez façonner puis décorer vos pièces selon la technique japonaise du raku…   
