@@ -49,7 +49,7 @@ L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des pa
 **Tarif** : 100€  
 [En savoir plus...](patine_adultes)
 
-## PARENT/ENFANT ou plutôt Adulte/enfant 
+## PARENT/ENFANT mais pas que...  
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
 **Durée** : 2H30 (modelage) ou 3H (tournage)  
 **Niveau** : Modelage (à partir de 3 ans) - Tournage (à partir de 8 ans)  
