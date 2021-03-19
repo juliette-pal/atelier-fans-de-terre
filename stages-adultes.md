@@ -29,7 +29,7 @@ Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique jap
 [En savoir plus...](raku_adultes) 
 
 ## DECOR / EMAILLAGE    
-Venez sublimer vos pièces en lez décorant à vos couleurs. Finir en les émaillant pour un rendu parfait ! Si vous n'avez pas de pièce l'atelier vous en fournit 2.    
+Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émaillant pour un rendu parfait ! Si vous n'avez pas de pièce l'atelier vous en fournit 2.    
 **Durée** : 3H  
 **Niveau** : Débutant/Intermédiaire  
 **Tarif** : 65€  
@@ -43,7 +43,7 @@ Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre
 [En savoir plus...](sculpture_adultes)
 
 ## PATINE  
-L'effet, bronze vous tente ?  Venez appercevoir les possibilités infinies des patines à froid.   
+L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des patines à froid.   
 **Durée** : 6H  
 **Niveau** : Tous niveaux  
 **Tarif** : 100€  
