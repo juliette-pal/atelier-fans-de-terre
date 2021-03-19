@@ -9,10 +9,14 @@ date - heure début -heure fin
 [Réserver](reserver)
 -->
 # STAGE MODELAGE ADULTES    
-Ce stage modelage permet d’expérimenter la forme et les techniques de modelage telles que le pincé, la plaque, ...
-En fonction de votre projet, vous pourrez texturer et décorer aux engobes votre pièce.
+Ce stage modelage permet d’expérimenter la forme ainsi que des techniques de modelage telles que le pincé, la plaque, le colombin.
+En fonction de la complexité de votre forme, si vous avez assez de temps, vous pourrez décorer votre pièce par des texture ou l'apport de couleurs (engobes).
 
-**Tarif : 55€** 
+**Durée :**  2H30
+
+**Niveau :**  Débutant / Intermédiaire
+
+**Tarif : 55€**  
 Le tarif comprend une pièce de 20cm x 20cm maximum qui sera cuite 2 fois et émaillée par l’atelier.
 
 **Dates et horaires :**  
