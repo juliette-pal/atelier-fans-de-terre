@@ -2,7 +2,7 @@
 ## Présentation de l'atelier
 xxxxx 
 
-[En savoir plus sur l'atelier fans de terre...](atelier)
+[En savoir plus sur l'atelier fans de terre...](atelier.md)
 
 - STAGES : Vos disponibilités varient et vous préférez pratiquer en fonction de votre temps disponible… (à partir de 2H30) 
   - [Stages Adultes](stages-adultes.md)
