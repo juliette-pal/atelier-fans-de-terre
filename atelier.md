@@ -7,24 +7,18 @@ Lieu d’expression artistique, d’apprentissage, d’échanges, de lâcher pri
 
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir.  
 
-Monika et son équipe vous y enseignent de nombreuses techniques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...  
-
-Composé de deux salles spacieuses, l'atelier donne sur un jardin accueillant et paisible dans lequel se pratique le raku aux beaux jours.  
-
-Vous pourrez profiter des nombreux matériels à disposition :  
-- 6 Tours  
-- 1 crouteuse  
-- 2 fours électriques  
-- 2 fours Raku  
-- Cabine d'émaillage maison  
-- Extrudeuse électrique
-
-Toutes les salles de l'atelier sont accessibles aux **personnes à mobilité réduite**.  
+Monika et son équipe vous y enseignent de nombreuses techniques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...   
 
 Il ne vous reste plus qu’à y faire un tour !!!
 
-[Horaires d'ouverture de l'atelier](horaires.md)  
-[Quand et comment récupérer les pièces de stages](Récup_pièces.md)  
+## Horaires d'ouverture de l'atelier  
+- Mercredi : 16H00 - 21H00  
+- Jeudi    : 15H00 - 18H00 et 19H30 - 22H30  
+- Vendredi : 14H00 - 17H00  
+- Samedi   : 10H00 - 13H00 
+
+
+[Quand récupérer les pièces de stages](Récup_pièces.md)  
 [Comment venir à l'atelier](contact.md)  
 [Voir les intervenants de l'atelier](intervenants.md)  
 
