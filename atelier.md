@@ -5,8 +5,6 @@ Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de 
 
 Lieu d’expression artistique, d’apprentissage, d’échanges, de lâcher prise,… chacun peut y trouver son bonheur.  
 
-Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir.  
-
 Monika et son équipe vous y enseignent de nombreuses techniques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...   
 
 Il ne vous reste plus qu’à y faire un tour !!!  
