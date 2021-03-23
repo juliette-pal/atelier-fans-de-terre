@@ -13,12 +13,13 @@ L’émaillage n’étant pas compris, vous pouvez par la suite continuer sur un
 
 **Horaires :** 10h – 17h – La pause déjeuner d’1h se fera impérativement en extérieur en période COVID.  
 
-**Dates :** 
-Samedi 29 mai avec Lydie Roberjot
-Samedi 12 juin avec Rose-Hélène Debray
-Dimanche 27 juin avec …
-Samedi 3 juillet avec Rose-Hélène Debray
-Dimanche 4 juillet avec Lydie Roberjot
+**Dates :**  
+Samedi 29 mai avec Lydie Roberjot  
+Samedi 12 juin avec Rose-Hélène Debray  
+Dimanche 27 juin avec …  
+Samedi 3 juillet avec Rose-Hélène Debray  
+Dimanche 4 juillet avec Lydie Roberjot  
+
 
 **RESERVER**
 
