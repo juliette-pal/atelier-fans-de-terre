@@ -9,7 +9,13 @@ Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre
 
 Monika et son équipe vous y enseignent de nombreuses techniques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...   
 
-Il ne vous reste plus qu’à y faire un tour !!!
+Il ne vous reste plus qu’à y faire un tour !!!  
+
+[Voir les intervenants de l'atelier](intervenants.md)  
+
+[Quand récupérer les pièces de stages](Récup_pièces.md) 
+
+[Comment venir à l'atelier](contact.md)  
 
 ## Horaires d'ouverture de l'atelier  
 - Mercredi : 16H00 - 21H00  
@@ -17,10 +23,6 @@ Il ne vous reste plus qu’à y faire un tour !!!
 - Vendredi : 14H00 - 17H00  
 - Samedi   : 10H00 - 13H00 
 
-
-[Quand récupérer les pièces de stages](Récup_pièces.md)  
-[Comment venir à l'atelier](contact.md)  
-[Voir les intervenants de l'atelier](intervenants.md)  
 
 ## Formulaire de contact
 [Nous contacter](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)
