@@ -1,6 +1,8 @@
 # Fans de Terre - Atelier de poterie et céramique
 ## Présentation de l'atelier
-xxxxx 
+Créé en 2012 par Monika, l'atelier s'adresse à tous les amoureux de la terre.  
+Il se compose de deux grands espaces dont un dédiés au tournage avec ses 6 tours.  
+Tous les intervenants sont des professionnels pationnés qui sauront vous accompagner dans votre démarche de découverte ou d'approfondissement.
 
 [En savoir plus sur l'atelier fans de terre...](atelier.md)
 
