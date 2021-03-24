@@ -8,7 +8,7 @@ A titre d’exemple, le visage est traité en buste :
 
 **Durée :** 9 H  
 
-**Niveau :** Débutant/Intermédiaire  
+**Niveau :** Tous niveaux  
 
 **Tarif :** 150€  
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.  
