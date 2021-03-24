@@ -8,37 +8,50 @@ Tarif :
 [En savoir plus...](page-technique)
 -->
 ## TOURNAGE  
-Sur une journée (10h – 17h) vous pouvez vous initier ou vous perfectionner à la technique du tournage en céramique.…   
+Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
+**Durée** : 6H  
 **Niveau** : Tous niveaux    
-[En savoir plus...](tournage_adultes)
+**Tarif** : 100€  
+[En savoir plus...](tournage_adultes.md)
 
 ## MODELAGE
-En 2H30 vous découvrirez une technique de façonnage autre que le tournage : plaque, colombin, pincé, coulage, décor à l’engobe…   
+Venez découvrir une technique de façonnage autre que le tournage : plaque, colombin, pincé, coulage   
+**Durée** : 2H30  
 **Niveau** : Débutant/Intermédiaire   
-[Dates et tarifs...](modelage-adultes)
+**Tarif** : 55€  
+[En savoir plus...](modelage-adultes.md)
 
 ## RAKU  
-En 1 jour et demi, vous pourrez façonner puis décorer vos pièces selon la technique japonaise du raku…   
-**Niveau** : Débutant/Intermédiaire   
-[En savoir plus...](raku_adultes) 
+Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
+**Durée** : 9H  
+**Niveau** : Débutant/Intermédiaire  
+**Tarif** : 140€  
+[En savoir plus...](raku_adultes.md) 
 
 ## DECOR / EMAILLAGE    
-En 3H vous apprendrez à décorer sur biscuit et à émailler .    
-**Niveau** : Débutant/Intermédiaire
-[En savoir plus...](émaillage_adultes)
+Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émaillant pour un rendu parfait ! Si vous n'avez pas de pièce l'atelier vous en fournit 2.    
+**Durée** : 3H  
+**Niveau** : Débutant/Intermédiaire  
+**Tarif** : 65€  
+[En savoir plus...](émaillage_adultes.md)
 
 ## SCULPTURE      
 Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
-**Niveau** : Tous niveaux
-[En savoir plus...](sculpture_adultes)
+**Durée** : 9H  
+**Niveau** : Tous niveaux  
+**Tarif** : 150€    
+[En savoir plus...](sculpture_adultes.md)
 
 ## PATINE  
-En une journée vous pourrez appercevoir les possibilités infinies de patines. Finir autrement ses pièces.…   
-**Niveau** : Tous niveaux
-[En savoir plus...](patine_adultes)
+L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des patines à froid.   
+**Durée** : 6H  
+**Niveau** : Tous niveaux  
+**Tarif** : 100€  
+[En savoir plus...](patine_adultes.md)
 
-## PARENT/ENFANT ou plutôt Adulte/enfant 
+## PARENT/ENFANT mais pas que...  
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
-**Modelage** : A partir de 3 ans
-**Tournage** : A partir de 8 ans
-[En savoir plus...](parent-enfant)
+**Durée** : 2H30 (modelage) ou 3H (tournage)  
+**Niveau** : Modelage (à partir de 3 ans) - Tournage (à partir de 8 ans)  
+**Tarif** : 80€ (modelage) - 95€ (tournage)  
+[En savoir plus...](parent-enfant.md)
