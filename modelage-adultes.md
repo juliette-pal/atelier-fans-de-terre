@@ -24,8 +24,5 @@ Samedi 19 juin - 16h00 -18h30
 
 *Les horaires sont avancés à 15h en cas de couvre-feu.
 
-
-
-
 **RESERVER**
-
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>
