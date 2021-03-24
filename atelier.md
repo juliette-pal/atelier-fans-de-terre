@@ -10,7 +10,7 @@ Monika et son équipe sont à votre service !
 
 
 
-[Voir les intervenants de l'atelier](intervenants.md)  
+[Voir les intervenants de l'atelier](intervenants_fansdeterre.md)  
 
 [Quand récupérer les pièces de stages](Récup_pièces.md) 
 
