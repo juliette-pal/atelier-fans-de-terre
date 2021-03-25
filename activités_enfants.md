@@ -23,7 +23,7 @@ Offrez à votre enfant un anniversaire entre copains à l'atelier (ou chez vous 
 **Durée :** 1H15 (sans goûter) ou 2H30 (avec goûter)  
 **Niveau :** 4 ans et +  
 **Tarif :** à partir de 20€/enfant  
-**Options :** à domicile - Tournage
+**Options :** à domicile - Tournage  
 [En savoir plus](anniversaire_enfants.md)
 
 
