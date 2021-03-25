@@ -19,7 +19,7 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 **Durée** : 2H30  
 **Niveau** : Débutant/Intermédiaire   
 **Tarif** : 55€  
-[En savoir plus...](modelage-adultes.md)
+[En savoir plus...](modelage_adultes.md)
 
 ## RAKU  
 Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
