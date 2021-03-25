@@ -13,7 +13,7 @@ Il ne vous reste plus qu’à y faire un tour !!!
 
 
 
-## STAGES 3H à 12H
+## STAGES PONCTUELS - A partir de 3H  
 Vos disponibilités varient et vous préférez pratiquer au coup par coup. 
   - [Stages Adultes](stages-adultes.md)
   - [Stages Enfants](cours_stages_enfants.md)
