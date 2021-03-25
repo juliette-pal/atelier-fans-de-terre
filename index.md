@@ -15,8 +15,8 @@ Il ne vous reste plus qu’à y faire un tour !!!
 
 ## STAGES PONCTUELS - A partir de 3H  
 Vos disponibilités varient et vous préférez pratiquer au coup par coup. 
-  - [Stages Adultes](stages-adultes.md)
-  - [Stages Enfants](stages_enfants.md)
+  - [Stages Adultes](stages_adultes)
+  - [Stages Enfants](stages_enfants)
 
 ## COURS HEBDOMADAIRES  
 Vous souhaitez pratiquer une activité hebdomadaire régulière (1H30 pour les enfants à 3H pour les adultes).  
