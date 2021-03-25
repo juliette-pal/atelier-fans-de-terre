@@ -5,7 +5,7 @@ Les stages se déroulent sur 4 séances de 3 heures du lundi au jeudi.
 Selon des thématiques proposées, nous créons, nous amusons et faisons la pause dans le jardin si le temps le permet.
 
 Les pièces sont cuites et récupérées un mois après le stage (hors vacances scolaires).  
-[Quand récupérer les pièces de stages](recuperation_pieces)
+[Comment récupérer les pièces de stages](recuperation_pieces)
 
 Les cuissons, le matériel et la terre sont compris dans le prix des stages.
 
