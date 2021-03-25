@@ -19,7 +19,9 @@ L'apprentissage du tournage demandant beaucoup de pratique, nous vous conseillon
 **Covid :** 
 En cas de covid, des cours seront proposés sur zoom.
 
-**Tarif :** 1085€ l’année de 29 semaines de cours
+**Tarif :** 1085€ l’année de 29 semaines de cours  
+
+**RESERVER**
 
 
 ## FORFAIT 5 SEANCES ZOOM  
@@ -52,4 +54,6 @@ Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de
 -	1 couteau lisse
 -	1 estèque ou une vielle carte de fidélité
  
-**Tarif :** 250€ les 5 séances de 3h
+**Tarif :** 250€ les 5 séances de 3h  
+
+**RESERVER**
