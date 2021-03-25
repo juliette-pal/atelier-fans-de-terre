@@ -1,6 +1,6 @@
 # COURS HEDOMADAIRES DE MODELAGE ET TOURNAGE  
 ## FORFAIT ANNUEL A L'ATELIER  
-**NIVEAU :** modelage (tous niveaux) - Tournage (intermédiaire et plus)  
+**NIVEAU :** modelage (tous niveaux) - Tournage (tous niveaux)  
 
 Nous vous proposons d’alterner entre découverte de techniques céramiques et réalisation de projets personnels.  
 Bien entendu, chacun est libre de suivre ou pas ces propositions :
