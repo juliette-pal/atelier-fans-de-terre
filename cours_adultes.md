@@ -41,8 +41,8 @@ Vous profitez pour récupérer de la terre pour les prochains projets.
 **Le matériel de base**
 On tente de faire avec ce qu'on a à portée de main dans un premier temps.
 En fonction des projet, d'autres matériels peuvent être demandés.
-Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de l'atelier fans de terre.
-[voir la page Instagram de l’atelier](https://www.instagram.com/fansdeterre/)
+Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de l'atelier fans de terre.  
+[Voir la page Instagram de l’atelier](https://www.instagram.com/fansdeterre/)
 
 -	1 rouleau en bois ou : une bouteille en verre
 -	2 baguettes de 5mm ou : deux magasines de la même épaisseur
