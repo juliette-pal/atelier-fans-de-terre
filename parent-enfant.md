@@ -7,31 +7,22 @@ Personnalisez-les à vos couleurs, vos formes, patinées, émaillées, parfumée
 
 **La récupération des pièces se fait un mois après le stage.**
  
-## Modelage
-
+## Modelage  
 **Durée :** 2H30  
-
 **Niveau :** 4 ans et +
-
 **Tarif :** 80€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.
-
 **Dates et horaires :**  
 Samedi 5 juin - 16h00 -18h30
 
 **RESERVER**
 
 
-## Tournage
-
+## Tournage  
 **Durée :** 3H  
-
-
-**Niveau :** 8 ans et +
-
+**Niveau :** 8 ans et +  
 **Tarif :** 95€  
-Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.
-
+Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 **Dates et horaires :**  
 Patience, les ateliers parent/enfant tournage reviennent en septembre !  
 
