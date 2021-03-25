@@ -1,4 +1,7 @@
-# COURS HEDOMADAIRES DE MODELAGE ET TOURNAGE  
+# COURS HEDOMADAIRES ADULTES  
+# MODELAGE ET TOURNAGE  
+  
+  
 ## FORFAIT ANNUEL A L'ATELIER  
 **NIVEAU :** modelage (tous niveaux) - Tournage (tous niveaux)  
 
