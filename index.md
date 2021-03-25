@@ -13,10 +13,10 @@ Il ne vous reste plus qu’à y faire un tour !!!
 
 
 
-- STAGES : Vos disponibilités varient et vous préférez pratiquer en fonction de votre temps disponible… (à partir de 2H30) 
+- STAGES 3H à 12H : Vos disponibilités varient et vous préférez pratiquer en fonction de votre temps disponible… (à partir de 2H30) 
   - [Stages Adultes](stages-adultes.md)
   - [Stages Enfants](cours_stages_enfants.md)
 
-- COURS : Vous souhaitez pratiquer une activité hebdomadaire régulière (1H30 pour les enfants à 3H pour les adultes). Ce sera votre pause artistique de la semaine ! 
-  - [Cours Adultes](cours_adultes.md)
-  - [Cours Enfants](cours_stages_enfants.md)
+- COURS HEBDOMADAIRES : Vous souhaitez pratiquer une activité hebdomadaire régulière (1H30 pour les enfants à 3H pour les adultes). Ce sera votre pause artistique de la semaine ! 
+  - [Cours Adultes 3H](cours_adultes.md)
+  - [Cours Enfants 1H30](cours_stages_enfants.md)
