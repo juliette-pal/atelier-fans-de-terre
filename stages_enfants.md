@@ -1,5 +1,5 @@
 
-# STAGES VACANCES SCOLAIRES
+# STAGES VACANCES SCOLAIRES - ENFANTS
 Les stages se déroulent sur 4 séances de 3 heures du lundi au jeudi.  
 
 Selon des thématiques proposées, nous créons, nous amusons et faisons la pause dans le jardin si le temps le permet.
