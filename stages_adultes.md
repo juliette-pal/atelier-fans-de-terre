@@ -1,4 +1,5 @@
-# STAGES ADULTES
+# STAGES ADULTES WEEK-END  
+
 <!--
 ## Nom de la technique
 _phrase d'accroche_
@@ -9,42 +10,42 @@ Tarif :
 -->
 ## TOURNAGE  
 Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
-**Durée** : 6H  
+**Durée** : 1 journée - 6H  
 **Niveau** : Tous niveaux    
 **Tarif** : 100€  
 [En savoir plus...](tournage_adultes)
 
 ## MODELAGE
 Venez découvrir une technique de façonnage autre que le tournage : plaque, colombin, pincé, coulage   
-**Durée** : 2H30  
+**Durée** : 1/2 journée - 2H30  
 **Niveau** : Débutant/Intermédiaire   
 **Tarif** : 55€  
 [En savoir plus...](modelage_adultes)
 
 ## RAKU  
 Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
-**Durée** : 9H  
+**Durée** : 1 jour et demi - 9H  
 **Niveau** : Débutant/Intermédiaire  
 **Tarif** : 140€  
 [En savoir plus...](raku_adultes) 
 
 ## DECOR / EMAILLAGE    
 Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émaillant pour un rendu parfait ! Si vous n'avez pas de pièce l'atelier vous en fournit 2.    
-**Durée** : 3H  
+**Durée** : 1/2 journée - 3H  
 **Niveau** : Débutant/Intermédiaire  
 **Tarif** : 65€  
 [En savoir plus...](émaillage_adultes)
 
 ## SCULPTURE      
 Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
-**Durée** : 9H  
+**Durée** : 1 jour et demi - 9H  
 **Niveau** : Tous niveaux  
 **Tarif** : 150€    
 [En savoir plus...](sculpture_adultes)
 
 ## PATINE  
 L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des patines à froid.   
-**Durée** : 6H  
+**Durée** : 1 journée - 6H  
 **Niveau** : Tous niveaux  
 **Tarif** : 100€  
 [En savoir plus...](patine_adultes)
