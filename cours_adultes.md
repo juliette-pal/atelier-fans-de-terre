@@ -1,6 +1,9 @@
-# COURS HEDOMADAIRES DE MODELAGE ET TOURNAGE  
+# COURS HEDOMADAIRES ADULTES  
+# MODELAGE ET TOURNAGE  
+  
+  
 ## FORFAIT ANNUEL A L'ATELIER  
-**NIVEAU :** modelage (tous niveaux) - Tournage (intermédiaire et plus)  
+**NIVEAU :** modelage (tous niveaux) - Tournage (tous niveaux)  
 
 Nous vous proposons d’alterner entre découverte de techniques céramiques et réalisation de projets personnels.  
 Bien entendu, chacun est libre de suivre ou pas ces propositions :
@@ -19,7 +22,9 @@ L'apprentissage du tournage demandant beaucoup de pratique, nous vous conseillon
 **Covid :** 
 En cas de covid, des cours seront proposés sur zoom.
 
-**Tarif :** 1085€ l’année de 29 semaines de cours
+**Tarif :** 1085€ l’année de 29 semaines de cours  
+
+**RESERVER**
 
 
 ## FORFAIT 5 SEANCES ZOOM  
@@ -41,8 +46,8 @@ Vous profitez pour récupérer de la terre pour les prochains projets.
 **Le matériel de base**
 On tente de faire avec ce qu'on a à portée de main dans un premier temps.
 En fonction des projet, d'autres matériels peuvent être demandés.
-Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de l'atelier fans de terre.
-[voir la page Instagram de l’atelier](https://www.instagram.com/fansdeterre/)
+Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de l'atelier fans de terre.  
+[Voir la page Instagram de l’atelier](https://www.instagram.com/fansdeterre/)
 
 -	1 rouleau en bois ou : une bouteille en verre
 -	2 baguettes de 5mm ou : deux magasines de la même épaisseur
@@ -52,4 +57,6 @@ Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de
 -	1 couteau lisse
 -	1 estèque ou une vielle carte de fidélité
  
-**Tarif :** 250€ les 5 séances de 3h
+**Tarif :** 250€ les 5 séances de 3h  
+
+**RESERVER**

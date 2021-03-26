@@ -11,7 +11,7 @@ Après vous être familiarisé au tour, l'après-midi, vous continuez à tourner
 **Tarif :** 100€  
 Le tarif comprend 2 pièces qui seront biscuitées c’est-à-dire, cuites 1 fois.  
 L’émaillage n’étant pas compris, vous pouvez par la suite continuer sur un nouveau stage « décor/émaillage » pour aller jusqu’au bout du processus.  Un prix préférentiel de 50€ sera appliqué au lieu de 65€.  
-[En savoir plus sur le stage « Décor / Emaillage »](emaillage_adultes.md)  
+[En savoir plus sur le stage « Décor / Emaillage »](emaillage_adultes)  
 
 **Horaires :** 10h – 17h – La pause déjeuner d’1h se fera impérativement en extérieur en période COVID.  
 

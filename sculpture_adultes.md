@@ -16,7 +16,7 @@ A titre d’exemple, le visage est traité en buste :
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.  
 
 **Dates :**  
-Stage animé par [Claude RHEIN](intervenants_fansdeterre.md)  
+Stage animé par [Claude RHEIN](intervenants_fansdeterre)  
 Samedi 10 et dimanche 11 Juillet 2021  
 Samedi 15H - 18H  
 et Dimanche 10H -13H et 14h-17h  

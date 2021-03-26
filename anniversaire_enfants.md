@@ -38,7 +38,7 @@ Le gâteau est ramené par la famille.
 **Options :**  
 Option animation à domicile : 50€ (colombes, bois-colombes)  
 Option émaillage et seconde cuisson : 30€  
-Option tournage : 50€  - A partir de 9 ans avec un maximum de 8 participants  
+Option tournage (à partir de 9 ans) : 50€  - Maximum 8 participants  
 
 
 [Nous contacter pour trouver une date](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)

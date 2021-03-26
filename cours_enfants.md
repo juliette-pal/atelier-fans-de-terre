@@ -20,4 +20,4 @@ Vendredi : 17H - 18H30
 **RESERVER**  
 
 
-[Voir toutes les activités enfants](activités_enfants.md)  
+[Voir toutes les activités enfants](activités_enfants)  

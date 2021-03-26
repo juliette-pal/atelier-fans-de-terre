@@ -9,11 +9,11 @@ Personnalisez-les à vos couleurs, vos formes, patinées, émaillées, parfumée
  
 ## Modelage  
 **Durée :** 2H30  
-**Niveau :** 4 ans et +
+**Niveau :** 4 ans et +  
 **Tarif :** 80€  
-Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.
+Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 **Dates et horaires :**  
-Samedi 5 juin - 16h00 -18h30
+Samedi 5 juin - 16H00 -18H30
 
 **RESERVER**
 
