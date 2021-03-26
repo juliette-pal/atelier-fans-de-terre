@@ -18,6 +18,7 @@
 - Jeudi : 15H00 – 18H00 et 19H30 – 22H30
 - Vendredi : 14H00 – 17H00
 - Samedi : 10H00 – 13H00
+
 ## VOTRE AVIS COMPTE
 Nous espérons que vous avez apprécié votre stage.  
 Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour laisser un avis] (https://g.page/fansdeterre/review?gm)  
