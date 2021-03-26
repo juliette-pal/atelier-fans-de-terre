@@ -18,7 +18,7 @@ Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, n
 **Durée** : 2H30 (modelage) ou 3H (tournage)  
 **Niveau** : Modelage (à partir de 3 ans) - Tournage (à partir de 8 ans)  
 **Tarif** : 80€ (modelage) - 95€ (tournage)  
-[En savoir plus...](parent-enfant)  
+[En savoir plus...](parent_enfant)  
 
 ## UN ANNIVERSAIRE AVEC SES COPAINS
 Offrez à votre enfant un anniversaire entre copains à l'atelier (ou chez vous en option).  
