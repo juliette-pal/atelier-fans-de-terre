@@ -1,4 +1,4 @@
-# STAGE SCULPTURE
+# STAGE SCULPTURE - ADULTES
 
 Nous vous accompagnons dans la réalisation de bustes ou des représentations du corps humain.  
 Des animaux et autres représentations peuvent également être abordées.  
@@ -7,6 +7,9 @@ A titre d’exemple, le visage est traité en buste :
 - étude et élaboration de la forme synthétique d’un visage et pose des axes principaux permettant de placer de manière juste les différents éléments à naître (le nez, les oreilles...).  
 - étude et élaboration de chacun des éléments constituant le visage  
 - étude et élaboration des éléments rattachant la tête au torse (muscles du cou, ceinture scapulaire).  
+
+Les sculptures sont récupérées au moins 2 mois après le stage. Car le séchage ne doit pas être trop rapide pour éviter la casse.  
+
 
 **Durée :** 9 H  
 

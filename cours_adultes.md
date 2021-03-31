@@ -43,9 +43,9 @@ A la fin d’un projet, vous ramenez vos pièces à l'atelier pour cuisson et é
 Vous profitez pour récupérer de la terre pour les prochains projets.  
 
 
-**Le matériel de base**
-On tente de faire avec ce qu'on a à portée de main dans un premier temps.
-En fonction des projet, d'autres matériels peuvent être demandés.
+**Le matériel de base**  
+On tente de faire avec ce qu'on a à portée de main dans un premier temps.  
+En fonction des projet, d'autres matériels peuvent être demandés.  
 Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de l'atelier fans de terre.  
 [Voir la page Instagram de l’atelier](https://www.instagram.com/fansdeterre/)
 

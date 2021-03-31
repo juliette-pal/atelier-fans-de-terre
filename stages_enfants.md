@@ -34,4 +34,4 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 
 **RESERVER**  
 
-[Voir toutes les activités enfants](activités_enfants)  
+[Voir toutes les activités enfants](activites_enfants)  
