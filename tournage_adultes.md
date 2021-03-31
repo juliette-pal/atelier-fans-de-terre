@@ -1,4 +1,4 @@
-# STAGE TOURNAGE  
+# STAGE TOURNAGE - ADULTES  
 
 Sur une journée complète, généralement le week-end, vous commencez par apprendre ou approfondir les gestes de base du tournage d’un bol ou d’un cylindre.  
 Si vous êtes plus confirmé, vous pourrez aborder des formes plus complexes.  
