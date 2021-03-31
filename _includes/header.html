@@ -1,8 +1,12 @@
 <header class="page-header" role="banner">
     <div id="first-banner">
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">
+        <a href="index">
+        {{ page.description | default: site.description | default: site.github.project_tagline }}
+        </a>
+      </h2>
       <nav>
-        <a href="index" class="btn">Accueil</a>
+        <a href="atelier" class="btn">Atelier</a>
         <a href="cours_adultes" class="btn">Cours</a>
         <a href="stages_adultes" class="btn">Stages</a>
         <a href="activites_enfants" class="btn">Activités Enfant</a>
