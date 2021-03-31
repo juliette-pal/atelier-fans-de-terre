@@ -1,9 +1,10 @@
 .project-tagline {
   font-family: 'Nothing You Could Do', cursive;
+  margin-bottom: 1rem !important;
 }
 .project-tagline a {
   color: #860d0d;
-  font-size: 2rem;
+  font-size: 2.7rem;
 }
 #banner-image {
   background: url("http://www.fansdeterre.com/attachments/Header/published_image_1.jpg") no-repeat;
