@@ -15,7 +15,9 @@ Les fournitures et les cuissons sont compris dans le prix.
 
 **Dates et horaires :**  
 Mercredi : 17H – 18H30  
-Vendredi : 17H - 18H30
+Vendredi : 17H - 18H30  
+A la rentrée de septembre 2021, deux cours enfants seront proposés le mercredi et le cours du vendredi sera probablement supprimé.  
+
 
 **RESERVER**  
 
