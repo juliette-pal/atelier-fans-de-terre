@@ -1,8 +1,11 @@
 <!--reste à rajouter des photos-->
 
 # L'ATELIER  
-Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de la gare St-Lazare, à proximité de Bois-Colombes, Courbevoie, Neuilly, Gennevilliers..., et à deux pas de l’A86.  
-Vous pourrez y pratiquer de nombreuses techniques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...  
+Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de la gare St-Lazare, à proximité de Bois-Colombes, Courbevoie, Neuilly, Asnières-sur-seine, et à deux pas de l’A86.  
+
+L'atelier se compose de deux grands espaces dont un dédiés au tournage avec ses 6 tours.  
+
+Tous les intervenants sont des professionnels pationnés qui sauront vous accompagner dans votre démarche de découverte ou d'approfondissement des nombreuses techniques ceramiques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...  
 
 Lieu d’expression artistique, d’apprentissage, d’échanges, de lâcher prise,… chacun peut y trouver son bonheur.  
 
