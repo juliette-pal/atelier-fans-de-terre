@@ -25,6 +25,6 @@ Vos disponibilités varient et vous préférez pratiquer au coup par coup.
   - [Stages Enfants](stages_enfants)
 
 
-[AGENDA ANNUEL](https://www.helloasso.com/associations/fans-de-terre)  
+## [AGENDA ANNUEL](https://www.helloasso.com/associations/fans-de-terre)  
 
 
