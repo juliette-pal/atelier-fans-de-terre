@@ -23,13 +23,7 @@ Samedi 3 juillet avec [Rose-Hélène Debray](intervenants_fansdeterre)
 Dimanche 4 juillet avec [Lydie Roberjot](intervenants_fansdeterre)  
 
 
-## [RESERVER](https://www.helloasso.com/associations/fans-de-terre)  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h-12-juin-2021/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>  
 
-**RESERVER**  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h-12-juin-2021/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
+## [RESERVER DES STAGES DIFFERENTS](https://www.helloasso.com/associations/fans-de-terre)  
