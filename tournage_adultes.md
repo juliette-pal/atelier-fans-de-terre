@@ -17,7 +17,7 @@ _L’émaillage n’étant pas compris, vous pouvez par la suite continuer sur u
 
 **Dates :**  
 Samedi 29 mai avec [Lydie Roberjot](intervenants_fansdeterre)  
-Samedi 12 juin avec [Rose-Hélène Debray](intervenants_fansdeterre)  
+Samedi 12 juin avec [Rose-Hélène Debray](intervenants_fansdeterre) <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/12-juin-2021-tournage-ceramique/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
 Dimanche 27 juin avec [...](intervenants_fansdeterre)  
 Samedi 3 juillet avec [Rose-Hélène Debray](intervenants_fansdeterre)  
 Dimanche 4 juillet avec [Lydie Roberjot](intervenants_fansdeterre)  
@@ -25,7 +25,7 @@ Dimanche 4 juillet avec [Lydie Roberjot](intervenants_fansdeterre)
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h-29-mai-2021/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>   
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/12-juin-2021-tournage-ceramique/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
 
 
 ## [RESERVER DES STAGES DIFFERENTS](https://www.helloasso.com/associations/fans-de-terre)  
