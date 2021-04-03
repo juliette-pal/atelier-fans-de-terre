@@ -17,7 +17,7 @@ Les pièces sont alors enfumées…
 Modelage + émaillage + cuisson raku  
 Dans cette formule vous devez choisir 2 dates. L’une pour le modelage et l’autre pour la cuisson raku.  
 *Prévoir minimum 2 semaines entre les deux dates*  
-**Durée :** 1 jour et demi - 9H  
+**Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 140€  
  
@@ -25,24 +25,28 @@ Dans cette formule vous devez choisir 2 dates. L’une pour le modelage et l’a
 
 ## Formule atelier sans modelage
 Le prix comprend la fourniture de 2 pièces déjà cuites une première fois par l’atelier.  
-**Durée :** 1 jour - 6H  
+**Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 140€  
 
 ## Formule maison
 Modelage chez vous + émaillage et cuisson à l’atelier  
-**Durée :** 1 jour - 6H  
+**Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 70€ + 15€/pièce  
 
 
 ## Formule élève de l’atelier
 Modelage et émaillage pendant les cours + cuisson en stage  
-**Durée :** 1/2 jour - 3H  
-**Tarif :** 30€ (60€ si l’émaillage est fait en stage) + 10€/pièce à cuire  
+**Durée :** 1/2 journée (cuisson l'après midi)  
+**Tarif (modelage et émaillage en cours) :** 30€ + 10€/pièce à cuire  
+**Tarif (modelage en cours / émaillage en stage) :** 60€ + 10€/pièce à cuire  
+**Tarif (modelage, émaillage et cuisson en stage) :** -20% sur tarif normal  
+
+
 
 # Dates émaillage et cuissons :  
-La journée se déroule de 11H00 à 17H environ.
+La journée (émaillage et cuisson) se déroule de 11H00 à 17H environ.
 Chacun ramène de quoi déjeuner dans le jardin.  
 
 Dimanche 2 mai  
@@ -54,6 +58,7 @@ Samedi 26 juin
 Samedi 3 juillet  
 
 **RESERVER**  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h-12-juin-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>  
 
 [Voir la vidéo d’un raku nocturne avec les élèves de l’atelier]((549)RAKU nocturne 2 - YouTube)
 
