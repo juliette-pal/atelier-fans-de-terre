@@ -1,13 +1,13 @@
 # BON CADEAU FANS DE TERRE  
 
-🎁 **Offrez un cadeau original à vos proches (enfants, parents, collègues, amis, neveux, nièces, …) !!!**  
+🎁 **Offrez un cadeau original à vos proches (enfants, parents, collègues, amis, neveux,…) !!!**  
 
 Pour toutes les occasions, anniversaires, cadeau de Noel, Fête des mères, des pères,….  
 
-- 1	Choisissez la formule la plus adaptée  
-- 2	Si vous ne connaissez pas les disponibilités du bénéficiaire, indiquez la date du jour lors du règlement.  
-- 3	Un fois le paiement effectué, si vous le demandez, recevrez par mail une carte cadeau numérique gratuite (pensez à la demander !!!).   
-      Possibilité de carte céramique à 10€ si vous passez la récupérer à l’atelier.  
+1. Choisissez la formule la plus adaptée  
+2. Si vous ne connaissez pas les disponibilités du bénéficiaire, indiquez la date du jour lors du règlement.  
+3. Un fois le paiement effectué, si vous le demandez, recevrez par mail une carte cadeau numérique gratuite (pensez à la demander !!!).   
+> Possibilité de carte céramique à 10€ si vous passez la récupérer à l’atelier.  
       
 [Voir les cadeaux ADULTES entre 55€ et 150€](stages_adultes)  
 [Voir les cadeaux ENFANTS entre 80 et 165€](stages_enfants)  
