@@ -60,4 +60,4 @@ Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de
 **Tarif :** 250€ les 5 séances de 3h  
 
 **RESERVER**
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stage-tournage-ceramique-6h-29-mai-2021/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
+
