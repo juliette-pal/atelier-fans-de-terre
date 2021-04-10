@@ -19,10 +19,6 @@ Les participants découvrent le travail en volume, ainsi que des techniques cér
 **Niveau :** 4 ans et +  
 **Tarif :** 145€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
-**Dates et horaires :** 
-- vacances d’avril………... :19 au 22 avril
-- Spécial collégiens en juin : --
-- Vacances d’été………… : 05 au 08 juillet
 
 
 ## STAGE TOURNAGE - ENFANTS / ADOS  
@@ -32,7 +28,5 @@ L’idée est de découvrir le tournage céramique en créant une œuvre unique 
 **Tarif :** 165€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 
-# [RESERVER UN STAGE](https://www.helloasso.com/associations/fans-de-terre){:target="_blank }  
-  
-
-# [Voir toutes les activités enfants](activites_enfants)  
+## RESERVER  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-enfants-vacances-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  
