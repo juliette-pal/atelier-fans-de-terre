@@ -15,7 +15,7 @@ Monika et son équipe sont à votre service !
 
 [Voir les intervenants de l'atelier](intervenants_fansdeterre)  
 
-[Quand récupérer les pièces de stages](Recuperation_pieces) 
+[Quand récupérer les pièces de stages](recuperation_pieces) 
 
 
 ## Horaires d'ouverture de l'atelier  
