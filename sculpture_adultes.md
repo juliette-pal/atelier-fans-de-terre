@@ -10,6 +10,7 @@ A titre d’exemple, le visage est traité en buste :
 
 Les sculptures sont récupérées au moins 2 mois après le stage. Car le séchage ne doit pas être trop rapide pour éviter la casse.  
 
+Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre) 
 
 **Durée :** 9 H  
 
@@ -18,11 +19,7 @@ Les sculptures sont récupérées au moins 2 mois après le stage. Car le sécha
 **Tarif :** 150€  
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.  
 
-**Dates :**  
-Stage animé par [Claude RHEIN](intervenants_fansdeterre)  
-Samedi 10 et dimanche 11 Juillet 2021  
-Samedi 15H - 18H  
-et Dimanche 10H -13H et 14h-17h  
 
-**RESERVER**  
+## RESERVER  
 
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-sculpture-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  
