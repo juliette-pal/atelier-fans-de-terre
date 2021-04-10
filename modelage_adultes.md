@@ -19,16 +19,6 @@ En fonction de la complexité de votre forme, si vous avez assez de temps, vous 
 **Tarif : 55€**  
 Le tarif comprend une pièce de 20cm x 20cm maximum qui sera cuite 2 fois et émaillée par l’atelier.
 
-**Dates et horaires :**  
-Samedi 8 MAI - 16h00 -18h30  
-Samedi 22 MAI - 16h00 -18h30  
-Dimanche 23 mai - 16h00 -18h30  
-Dimanche 30 mai - 16h00 -18h30  
-Samedi 19 juin - 16h00 -18h30  
-Dimanche 20 juin - 16h00 -18h30  
-
-
-*Les horaires sont avancés à 15h en cas de couvre-feu.
-
-**RESERVER**
+## RESERVER  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  
 
