@@ -1,3 +1,6 @@
+---
+layout: stage
+---
 <!--
 Description longue
 Image
@@ -11,6 +14,8 @@ date - heure début -heure fin
 # STAGE MODELAGE ADULTES    
 Ce stage modelage permet d’expérimenter la forme ainsi que des techniques de modelage telles que le pincé, la plaque, le colombin.
 En fonction de la complexité de votre forme, si vous avez assez de temps, vous pourrez décorer votre pièce par des texture ou l'apport de couleurs (engobes).
+
+<img src="https://picsum.photos/300/400" class="image-stage">
 
 **Durée :**  2H30
 
