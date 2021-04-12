@@ -16,12 +16,13 @@
 ## Horaires d’ouverture de l’atelier – Mis à jour Avril 2021
 - Mercredi : 16H00 – 21H00
 - Jeudi : 15H00 – 18H00 et 19H30 – 22H30
-- Vendredi : 14H00 – 17H00
-- Samedi : 10H00 – 13H00
+- Vendredi : 14H00 – 17H00](atelier)
+- Samedi : 10H00 – 13H00  
+[Voir les Horaires spécifiques](atelier)
 
 ## VOTRE AVIS COMPTE
 Nous espérons que vous avez apprécié votre stage.  
-Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour laisser un avis] (https://g.page/fansdeterre/review?gm)  
+Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour laisser un avis](https://g.page/fansdeterre/review?gm)  
 
 Merci et à bientôt !!!
 

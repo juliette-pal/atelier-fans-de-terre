@@ -1,6 +1,6 @@
 # STAGE DECORATION ET EMAILLAGE - ADULTES  
 
-Que vos pièces soient réalisées par vous en stage tournage fans de terre ou ailleurs, ou fournies par l’atelier, vous pourrez les décorer et les émailler.  
+Que vos pièces soient réalisées par vous, en stage tournage fans de terre, ou ailleurs, vous pourrez les décorer et les émailler. L'atelier fournit aussi des pièces à ceux qui n'en ont pas.  
 Pour le décor, vous utiliserez des engobes industriels, crayons céramiques, jus d'oxydes...  
 Vous découvrirez par le suite, ce que sont l'émail et l'émaillage, en apprenant à appliquer l'émail sur vos pièces.  
 Vous comprendrez en quoi cette dernière phase peut sublimer vos pièces.  
@@ -15,13 +15,8 @@ Le nombre de pièces que l'on peut traiter dépend de ce que l'on fait (décor a
 **Niveau :** Débutant/Intermédiaire  
 
 **Tarif :** 65€  
-Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2 pièces fournies par l’atelier (ou de vos pièces tournées en stage tournage - 50€ dans ce dernier cas).  
+Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2 pièces fournies par l’atelier (ou de vos pièces tournées en stage tournage - Tarif préférentiel de 50€ dans ce dernier cas - Voir directement avec l'atelier).  
+ 
 
-**Dates et heures :**  
-Samedi 29 mai avec Lydie Roberjot  
-Samedi 12 juin avec Rose-Hélène Debray  
-Dimanche 27 juin avec …  
-Samedi 3 juillet avec Rose-Hélène Debray  
-Dimanche 4 juillet avec Lydie Roberjot  
-
-**RESERVER**
+## RESERVER  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }
