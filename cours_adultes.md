@@ -1,7 +1,6 @@
 # COURS HEDOMADAIRES  
 
-# Modelage et Tournage  
-# Adultes  
+## Modelage et Tournage - Adultes  
   
   
 ## COURS A L'ATELIER  
