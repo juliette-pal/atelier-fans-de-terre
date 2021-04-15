@@ -2,13 +2,11 @@
 # MODELAGE ET TOURNAGE  
   
   
-## FORFAIT ANNUEL A L'ATELIER  
+## FORFAIT ANNUEL - COURS A L'ATELIER  
 **NIVEAU :** modelage (tous niveaux) - Tournage (tous niveaux)  
 
-Nous vous proposons d’alterner entre découverte de techniques céramiques et réalisation de projets personnels.  
-Bien entendu, chacun est libre de suivre ou pas ces propositions :
-- les techniques proposées (décoration et façonnage), vous permettent de progresser dans votre découverte de la céramique. 
-- Les projets personnels peuvent faire appel à des techniques que vous connaissez déjà ou de nouvelles.  
+Nous vous proposons d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
+Bien entendu, chacun est libre de suivre ou pas ces propositions.  
 
 Nous sommes dans tous les cas là pour vous accompagner en fonction de votre niveau.
 
@@ -16,15 +14,19 @@ A chacun son rythme selon ses envies !
 
 
 **… Et pour le tournage :**  
-L'apprentissage du tournage demandant beaucoup de pratique, nous vous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
+L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
+
 6 tours sont à votre disposition pour cela.
 
 **Covid :** 
-En cas de covid, des cours seront proposés sur zoom.
+En cas de covid, des cours seront proposés sur zoom.  
+[Voir les conditions COVID](covid)
 
 **Tarif :** 1085€ l’année de 29 semaines de cours  
 
-**RESERVER**
+**Places max :** 8
+
+**[Participer au sondage nouveau cours](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }**
 
 
 ## FORFAIT 5 SEANCES ZOOM  
