@@ -6,7 +6,10 @@
 ## COURS A L'ATELIER  
 **NIVEAU :** modelage (tous niveaux) - Tournage (tous niveaux)  
 
-Nous vous proposons d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
+Les cours hebdomadaires vous permettent de pratiquer du modelage et du tournage.  
+Le nombre de tours étant de 6 pour 8 participants, vous ne pourrez pas faire que du tour !  
+Cela tombe bien, il y a tant de techniques à découvrir !!!  
+Nous vous proposons donc d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
 Bien entendu, chacun est libre de suivre ou pas ces propositions.  
 
 Nous sommes dans tous les cas là pour vous accompagner en fonction de votre niveau.
@@ -17,16 +20,14 @@ A chacun son rythme selon ses envies !
 **… Et pour le tournage :**  
 L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
 
-6 tours sont à votre disposition pour cela.
 
 **Covid :** 
 En cas de covid, des cours seront proposés sur zoom.  
 [Voir les conditions COVID](covid)
 
 **Tarif :** 1085€ l’année de 29 semaines de cours  
-Il n'y a pas cours pendant les vacances scolaires.
+Il n'y a pas cours pendant les vacances scolaires.  
 
-**Places max :** 8
 
 **[Participer au sondage nouveau cours](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }**
 
