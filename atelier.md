@@ -17,7 +17,12 @@ Monika et son équipe sont à votre service !
 
 [Quand récupérer les pièces de stages](recuperation_pieces) 
 
+## Horaires  
+•	Mercredi : 16H00 - 21H00  
+•	Jeudi : 15H00 - 18H00 et 19H30 - 22H30  
+•	Vendredi : 14H00 - 17H00  
+•	Samedi : 10H00 - 13H00  
 
 
-## Contact / Horaires
-[Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }
+## Venir ou contacter l'atelier  
+[Cliquer ici](contact)
