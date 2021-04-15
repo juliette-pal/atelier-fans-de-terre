@@ -1,8 +1,9 @@
-# COURS HEDOMADAIRES ADULTES  
-# MODELAGE ET TOURNAGE  
+# COURS HEDOMADAIRES  
+
+# Modelage/Tournage - Adultes  
   
   
-## FORFAIT ANNUEL - COURS A L'ATELIER  
+## COURS A L'ATELIER  
 **NIVEAU :** modelage (tous niveaux) - Tournage (tous niveaux)  
 
 Nous vous proposons d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
