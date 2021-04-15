@@ -30,6 +30,8 @@ Il n'y a pas cours pendant les vacances scolaires.
 **[Participer au sondage nouveau cours](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }**
 
 
+
+
 ## FORFAIT 5 SEANCES ZOOM  
 **NIVEAU :** modelage (tous niveaux) - Tournage (intermédiaire et plus)
 
