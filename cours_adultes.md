@@ -23,6 +23,7 @@ En cas de covid, des cours seront proposés sur zoom.
 [Voir les conditions COVID](covid)
 
 **Tarif :** 1085€ l’année de 29 semaines de cours  
+Il n'y a pas cours pendant les vacances scolaires.
 
 **Places max :** 8
 
