@@ -12,7 +12,7 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 
  
 
-**Adresse :** 51 rue Guerlain – 92700 Colombes
+
 
 **[Cliquer ici pour voir les horaires d’ouverture de l’atelier](contact)**
 
