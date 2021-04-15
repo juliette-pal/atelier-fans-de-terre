@@ -1,5 +1,5 @@
 # Atelier Fans de Terre  
-## Poterie et céramique pour tous
+## Poterie / Céramique / Sculpture  
 
 Créé en 2012 par Monika, l'atelier s'adresse à tous les amoureux de la terre.  
 
