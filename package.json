@@ -1,0 +1,21 @@
+{
+  "name": "fans-de-terre",
+  "version": "1.0.0",
+  "description": "optimiser les images",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliette-pal/fans-de-terre.git"
+  },
+  "author": "Juliette Palumbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliette-pal/fans-de-terre/issues"
+  },
+  "homepage": "https://github.com/juliette-pal/fans-de-terre#readme",
+  "dependencies": {
+    "sharp": "^0.28.1"
+  }
+}
