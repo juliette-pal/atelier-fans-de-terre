@@ -21,12 +21,17 @@ A chacun son rythme selon ses envies !
 L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
 
 
-**Covid :** 
-En cas de covid, des cours seront proposés sur zoom.  
-[Voir les conditions COVID](covid)
+**Covid :** [Voir les conditions COVID](covid)
 
 **Tarif :** 1085€ l’année de 29 semaines de cours  
 Il n'y a pas cours pendant les vacances scolaires.  
+
+**CRENEAUX**  
+- Mardi    : 19H30 - 22H30  
+- Mercredi : 19H30 - 22H30 
+- Jeudi    : 19H30 - 22H30
+- Vendredi : 14H00 - 17H00
+- Samedi   : 10H00 - 13H00
 
 
 **[Participer au sondage nouveau cours](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }**

@@ -1,3 +1,8 @@
+Vous cherchez une activité artistique ;  
+Vous voulez découvrir la céramique, la poterie, la sculpture ;  
+La terre, le tournage ou le modelage vous attire depuis toujours ;
+Vous recherchez une activité créative zen à pratiquer ponctuellement ou chaque semaine ;  
+
 # Atelier Fans de Terre  
 ## Poterie / Céramique / Sculpture  
 
