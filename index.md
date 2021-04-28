@@ -1,6 +1,6 @@
-
-Vous cherchez une activité artistique ;  
-Vous voulez découvrir la céramique, la poterie, la sculpture ;  
+**COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES(92)**
+Vous cherchez une activité artistique et créative ?  
+Vous voulez découvrir la céramique, la poterie, la sculpture ?  
 La terre, le tournage ou le modelage vous attire depuis toujours ;
 Vous recherchez une activité créative zen à pratiquer ponctuellement ou chaque semaine ;  
 

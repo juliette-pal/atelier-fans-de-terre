@@ -33,3 +33,27 @@ h1, h2 {
   float: right; 
   margin: 1.5em;
 }
+footer {
+  background-color: rgb(90, 128, 107);
+  color: rgba(255, 255, 255, 0.7);
+}
+footer > div {
+  max-width: 64rem;
+  padding: 2rem 4rem;
+  margin: 0 auto;
+}
+footer .address{
+  margin-bottom: 1rem;
+}
+footer .address img {
+  max-width: 3rem;
+  transition: transform 0.5s;
+}
+footer .address > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+footer .address img:hover {
+transform: scale(1.1);
+}
