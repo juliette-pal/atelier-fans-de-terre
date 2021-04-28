@@ -1,3 +1,4 @@
+
 Vous cherchez une activité artistique ;  
 Vous voulez découvrir la céramique, la poterie, la sculpture ;  
 La terre, le tournage ou le modelage vous attire depuis toujours ;

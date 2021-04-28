@@ -4,3 +4,5 @@ Vous avez le choix ! Cours de poterie, Stage débutant céramique, Stage Raku, C
 theme: jekyll-theme-cayman
 plugins:
   - jemoji
+  - jekyll-seo-tag
+  
