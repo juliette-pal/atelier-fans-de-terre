@@ -48,7 +48,7 @@ Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre
 L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des patines à froid.   
 **Durée** : 1 journée  
 **Niveau** : Tous niveaux  
-**Tarif** : 100€  
+**Tarif** : 120€  
 [En savoir plus...](patine_adultes)
 
 ## PARENT/ENFANT mais pas que...  
