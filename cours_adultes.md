@@ -1,16 +1,14 @@
-# COURS HEDOMADAIRES  
+# COURS ADULTES HEBDOMADAIRES  
 
-## Modelage et Tournage - Adultes  
-  
-  
-## COURS A L'ATELIER  
-**NIVEAU :** modelage (tous niveaux) - Tournage (tous niveaux)  
+## Formule atelier - Modelage et Tournage  
+
+**Niveau :** modelage (tous niveaux) - Tournage (tous niveaux)  
 
 Les cours hebdomadaires vous permettent de pratiquer du modelage et du tournage.  
-Le nombre de tours étant de 6 pour 8 participants, vous ne pourrez pas faire que du tour !  
-Cela tombe bien, il y a tant de techniques à découvrir !!!  
-Nous vous proposons donc d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
-Bien entendu, chacun est libre de suivre ou pas ces propositions.  
+Il y a 6 pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme décorer, émailler !  
+De plus nous vous faisons découvrir de nouvelles techniques chaque année !!!  
+Nous vous proposons ainsi d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
+Et pour les plus indépendants, il est possible de suivre son propre rytme.  
 
 Nous sommes dans tous les cas là pour vous accompagner en fonction de votre niveau.
 
@@ -26,7 +24,7 @@ L'apprentissage du tournage demandant avant tout de la pratique, nous conseillon
 **Tarif :** 1085€ l’année de 29 semaines de cours  
 Il n'y a pas cours pendant les vacances scolaires.  
 
-**CRENEAUX**  
+**Créneaux** (1 cours/semaine/personne) :  
 - Mardi    : 19H30 - 22H30  
 - Mercredi : 19H30 - 22H30 
 - Jeudi    : 19H30 - 22H30
@@ -34,28 +32,27 @@ Il n'y a pas cours pendant les vacances scolaires.
 - Samedi   : 10H00 - 13H00
 
 
-**[Participer au sondage nouveau cours](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }**
+**[PARTICIPER AU SONDAGE NOUVEAU COURS](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }**
+
+## RESERVER  
 
 
 
-
-## FORFAIT 5 SEANCES ZOOM  
-**NIVEAU :** modelage (tous niveaux) - Tournage (intermédiaire et plus)
+## Formule zoom - Forfait 5 séances  
+**Niveau :** modelage (tous niveaux) - Tournage (intermédiaire et plus)
 
 Depuis le confinement de mars 2020, des cours sont proposés sur Zoom.
 Il fallait trouver une solution de remplacement face à la fermeture de l'atelier...
 Et même si ça ne remplacera jamais le contact humain, il se trouve que l'expérience a été concluante. De magnifiques pièces ont été réalisées. Certains élèves ont trouvé que la concentration était excellente lors de ces cours. D’où cette nouvelle formule !  
 
-Comme pour les cours à l’atelier, nous alternons techniques de modelage ou de décoration et projets libres.
-
-**… Et pour le tournage :**  
-Les élèves qui possèdent un tour chez eux peuvent être accompagnés à distance à condition de connaître les bases du tournage.
-
-A la fin d’un projet, vous ramenez vos pièces à l'atelier pour cuisson et émaillage.  
-Vous profitez pour récupérer de la terre pour les prochains projets.  
+Comme pour les cours à l’atelier, nous alternons techniques de modelage ou de décoration et projets libres.  
+A la fin d’un projet, vous avez la possibilité de ramener vos pièces à l'atelier pour cuisson et émaillage si vous ne pouvez le faire chez vous. 
+Nous vous fournissons la terre pour chaque nouveau projet.  
 
 
-**Le matériel de base**  
+**… Et pour le tournage**  
+Les élèves qui possèdent un tour chez eux peuvent être accompagnés à distance à condition de connaître les bases du tournage comme la préparation de la terre et le centrage.  
+**Matériel de base**  
 On tente de faire avec ce qu'on a à portée de main dans un premier temps.  
 En fonction des projet, d'autres matériels peuvent être demandés.  
 Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de l'atelier fans de terre.  
@@ -71,5 +68,5 @@ Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de
  
 **Tarif :** 250€ les 5 séances de 3h  
 
-**RESERVER**
+## RESERVER
 
