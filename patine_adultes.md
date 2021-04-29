@@ -13,5 +13,15 @@ Suite aux démonstration et explications, nous ferons une série d’essais et e
 
 Selon la complexité et la taille de la sculpture et de la patine choisie, chacun pourra patiner une ou deux des sculptures qu’il aura apporté.  
 
+**Durée** : 1 journée  
+
+**Niveau** : Tous niveaux  
+
+**Tarif** : 120€  
+Le tarif comprend :  
+- la fourniture des matières de base pour toutes les patines abordées (peintue,gomme laque,...)  
+- 3 empreintes en argile par personne pour faire vos tests à conserver  
+
+
 ## RESERVER  
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-patine-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  
