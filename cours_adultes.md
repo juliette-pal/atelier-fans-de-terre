@@ -23,7 +23,7 @@ Modelage (tous niveaux) - Tournage (tous niveaux)
 **Tarif :** 1085€ l’année de 29 semaines de cours  
 Il n'y a pas cours pendant les vacances scolaires.  
 
-**Créneaux** (1 cours/semaine/personne) :  
+**Horaires** (1 cours/semaine/personne) :  
 - Mardi    : 19H30 - 22H30  
 - Mercredi : 19H30 - 22H30 
 - Jeudi    : 19H30 - 22H30
