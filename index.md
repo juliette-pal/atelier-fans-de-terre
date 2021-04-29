@@ -1,17 +1,16 @@
-**COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES(92)**  
+
+**COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES (92)**  
 
 Vous cherchez une activité artistique et créative ?  
 Vous voulez découvrir la céramique, la poterie, la sculpture ?  
 Vous recherchez une activité créative zen à pratiquer ponctuellement ou chaque semaine ?  
 
-L'atelier Fans de terre vous attend, pour vous faire découvrir, le tournage, le modelage, le raku et bien d'autres activités autour de la terre.
+# ATELIER FANS DE TERRE  
+Créé en 2012 par Monika, l'atelier Fans de terre vous propose de découvrir, le tournage, le modelage, le raku et bien d'autres activités autour de la terre.  
+
+Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de la gare St-Lazare, à proximité de Bois-Colombes, Courbevoie, Neuilly, Asnières-sur-seine, et à deux pas de l’A86.  
+
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir !!! 
-
-# Atelier Fans de Terre  
-
-Créé en 2012 par Monika, l'atelier s'adresse à tous les amoureux de la terre.  
-
- 
 
 Il ne vous reste plus qu’à y faire un tour !!!  
 
