@@ -1,7 +1,7 @@
 # STAGE PATINE - ADULTES  
 
 La séance débutera par une présentation des différents types de patines avec quelques exemples visuels (photos et échantillons).  
-Suite aux démonstration et explications, nous ferons une série d’essais et expérimentations des patines, sur des supports prévus à cet effet ( Empreintes de visages en argile).  
+Suite aux démonstration et explications, nous ferons une série d’essais et expérimentations des patines, sur des supports prévus à cet effet (empreintes de visages en argile).  
 
 **Patines abordées** 
 - Peinture acrylique,  
