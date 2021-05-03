@@ -1,12 +1,13 @@
-**COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES(92)**      
+
+**COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES (92)**  
+
 Vous cherchez une activité artistique et créative ?  
 Vous voulez découvrir la céramique, la poterie, la sculpture ?  
-La terre, le tournage ou le modelage vous attire depuis toujours ;
-Vous recherchez une activité créative zen à pratiquer ponctuellement ou chaque semaine ;  
+Vous recherchez une activité créative zen à pratiquer ponctuellement ou chaque semaine ?  
 
-# Atelier Fans de Terre
+# ATELIER FANS DE TERRE  
+Créé en 2012 par Monika, l'atelier Fans de terre vous propose de découvrir, le tournage, le modelage, le raku et bien d'autres activités autour de la terre.    
 
-Créé en 2012 par Monika, l'atelier s'adresse à tous les amoureux de la terre.  
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir !!! 
 Il ne vous reste plus qu’à y faire un tour !!!  
 [En savoir plus sur l'atelier fans de terre...](atelier)  
