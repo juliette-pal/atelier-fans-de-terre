@@ -15,7 +15,7 @@ A chacun son rythme selon ses envies !
 **… Et pour le tournage :**  
 L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
 
-**Covid :** [Voir les conditions COVID](covid)  
+**Covid :** [Voir les conditions COVID](pages/covid)  
 
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  

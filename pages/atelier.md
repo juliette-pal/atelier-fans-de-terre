@@ -13,9 +13,9 @@ Monika et son équipe sont à votre service !
 
 
 
-[Voir les intervenants de l'atelier](intervenants_fansdeterre)  
+[Voir les intervenants de l'atelier](pages/intervenants_fansdeterre)  
 
-[Quand récupérer les pièces de stages](recuperation_pieces) 
+[Quand récupérer les pièces de stages](pages/recuperation_pieces) 
 
 ## Horaires  
 •	Mercredi : 16H00 - 21H00  
@@ -25,4 +25,4 @@ Monika et son équipe sont à votre service !
 
 
 ## Venir ou contacter l'atelier  
-[Cliquer ici](contact)
+[Cliquer ici](pages/contact)
