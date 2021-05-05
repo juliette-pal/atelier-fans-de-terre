@@ -1,6 +1,3 @@
----
-layout: stage
----
 <!--
 Description longue
 Image

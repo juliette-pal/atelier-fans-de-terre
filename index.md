@@ -1,3 +1,6 @@
+---
+layout: layout-index
+---
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES (92)**  
 
