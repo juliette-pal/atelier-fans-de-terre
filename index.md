@@ -1,5 +1,7 @@
 ---
 layout: layout-index
+src-facebook: "images/icone_facebook.png"
+src-instagram: "images/icone_instagram.png"
 ---
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES (92)**  

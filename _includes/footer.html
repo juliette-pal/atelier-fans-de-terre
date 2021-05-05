@@ -3,10 +3,19 @@
     <div class="address">
       <div>
         <address><strong>Atelier Fans de Terre</strong><br>51 rue Guerlain,<br>92700 Colombes</address>
-        <p><a href="https://www.facebook.com/fansdeterre/" target="_blank" rel="noopener"><img
-              src="../images/icone_facebook.png" alt="Facebook"></a>
-          <a href="https://www.instagram.com/fans_de_terre/" target="_blank" rel="noopener"><img
-              src="../images/icone_instagram.png" alt="Instagram"></a>
+        <p>
+          <a href="https://www.facebook.com/fansdeterre/" target="_blank" rel="noopener">
+            {% if page.src-facebook %}
+            <img src="{{ page.src-facebook }}" alt="Facebook"></a>
+          {% else  %}
+          <img src="../images/icone_facebook.png" alt="Facebook"></a>
+          {% endif %}
+          <a href="https://www.instagram.com/fans_de_terre/" target="_blank" rel="noopener">
+            {% if page.src-instagram %}
+            <img src="{{ page.src-instagram }}" alt="Instagram"></a>
+          {% else  %}
+          <img src="../images/icone_instagram.png" alt="Instagram"></a>
+          {% endif %}
         </p>
       </div>
     </div>
