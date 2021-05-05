@@ -20,9 +20,9 @@ Les fournitures et les cuissons sont compris dans le prix.
 A la rentrée de septembre 2021, deux cours enfants seront proposés le mercredi et le cours du vendredi sera probablement supprimé.  
 
 
-**Covid :** [Voir les conditions COVID](pages/covid)
+**Covid :** [Voir les conditions COVID](covid)
 
-[Voir toutes les activités enfants](pages/activites_enfants)  
+[Voir toutes les activités enfants](activites_enfants)  
 
 
 ## RESERVER  
