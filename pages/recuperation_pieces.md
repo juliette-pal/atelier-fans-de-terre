@@ -10,7 +10,7 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 - **Stage raku :** 1 mois après 
 - **Stage sculpture :**  2 mois après 
 
-**[Cliquer ici pour voir les horaires d’ouverture de l’atelier](pages/contact)**
+**[Cliquer ici pour voir les horaires d’ouverture de l’atelier](contact)**
 
 ## VOTRE AVIS COMPTE
 Nous espérons que vous avez apprécié votre stage.  

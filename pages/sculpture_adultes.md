@@ -10,7 +10,7 @@ A titre d’exemple, le visage est traité en buste :
 
 Les sculptures sont récupérées au moins 2 mois après le stage. Car le séchage ne doit pas être trop rapide pour éviter la casse.  
 
-Les stages sculpture sont animés par [Claude RHEIN](pages/intervenants_fansdeterre) 
+Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre) 
 
 **Durée :** 9 H  
 

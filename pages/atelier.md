@@ -25,4 +25,4 @@ Monika et son équipe sont à votre service !
 
 
 ## Venir ou contacter l'atelier  
-[Cliquer ici](pages/contact)
+[Cliquer ici](contact)
