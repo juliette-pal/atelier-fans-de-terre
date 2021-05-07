@@ -2,10 +2,12 @@
 **Covid :** [Voir les conditions COVID](covid)  
   
   
-## FORMULE 1 - ATELIER - Modelage et Tournage  
+## FORMULE 1 - ATELIER  
 
-Les cours hebdomadaires vous permettent de pratiquer du modelage et du tournage.  
+Les cours hebdomadaires de modelage et tournage vous permettent de pratiquer ces deux techniques pour une approche globale du travail de la terre.  
 Il y a 6 pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme décorer, émailler !  
+L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
+
 De plus nous vous faisons découvrir de nouvelles techniques chaque année !!!  
 Nous vous proposons ainsi d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
 Et pour les plus indépendants, il est possible de suivre son propre rytme.  
@@ -13,10 +15,6 @@ Et pour les plus indépendants, il est possible de suivre son propre rytme.
 Nous sommes dans tous les cas là pour vous accompagner en fonction de votre niveau.
 
 A chacun son rythme selon ses envies !  
-
-**… Et pour le tournage :**  
-L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
-
 
 
 **Niveau :**  
@@ -32,14 +30,15 @@ Il n'y a pas cours pendant les vacances scolaires.
 - Vendredi : 14H00 - 17H00
 - Samedi   : 10H00 - 13H00
 
-## [Ré-inscripton pour les anciens](https://docs.google.com/forms/d/e/1FAIpQLSd-ojCgc3tsQm-E5DAUp90lc0Bsf14EPRmRaBnD489RzvEXTQ/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
+## [Cliquer ici pour vous ré-inscrire - Anciens](https://docs.google.com/forms/d/e/1FAIpQLSd-ojCgc3tsQm-E5DAUp90lc0Bsf14EPRmRaBnD489RzvEXTQ/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
 
-## [Pré-réserver pour les nouveaux](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
-
-
+## [Cliquer ici pour pré-réserver - Nouveaux](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
 
 
-## FORMULE 2 - ZOOM - Forfait 5 séances  
+
+
+## FORMULE 2 - ZOOM  
+
 Depuis le confinement de mars 2020, des cours sont proposés sur Zoom.
 Il fallait trouver une solution de remplacement face à la fermeture de l'atelier...
 Et même si ça ne remplacera jamais le contact humain, il se trouve que l'expérience a été concluante. De magnifiques pièces ont été réalisées. Certains élèves ont trouvé que la concentration était excellente lors de ces cours. D’où cette nouvelle formule !  
@@ -60,18 +59,10 @@ En fonction des projet, d'autres matériels peuvent être demandés.
 Vous avez des vidéos pour fabriquer vos propres outils sur la page Instagram de l'atelier fans de terre.  
 [Voir la page Instagram de l’atelier](https://www.instagram.com/fansdeterre/){:target="_blank" } 
 
--	1 rouleau en bois ou : une bouteille en verre
--	2 baguettes de 5mm ou : deux magasines de la même épaisseur
--	1 pinceau
--	1 éponge
--	1 planche en bois de 20 x20 ou un vieux livre recouvert
--	1 couteau lisse
--	1 estèque ou une vielle carte de fidélité
-
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (intermédiaire et plus)  
 
 **Tarif :** 250€ les 5 séances de 3h  
 
-## [PRE-RESERVER](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" } 
+## [Cliquer ici pour pré-réserver](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" } 
 
