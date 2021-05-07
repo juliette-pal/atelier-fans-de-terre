@@ -9,7 +9,9 @@ Pour toutes les occasions, anniversaires, cadeau de Noel, Fête des mères, des 
 3. Une fois le paiement effectué, vous pouvez recevoir une carte cadeau numérique gratuite (pensez à la demander !!!).   
 > Possibilité de carte cadeau en céramique : 10€ + la récupérer à l’atelier.  
       
-[Voir les cadeaux ADULTES entre 55€ et 150€](stages_adultes)  
-[Voir les cadeaux ENFANTS](activites_enfants)  
-[Régler un montant libre supérieure à 150€](<iframe id="haWidgetButton" src="https://www.helloasso.com/associations/fans-de-terre/paiements/reglement-fans-de-terre/widget-bouton" style="border: none;"></iframe>){:target="_blank" }
+[Voir et régler un cadeau ADULTE entre 55€ et 150€](stages_adultes)  
+[Voir et régler un cadeau ENFANT](activites_enfants)  
+
+**Régler un montant supérieure à 150€**  
+<iframe id="haWidgetButton" src="https://www.helloasso.com/associations/fans-de-terre/paiements/reglement-fans-de-terre/widget-bouton" style="border: none;"></iframe>{:target="_blank" }
 
