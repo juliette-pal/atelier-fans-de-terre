@@ -20,7 +20,7 @@ A chacun son rythme selon ses envies !
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif :** 1085€ l’année de 29 semaines de cours  
+**Tarif :** 1085€ l’année - 30 cours  
 Il n'y a pas cours pendant les vacances scolaires.  
 
 **Horaires** (1 cours/semaine/personne) :  
