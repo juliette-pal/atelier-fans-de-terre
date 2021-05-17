@@ -15,9 +15,8 @@ Les cours ont lieu de fin septembre à mi juin, hors vacances scolaires.
 Les fournitures et les cuissons sont compris dans le prix.  
 
 **Horaires** (1 cours/semaine/enfant) :  
-- Mercredi : 17H – 18H30  
-- Vendredi : 17H - 18H30  
-A la rentrée de septembre 2021, deux cours enfants seront proposés le mercredi et le cours du vendredi sera probablement supprimé.  
+- Mercredi : 14H – 15H30  
+- Mercredi : 16H30 - 18H    
 
 
 **Covid :** [Voir les conditions COVID](covid)
