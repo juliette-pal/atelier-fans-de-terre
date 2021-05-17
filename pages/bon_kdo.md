@@ -11,5 +11,5 @@ Pour toutes les occasions, anniversaires, cadeau de Noel, Fête des mères, des 
       
 [Voir et régler un cadeau ENFANT](activites_enfants)  
 [Voir et régler un cadeau ADULTE entre 55€ et 150€](stages_adultes)  
-[Régler un montant supérieure à 150€](<iframe id="haWidgetButton" src="https://www.helloasso.com/associations/fans-de-terre/paiements/reglement-fans-de-terre/widget-bouton" style="border: none;"></iframe>{:target="_blank" })
+Régler un montant supérieure à 150€ : <iframe id="haWidgetButton" src="https://www.helloasso.com/associations/fans-de-terre/paiements/reglement-fans-de-terre/widget-bouton" style="border: none;"></iframe>{:target="_blank" }
 
