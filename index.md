@@ -1,5 +1,4 @@
 ---
-layout: layout-index
 src-facebook: "images/icone_facebook.png"
 src-instagram: "images/icone_instagram.png"
 ---
