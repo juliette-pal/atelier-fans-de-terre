@@ -32,10 +32,10 @@ Il n'y a pas cours pendant les vacances scolaires.
 - Samedi   : 10H00 - 13H00 (1 samedi sur 2 selon planning)
 
 
-## [Cliquer ici pour pré-réserver - Nouveaux élèves](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
+## [Pré-réservation - Nouveaux élèves](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
 
 
-## [Réinscription des anciens élèves](https://www.helloasso.com/associations/fans-de-terre/evenements/reinscriptions-adultes-2021-2022){:target="_blank" }    
+## [Réinscription - Anciens élèves](https://www.helloasso.com/associations/fans-de-terre/evenements/reinscriptions-adultes-2021-2022){:target="_blank" }    
 
 
 
