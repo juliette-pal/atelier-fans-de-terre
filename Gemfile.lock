@@ -260,6 +260,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-sitemap
   webrick
 
 BUNDLED WITH

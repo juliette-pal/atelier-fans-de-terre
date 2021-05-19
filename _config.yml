@@ -1,5 +1,14 @@
 theme: jekyll-theme-cayman
+url: "https://fansdeterre.com" # the base hostname & protocol for your site
 plugins:
   - jemoji
   - jekyll-seo-tag
-  
+  - jekyll-sitemap
+defaults:
+  -
+    scope:
+      path:            "assets/**"
+    values:
+      sitemap:         false
+
+timezone: Europe/Paris

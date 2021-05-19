@@ -7,7 +7,7 @@
   font-size: 2.7rem;
 }
 #banner-image {
-  background: url("http://www.fansdeterre.com/attachments/Header/published_image_1.jpg") no-repeat;
+  background: url(/images/pot-vase-poterie-céramique_fansdeterre_colombes.jpeg);
   background-size: auto;
   background-size: cover;
   width: 100vw;
@@ -49,6 +49,9 @@
 }
 @media only screen and (min-width: 56rem){
   #btn-mobile {
+    display: none;
+  }
+  #menu {
     display: none;
   }
 }
