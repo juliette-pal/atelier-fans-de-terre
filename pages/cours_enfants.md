@@ -6,6 +6,8 @@ La terre se travaille à tout âge, c’est pour cette raison que nous proposons
 
 **Apprendre en créant, le bonheur !!!**
 
+<img src="/images/atelier-modelage-poterie_atelier-colombes.jpeg" class="image-stage">
+
 **Durée :** 1H30  
 Les cours ont lieu de fin septembre à mi juin, hors vacances scolaires.
 

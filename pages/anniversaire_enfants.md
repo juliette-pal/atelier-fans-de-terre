@@ -10,6 +10,7 @@ Toutes les formules intègrent au moins 1 cuisson.
 
 Une activité accessible à tous et qui plait beaucoup aux enfants !!!  
 
+<img src="/images/enfants-modelage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">
 
 ## MODELAGE - SANS GOUTER
 **Durée :** 1H15  

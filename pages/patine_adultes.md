@@ -13,6 +13,8 @@ Suite aux démonstration et explications, nous ferons une série d’essais et e
 
 Selon la complexité et la taille de la sculpture et de la patine choisie, chacun pourra patiner une ou deux des sculptures qu’il aura apporté.  
 
+<img src="/images/" class="image-stage">
+
 **Durée** : 1 journée  
 
 **Niveau** : Tous niveaux  

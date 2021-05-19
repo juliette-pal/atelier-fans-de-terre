@@ -5,7 +5,9 @@ Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de 
 
 Vous y trouverez deux grands espaces dont un dédié au tournage avec ses 6 tours.  
 
-L'équipe est composée de professionnels pationnés qui sauront vous accompagner dans votre démarche de découverte ou d'approfondissement des nombreuses techniques ceramiques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...  
+<img src="/images/atelier-tournage_fans-de-terre_colombes.jpeg" class="image-stage">
+
+**L'équipe est composée de professionnels pationnés** qui sauront vous accompagner dans votre démarche de découverte ou d'approfondissement des nombreuses techniques ceramiques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...  
 
 Lieu d’expression artistique, d’apprentissage, d’échanges, de lâcher prise,… chacun peut y trouver son bonheur.  
 

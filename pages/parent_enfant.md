@@ -6,6 +6,8 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 
 
 **_La récupération des pièces se fait un mois après le stage._**
+
+<img src="/images/cuillère-modelage-poterie_atelier-fans-de-terre.jpeg" class="image-stage">
  
 ## Modelage  
 **Durée :** 2H30  
@@ -20,6 +22,7 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 **Tarif :** 95€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 
+---
 
 ## RESERVER  
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  

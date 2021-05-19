@@ -6,6 +6,8 @@ En raison des conditions sanitaires, nous vous demandons de bien vouloir observe
 -	Lavage des mains à l’arrivée et au cours de l’atelier
 -	Port du masque sur le nez 😊 obligatoire durant toute la durée du stage  
 
+<img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">
+
 ## Cours à l'année
 En cas de confinement ou de couvre-feu les cours hebdomadaires qui se tiennent à l'atelier, seront remplacés par des cours sur zoom.  
 

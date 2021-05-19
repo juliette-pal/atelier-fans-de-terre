@@ -12,6 +12,8 @@ Les sculptures sont récupérées au moins 2 mois après le stage. Car le sécha
 
 Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre) 
 
+<img src="/images/sculpture-stages-poterie-fansdeterre-ceramique-colombes.jpeg" class="image-stage">
+
 **Durée :** 9 H  
 
 **Niveau :** Tous niveaux  
@@ -19,6 +21,7 @@ Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre)
 **Tarif :** 150€  
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.  
 
+---
 
 ## RESERVER  
 

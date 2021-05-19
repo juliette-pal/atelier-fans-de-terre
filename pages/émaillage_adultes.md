@@ -9,6 +9,7 @@ Le nombre de pièces que l'on peut traiter dépend de ce que l'on fait (décor a
 
 **Récupération des pièces environ 10 jours après le stage.**  
 
+<img src="/images/decoration-emaillage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">
 
 **Durée :** 3 H  
 
@@ -17,6 +18,7 @@ Le nombre de pièces que l'on peut traiter dépend de ce que l'on fait (décor a
 **Tarif :** 65€  
 Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2 pièces fournies par l’atelier (ou de vos pièces tournées en stage tournage - Tarif préférentiel de 50€ dans ce dernier cas - Voir directement avec l'atelier).  
  
+ ---
 
 ## RESERVER  
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }

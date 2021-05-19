@@ -9,12 +9,15 @@ src-instagram: "images/icone_instagram.png"
 ᐉ Vous voulez découvrir la céramique, la poterie, la sculpture ?  
 ᐉ Vous recherchez une activité créative zen à pratiquer ponctuellement ou chaque semaine ?  
 
+
 ## [L'ATELIER FANS DE TERRE](pages/atelier.md)  
 Créé en 2012 par Monika, l'atelier Fans de terre vous propose de découvrir, le tournage, le modelage, le raku et bien d'autres activités autour de la terre.    
 
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir !!! 
 Il ne vous reste plus qu’à y faire un tour !!!  
 [En savoir plus sur l'atelier fans de terre...](pages/atelier)  
+
+<img src="/images/Atelier-ceramique-poterie-colombes2_1.jpeg" class="image-stage">
 
 ## COURS HEBDOMADAIRES  
 Vous souhaitez pratiquer une activité hebdomadaire régulière (1H30 pour les enfants à 3H pour les adultes).  

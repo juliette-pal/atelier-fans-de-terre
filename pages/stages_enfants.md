@@ -12,6 +12,7 @@ Les cuissons, le matériel et la terre sont compris dans le prix des stages.
 
 Les stages sont maintenus à partir de 4 participants.  
 
+<img src="/images/image_elephant_céramique_enfant.jpeg" class="image-stage">
 
 ## STAGE MODELAGE - ENFANTS / ADOS  
 Les participants découvrent le travail en volume, ainsi que des techniques céramiques.  
@@ -27,6 +28,8 @@ L’idée est de découvrir le tournage céramique en créant une œuvre unique 
 **Niveau :** 9 ans et +  
 **Tarif :** 165€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
+
+---
 
 ## RESERVER  
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-enfants-vacances-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  

@@ -4,6 +4,8 @@
 
 Pour toutes les occasions, anniversaires, cadeau de Noel, Fête des mères, des pères,….  
 
+<img src="/images/tournage-stages-poterie-fansdeterre-ceramique-colombes.jpeg" class="image-horiz">
+
 1. Choisissez la formule la plus adaptée  
 2. Si vous ne connaissez pas les disponibilités du bénéficiaire, indiquez la date du jour lors du règlement.  
 3. Une fois le paiement effectué, vous pouvez recevoir une carte cadeau numérique gratuite (pensez à la demander !!!).   

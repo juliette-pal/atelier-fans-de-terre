@@ -1,6 +1,7 @@
 # Comment récupérer vos pièces après un stage ?
 **ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.** 
-## Délai en fonction du stage   
+## Délai en fonction du stage 
+<img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
 Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a entre les deux dates :  
 - **Stage vacances enfants :** 1 mois après 
 - **Atelier parents/enfants :** 1 mois après 
@@ -9,6 +10,7 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 - **Stage modelage adultes :** 1 mois après 
 - **Stage raku :** 1 mois après 
 - **Stage sculpture :**  2 mois après 
+
 
 **[Cliquer ici pour voir les horaires d’ouverture de l’atelier](contact)**
 
