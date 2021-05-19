@@ -6,12 +6,25 @@
   color: #860d0d !important;
   font-size: 2.7rem;
 }
-#banner-image {
-  background: url(/images/pot-vase-poterie-céramique_fansdeterre_colombes.jpeg);
+.page-header {
+  background-color: #c6baac !important;
+  background-image: none !important;
+}
+#banner-bg {
   background-size: auto;
   background-size: cover;
+  background-position: top;
   width: 100vw;
   height: 40vh;
+  padding: auto;
+}
+#banner-image {
+  background: url(/images/pot-vase-poterie-céramique_fansdeterre_colombes.jpeg);
+  background-position: top;
+  background-size: cover;
+  width: 50vw;
+  height: 40vh;
+  margin: 0 auto;
 }
 #first-banner {
   display: flex;
@@ -27,6 +40,9 @@
   background-color: rgb(255 255 255 / 82%) !important;
 }
 @media only screen and (max-width: 55rem){
+  #banner-image {
+    width: 100vw;
+  }
   #btn-desktop {
     display: none;
   }
@@ -44,7 +60,7 @@
     margin-bottom: 0;
   }
   #menu a {
-    background-color:rgba(90, 128, 107, 0.36) ;
+    background-color:rgba(90, 128, 107, 0.87) ;
   }
 }
 @media only screen and (min-width: 56rem){
@@ -54,6 +70,9 @@
   #menu {
     display: none;
   }
+  .image-stage {
+    float: right;
+  }
 }
 h1, h2 {
   color: #860d0d;
@@ -62,8 +81,9 @@ h1, h2 {
   padding: 0 !important;
 }
 .image-stage {
-  float: right; 
   margin: 1.5em;
+  width: 300px; 
+  height: 400px;
 }
 footer {
   background-color: rgb(90, 128, 107);
