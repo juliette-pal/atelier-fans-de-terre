@@ -31,7 +31,8 @@ Il n'y a pas cours pendant les vacances scolaires.
 - Vendredi : 17H00 - 20H00
 - Samedi   : 10H00 - 13H00 (1 samedi sur 2 selon planning)
 
-## [Cliquer ici pour vous ré-inscrire - Anciens](https://docs.google.com/forms/d/e/1FAIpQLSd-ojCgc3tsQm-E5DAUp90lc0Bsf14EPRmRaBnD489RzvEXTQ/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
+## Réinscription des anciens élèves  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/reinscriptions-adultes-2021-2022/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  
 
 ## [Cliquer ici pour pré-réserver - Nouveaux](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
 
