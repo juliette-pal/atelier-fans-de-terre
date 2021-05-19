@@ -3,7 +3,7 @@
 La séance débutera par une présentation des différents types de patines avec quelques exemples visuels (photos et échantillons).  
 Suite aux démonstration et explications, nous ferons une série d’essais et expérimentations des patines, sur des supports prévus à cet effet (empreintes de visages en argile).  
 
-<img src="/images/raku-stages-poterie-fansdeterre-ceramique-paris.jpeg" class="image-horiz">
+<img src="/images/raku-stages-poterie-fansdeterre-ceramique-paris.jpeg" class="image-stage">
 
 **Patines abordées** 
 - Peinture acrylique,  
