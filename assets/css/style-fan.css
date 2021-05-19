@@ -89,6 +89,7 @@ h1, h2 {
   height: 400px;
 }
 .image-horiz {
+  margin: 1em;
   width: 400px; 
   height: 300px;
 }
