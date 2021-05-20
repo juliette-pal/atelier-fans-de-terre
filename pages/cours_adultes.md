@@ -16,7 +16,7 @@ Il n'y a pas cours pendant les vacances scolaires.
 - Jeudi    : 19H30 - 22H30
 - Vendredi : 09H30 - 12H30
 - Vendredi : 14H00 - 17H00  
-- Vendredi : 17H00 - 20H00
+- Vendredi : 17H00 - 20H00 - 100% TOUR  
 - Samedi   : 10H00 - 13H00 (1 samedi sur 2 selon planning)  
 
  
