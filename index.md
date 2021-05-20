@@ -11,7 +11,7 @@ src-instagram: "images/icone_instagram.png"
 
 
 ## [L'ATELIER FANS DE TERRE](pages/atelier.md)  
-Créé en 2012 par Monika, l'atelier Fans de terre vous propose de découvrir, le tournage, le modelage, le raku et bien d'autres activités autour de la terre.    
+Créé en 2013 par Monika, l'atelier Fans de terre vous propose de découvrir, le tournage, le modelage, le raku et bien d'autres activités autour de la terre.    
 
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir !!! 
 Il ne vous reste plus qu’à y faire un tour !!!  
