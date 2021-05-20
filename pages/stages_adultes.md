@@ -10,6 +10,9 @@ Tarif :
 [En savoir plus...](page-technique)
 -->
 [Cliquer ici pour voir quand et comment récupérer les pièces de stages](recuperation_pieces)  
+  
+Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages**.  
+  
 
 ## TOURNAGE  
 Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
