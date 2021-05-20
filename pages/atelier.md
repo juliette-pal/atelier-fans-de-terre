@@ -3,7 +3,7 @@
 # L'ATELIER  
 Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de la gare St-Lazare, à proximité de Bois-Colombes, Courbevoie, Neuilly, Asnières-sur-seine, et à deux pas de l’A86.  
 
-Vous y trouverez deux grands espaces dont un dédié au tournage avec ses 6 tours.  
+Vous y trouverez **deux grands espaces** dont un dédié au tournage avec ses **6 tours**.  
 
 <img src="/images/atelier-tournage_fans-de-terre_colombes.jpeg" class="image-stage">
 
