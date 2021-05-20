@@ -1,3 +1,4 @@
+title: Atelier Fans de Terre Colombes
 theme: jekyll-theme-cayman
 url: "https://fansdeterre.com" # the base hostname & protocol for your site
 plugins:
@@ -12,7 +13,6 @@ defaults:
       sitemap:         false
 
 timezone: Europe/Paris
-title: Atelier Fans de Terre Colombes
 tagline: Cours et Stages de poterie
 author: Monika Jacques-Gustave
 social:
