@@ -1,7 +1,7 @@
 # COURS ADULTES HEBDOMADAIRES  
 **Covid :** [Voir les conditions COVID](covid)  
   
-Les cours hebdomadaires de modelage et tournage vous permettent de pratiquer ces deux techniques pour une approche globale du travail de la terre.  
+Les cours hebdomadaires de modelage et tournage vous permettent de pratiquer ces deux techniques pour une **approche globale du travail de la terre**.  
 
 ## FORMULE - ATELIER  
 
@@ -9,15 +9,15 @@ Les cours hebdomadaires de modelage et tournage vous permettent de pratiquer ces
 Modelage (tous niveaux) - Tournage (tous niveaux)  
 
 **Tarif :** 1085€ l’année - 29 cours  
-Il n'y a pas cours pendant les vacances scolaires. 
+**Il n'y a pas cours pendant les vacances scolaires.** 
   
 **Horaires** (1 cours/semaine/personne - hors samedi) :  
 - Mercredi : 19H30 - 22H30 
 - Jeudi    : 19H30 - 22H30
 - Vendredi : 09H30 - 12H30
 - Vendredi : 14H00 - 17H00  
-- Vendredi : 17H00 - 20H00 - 100% TOUR  
-- Samedi   : 10H00 - 13H00 (1 samedi sur 2 selon planning)  
+- Vendredi : 17H00 - 20H00 - **100% TOUR**  
+- Samedi   : 10H00 - 13H00 (**1 samedi sur 2 selon planning**)  
 
  
 
@@ -26,8 +26,8 @@ L'apprentissage du tournage demandant avant tout de la pratique, nous conseillon
 
 Nous vous faisons découvrir de nouvelles techniques chaque année !!!  
 
-Nous vous proposons d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
-Et pour les plus indépendants, il est possible de suivre son propre rytme.  
+Nous vous proposons d’alterner, **découverte de techniques céramiques** et **réalisation de projets personnels**.  
+Et pour les plus indépendants, il est possible de **suivre son propre rytme**.  
 
 Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages** hors cours.  
 
