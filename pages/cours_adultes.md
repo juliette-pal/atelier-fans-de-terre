@@ -29,6 +29,8 @@ Nous vous faisons découvrir de nouvelles techniques chaque année !!!
 Nous vous proposons d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
 Et pour les plus indépendants, il est possible de suivre son propre rytme.  
 
+Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages** hors cours.  
+
 Nous sommes dans tous les cas là pour vous accompagner en fonction de votre niveau.
 
 A chacun son rythme selon ses envies !  
