@@ -1,7 +1,8 @@
 # COURS ADULTES HEBDOMADAIRES  
 **Covid :** [Voir les conditions COVID](covid)  
   
-  
+Les cours hebdomadaires de modelage et tournage vous permettent de pratiquer ces deux techniques pour une approche globale du travail de la terre.  
+
 ## FORMULE - ATELIER  
 
 **Niveau :**  
@@ -19,7 +20,7 @@ Il n'y a pas cours pendant les vacances scolaires.
 - Samedi   : 10H00 - 13H00 (1 samedi sur 2 selon planning)  
 
  
-Les cours hebdomadaires de modelage et tournage vous permettent de pratiquer ces deux techniques pour une approche globale du travail de la terre.  
+
 Il y a 6 tours pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme décorer, émailler !  
 L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
 
