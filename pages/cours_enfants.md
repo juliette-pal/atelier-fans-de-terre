@@ -16,7 +16,7 @@ La terre se travaille à tout âge, c’est pour cette raison que nous proposons
 
 
 **Durée :** 1H30  
-Les cours ont lieu de fin septembre à mi juin, hors vacances scolaires.
+Les cours ont lieu de fin septembre à mi juin, **hors vacances scolaires**.
 
 **Niveau :** 4 ans et +  
 
