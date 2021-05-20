@@ -5,11 +5,12 @@
 ## FORMULE - ATELIER  
 
 Les cours hebdomadaires de modelage et tournage vous permettent de pratiquer ces deux techniques pour une approche globale du travail de la terre.  
-Il y a 6 pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme décorer, émailler !  
+Il y a 6 tours pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme décorer, émailler !  
 L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
 
-De plus nous vous faisons découvrir de nouvelles techniques chaque année !!!  
-Nous vous proposons ainsi d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
+Nous vous faisons découvrir de nouvelles techniques chaque année !!!  
+
+Nous vous proposons d’alterner, découverte de techniques céramiques et réalisation de projets personnels.  
 Et pour les plus indépendants, il est possible de suivre son propre rytme.  
 
 Nous sommes dans tous les cas là pour vous accompagner en fonction de votre niveau.
@@ -26,7 +27,7 @@ Il n'y a pas cours pendant les vacances scolaires.
 **Horaires** (1 cours/semaine/personne - hors samedi) :  
 - Mercredi : 19H30 - 22H30 
 - Jeudi    : 19H30 - 22H30
-- Vendredi : 10H00 - 13H00
+- Vendredi : 09H30 - 12H30
 - Vendredi : 14H00 - 17H00  
 - Vendredi : 17H00 - 20H00
 - Samedi   : 10H00 - 13H00 (1 samedi sur 2 selon planning)
