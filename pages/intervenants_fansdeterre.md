@@ -21,7 +21,7 @@ Bijoutière joaillière et céramiste, Lydie a le sens du détail.
 Le mariage du métal et de la terre l’intéresse tout particulièrement.  
 Ce qui ne l’empêche pas, CAP tournage en poche d’avoir une excellente maîtrise de cette technique.  
 Lydie anime certains cours hebdomadaires et stages adultes.  
-[L'Instagram de Lydie](https//www.instagram.com/brume_lydiesmithceramique/)  
+[L'Instagram de Lydie](https://www.instagram.com/brume_lydiesmithceramique/)
 
 ## Rose-Hélène
 « Mon parcours est fait de voyages, de soif de rencontres et de l’inconnu.
@@ -32,7 +32,7 @@ Rose-Hélène anime des stages adultes du week-end.
 ## Claude
 Dessinateur, peintre et sculpteur, Claude donne des cours dans plusieurs ateliers à Paris et en banlieue parisienne. Le model vivant est une de ses techniques favorites.  
 Claude interviendra sur les stages sculpture du week-end.  
-[L'Instagram de Claude](https//www.instagram.com/clauderhein/)  
+[L'Instagram de Claude](https://www.instagram.com/clauderhein/)  
 
 
 
