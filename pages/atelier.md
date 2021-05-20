@@ -20,12 +20,5 @@ Monika, Sophie, Lydie et les autres ont hâte de vous rencontrer !
 
 [Quand récupérer les pièces de stages](recuperation_pieces) 
 
-## Horaires  
-•	Mercredi : 16H00 - 21H00  
-•	Jeudi : 15H00 - 18H00 et 19H30 - 22H30  
-•	Vendredi : 14H00 - 17H00  
-•	Samedi : 10H00 - 13H00  
 
-
-## Venir ou contacter l'atelier  
-[Cliquer ici](contact)
+[Venir à l'atelier ou le contacter](contact)
