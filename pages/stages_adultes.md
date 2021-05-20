@@ -9,6 +9,8 @@ Niveau :
 Tarif :
 [En savoir plus...](page-technique)
 -->
+[Cliquer ici pour voir quand et comment récupérer les pièces de stages](recuperation_pieces)  
+
 ## TOURNAGE  
 Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
 **Durée** : 1 journée  
