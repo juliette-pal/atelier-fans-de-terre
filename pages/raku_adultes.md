@@ -1,11 +1,11 @@
 # STAGE RAKU - ADULTES  
 
-Le raku est un mode de cuisson céramique issue de la cérémonie du thé au Japon.  
+Le raku est un mode de cuisson céramique issue de la **cérémonie du thé au Japon**.  
 Les pièces sont cuites une première fois avant émaillage.  
 Après émaillage, elles sont enfournées puis retirées du four quand celui-ci atteint environ 1000°.  
 La magie du raku commence !!!  
-Le choc thermique provoque des craquelures.  
-Les pièces sont alors enfumées…  
+Le **choc thermique** provoque des craquelures.  
+Les pièces sont alors **enfumées**…  
 
 <img src="/images/raku-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">
 
@@ -17,20 +17,20 @@ Les pièces sont alors enfumées…
 
 ## Formule 100% atelier  
 Modelage + émaillage + cuisson raku  
-Dans cette formule vous devez choisir 2 dates. L’une pour le modelage et l’autre pour la cuisson raku.  
+Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l’autre pour la cuisson raku.  
 *Prévoir minimum 2 semaines entre les deux dates*  
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 140€  
  
 ## Formule atelier sans modelage  
-Le prix comprend la fourniture de 2 pièces déjà cuites une première fois par l’atelier.  
+Le prix comprend la **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 140€  
 
 ## Formule maison  
-Modelage chez vous + émaillage et cuisson à l’atelier  
+Modelage **chez vous** + émaillage et cuisson à l’atelier  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 70€ + 15€/pièce  
