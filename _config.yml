@@ -12,3 +12,10 @@ defaults:
       sitemap:         false
 
 timezone: Europe/Paris
+title: Atelier Fans de Terre Colombes
+tagline: Cours et Stages de poterie
+author: Monika Jacques-Gustave
+social:
+  links:
+    - https://www.facebook.com/fansdeterre/
+    - https://www.instagram.com/fans_de_terre/
