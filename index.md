@@ -26,7 +26,7 @@ Ce sera votre pause artistique de la semaine !
   - [Cours Enfants 1H30](pages/cours_enfants)  
 
 ## STAGES PONCTUELS 
-Vos disponibilités varient et vous préférez pratiquer au coup par coup.  
+Vos disponibilités varient et vous préférez pratiquer au coup par coup de nombreuses techniques telles que le raku, la sculpture, le tournage, la patine, des ateliers parents/enfants...  
   - [Stages Adultes](pages/stages_adultes)
   - [Stages Enfants](pages/stages_enfants)
 
