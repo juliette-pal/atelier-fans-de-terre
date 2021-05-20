@@ -5,7 +5,7 @@ Nous les accompagnons dans le façonnage de l’argile.
 
 Aucun prérequis n’est nécessaire.  
 
-Les enfants récupèrent leurs créations, 1 mois après l’anniversaire. Car à l’issue de la séance, les pièces sont séchées et cuites une ou deux fois, et éventuellement émaillée (en fonction des options).
+**Les enfants récupèrent leurs créations, 1 mois après l’anniversaire**. Car à l’issue de la séance, les pièces sont séchées et cuites une ou deux fois, et éventuellement émaillée (en fonction des options).
 Toutes les formules intègrent au moins 1 cuisson.  
 
 Une activité accessible à tous et qui plait beaucoup aux enfants !!!  
@@ -33,7 +33,7 @@ Les enfants peuvent jouer dans le jardin si le temps le permet.
 **Niveau :** Modelage à partir de 4 ans  - Tournage à partir de 9ans  
 **Tarif :** 35€/enfant  
 Le tarif comprend la terre, les fournitures, 1 cuisson.  
-Bonbons et boissons fournis par l'atelier.  
+**Bonbons et boissons fournis par l'atelier**.  
 Le gâteau est ramené par la famille.  
 **Nombre de participants :** minimum 6 - maximum 10  
 **Options :**  
