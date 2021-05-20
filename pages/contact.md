@@ -1,4 +1,4 @@
-# Contact
+# Infos pratiques
 
 ## Le lieu des ateliers de poterie
 **Fans de Terre**  
