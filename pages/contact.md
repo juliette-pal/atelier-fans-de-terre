@@ -4,12 +4,11 @@
 51, rue Guerlain,  
 92700 Colombes
 
-## Horaires d'ouverture
-Valable jusqu'au 9 juin 21  
+## Horaires d'ouverture    
 
 •	Mercredi : 16H00 - 21H00  
-•	Jeudi : 16H00 - 21H00  
-•	Vendredi : 14H00 - 18H00  
+•	Jeudi : 18H00 - 21H00  
+•	Vendredi : 14H00 - 19H00  
 •	Samedi : 10H00 - 13H00 et 15H30 - 18H30  
 
 
