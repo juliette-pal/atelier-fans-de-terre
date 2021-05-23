@@ -1,7 +1,16 @@
 # Comment récupérer vos pièces après un stage ?
 **ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.** 
-## Délai en fonction du stage 
+## Horaires d'ouverture    
+
+•	Mercredi : 16H00 - 21H00  
+•	Jeudi : 18H00 - 21H00  
+•	Vendredi : 14H00 - 19H00  
+•	Samedi : 10H00 - 13H00 et 15H30 - 18H30  
+
 <img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
+
+## Dans quel délai après votre stage  
+
 Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a entre les deux dates :  
 - **Stage vacances enfants :** 1 mois après 
 - **Atelier parents/enfants :** 1 mois après 
