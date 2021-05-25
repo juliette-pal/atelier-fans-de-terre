@@ -35,7 +35,7 @@ Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émail
 **Durée** : 3H  
 **Niveau** : Déb./Int.     
 **Tarif** : 65€  
-[En savoir plus...](émaillage_adultes)
+[En savoir plus...](emaillage_adultes)
 
 ## SCULPTURE      
 Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
