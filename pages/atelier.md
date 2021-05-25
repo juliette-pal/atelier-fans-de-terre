@@ -3,7 +3,7 @@
 # L'ATELIER  
 Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de la gare St-Lazare, à proximité de Bois-Colombes, Courbevoie, Neuilly, Asnières-sur-seine, et à deux pas de l’A86.  
 
-Vous y trouverez deux grands espaces dont un dédié au tournage avec ses 6 tours.  
+Vous y trouverez **deux grands espaces** dont un dédié au tournage avec ses **6 tours**.  
 
 <img src="/images/atelier-tournage_fans-de-terre_colombes.jpeg" class="image-stage">
 
@@ -20,12 +20,5 @@ Monika, Sophie, Lydie et les autres ont hâte de vous rencontrer !
 
 [Quand récupérer les pièces de stages](recuperation_pieces) 
 
-## Horaires  
-•	Mercredi : 16H00 - 21H00  
-•	Jeudi : 15H00 - 18H00 et 19H30 - 22H30  
-•	Vendredi : 14H00 - 17H00  
-•	Samedi : 10H00 - 13H00  
 
-
-## Venir ou contacter l'atelier  
-[Cliquer ici](contact)
+[Venir à l'atelier ou le contacter](contact)

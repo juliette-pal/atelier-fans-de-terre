@@ -1,6 +1,6 @@
 # STAGE SCULPTURE - ADULTES
 
-Nous vous accompagnons dans la réalisation de bustes ou des représentations du corps humain.  
+Nous vous accompagnons dans la **réalisation de bustes** ou des **représentations du corps humain**.  
 Des animaux et autres représentations peuvent également être abordées.  
 
 A titre d’exemple, le visage est traité en buste :  
