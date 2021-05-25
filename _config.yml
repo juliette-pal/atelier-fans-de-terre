@@ -10,13 +10,18 @@ plugins:
 ---
 title: Jekyll Redirect 301 - stage
 redirect_from:
-  - /stages-et-evenements-cours-poterie-ceramique-colombes/
+  - /stages-et-evenements-cours-poterie-ceramique-colombes/**
 permalink: /pages/stages_adultes
 ---
 title: Jekyll Redirect 301 - kdo
 redirect_from:
   - /offrir/
 permalink: /pages/bon_kdo
+---
+title: Jekyll Redirect 301 - raku
+redirect_from:
+  - /stages-et-evenements-cours-poterie-ceramique-colombes/raku-paris/
+permalink: /pages/raku_adultes
 ---
 defaults:
   -
