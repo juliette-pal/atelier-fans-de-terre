@@ -50,7 +50,7 @@ Chacun ramène de quoi déjeuner dans le jardin façon auberge espagnole.
 ---
 
 ## RESERVER  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2020-2021/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
 
 
 [Voir la vidéo d’un raku nocturne avec les élèves de l’atelier](https://www.youtube.com/watch?v=EiUtPL2H8mU)

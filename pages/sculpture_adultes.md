@@ -25,4 +25,4 @@ Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.
 
 ## RESERVER  
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-sculpture-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-sculpture-2020-2021/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  

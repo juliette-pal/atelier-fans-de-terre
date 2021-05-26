@@ -21,4 +21,4 @@ Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2
  ---
 
 ## RESERVER  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2020-2021/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>{:target="_blank" }
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2020-2021/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }
