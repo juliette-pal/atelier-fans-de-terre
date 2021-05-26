@@ -10,19 +10,23 @@ plugins:
 ---
 title: Jekyll Redirect 301 - stage
 redirect_from:
-  - /stages-et-evenements-cours-poterie-ceramique-colombes/**
+  - https://fansdeterre.com/stages-et-evenements-cours-poterie-ceramique-colombes/
 permalink: /pages/stages_adultes
 ---
 title: Jekyll Redirect 301 - kdo
 redirect_from:
-  - /offrir/
+  - https://fansdeterre.com/offrir/
 permalink: /pages/bon_kdo
 ---
 title: Jekyll Redirect 301 - raku
 redirect_from:
-  - /stages-et-evenements-cours-poterie-ceramique-colombes/raku-paris/
+  - https://fansdeterre.com/stages-et-evenements-cours-poterie-ceramique-colombes/raku-paris/
 permalink: /pages/raku_adultes
 ---
+title: Jekyll Redirect 301 - atelier
+redirect_from:
+  - https://fansdeterre.com/cours-stages-poterie-ceramique-colombes/l-atelier-cours-de-poterie-ceramique-colombes/
+permalink: /pages/atelier  
 defaults:
   -
     scope:
