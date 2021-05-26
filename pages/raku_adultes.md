@@ -1,3 +1,8 @@
+---
+title: Stage Raku Adultes
+redirect_from:
+    - /stages-et-evenements-cours-poterie-ceramique-colombes/raku-paris
+---
 # STAGE RAKU - ADULTES  
 
 Le raku est un mode de cuisson céramique issue de la **cérémonie du thé au Japon**.  

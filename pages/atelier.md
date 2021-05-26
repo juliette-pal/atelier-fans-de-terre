@@ -1,5 +1,8 @@
-<!--reste à rajouter des photos-->
-
+---
+title: L'Atelier de Poterie à Colombes
+redirect_from:
+    - /cours-stages-poterie-ceramique-colombes/l-atelier-cours-de-poterie-ceramique-colombes/
+---
 # L'ATELIER  
 Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de la gare St-Lazare, à proximité de Bois-Colombes, Courbevoie, Neuilly, Asnières-sur-seine, et à deux pas de l’A86.  
 
