@@ -29,7 +29,7 @@ Nous vous faisons découvrir de nouvelles techniques chaque année !!!
 Nous vous proposons d’alterner, **découverte de techniques céramiques** et **réalisation de projets personnels**.  
 Et pour les plus indépendants, il est possible de **suivre son propre rytme**.  
 
-Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages** hors cours.  
+:star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages** ([voir les stages adultes](stages_adultes.md)) hors cours. :star: 
 
 Nous sommes dans tous les cas là pour vous accompagner en fonction de votre niveau.
 

@@ -1,9 +1,10 @@
 ---
+title: COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES (92)
 src-facebook: "images/icone_facebook.png"
 src-instagram: "images/icone_instagram.png"
 ---
 
-# **COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES (92)**  
+# **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
@@ -11,7 +12,7 @@ src-instagram: "images/icone_instagram.png"
 
 
 ## [L'ATELIER FANS DE TERRE](pages/atelier.md)  
-Créé en 2013 par Monika, l'atelier Fans de terre vous propose de découvrir, le **tournage**, le **modelage**, le **raku** et bien d'autres activités autour de la terre.    
+Créé en 2013 par Monika, l'atelier Fans de terre, situé à Colombes (92), vous propose de découvrir le **tournage**, le **modelage**, le **raku** et bien d'autres activités autour de la terre.    
 
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir !!!  
   
