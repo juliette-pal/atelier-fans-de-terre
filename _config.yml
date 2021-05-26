@@ -7,11 +7,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate 
   - jekyll-redirect-from 
----
-title: Jekyll Redirect 301 - stage
-redirect_from:
-  - https://fansdeterre.com/stages-et-evenements-cours-poterie-ceramique-colombes/
-permalink: /pages/stages_adultes
+
+whitelist:
+  - jekyll-redirect-from
+
 ---
 title: Jekyll Redirect 301 - kdo
 redirect_from:
