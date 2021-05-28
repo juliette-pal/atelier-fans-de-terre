@@ -4,7 +4,7 @@
 
 Pour toutes les occasions, anniversaires, cadeau de Noel, Fête des mères, des pères,….  
 
-<img src="/images/tournage-stages-poterie-fansdeterre-ceramique-colombes.jpeg" class="image-horiz">
+<img src="/images/carte cadeau-ceramique-fansdeterre-raku-paris-600 410.png" class="image-horiz">
 
 1. Choisissez la formule la plus adaptée  
 2. Si vous ne connaissez pas les disponibilités du bénéficiaire, indiquez la date du jour lors du règlement.  
