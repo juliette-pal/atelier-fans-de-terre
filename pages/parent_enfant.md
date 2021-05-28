@@ -7,7 +7,7 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 
 **_La récupération des pièces se fait un mois après le stage._**
 
-<img src="/images/cuillère-modelage-poterie_atelier-fans-de-terre.jpeg" class="image-stage">
+<img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">
  
 ## Modelage  
 **Durée :** 2H30  
