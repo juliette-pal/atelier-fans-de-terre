@@ -41,7 +41,7 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 
 Les cours d'une durée de 3H30 ont lieu sur 16 séances, à peu près, 1 samedi sur 2.  
 
-Le contenu est similaire à la "formule 3H / semaine" ci-dessous.  
+Le contenu est similaire à la "formule modelage et tournage" ci-dessous.  
 
 
 ## FORMULE MODELAGE ET TOURNAGE  
