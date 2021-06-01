@@ -2,7 +2,7 @@
 **Covid :** [Voir les conditions COVID](covid)  
   
 
-**Horaires** (1 cours/semaine/personne - hors samedi) :  
+**Horaires** :  
 - Mercredi : 19H30 - 22H30 
 - Jeudi    : 19H30 - 22H30
 - Vendredi : 09H30 - 12H30
@@ -22,7 +22,9 @@
 
 **Niveau tournage :** tous niveaux  
 
-**Tarif :** 1085€ l’année - 29 cours de 3H
+**Tarif :** 1085€ l’année - 29 cours de 3H  
+
+**Jour :** Vendredi 17H00
 
 Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
 L'idée est donc pour un petit groupe de 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
@@ -49,7 +51,9 @@ Le contenu est similaire à la "formule modelage et tournage" ci-dessous.
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif :** 1085€ l’année - 29 cours de 3H
+**Tarif :** 1085€ l’année - 29 cours de 3H  
+
+**Jours :** Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
 
 Les cours hebdomadaires de 3h de **modelage et tournage** vous permettent de pratiquer ces deux techniques pour une **approche globale du travail de la terre**.  
 
