@@ -4,7 +4,7 @@
 **Covid :** [Voir les conditions COVID](covid)  
 
 
-La terre se travaille à tout âge, c’est pour cette raison que nous proposons aux enfants, et adolescents des cours hebdomadaires d'1H30, dans lesquels ils alternent :
+La terre se travaille à tout âge, c’est pour cette raison que nous proposons aux **enfants dès 4ans**, et **adolescents** des cours hebdomadaires d'1H30, dans lesquels ils alternent :
 - des cours guidés autour d'une technique spécifique de façonnage ou de décoration
 - des cours pour donner libre cours à leur créativité.
 
@@ -16,12 +16,13 @@ La terre se travaille à tout âge, c’est pour cette raison que nous proposons
 
 
 **Durée :** 1H30  
-Les cours ont lieu de fin septembre à mi juin, **hors vacances scolaires**.
+Les cours ont lieu de fin septembre à mi juin, **hors vacances scolaires**.  
+Il n'y a pas cours pendant les vacances scolaires
 
 **Niveau :** 4 ans et +  
 
 **Tarif annuel :** 550€  
-Les fournitures et les cuissons sont compris dans le prix.  
+Les fournitures et les cuissons sont comprises dans le prix.  
 
 **Horaires** (1 cours/semaine/enfant) :  
 - Mercredi : 14H – 15H30  
