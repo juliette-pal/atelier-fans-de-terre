@@ -39,7 +39,7 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 ## FORMULE SAMEDI   
 **Niveau :**  Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif :** 800€ l’année - 16 cours de 3H30
+**Tarif :** 785€ l’année - 16 cours de 3H30
 
 Les cours d'une durée de 3H30 ont lieu sur 16 séances, à peu près, 1 samedi sur 2.  
 
