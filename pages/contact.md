@@ -6,10 +6,11 @@
 
 ## Horaires d'ouverture    
 
-•	Mercredi : 16H00 - 21H00  
-•	Jeudi : 18H00 - 21H00  
+•	Mercredi : 16H00 - 18H30 + 19H30 - 22H30  
+•	Jeudi : 16H00 - 18H30 + 19H30 - 22H30    
 •	Vendredi : 14H00 - 19H00  
 •	Samedi : 10H00 - 13H00 et 15H30 - 18H30  
+
 
 
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
