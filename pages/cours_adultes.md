@@ -3,11 +3,12 @@
   
 
 **Horaires** :  
-- Mercredi : 19H30 - 22H30 
+- Mercredi : 19H30 - 22H30  
+- Jeudi    : 15H00 - 18H00 - **Nouveau**  
 - Jeudi    : 19H30 - 22H30
-- Vendredi : 09H30 - 12H30
+- Vendredi : 09H30 - 12H30 - **Nouveau**  
 - Vendredi : 14H00 - 17H00  
-- Vendredi : 17H00 - 20H00 - **100% TOUR**  
+- Vendredi : 17H00 - 20H00 - **100% TOUR - Nouveau**  
 - Samedi   : 10H00 - 13H30 (**16 séances - 1 samedi sur 2 selon planning**)  
 
 :star: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
