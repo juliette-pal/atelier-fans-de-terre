@@ -11,6 +11,8 @@
 - Vendredi : 17H00 - 20H00 - **100% TOUR - Nouveau**  
 - Samedi   : 10H00 - 13H30 (**16 séances - 1 samedi sur 2 selon planning**)  
 
+:star: Une séance **raku** est prévue par an sur chaque cours hebdomadaire  
+
 :star: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
 
 :star: Tous les forfaits sont payable en 4 fois.  
