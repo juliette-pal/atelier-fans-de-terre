@@ -73,13 +73,11 @@ A chacun son rythme selon ses envies !
 
  
 
+## [Réinscription - Anciens élèves](https://www.helloasso.com/associations/fans-de-terre/evenements/reinscriptions-adultes-2021-2022){:target="_blank" }  
 
+## INSCRIPTIONS - NOUVEAUX ELEVES  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/new-inscriptions-adultes-2021-2022/widget" style="width: 100%; height: 750px; border: none;" ></iframe>
 
-
-## [Pré-réservation - Nouveaux élèves](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform?vc=0&c=0&w=1&flr=0){:target="_blank" }  
-
-
-## [Réinscription - Anciens élèves](https://www.helloasso.com/associations/fans-de-terre/evenements/reinscriptions-adultes-2021-2022){:target="_blank" }    
 
 
 
