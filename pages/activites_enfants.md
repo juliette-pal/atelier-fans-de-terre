@@ -20,7 +20,7 @@ Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, n
 **Tarif** : 80€ (modelage) - 95€ (tournage)  
 [En savoir plus...](parent_enfant)  
 
-## ANNIVERSAIRE avec les potes
+## ANNIVERSAIRE avec les copains et les copines
 Offrez à votre enfant un anniversaire entre copains à l'atelier (ou chez vous en option).  
 **Durée :** 1H15 (sans goûter) ou 2H30 (avec goûter)  
 **Niveau :** 4 ans et +  
