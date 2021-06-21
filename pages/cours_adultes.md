@@ -25,17 +25,17 @@
 
 **Niveau tournage :** tous niveaux  
 
-**Tarif :** 1085€ l’année - 29 cours de 3H  
+**Tarif :** 385€ (10 séances - sept à dec / janv à mars / avril à juin) - 1085€ (30 séances)  
 
-**Jour :** Vendredi 17H00
+**Jour :** Vendredi 17H00 - 20H
 
 Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
 L'idée est donc pour un petit groupe de 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
 Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
-- première heure : en autonomie, pour trouver ses propres sensations   
-- 2 heures suivantes : avec un professeur  
+- 1H : en autonomie, pour trouver ses propres sensations   
+- 2H : avec un professeur  
 
-1 séance par trimestre sera consacrée à l'émaillage.
+1 séance par trimestre sera éventuellement consacrée à l'émaillage (à définir avec le groupe).
 
 :star: **Attention, 6 tours, 6 places** !!! 
 
