@@ -78,8 +78,6 @@ A chacun son rythme selon ses envies !
 ## [Réinscription - Anciens élèves](https://www.helloasso.com/associations/fans-de-terre/evenements/reinscriptions-adultes-2021-2022){:target="_blank" }  
 
 ## Inscription - Nouveaux élèves  
-⚠️ En attendant de faire le point avec les élèves actuels, seuls les nouveaux cours sont ouverts aux inscriptions...  
-Nouvelles places sur autres cours vers le 20 juin !!!  
 
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/new-inscriptions-adultes-2021-2022/widget" style="width: 100%; height: 750px; border: none;" ></iframe>
 
