@@ -33,11 +33,7 @@ Les fournitures et les cuissons sont comprises dans le prix.
 [Voir toutes les activités enfants](activites_enfants)  
 
 
-## RESERVER  
-
-## [Réinscription - Anciens élèves](https://www.helloasso.com/associations/fans-de-terre/evenements/reinscriptions-enfants-2021-2022){:target="_blank" }    
-
-## Inscription - Nouveaux élèves  
+## INSCRIPTIONS 2021/2022  
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-enfants-2021-2022/widget" style="width: 100%; height: 750px; border: none;"></iframe>
 
 
