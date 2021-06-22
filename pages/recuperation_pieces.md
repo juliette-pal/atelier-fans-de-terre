@@ -4,7 +4,7 @@
 
 •	Mercredi : 17H00 - 18H30   
 •	Vendredi : 17H00 - 18H30  
-•	Samedi : 10H00 - 13H00 et 15H30 - 18H30  
+•	Samedi   : 10H00 - 17H00  
 
 <img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
 
