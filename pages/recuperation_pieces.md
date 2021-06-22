@@ -2,9 +2,8 @@
 **ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.** 
 ## Horaires d'ouverture    
 
-•	Mercredi : 16H00 - 18H30 + 19H30 - 22H30  
-•	Jeudi : 16H00 - 18H30 + 19H30 - 22H30    
-•	Vendredi : 14H00 - 19H00  
+•	Mercredi : 17H00 - 18H30   
+•	Vendredi : 17H00 - 18H30  
 •	Samedi : 10H00 - 13H00 et 15H30 - 18H30  
 
 <img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
