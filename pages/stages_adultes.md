@@ -1,7 +1,7 @@
 ---
 title: Stages Adultes Poterie & Céramique
 redirect_from:
-    - /stages-et-evenements-cours-poterie-ceramique-colombes
+    - /stages-et-evenements-cours-poterie-ceramique-colombes/
 ---
 # STAGES WEEK-END  
 # Adultes

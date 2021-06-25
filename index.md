@@ -2,6 +2,8 @@
 title: COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES (92)
 src-facebook: "images/icone_facebook.png"
 src-instagram: "images/icone_instagram.png"
+redirect_from:
+- /galeries-cours-poterie-ceramique-colombes/
 ---
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  

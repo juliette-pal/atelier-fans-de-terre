@@ -1,3 +1,7 @@
+---
+redirect_from:
+    - /stages-et-evenements-cours-poterie-ceramique-colombes/cours-de-tournage-uniquement/
+---
 # COURS ADULTES HEBDOMADAIRES  
 **Covid :** [Voir les conditions COVID](covid)  
   

@@ -1,3 +1,7 @@
+---
+redirect_from:
+    - /agenda-cours-poterie-ceramique-colombes/actualites-cours-de-poterie-ceramique-colombes/stages-ados-enfants/
+---
 # ACTIVITES ENFANTS  
 
 ## LES COURS HEBDOMADAIRES 1H30

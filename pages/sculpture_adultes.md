@@ -1,3 +1,7 @@
+---
+redirect_from:
+    - /stages-et-evenements-cours-poterie-ceramique-colombes/stages-sculpture/
+---
 # STAGE SCULPTURE - ADULTES
 
 Nous vous accompagnons dans la **réalisation de bustes** ou des **représentations du corps humain**.  
