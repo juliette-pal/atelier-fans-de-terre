@@ -39,44 +39,21 @@
   color: rgb(90, 128, 107) !important;
   background-color: rgb(255 255 255 / 82%) !important;
 }
-@media only screen and (max-width: 55rem){
-  #banner-image {
-    width: 100vw;
-  }
-  #btn-desktop {
-    display: none;
-  }
-  #btn-mobile {
-    display: inline;
-  }
-  .project-tagline a {
-    font-size: 2rem;
-  }
-  .btn + .btn {
-    margin-top: 0.2rem;
-  }
-  .btn {
-    padding: 0.50rem;
-    margin-bottom: 0;
-  }
-  #menu a {
-    background-color:rgba(90, 128, 107, 0.87) ;
-  }
+#btn-mobile {
+  display: none;
 }
-@media only screen and (min-width: 56rem){
-  #btn-mobile {
-    display: none;
-  }
-  #menu {
-    display: none;
-  }
-  .image-stage {
-    float: right;
-  }
-  .image-horiz {
-    float: right;
-  }
+#menu {
+  display: none;
 }
+.image-stage {
+  float: right;
+}
+.image-horiz {
+  float: right;
+}
+
+
+
 h1, h2 {
   color: #860d0d;
 }
@@ -123,8 +100,38 @@ transform: scale(1.1);
 h1 a, h2 a {
 color: #159957 !important ;
 }
+
+/* mode mobile */
 @media only screen and (max-width: 55rem){
+  #banner-image {
+    width: 100vw;
+  }
+  #btn-desktop {
+    display: none;
+  }
+  #btn-mobile {
+    display: inline;
+  }
+  .project-tagline a {
+    font-size: 2rem;
+  }
+  .btn + .btn {
+    margin-top: 0.2rem;
+  }
+  .btn {
+    padding: 0.50rem;
+    margin-bottom: 0;
+  }
+  #menu a {
+    background-color:rgba(90, 128, 107, 0.87) ;
+  }
+  .image-horiz {
+    margin: 1em;
+    width: 200px; 
+    height: 150px;
+  }
   nav {
     display: none;
   }
-}  
+
+}
