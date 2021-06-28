@@ -24,5 +24,5 @@ Le tarif comprend une pi√®ce de 20cm x 20cm maximum qui sera **cuite 2 fois et √
 ---
 
 ## RESERVER  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-/ou/-emaillage-2021-2022/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-/-ou-/-emaillage-2021-2022/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
 
