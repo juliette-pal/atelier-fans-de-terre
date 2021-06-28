@@ -6,7 +6,8 @@ Après vous être familiarisé au tour, l'après-midi, vous continuez à tourner
 
 Maximum 6 participants par stage.  
 
-<img src="/images/tournage-poterie-vase_fans-de-terre.jpeg" class="image-stage">
+<img src="/images/tournage-poterie-vase_fans-de-terre.jpeg" class="image-stage">  
+
 
 **Durée :** 1 journée
 
