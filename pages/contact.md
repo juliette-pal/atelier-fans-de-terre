@@ -5,6 +5,7 @@
 92700 Colombes
 
 ## Horaires d'ouverture    
+⭐ Pendant les vacances scolaires, les horaires sont mis à jour chaque semaine.  
 
 •	Mercredi : 17H00 - 18H30   
 •	Vendredi : 17H00 - 18H30  
