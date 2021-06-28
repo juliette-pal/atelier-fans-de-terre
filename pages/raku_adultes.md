@@ -54,7 +54,8 @@ Modelage et émaillage pendant les cours + cuisson en stage
 
 ## RESERVER (dates émaillage et cuissons)   
 La journée (émaillage et cuisson) se déroule de 11H00 à 17H environ.  
-⭐ Si vous optez pour la formule avec modelage, vous devez venir au moins 2 semaines avant pour façonner vos pièces. Choisissez une date avec le code **MODRAKU**.  
+⭐ Si vous optez pour la formule avec modelage, vous devez venir au moins 2 semaines avant pour façonner vos pièces (consulter la liste des stages modelage).  
+
 
 Chacun ramène de quoi déjeuner dans le jardin façon auberge espagnole.  
 
