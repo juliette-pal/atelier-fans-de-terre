@@ -52,8 +52,6 @@
   float: right;
 }
 
-
-
 h1, h2 {
   color: #860d0d;
 }
@@ -130,6 +128,9 @@ color: #159957 !important ;
     width: 300px; 
     height: 250px;
   }
+  .image-stage {
+    padding-left: 1.2em;
+  } 
   nav {
     display: none;
   }
