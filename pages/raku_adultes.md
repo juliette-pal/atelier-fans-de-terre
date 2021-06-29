@@ -47,16 +47,20 @@ Modelage et émaillage pendant les cours + cuisson en stage
 **Tarif modelage et émaillage en cours + cuisson en stage :** 30€ + 10€/pièce à cuire  
 **Tarif modelage en cours + émaillage et cuisson en stage :** 60€ + 10€/pièce à cuire  
 **Tarif modelage, émaillage et cuisson en stage :** -20% sur tarif normal  
-
-### Dates émaillage et cuissons :  
-La journée (émaillage et cuisson) se déroule de 11H00 à 17H environ.
-Chacun ramène de quoi déjeuner dans le jardin façon auberge espagnole.  
  
 ---
+## RAKU NOCTURNE  
+[Voir la vidéo d’un raku nocturne avec les élèves de l’atelier](https://www.youtube.com/watch?v=EiUtPL2H8mU)
 
-## RESERVER  
+## RESERVER (dates émaillage et cuissons)   
+La journée (émaillage et cuisson) se déroule de 11H00 à 17H environ.  
+⭐ Si vous optez pour la formule avec modelage, vous devez venir au moins 2 semaines avant pour façonner vos pièces (consulter la liste des stages modelage).  
+
+
+Chacun ramène de quoi déjeuner dans le jardin façon auberge espagnole.  
+
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
 
 
-[Voir la vidéo d’un raku nocturne avec les élèves de l’atelier](https://www.youtube.com/watch?v=EiUtPL2H8mU)
+
 

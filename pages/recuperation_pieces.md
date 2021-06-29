@@ -1,6 +1,7 @@
 # Comment récupérer vos pièces après un stage ?
 **ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.** 
 ## Horaires d'ouverture    
+⭐ Pendant les vacances scolaires, les horaires sont mis à jour chaque semaine.  
 
 •	Mercredi : 17H00 - 18H30   
 •	Vendredi : 17H00 - 18H30  
