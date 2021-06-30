@@ -20,7 +20,7 @@ J'anime les cours et stages enfants de l'atelier.
 Bijoutière joaillière et céramiste, Lydie a le sens du détail.  
 Le mariage du métal et de la terre l’intéresse tout particulièrement.  
 Ce qui ne l’empêche pas, CAP tournage en poche d’avoir une excellente maîtrise de cette technique.  
-Lydie anime des cours hebdomadaires et stages adultes.  
+Lydie anime des stages adultes.  
 [L'Instagram de Lydie](https://www.instagram.com/brume_lydiesmithceramique/)
 
 ## Rose-Hélène
