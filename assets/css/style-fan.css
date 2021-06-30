@@ -1,137 +1,164 @@
 .project-tagline {
-  font-family: 'Nothing You Could Do', cursive;
-  margin-bottom: 1rem !important;
-}
-.project-tagline a {
-  color: #860d0d !important;
-  font-size: 2.7rem;
-}
-.page-header {
-  background-color: #c6baac !important;
-  background-image: none !important;
-}
-#banner-bg {
-  background-size: auto;
-  background-size: cover;
-  background-position: top;
-  width: 100vw;
-  height: 40vh;
-  padding: auto;
-}
-#banner-image {
-  background: url(/images/pot-vase-poterie-céramique_fansdeterre_colombes.jpeg);
-  background-position: top;
-  background-size: cover;
-  width: 50vw;
-  height: 40vh;
-  margin: 0 auto;
-}
-#first-banner {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  background-color: rgb(90, 128, 107);
-}
-#first-banner a {
-  margin: 0 !important;
-}
-.btn-action a {
-  color: rgb(90, 128, 107) !important;
-  background-color: rgb(255 255 255 / 82%) !important;
-}
-#btn-mobile {
-  display: none;
-}
-#menu {
-  display: none;
-}
-.image-stage {
-  float: right;
-}
-.image-horiz {
-  float: right;
+    font-family: 'Nothing You Could Do', cursive;
+    margin-bottom: 1rem !important;
 }
 
-h1, h2 {
-  color: #860d0d;
+.project-tagline a {
+    color: #860d0d !important;
+    font-size: 2.7rem;
 }
+
 .page-header {
-  padding: 0 !important;
+    background-color: #c6baac !important;
+    background-image: none !important;
 }
+
+#banner-bg {
+    background-size: auto;
+    background-size: cover;
+    background-position: top;
+    width: 100vw;
+    height: 40vh;
+    padding: auto;
+}
+
+#banner-image {
+    background: url(/images/pot-vase-poterie-céramique_fansdeterre_colombes.jpeg);
+    background-position: top;
+    background-size: cover;
+    width: 50vw;
+    height: 40vh;
+    margin: 0 auto;
+}
+
+#first-banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(90, 128, 107);
+}
+
+#first-banner a {
+    margin: 0 !important;
+}
+
+.btn-action a {
+    color: rgb(90, 128, 107) !important;
+    background-color: rgb(255 255 255 / 82%) !important;
+}
+
+#btn-mobile {
+    display: none;
+}
+
+#menu {
+    display: none;
+}
+
 .image-stage {
-  margin: 1.5em;
-  width: 300px; 
-  height: 400px;
+    float: right;
 }
+
 .image-horiz {
-  margin: 1em;
-  width: 400px; 
-  height: 300px;
+    float: right;
 }
+
+h1,
+h2 {
+    color: #860d0d;
+}
+
+.page-header {
+    padding: 0 !important;
+}
+
+.image-stage {
+    margin: 1.5em;
+    width: 300px;
+    height: 400px;
+}
+
+.image-horiz {
+    margin: 1em;
+    width: 400px;
+    height: 300px;
+}
+
 footer {
-  background-color: rgb(90, 128, 107);
-  color: rgba(255, 255, 255, 0.7);
+    background-color: rgb(90, 128, 107);
+    color: rgba(255, 255, 255, 0.7);
 }
-footer > div {
-  max-width: 64rem;
-  padding: 1rem 4rem;
-  margin: 0 auto;
+
+footer>div {
+    max-width: 64rem;
+    padding: 1rem 4rem;
+    margin: 0 auto;
 }
-footer .address{
-  margin-bottom: 1rem;
+
+footer .address {
+    margin-bottom: 1rem;
 }
+
 footer .address img {
-  max-width: 3rem;
-  transition: transform 0.5s;
+    max-width: 3rem;
+    transition: transform 0.5s;
 }
-footer .address > div {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+
+footer .address>div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+
 footer .address img:hover {
-transform: scale(1.1);
+    transform: scale(1.1);
 }
+
 .site-footer {
-  padding-top: 0 !important;
+    padding-top: 0 !important;
 }
-h1 a, h2 a {
-color: #159957 !important ;
+
+h1 a,
+h2 a {
+    color: #159957 !important;
 }
+
 
 /* mode mobile */
-@media only screen and (max-width: 55rem){
-  #banner-image {
-    width: 100vw;
-  }
-  #btn-desktop {
-    display: none;
-  }
-  #btn-mobile {
-    display: inline;
-  }
-  .project-tagline a {
-    font-size: 2rem;
-  }
-  .btn + .btn {
-    margin-top: 0.2rem;
-  }
-  .btn {
-    padding: 0.50rem;
-    margin-bottom: 0;
-  }
-  #menu a {
-    background-color:rgba(90, 128, 107, 0.87) ;
-  }
-  .image-horiz {
-    margin: 1em;
-    width: 300px; 
-    height: 250px;
-  }
-  .image-stage {
-    padding-left: 1.2em;
-  } 
-  nav {
-    display: none;
-  }
+
+@media only screen and (max-width: 55rem) {
+    #banner-image {
+        width: 100vw;
+    }
+    #btn-desktop {
+        display: none;
+    }
+    #btn-mobile {
+        display: inline;
+    }
+    .project-tagline a {
+        font-size: 2rem;
+    }
+    .btn+.btn {
+        margin-top: 0.2rem;
+    }
+    .btn {
+        padding: 0.50rem;
+        margin-bottom: 0;
+    }
+    #menu a {
+        background-color: rgba(90, 128, 107, 0.87);
+    }
+    .image-horiz {
+        margin: 1em;
+        width: 300px;
+        height: 250px;
+    }
+    .image-stage {
+        padding-left: 1.2em;
+        float: none;
+    }
+    nav {
+        display: none;
+    }
 }
