@@ -3,8 +3,8 @@
 ## Horaires d'ouverture    
 ⭐ L'atelier ferme ses portes le 11 Juillet pour réouvrir le 1er septembre.  
 
-•	Mercredi : 17H00 - 18H30   
-•	Vendredi : 17H00 - 18H30  
+•	Mercredi : 17H00 - 19H   
+•	Vendredi : 17H00 - 19H  
 •	Samedi   : 15H00 - 17H00  
 
 <img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
