@@ -45,5 +45,3 @@ Faire une refonte (renouveller) le site de Fans de Terre.
 [Terre et Feu](https://www.terre-et-feu.com/paris/cours-de-ceramique-paris/)
 [Le Bol](https://le-bol.fr/cours-de-poterie-en-ligne/)
 => Plus chaud, plus fun, beaucoup de texte, plus difficile à trouver l'info
-
-## Le choix technique
