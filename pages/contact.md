@@ -1,15 +1,15 @@
-# Fans de terre - Infos pratiques
+# Informations pratiques
 
-## Atelier 
+## Atelier FANS DE TERRE  
 51, rue Guerlain,  
 92700 Colombes
 
 ## Horaires d'ouverture    
-⭐ Pendant les vacances scolaires, les horaires sont mis à jour chaque semaine.  
+⭐ L'atelier ferme ses portes le 11 Juillet pour réouvrir le 1er septembre.  
 
-•	Mercredi : 17H00 - 18H30   
-•	Vendredi : 17H00 - 18H30  
-•	Samedi   : 10H00 - 17H00  
+•	Mercredi : 17H00 - 19H   
+•	Vendredi : 17H00 - 19H  
+•	Samedi   : 15H00 - 17H00  
 
 
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
