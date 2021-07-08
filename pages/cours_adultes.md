@@ -29,7 +29,7 @@ redirect_from:
 
 **Niveau tournage :** tous niveaux  
 
-**Tarif :** 385€ (10 séances - sept à dec / janv à mars / avril à juin) - 1085€ (30 séances)  
+**Tarif :** 385€ (10 séances - sept à dec / janv à mars / avril à juin)  
 
 **Jour :** Vendredi 17H00 - 20H
 
