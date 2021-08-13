@@ -8,7 +8,8 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
-## Reprise des cours le mercredi 29 septembre 2021  
+⭐ **Réouverture de l'atelier** : mercredi 1er septembre  
+⭐ **Reprise des cours** : mercredi 29 septembre 2021  
 
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
