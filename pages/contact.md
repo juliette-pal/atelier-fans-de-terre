@@ -5,7 +5,7 @@
 92700 Colombes
 
 ## Horaires d'ouverture    
-⭐ L'atelier ferme ses portes le 11 Juillet pour réouvrir le 1er septembre.  
+⭐ Réouverture de l'atelier le 1er septembre  
 
 •	Mercredi : ...   
 •	Vendredi : ...  
