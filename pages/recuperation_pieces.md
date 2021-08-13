@@ -1,7 +1,8 @@
 # Comment récupérer vos pièces après un stage ?
 **ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.** 
 ## Horaires d'ouverture    
-⭐ L'atelier ferme ses portes le 11 Juillet pour réouvrir le 1er septembre.  
+
+⭐ ⭐ Réouverture de l'atelier le 1er septembre    
 
 •	Mercredi : ...   
 •	Vendredi : ...  
