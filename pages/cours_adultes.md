@@ -5,6 +5,9 @@ redirect_from:
 # COURS ADULTES HEBDOMADAIRES  
 **Covid :** [Voir les conditions COVID](covid)  
   
+  
+:star: **Les cours reprennent le mercredi 29 septembre 2021**  
+
 
 **Horaires** :  
 - Mercredi : 19H30 - 22H30  
@@ -13,7 +16,7 @@ redirect_from:
 - Vendredi : 09H30 - 12H30 - **Nouveau**  
 - Vendredi : 14H00 - 17H00  
 - Vendredi : 17H00 - 20H00 - **100% TOUR - Nouveau**  
-- Samedi   : 10H00 - 13H30 (**16 séances - 1 samedi sur 2 selon planning**)  
+- Samedi   : 10H00 - 13H30 - **16 séances - 1 samedi sur 2** - [Voir les séances](samedi.md)  
 
 :star: Une séance **raku** est prévue par an sur chaque cours hebdomadaire  
 
@@ -21,7 +24,7 @@ redirect_from:
 
 :star: Tous les forfaits sont payable en 4 fois.  
 
-:star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages le week-end** ([voir les stages adultes](stages_adultes.md)).   
+:star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages le week-end** [ - Voir les stages adultes](stages_adultes.md).   
   
   
 
@@ -29,15 +32,15 @@ redirect_from:
 
 **Niveau tournage :** tous niveaux  
 
-**Tarif :** 385€ (10 séances - sept à dec / janv à mars / avril à juin)  
+**Tarif : 385€** - 10 séances - sept à dec ou janv à mars ou avril à juin  
 
 **Jour :** Vendredi 17H00 - 20H
 
 Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
 L'idée est donc pour un petit groupe de 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
 Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
-- 1H : en autonomie, pour trouver ses propres sensations   
-- 2H : avec un professeur  
+**- 1H : en autonomie**, pour trouver ses propres sensations   
+**- 2H : avec un professeur**  
 
 1 séance par trimestre sera éventuellement consacrée à l'émaillage (à définir avec le groupe).
 
@@ -46,9 +49,9 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 ## FORMULE SAMEDI   
 **Niveau :**  Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif :** 785€ l’année - 16 cours de 3H30
+**Tarif : 785€ l’année** - 16 cours de 3H30  
 
-Les cours d'une durée de 3H30 ont lieu sur 16 séances, à peu près, 1 samedi sur 2.  
+Les cours d'une durée de 3H30 ont lieu sur 16 séances, à peu près, 1 samedi sur 2 - [Voir les séances](samedi.md)  
 
 Le contenu est similaire à la "formule modelage et tournage" ci-dessous.  
 
@@ -58,7 +61,7 @@ Le contenu est similaire à la "formule modelage et tournage" ci-dessous.
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif :** 1085€ l’année - 29 cours de 3H  
+**Tarif : 1085€ l’année** - 29 cours de 3H  
 
 **Jours :** Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
 
