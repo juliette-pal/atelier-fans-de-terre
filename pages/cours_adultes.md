@@ -22,8 +22,6 @@ redirect_from:
 
 :star: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
 
-:star: Tous les forfaits sont payable en 4 fois.  
-
 :star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages le week-end** [ - Voir les stages adultes](stages_adultes.md).   
   
   
@@ -32,7 +30,7 @@ redirect_from:
 
 **Niveau tournage :** tous niveaux  
 
-**Tarif : 385€** - 10 séances - sept à dec ou janv à mars ou avril à juin  
+**Tarif : 385€ - 10 séances** - Sept à dec * janv à mars * avril à juin  
 
 **Jour :** Vendredi 17H00 - 20H
 
@@ -44,8 +42,12 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 
 1 séance par trimestre sera éventuellement consacrée à l'émaillage (à définir avec le groupe).
 
-:star: **Attention, 6 tours, 6 places** !!! 
+:star: **Attention, 6 tours, 6 places** !!!  
 
+:star: Forfait payable en 1 fois.  
+
+  
+  
 ## FORMULE SAMEDI   
 **Niveau :**  Modelage (tous niveaux) - Tournage (tous niveaux)  
 
@@ -56,6 +58,10 @@ Les cours d'une durée de 3H30 ont lieu sur 16 séances, à peu près, 1 samedi 
 Le contenu est similaire à la "formule modelage et tournage" ci-dessous.  
 
 
+:star: Forfait payable en 4 fois.  
+
+  
+  
 ## FORMULE MODELAGE ET TOURNAGE  
 
 **Niveau :**  
@@ -72,6 +78,9 @@ L'apprentissage du tournage demandant avant tout de la pratique, nous conseillon
 
 Nous vous faisons également **découvrir de nouvelles techniques** chaque année en alternance avec des **projets personnels**.  
 Et pour les plus indépendants, il est possible de **suivre son propre rytme**.  
+
+
+:star: Forfait payable en 4 fois.  
 
 
 **Nous serons ravis de vous accompagner en fonction de votre niveau et quelque soit la formule choisie.**  
