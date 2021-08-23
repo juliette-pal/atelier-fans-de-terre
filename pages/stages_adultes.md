@@ -42,7 +42,7 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
 **Durée** : 1 jour et demi  
 **Niveau** : Déb./Int.     
-**Tarif** : 140€  
+**Tarif** : 150€  
 [En savoir plus...](raku_adultes) 
 
 ## [DECOR / EMAILLAGE](emaillage_adultes.md)   
