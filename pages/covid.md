@@ -1,6 +1,7 @@
 # Dispositions particulières - COVID  
 
 En raison des conditions sanitaires, nous vous demandons de bien vouloir observer les mesures en vigueur à l'atelier :
+-	Tout participant à un cours ou stage doit se munir de son pass sanitaire
 -	Chacun ramène son tablier ou sa blouse
 -	Prise de température à l’arrivée
 -	Lavage des mains à l’arrivée et au cours de l’atelier
