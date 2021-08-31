@@ -1,12 +1,15 @@
 # Comment récupérer vos pièces après un stage ?
-**ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.** 
-## Horaires d'ouverture    
-
-⭐ ⭐ Réouverture de l'atelier le 1er septembre    
-
-•	Mercredi : ...   
-•	Vendredi : ...  
-•	Samedi   : ...  
+**ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.**  
+  
+  
+## Horaires d'ouverture en septembre 2021    
+•	Du lundi au vendredi : sur rdv au 0611029190  
+  
+  
+•	Dimanche 5/09 : 14h - 19h  
+•	Samedi 18 et dimanche 19 : 14h à 18h    
+•	Samedi 25/09 : 16h : 19h  
+•	Dimanche 26/09 : 14h - 19h  
 
 
 <img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
