@@ -3,13 +3,15 @@
 ## Atelier FANS DE TERRE  
 51, rue Guerlain,  
 92700 Colombes
-
-## Horaires d'ouverture    
-⭐ Réouverture de l'atelier le 1er septembre  
-
-•	Mercredi : ...   
-•	Vendredi : ...  
-•	Samedi   : ...  
+  
+## Horaires d'ouverture en septembre 2021    
+•	Du lundi au vendredi : sur rdv au 0611029190  
+  
+  
+•	Dimanche 5/09 : 14h - 19h  
+•	Samedi 18 et dimanche 19 : 14h à 18h    
+•	Samedi 25/09 : 16h : 19h  
+•	Dimanche 26/09 : 14h - 19h 
 
 
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
