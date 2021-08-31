@@ -8,9 +8,12 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
-⭐ **Réouverture de l'atelier** : 1er septembre  
-⭐ **Reprise des cours** : 29 septembre 2021  
-  
+⭐ **1er Septembre** : **REOUVERTURE DE L'ATELIER** ([cliquer ici](pages/recuperation_pieces.md) pour voir les conditions de récupérations des pièces de stages)    
+
+✋ **4 septembre** : Fans de terre sera au stand 71 du **FORUM DES ASSOCIATIONS**, le samedi **de 9h à 18h**  
+✋ **5 septembre** : Nous vous attendons aux **PORTES OUVERTES** de l'atelier **de 14h à 19h**  
+
+⭐ **27 septembre** : **REPRISE DES COURS**    
   
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
