@@ -56,7 +56,7 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 
 Deux possibilités pour ce cours :  
 - Matin (AM) : 10H - 13H30
-- Après-midi (PM) : 15H - 18H30
+- Après-midi (PM) : 15H - 18H30  
 Les cours d'une durée de 3H30 ont lieu sur 16 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
 
 Le contenu est similaire à la "formule modelage et tournage" ci-dessous.  
