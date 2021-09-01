@@ -17,6 +17,7 @@ redirect_from:
 - Vendredi : 14H00 - 17H00  
 - Vendredi : 17H00 - 20H00 - **100% TOUR - Nouveau**  
 - Samedi   : 10H00 - 13H30 - **16 séances - 1 samedi sur 2** - [Voir les séances](samedi.md)  
+- Samedi   : 15H00 - 18H30 - **16 séances - 1 samedi sur 2** - [Voir les séances](samedi.md)  
 
 :star: Une séance **raku** est prévue par an sur chaque cours hebdomadaire  
 
@@ -48,12 +49,15 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 
   
   
-## FORMULE SAMEDI   
+## 2 FORMULES SAMEDI   
 **Niveau :**  Modelage (tous niveaux) - Tournage (tous niveaux)  
 
 **Tarif : 785€ l’année** - 16 cours de 3H30  
 
-Les cours d'une durée de 3H30 ont lieu sur 16 séances, à peu près, 1 samedi sur 2 - [Voir les séances](samedi.md)  
+Deux possibilités pour ce cours :  
+- Matin (AM) : 10H - 13H30
+- Après-midi (PM) : 15H - 18H30
+Les cours d'une durée de 3H30 ont lieu sur 16 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
 
 Le contenu est similaire à la "formule modelage et tournage" ci-dessous.  
 
