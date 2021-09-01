@@ -36,6 +36,7 @@ redirect_from:
 
 Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
 L'idée est donc pour un petit groupe de 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
+  
 Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
 **- 1H : en autonomie**, pour trouver ses propres sensations   
 **- 2H : avec un professeur**  
@@ -54,9 +55,11 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 **Tarif : 785€ l’année** - 16 cours de 3H30  
 
 Les cours d'une durée de 3H30 ont lieu sur 16 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
+  
 Deux possibilités pour ce cours :  
 - Matin (AM) : 10H - 13H30  
 - Après-midi (PM) : 15H - 18H30  
+  
 Le contenu est similaire à la "formule modelage et tournage" ci-dessous.  
 
 
