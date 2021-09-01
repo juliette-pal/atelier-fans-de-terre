@@ -43,6 +43,7 @@ redirect_from:
 - Samedi 16 - 18 Juin  
 
 ** Jours différents aux 2 groupes  
+  
 ⭐ Rattrapage : possible en cas d'absence exceptonnelle, annoncée au minimum 1 semaine avant (uniquement pendant les cours).  
 
  
