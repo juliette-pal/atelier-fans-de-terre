@@ -18,6 +18,7 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 **Tous les mercredis** : 14h à 15h30 ou 16h30 à 18h  
 Venez décorer des poteries fournies par l'atelier.   
 **1 poterie par participant**.   
+Contrairement aux autres formules, 1 adulte peut accompager 2 enfants  
 Vous pourrez ensuite les utiliser au quotidien !!!  
 Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'émailler et la cuire pour vous. 
   
