@@ -13,7 +13,7 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 
 ## Décore ta poterie ** NEW **  
 **Durée :** 1H30  
-**Niveau :** 4 ans et +  
+**Niveau :** 3 ans et +  
 **Tarif :** 25€ par participant  
 **Tous les mercredis** de 14h à 15h30 ou de 16h30 à 18h  
 Venez décorer des poteries fournies par l'atelier.   
@@ -24,7 +24,7 @@ Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'
   
 ## Modelage  
 **Durée :** 2H30  
-**Niveau :** 4 ans et +  
+**Niveau :** 3 ans et +  
 **Tarif :** 80€ (pour 2)  
 Vous réalisez un **projet commun** et nous vous accompagnons dans sa réalisation.  
 En fonction du temps, vous pourrez le mettre en couleur.  
