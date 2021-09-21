@@ -5,7 +5,7 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 ... Pour un souvenir inoubliable !!!  
 
 
-**_La récupération des pièces se fait 10 jours à 1 mois après le stage.**
+**_La récupération des pièces se fait 10 jours à 1 mois après le stage._**
 
 <img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">
 
