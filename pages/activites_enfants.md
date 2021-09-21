@@ -14,14 +14,14 @@ Pour une pratique artistique régulière autour des techniques céramiques.
 ## STAGES VACANCES SCOLAIRES
 Les stages se déroulent sur 4 séances de 3 heures (lundi au jeudi)  
 **Niveau** : à partir de 3 ans  
-**Tarif** : Modelage 145€ - Tournage 165€  
+**Tarif** : à partir de 145€  
 [En savoir plus](stages_enfants)  
 
 ## PARENTS/ENFANTS  
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
 **Durée** : à partir de 1H30  
-**Niveau** : à partir de 3 ans 
-**Tarif pour 2** : à partir de 50€
+**Niveau** : à partir de 3 ans   
+**Tarif pour 2** : à partir de 50€  
 [En savoir plus...](parent_enfant)  
 
 ## ANNIVERSAIRE avec les copains et les copines
