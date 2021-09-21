@@ -16,10 +16,13 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 **Niveau :** 3 ans et +  
 **Tarif :** 25€ par participant  
 **Tous les mercredis** : 14h à 15h30 ou 16h30 à 18h  
+  
 Venez décorer des poteries fournies par l'atelier.   
-**1 poterie par participant**.   
-Contrairement aux autres formules, 1 adulte peut accompager 2 enfants  
 Vous pourrez ensuite les utiliser au quotidien !!!  
+**1 poterie par participant**.   
+  
+Contrairement aux autres formules, 1 adulte peut accompager 2 enfants.  
+
 Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'émailler et la cuire pour vous. 
   
   
@@ -27,6 +30,7 @@ Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'
 **Durée :** 2H30  
 **Niveau :** 3 ans et +  
 **Tarif :** 80€ (pour 2)  
+  
 Vous réalisez un **projet commun** et nous vous accompagnons dans sa réalisation.  
 En fonction du temps, vous pourrez le mettre en couleur.  
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.
@@ -35,6 +39,7 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 **Durée :** 3H  
 **Niveau :** 8 ans et +  
 **Tarif :** 95€ (pour 2)  
+  
 Après une démonstration, vient le temps de la pratique.   
 Dans le binôme que vous formez avec votre enfant, vous vous coacherez à tour de rôle.  
 Les petits pots tournés seront assemblés pour un **objet unique** !!!  
