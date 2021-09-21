@@ -5,22 +5,40 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 ... Pour un souvenir inoubliable !!!  
 
 
-**_La récupération des pièces se fait un mois après le stage._**
+**_La récupération des pièces se fait 10 jours à 1 mois après le stage._**
 
 <img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">
- 
+
+Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillage, sont compris dans le prix.
+
+## Décore ta poterie ** NEW **  
+**Durée :** 1H30  
+**Niveau :** 4 ans et +  
+**Tarif :** 25€ par participant  
+**Tous les mercredis** de 14h à 15h30 ou de 16h30 à 18h  
+Venez décorer des poteries fournies par l'atelier.   
+**1 poterie par participant**.   
+Vous pourrez ensuite les utiliser au quotidien !!!  
+Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'émailler et la cuire pour vous. 
+  
+  
 ## Modelage  
 **Durée :** 2H30  
 **Niveau :** 4 ans et +  
-**Tarif :** 80€  
-Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
-
+**Tarif :** 80€ (pour 2)  
+Vous réalisez un **projet commun** et nous vous accompagnons dans sa réalisation.  
+En fonction du temps, vous pourrez le mettre en couleur.  
+Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.
 
 ## Tournage  
 **Durée :** 3H  
 **Niveau :** 8 ans et +  
-**Tarif :** 95€  
-Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
+**Tarif :** 95€ (pour 2)  
+Après une démonstration, vient le temps de la pratique.   
+Dans le binôme que vous formez avec votre enfant, vous vous coacherez à tour de rôle.  
+Les petits pots tournés seront assemblés pour un **objet unique** !!!  
+Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.    
+  
 
 ---
 ## Liste d'attente
