@@ -17,11 +17,11 @@ Les stages se déroulent sur 4 séances de 3 heures du lundi au jeudi.
 **Tarif** : Modelage 145€ - Tournage 165€  
 [En savoir plus](stages_enfants)  
 
-## PARENT/ENFANT  
+## PARENTS/ENFANTS  
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
-**Durée** : 2H30 (modelage) ou 3H (tournage)  
-**Niveau** : Modelage (à partir de 3 ans) - Tournage (à partir de 8 ans)  
-**Tarif** : 80€ (modelage) - 95€ (tournage)  
+**Durée** : 1H30 (**décore ta poterie**) - 2H30 (**modelage**) ou 3H (**tournage**)  
+**Niveau** : Modelage et décoration (à partir de 3 ans) - Tournage (à partir de 8 ans)  
+**Tarif pour 2** : 50€ (décore ta poterie) - 80€ (modelage) - 95€ (tournage)  
 [En savoir plus...](parent_enfant)  
 
 ## ANNIVERSAIRE avec les copains et les copines
