@@ -16,6 +16,12 @@ Je m'inspire de l’esprit ludique des objets et de l’univers du pop’ art et
 J'anime les cours et stages enfants de l'atelier.  
 [L'Instagram de Sophie](https://www.instagram.com/sophie_b_ceramique/)  
 
+## Bénédicte  
+Travailler la terre a toujours été quelque part dans ma tête mais il a fallu faire pas mal de chemin pour que ça devienne enfin une évidence.  
+J'aime beaucoup tourner, c'est apaisant. Et je m'efforce de fabriquer de jolies pièces utilitaires.  
+Ce qui me plaît surtout dans le travail de la terre c'est qu'on a besoin de ses mains et des quatre éléments : la terre, l'eau, l'air et enfin le feu. 
+
+
 ## Lydie
 Bijoutière joaillière et céramiste, Lydie a le sens du détail.  
 Le mariage du métal et de la terre l’intéresse tout particulièrement.  

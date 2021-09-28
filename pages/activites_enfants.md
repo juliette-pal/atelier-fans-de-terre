@@ -12,21 +12,21 @@ Pour une pratique artistique régulière autour des techniques céramiques.
 [En savoir plus](cours_enfants)  
 
 ## STAGES VACANCES SCOLAIRES
-Les stages se déroulent sur 4 séances de 3 heures du lundi au jeudi.  
-**Niveau** : Modelage (à partir de 3 ans) - Tournage (à partir de 8 ans)  
-**Tarif** : Modelage 145€ - Tournage 165€  
+Les stages se déroulent sur 4 séances de 3 heures (lundi au jeudi)  
+**Niveau** : à partir de 3 ans  
+**Tarif** : à partir de 145€  
 [En savoir plus](stages_enfants)  
 
-## PARENT/ENFANT  
+## PARENTS/ENFANTS  
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
-**Durée** : 2H30 (modelage) ou 3H (tournage)  
-**Niveau** : Modelage (à partir de 3 ans) - Tournage (à partir de 8 ans)  
-**Tarif** : 80€ (modelage) - 95€ (tournage)  
+**Durée** : à partir de 1H30  
+**Niveau** : à partir de 3 ans   
+**Tarif pour 2** : à partir de 50€  
 [En savoir plus...](parent_enfant)  
 
 ## ANNIVERSAIRE avec les copains et les copines
 Offrez à votre enfant un anniversaire entre copains à l'atelier (ou chez vous en option).  
-**Durée :** 1H15 (sans goûter) ou 2H30 (avec goûter)  
+**Durée :** à partir de 1H15   
 **Niveau :** 4 ans et +  
 **Tarif :** à partir de 20€/enfant  
 **Options :** à domicile - Tournage  

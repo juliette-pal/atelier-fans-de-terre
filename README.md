@@ -1,4 +1,18 @@
-# A savoir pour la construction du site internet fans de terre
+# Le site internet de Fans De Terre
+## Le projet
+Faire une refonte (renouveller) le site de Fans de Terre.  
+### Objectifs  
+- Proposer un site plus intutif qui correspond mieux aux besoins des utilisateurs
+- Faciliter la vie de Monika (gestionnaire du site)  
+### La méthode
+- **Privilégier l'autonomie** de Monika en proposant un accompagnement pour qu'elle ait la main sur son site VS un site dévelloper seulement par un proffessionnel ne facilitant pas l'accès pour les non-iniciés et où chaque modification doit être effectuée par le dévelloppeur.
+- **Faire un site orienté utilisateur**, utiliser les retours d'expériences des utilisateurs pour définir les fonctionnalités à prioriser et mettre en place un suivi pour améliorer le site constament.
+- **S'inspirer des méthodes agiles pour travailler à plusieurs**, mise en place d'un point de suivi du projet chaque semaine, prioriser les actions ensemble, faire du pair-programming
+## le choix des technologies
+- **Trouver une alternative aux CMS classique** (comme Wordpress, Joomla, ...) en utilisant :
+  - **Github pages**, pour l'hébergement et le travail collaboratif.
+  - **Jekyll (générateur de site statique)**, permet d'avoir un site très léger. Tout le code écrit est utile, peu de superflue !
+  - **Markdown (laguage raccourcie du HTML) pour une prise en main rapide et simple**, Monika s'est rapidement familiarisé avec l'écriture markdown, ce qui lui a permit d'ajouter du contenu dès le début de dévelloppement du site.
 
 ## Questions de démarrage
 
@@ -8,7 +22,7 @@
 
 ### Pourquoi une refonte ?
   - proposer un site responsive (aujourd'hui la navigation n'est pas confortable)
-  - lien avec les réseaux sociaux (direct) pour les actualités
+  - pour améliorer l'expérience utilisateur
   
 ### Hypothèses des problèmes des utilisateurs sur le site actuel
 - On imagine que les personnes ne trouvent pas l'information sur les places disponibles sur un stage donné
@@ -22,7 +36,6 @@
   - personnes qui veulent pratiquer régulièrement la technique de la céramique proche de chez eux (cours)
   - personnes qui veulent offrir un stage de céramique
  
- 
  ## Retour utilisateurs
  - Besoin d'avoir accès rapidement aux informations des stages (info, dates, places restantes, réglement)
  
@@ -32,44 +45,3 @@
 [Terre et Feu](https://www.terre-et-feu.com/paris/cours-de-ceramique-paris/)
 [Le Bol](https://le-bol.fr/cours-de-poterie-en-ligne/)
 => Plus chaud, plus fun, beaucoup de texte, plus difficile à trouver l'info
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/juliette-pal/fans-de-terre/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliette-pal/fans-de-terre/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-## pour démarrer 
-bundle exec jekyll serve  --livereload

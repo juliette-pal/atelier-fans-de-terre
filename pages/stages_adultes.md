@@ -15,7 +15,7 @@ Tarif :
 [En savoir plus...](page-technique)
 -->
 
-Les élèves inscrits à l'année bénéficie d'une **réduction de 20%** sur les stages  
+Les élèves inscrits à l'année bénéficient d'une **réduction de 20%** sur les stages  
 
 ## Récupérer les pièces de stage
 [Cliquer ici pour voir quand et comment](recuperation_pieces)  
@@ -42,7 +42,7 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
 **Durée** : 1 jour et demi  
 **Niveau** : Déb./Int.     
-**Tarif** : 140€  
+**Tarif** : 150€  
 [En savoir plus...](raku_adultes) 
 
 ## [DECOR / EMAILLAGE](emaillage_adultes.md)   

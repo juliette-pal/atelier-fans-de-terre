@@ -8,6 +8,12 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
+
+⭐ **27 septembre** : **REPRISE DES COURS**   
+  
+✋ **9 et 10 Octobre 2021** : L'atelier participe à la 9ème édition des **PODADA** de **14h à 19h**  
+
+  
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
