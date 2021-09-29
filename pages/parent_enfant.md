@@ -20,7 +20,7 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 
 Vous connaissez le **café céramique** ?  
 C'est pareil mais sans le café 😄  
-Vous décorez des poteries fournies par l'atelier, que vous pourrez ensuite utiliser au quotidien !!!  
+Dans cet atelier DIY, vous décorez des poteries fournies par l'atelier, que vous pourrez ensuite utiliser au quotidien !!!  
   
   
 Contrairement aux autres formules, **1 adulte peut accompager 2 enfants**. Les enfants peuvent aussi en faire tous seuls !!!    
