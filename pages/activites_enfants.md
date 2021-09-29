@@ -5,7 +5,7 @@ redirect_from:
 # ACTIVITES ENFANTS  
 
 ## LES COURS HEBDOMADAIRES 1H30
-Pour une pratique artistique régulière autour des techniques céramiques.  
+Pour une **pratique artistique** régulière autour des techniques céramiques.  
 **Durée :** 1H30  
 **Niveau :** 4 ans et +  
 **Tarif :** 550€  
@@ -34,7 +34,7 @@ Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, n
 [En savoir plus...](parent_enfant)  
 
 ## ANNIVERSAIRE avec les copains et les copines
-Offrez à votre enfant un anniversaire entre copains à l'atelier (ou chez vous en option).  
+Offrez à votre enfant un **anniversaire** entre copains à l'atelier (ou chez vous en option).  
 **Durée :** à partir de 1H15   
 **Niveau :** 4 ans et +  
 **Tarif :** à partir de 20€/enfant  
