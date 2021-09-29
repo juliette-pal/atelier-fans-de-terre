@@ -5,7 +5,7 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 ... Pour un souvenir inoubliable !!!  
 
 
-**_La récupération des pièces se fait 10 jours à 1 mois après le stage._**
+**_La récupération des pièces se fait de 10 jours à 1 mois après le stage._**
 
 <img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">
 
@@ -14,14 +14,16 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 ## Décore ta poterie ** NEW **  
 **Durée :** 1H30  
 **Niveau :** 3 ans et +  
-**Tarif :** 25€ par participant  
-**Tous les mercredis** : 14h à 15h30 ou 16h30 à 18h  
+**Tarif :** 25€ par participant. **1 poterie par participant**.     
+**Tous les mercredis** : 14h à 15h30 **ou** 16h30 à 18h  
+
+
+Vous connaissez le **café céramique** ?  
+C'est pareil mais sans le café 😄  
+Vous décorez des poteries fournies par l'atelier, que vous pourrez ensuite utiliser au quotidien !!!  
   
-Venez décorer des poteries fournies par l'atelier.   
-Vous pourrez ensuite les utiliser au quotidien !!!  
-**1 poterie par participant**.   
   
-Contrairement aux autres formules, 1 adulte peut accompager 2 enfants.  
+Contrairement aux autres formules, **1 adulte peut accompager 2 enfants**. Les enfants peuvent aussi en faire tous seuls !!!    
 
 Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'émailler et la cuire pour vous. 
   
