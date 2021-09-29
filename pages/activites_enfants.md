@@ -11,6 +11,15 @@ Pour une pratique artistique régulière autour des techniques céramiques.
 **Tarif :** 550€  
 [En savoir plus](cours_enfants)  
 
+
+## DECORE TA POTERIE **!!! NEW - NEW - NEW !!!**  
+Activité manuelle d'1h30 au coup par coup, qui peut vite devenir addictive !!!  
+**Tous les mercredis** : 14h à 15h30 ou 16h30 à 18h  
+**Niveau** : 5 ans et +  
+**Tarif** : 25€ par participant (enfants seuls ou accompagnés d'un adulte)  
+[Même formule que le parents/enfants "Décore ta poterie"...](parent_enfant) 
+
+
 ## STAGES VACANCES SCOLAIRES
 Les stages se déroulent sur 4 séances de 3 heures (lundi au jeudi)  
 **Niveau** : à partir de 3 ans  
