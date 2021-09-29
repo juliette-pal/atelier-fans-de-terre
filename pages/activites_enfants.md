@@ -13,7 +13,7 @@ Pour une **pratique artistique** régulière autour des techniques céramiques.
 
 
 ## DECORE TA POTERIE **!!! NEW - NEW - NEW !!!**  
-Activité manuelle d'1h30 au coup par coup, qui peut vite devenir addictive !!!  
+Enfin un **atelier DIY** d'1h30, au coup par coup, et qui peut vite devenir addictif !!!  
 **Tous les mercredis** : 14h à 15h30 ou 16h30 à 18h  
 **Niveau** : 5 ans et +  
 **Tarif** : 25€ par participant (enfants seuls ou accompagnés d'un adulte)  
