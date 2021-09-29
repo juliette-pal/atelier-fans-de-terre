@@ -9,8 +9,9 @@ redirect_from:
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
 
-⭐⭐⭐ **DU NOUVEAU LE MERCREDI !!!** Atelier ponctuel de décor sur céramique  
-[En savoir plus sur "Décore ta poterie"...](parent_enfant)    
+⭐⭐⭐ **DU NOUVEAU LE MERCREDI !!!**   
+Atelier ponctuel de décor sur céramique  
+[En savoir plus sur "Décore ta poterie"...](pages/parent_enfant)    
   
 ✋ **9 et 10 Octobre 2021** : L'atelier participe à la 9ème édition des **PODADA** de **14h à 19h**  
 
