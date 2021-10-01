@@ -9,7 +9,9 @@ redirect_from:
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
 
-⭐ **27 septembre** : **REPRISE DES COURS**   
+⭐⭐⭐ **DU NOUVEAU LE MERCREDI !!!**   
+Atelier ponctuel de **décor sur céramique**  
+[En savoir plus sur "Décore ta poterie"...](pages/parent_enfant)    
   
 ✋ **9 et 10 Octobre 2021** : L'atelier participe à la 9ème édition des **PODADA** de **14h à 19h**  
 
@@ -34,12 +36,12 @@ Il ne vous reste plus qu’à y faire un tour !!!
 ## COURS HEBDOMADAIRES  
 
 Vous souhaitez pratiquer une **activité hebdomadaire régulière** (1H30 pour les enfants à 3H pour les adultes).  
-Ce sera votre pause artistique de la semaine ! 
+Ce sera votre **pause artistique** de la semaine ! 
   - [Cours Adultes 3H](pages/cours_adultes)
   - [Cours Enfants 1H30](pages/cours_enfants)  
 
 ## STAGES PONCTUELS 
-Vos disponibilités varient et vous préférez pratiquer **au coup par coup** de nombreuses techniques telles que le raku, la **sculpture**, le **tournage**, la **patine**, des **ateliers parents/enfants**...  
+Vos disponibilités varient et vous préférez pratiquer **au coup par coup** de nombreuses techniques telles que le **raku**, la **sculpture**, le **tournage**, la **patine**, des **ateliers parents/enfants**...  
   - [Stages Adultes](pages/stages_adultes)
   - [Stages Enfants](pages/stages_enfants)
 
