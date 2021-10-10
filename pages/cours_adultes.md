@@ -3,12 +3,9 @@ redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/cours-de-tournage-uniquement/
 ---
 # COURS ADULTES HEBDOMADAIRES  
-**Covid :** [Voir les conditions COVID](covid)  
+⭐ **Covid :** [Voir les conditions COVID](covid)  
   
   
-:star: **Les cours reprennent le mercredi 29 septembre 2021**  
-
-
 **Horaires** :  
 - Mercredi : 19H30 - 22H30  
 - Jeudi    : 19H30 - 22H30
