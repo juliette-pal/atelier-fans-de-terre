@@ -1,3 +1,9 @@
+---
+<!-- Event snippet for Website traffic conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-10790287322/cgNaCPjLv_sCENrvmpko'});
+</script>
+---
 # Atelier Parents/Enfants
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
 Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos couleurs.  

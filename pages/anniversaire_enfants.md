@@ -1,3 +1,10 @@
+---
+<!-- Event snippet for Website traffic conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-10790287322/cgNaCPjLv_sCENrvmpko'});
+</script>
+---
+
 # ANNIVERSAIRES
 Les parents nous confient les enfants durant toute la durée de la séance.
 Chaque enfant réalise un objet céramique autour d’un thème choisi, selon l’âge des enfants.
