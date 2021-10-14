@@ -10,7 +10,7 @@ redirect_from:
 ---
 # ACTIVITES ENFANTS  
 
-## LES COURS HEBDOMADAIRES 1H30
+## [LES COURS HEBDOMADAIRES 1H30](/pages/cours_enfants.md)
 Pour une **pratique artistique** régulière autour des techniques céramiques.  
 **Durée :** 1H30  
 **Niveau :** 4 ans et +  
@@ -18,28 +18,29 @@ Pour une **pratique artistique** régulière autour des techniques céramiques.
 [En savoir plus](cours_enfants)  
 
 
-## DECORE TA POTERIE **!!! NEW - NEW - NEW !!!**  
+## [ATELIER "DECORE TA POTERIE" **](parent_enfant.md)
+### **!!! NEW - NEW - NEW !!!**  
 Enfin un **atelier DIY** d'1h30, au coup par coup, et qui peut vite devenir addictif !!!  
 **Tous les mercredis** : 14h à 15h30 ou 16h30 à 18h  
 **Niveau** : 5 ans et +  
 **Tarif** : 25€ par participant (enfant ou adulte)  
-[Même formule que le parents/enfants "Décore ta poterie"...](parent_enfant) 
+[Même formule que le parents/enfants "Décore ta poterie"](parent_enfant) 
 
 
-## STAGES VACANCES SCOLAIRES
+## [STAGES VACANCES SCOLAIRES](stages_enfants.md)
 Les stages se déroulent sur 4 séances de 3 heures (lundi au jeudi)  
 **Niveau** : à partir de 3 ans  
 **Tarif** : à partir de 145€  
 [En savoir plus](stages_enfants)  
 
-## PARENTS/ENFANTS  
+## [PARENTS/ENFANTS](parent_enfant.md)  
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
 **Durée** : à partir de 1H30  
 **Niveau** : à partir de 3 ans   
 **Tarif pour 2** : à partir de 50€  
-[En savoir plus...](parent_enfant)  
+[En savoir plus](parent_enfant)  
 
-## ANNIVERSAIRE avec les copains et les copines
+## [ANNIVERSAIRE avec les copains et les copines](anniversaire_enfants.md)
 Offrez à votre enfant un **anniversaire** entre copains à l'atelier (ou chez vous en option).  
 **Durée :** à partir de 1H15   
 **Niveau :** 4 ans et +  

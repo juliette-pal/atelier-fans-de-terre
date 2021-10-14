@@ -8,12 +8,11 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
+---
+⭐ **DU NOUVEAU LE MERCREDI !!!** ⭐  
+➪ [Atelier ponctuel de **décor sur céramique**](pages/parent_enfant)      
 
-⭐⭐⭐ **DU NOUVEAU LE MERCREDI !!!**   
-Atelier ponctuel de **décor sur céramique**  
-[En savoir plus sur "Décore ta poterie"...](pages/parent_enfant)    
-
-
+---
   
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  

@@ -2,26 +2,27 @@
 redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/cours-de-tournage-uniquement/
 ---
-# COURS ADULTES HEBDOMADAIRES  
-⭐ **Covid :** [Voir les conditions COVID](covid)  
-  
-  
+# COURS ADULTES HEBDOMADAIRES   
 **Horaires** :  
-- Mercredi : 19H30 - 22H30  
-- Jeudi    : 19H30 - 22H30
-- Vendredi : 10H00 - 13H00    
-- Vendredi : 14H00 - 17H00  
-- Vendredi : 17H00 - 20H00 - **100% TOUR  
-- Samedi   : 10H00 - 13H30 - **1 samedi sur 2** - [Voir les séances](samedi.md)  
-- Samedi   : 15H00 - 18H30 - **1 samedi sur 2** - [Voir les séances](samedi.md)  
+
+| Jours    | Horaires      | info          |
+| -------- | ------------- | ------------- |
+| Mercredi | 19H30 - 22H30 |               |
+| Jeudi    | 19H30 - 22H30 |               |
+| Vendredi | 10H00 - 13H00 |               |
+|          | 14H00 - 17H00 |               |
+|          | 17H00 - 20H00 | Formule 100% tournage |
+| Samedi   | 10H00 - 13H30 |**1 samedi sur 2** - [Voir les séances](samedi.md) |
+|   | 15H00 - 18H30 |**1 samedi sur 2** - [Voir les séances](samedi.md)  |
+
 
 :star: Une séance **raku** est prévue par an sur chaque cours hebdomadaire  
 
-:star: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
+:warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
 
 :star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages le week-end** [ - Voir les stages adultes](stages_adultes.md).   
   
-  
+➪ **Covid :** [Voir les conditions COVID](covid)    
 
 ## FORMULE 100% TOURNAGE  
 
