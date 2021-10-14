@@ -4,6 +4,8 @@ redirect_from:
 ---
 # 16 COURS ADULTES LE SAMEDI  
 
+**ATTENTION** : les cours de l'après midi sont après ceux du matin !!!  
+
 ## Groupe MATIN : 10H - 13H30  
 
 - Samedi n°01 - 09 Octobre  
@@ -25,7 +27,6 @@ redirect_from:
 
 
 ## Groupe APRES-MIDI : 15H - 18H30  
-- Samedi n°00 - 09 Octobre - **Annulé pour cause PODADA // **   
 - Samedi n°01 - 06 Novembre - En remplacement du 9 octobre
 - Samedi n°02 - 13 Novembre**  
 - Samedi n°03 - 20 Novembre  

@@ -15,7 +15,7 @@ Vous y trouverez **deux grands espaces** dont un dédié au tournage avec ses **
 Lieu d’expression artistique, d’apprentissage, d’échanges, de lâcher prise,… chacun peut y trouver son bonheur.  
 
 
-Monika, Sophie, Lydie et les autres ont hâte de vous rencontrer !   
+Monika, Sophie, Bénédicte et les autres ont hâte de vous rencontrer !   
 
 
 

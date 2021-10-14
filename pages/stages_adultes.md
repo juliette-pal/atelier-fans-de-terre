@@ -21,7 +21,7 @@ Les élèves inscrits à l'année bénéficient d'une **réduction de 20%** sur 
 [Cliquer ici pour voir quand et comment](recuperation_pieces)  
 
 ## Liste d'attente
-[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
+[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser le stage dans le formulaire)](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
 
 
 ## [TOURNAGE](tournage_adultes.md)  
@@ -42,14 +42,14 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
 **Durée** : 1 jour et demi  
 **Niveau** : Déb./Int.     
-**Tarif** : 150€  
+**Tarif** : à partir de 85€  
 [En savoir plus...](raku_adultes) 
 
 ## [DECOR / EMAILLAGE](emaillage_adultes.md)   
 Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émaillant pour un rendu parfait ! Si vous n'avez pas de pièce l'atelier vous en fournit 2.    
 **Durée** : 3H  
 **Niveau** : Déb./Int.     
-**Tarif** : 65€  
+**Tarif** : à partir de 50€  
 [En savoir plus...](emaillage_adultes)
 
 ## [SCULPTURE](sculpture_adultes.md)      
@@ -70,5 +70,5 @@ L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des pa
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
 **Durée** : 2H30 (modelage) ou 3H (tournage)  
 **Niveau** : Modelage (à partir de 3 ans) - Tournage (à partir de 8 ans)  
-**Tarif** : 80€ (modelage) - 95€ (tournage)  
+**Tarif** : à partir de 50€  
 [En savoir plus...](parent_enfant)
