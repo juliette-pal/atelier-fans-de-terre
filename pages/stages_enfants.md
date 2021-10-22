@@ -1,11 +1,11 @@
 
 # STAGES VACANCES SCOLAIRES - ENFANTS / ADOS  
 
-Les stages se déroulent sur 4 séances de 3 heures du lundi au jeudi.  
+Les stages se déroulent sur 1 seance d'1h30 ou 4 séances de 3 heures du lundi au jeudi.  
 
 Selon des thématiques proposées, nous créons, nous amusons et faisons la pause dans le jardin si le temps le permet.
 
-Les pièces sont cuites et récupérées un mois après le stage (hors vacances scolaires).  
+Les pièces sont cuites et récupérées entre 15j et un mois après le stage (hors vacances scolaires).  
 [Comment récupérer les pièces de stages](recuperation_pieces)
 
 Les cuissons, le matériel et la terre sont compris dans le prix des stages.
@@ -16,7 +16,7 @@ Les stages sont maintenus à partir de 4 participants.
 
 ## STAGE DECORE TA POTERIE - ENFANTS / ADOS  
 Les participants décorent une pièce fournie par l'atelier.   
-Ces ateliers sont ponctuels se déroulent pendant les vacances scolaires, certains mardis, mercredis ou jeudis de 11h30 à 13H.  
+Ces ateliers ponctuels se déroulent pendant les vacances scolaires, certains mardis, mercredis ou jeudis de 11h30 à 13H.  
 Vous pouvez voir et réserver ci-dessous.  
 **Durée :** 1H30   
 **Niveau :** 6ans et +  
