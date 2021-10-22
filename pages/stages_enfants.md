@@ -14,13 +14,23 @@ Les stages sont maintenus à partir de 4 participants.
 
 <img src="/images/image_elephant_céramique_enfant.jpeg" class="image-stage">
 
+## STAGE DECORE TA POTERIE - ENFANTS / ADOS  
+Les participants décorent une pièce fournie par l'atelier.   
+Ces ateliers sont ponctuels se déroulent pendant les vacances scolaires, certains mardis, mercredis ou jeudis de 11h30 à 13H.  
+Vous pouvez voir et réserver ci-dessous.  
+**Durée :** 1H30   
+**Niveau :** 6ans et +  
+**Tarif :** 25€  
+1 pièce, les fournitures de décor, la cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
+  
+  
 ## STAGE MODELAGE - ENFANTS / ADOS  
 Les participants découvrent le travail en volume, ainsi que des techniques céramiques.  
 **Durée :** 3H  
 **Niveau :** 4 ans et +  
 **Tarif :** 145€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
-
+  
 
 ## STAGE TOURNAGE - ENFANTS / ADOS  
 L’idée est de découvrir le tournage céramique en créant une œuvre unique à partir de plusieurs pièces tournées.  
