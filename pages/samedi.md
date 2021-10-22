@@ -4,7 +4,7 @@ redirect_from:
 ---
 # 16 COURS ADULTES LE SAMEDI  
 
-**ATTENTION** : les cours de l'après midi sont après ceux du matin !!!  
+**ATTENTION** : les dates de cours de l'après midi sont après celles du matin !!!  
 
 ## Groupe MATIN : 10H - 13H30  
 
