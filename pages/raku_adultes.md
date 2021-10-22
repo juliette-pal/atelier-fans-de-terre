@@ -27,9 +27,11 @@ Les pièces sont alors **enfumées**…
 ***TENUE :** prévoir une tenue couvrante (pantalon et haut manches longues) en coton ou jean et des chaussures de type tennis, chantier ou randonnée.*  
 
 ## Formule 100% atelier  
-Modelage + émaillage + cuisson raku  
+Modelage + émaillage + cuisson raku, le tout chez Fans de terre   
 Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l’autre pour la cuisson raku.  
-*Prévoir minimum 2 semaines entre les deux dates*  
+*Prévoir minimum 2 semaines entre les deux dates*.   
+🌟 Utiliser le code **MODRAKU** lors de la réservation en ligne de la date de modelage pour ne rien payer.
+Vous réglez les 150€ en choisissant la date de cuisson raku.  
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 150€  
@@ -41,7 +43,7 @@ Le prix comprend la **fourniture de 2 pièces déjà cuites** une première fois
 **Tarif :** 150€  
 
 ## Formule maison  
-Modelage **chez vous** + émaillage et cuisson à l’atelier  
+Modelage et 1ère cuisson **chez vous** + émaillage et cuisson raku à l’atelier  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 75€ + 15€/pièce  
