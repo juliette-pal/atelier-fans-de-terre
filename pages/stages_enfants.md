@@ -1,7 +1,7 @@
 
 # STAGES VACANCES SCOLAIRES - ENFANTS / ADOS  
 
-Les stages se déroulent sur 1 seance d'1h30 ou 4 séances de 3 heures du lundi au jeudi.  
+Les stages se déroulent sur 1 séance d'1h30 ou 4 séances de 3 heures du lundi au jeudi.  
 
 Selon des thématiques proposées, nous créons, nous amusons et faisons la pause dans le jardin si le temps le permet.
 
@@ -26,6 +26,7 @@ Vous pouvez voir et réserver ci-dessous.
   
 ## STAGE MODELAGE - ENFANTS / ADOS  
 Les participants découvrent le travail en volume, ainsi que des techniques céramiques.  
+Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
 **Durée :** 3H  
 **Niveau :** 4 ans et +  
 **Tarif :** 145€  
@@ -34,6 +35,7 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 
 ## STAGE TOURNAGE - ENFANTS / ADOS  
 L’idée est de découvrir le tournage céramique en créant une œuvre unique à partir de plusieurs pièces tournées.  
+Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
 **Durée :** 3H  
 **Niveau :** 9 ans et +  
 **Tarif :** 165€  
