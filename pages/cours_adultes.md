@@ -3,24 +3,27 @@ redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/cours-de-tournage-uniquement/
 ---
 # COURS ADULTES HEBDOMADAIRES   
+Plusieurs formules vous sont proposées en fonction de votre disponibilité et de votre attrait particulier pour le tournage céramique.  
+  
+  
 **Horaires** :  
 
-| Jours    | Horaires      | info          |
+| Jours    | Horaires      | Infos          |
 | -------- | ------------- | ------------- |
-| Mercredi | 19H30 - 22H30 |               |
-| Jeudi    | 19H30 - 22H30 |               |
-| Vendredi | 10H00 - 13H00 |               |
-|          | 14H00 - 17H00 |               |
-|          | 17H00 - 20H00 | Formule 100% tournage |
-| Samedi   | 10H00 - 13H30 |**1 samedi sur 2** - [Voir les séances](samedi.md) |
-|   | 15H00 - 18H30 |**1 samedi sur 2** - [Voir les séances](samedi.md)  |
+| Mercredi | 19H30 - 22H30 | Modelage et tournage              |
+| Jeudi    | 19H30 - 22H30 | Modelage et tournage              |
+| Vendredi | 10H00 - 13H00 | Modelage et tournage              |
+|          | 14H00 - 17H00 | Modelage et tournage              |
+|          | 17H00 - 20H00 | **100% tournage** |
+| Samedi   | 10H00 - 13H30 | Modelage et tournage **1 samedi sur 2** - [Voir les séances](samedi.md) |
+|   | 15H00 - 18H30 | Modelage et tournage **1 samedi sur 2** - [Voir les séances](samedi.md)  |
 
 
-:star: Une séance **raku** est prévue par an sur chaque cours hebdomadaire  
-
-:warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
+:star: Une séance **raku** est comprise dans le tarif annuel des cours hebdomadaires - [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
 
 :star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages le week-end** [ - Voir les stages adultes](stages_adultes.md).   
+
+:warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
   
 ➪ **Covid :** [Voir les conditions COVID](covid)    
 
