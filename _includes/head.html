@@ -28,10 +28,30 @@
 
   gtag('config', 'AW-10783289582');
 </script>
+<script>
+jQuery(document).ready(function($){
+  // Autres iframes (entourées par un élément de classe CSS .iframetrack)
+  $('.iframetrack iframe').iframeTracker({
+      blurCallback: function(){
+          $('<div class="alert alert-info">').html('Click on iframe : #' + this._overId).appendTo('#consoleDebug').delay(3000).fadeOut();
+      },
+      overCallback: function(element){
+          // Mémorisation de l'id de l'iframe survollée
+          this._overId = $(element).parents('.iframetrack').attr('id');
+      },
+      outCallback: function(element){
+          // Reset lorsque la souris sort de l'iframe et revient dans la fenêtre
+          this._overId = null;
+      },
+      _overId: null
+  });
+});
+</script>
 
   <link rel="shortcut icon" type="image/png" href="../images/icone_poterie_fans-de-terre.png"/>
 
   <meta charset="UTF-8">
+
 
   {% seo %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
