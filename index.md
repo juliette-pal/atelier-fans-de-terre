@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 ⭐ **DU NOUVEAU LE MERCREDI !!!** ⭐  
-➪ [Atelier ponctuel de **décor sur céramique**](pages/parent_enfant)      
+➪ [Atelier ponctuel le mercredi **décore ta poterie**](pages/parent_enfant)      
 
 ---
   
