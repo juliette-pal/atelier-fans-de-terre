@@ -19,7 +19,7 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 
 ## Décore ta poterie ** NEW **  
 **Durée :** 1H30  
-**Niveau :** 3 ans et +  
+**Niveau :** à partir de 3ans (acompagné) ou 5 ans (seul)  
 **Tarif :** A partir de 15€ par participant.     
 **Tous les mercredis** : 14h à 15h30 **ou** 16h30 à 18h  
 
