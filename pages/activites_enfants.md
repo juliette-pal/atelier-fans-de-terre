@@ -29,7 +29,7 @@ Enfin un **atelier DIY** d'1h30, au coup par coup, et qui peut vite devenir addi
 
 ## [STAGES VACANCES SCOLAIRES](stages_enfants.md)
 Les stages se déroulent sur 4 séances de 3 heures (lundi au jeudi)  
-**Niveau** : à partir de 3 ans  
+**Niveau** : à partir de 4 ans  
 **Tarif** : à partir de 145€  
 [En savoir plus](stages_enfants)  
 
