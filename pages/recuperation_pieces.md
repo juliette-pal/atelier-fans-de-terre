@@ -21,7 +21,6 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 Nous espérons que vous avez apprécié votre stage.  
 Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour laisser un avis](https://g.page/fansdeterre/review?gm)  
 
-Merci et à bientôt !!!
 
 ## Horaires d'ouverture    
      
@@ -41,4 +40,5 @@ Merci et à bientôt !!!
 - 27 et 28 novembre : 16h - 19h 
   
   
+A TRES BIENTOT  
 
