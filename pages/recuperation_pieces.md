@@ -31,13 +31,18 @@ Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour lai
 - Vendredi : 10h-13h // 14h-17h // 18h-20h  
   
 **Week-ends et vacances** :  
-- 23 et 24 octobre : 16h - 19h  
-- du 25 au 28 octobre : ouvert de 10h à 13h  
-- Fermé du 29 octobre au 5 novembre  
-- 6 novembre : 16h - 19h 
-- 13 novembre : 16h - 19h 
-- 20 novembre : 10h-13h et 16h - 19h 
-- 27 et 28 novembre : 16h - 19h 
+- 27 et 28 novembre : 16h-18h30 
+- 4 décembre : 10h-13h30 et 15h-18h30  
+- 11 et 12 décembre : 16h-18h30  
+- 18 décembre : 10h-13h30 et 15h-18h30    
+- 8 janvier : 10h-13h30 et 15h-18h30  
+- 9 janvier : 16h-18h30  
+- 22 janvier : 10h-13h30 et 15h-18h30  
+- 23 janvier : 16h-18h30  
+- 29 janvier : 16h-18h30  
+
+🌟 **VACANCES de NOEL** : l'atelier ferme ses portes du 19 décembre au 4 janvier  
+
   
   
 A TRES BIENTOT  
