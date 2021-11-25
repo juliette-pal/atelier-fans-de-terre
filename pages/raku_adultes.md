@@ -20,9 +20,7 @@ Les pièces sont alors **enfumées**…
 
 <img src="/images/raku-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">
 
-***Dimensions maximales des pièces (toutes formules de prix) :** H15 D15 / pièce.* 
-
-***METEO - Report de date possible si le temps est trop pluvieux !!!***  
+***Dimensions maximales des pièces (toutes formules de prix) :** H15 D15 / pièce.*  
 
 ***TENUE :** prévoir une tenue couvrante (pantalon et haut manches longues) en coton ou jean et des chaussures de type tennis, chantier ou randonnée.*  
 
