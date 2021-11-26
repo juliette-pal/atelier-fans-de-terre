@@ -17,6 +17,7 @@ _L’émaillage n’étant pas compris, vous pouvez par la suite continuer sur u
 
 ---
 ## OFFRIR un cadeau sans date définie
+Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon, pour effectuer sa réservation sur le stage choisi ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.  
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
   
 ## LISTE D'ATTENTE pour un stage complet
