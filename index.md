@@ -12,7 +12,7 @@ redirect_from:
 ⭐ **DU NOUVEAU LE MERCREDI !!!** ⭐  
 ➪ [En savoir plus sur l'atelier ponctuel du mercredi : **décore ta poterie**](pages/parent_enfant)      
 
-<a href="/pages/bon_kdo.md">
+<a href="/pages/bon_kdo">
 <img src="/images/bon-cadeau-detoure.jpg" class="image-horiz" alt="bon cadeau poterie">  
 </a>
   
