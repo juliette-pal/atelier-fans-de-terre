@@ -49,6 +49,6 @@ Faire une refonte (renouveller) le site de Fans de Terre.
 # Les points techniques
 ## Dimension des images
 ### Image verticale (qu'on retrouve le plus souvent dans les pages /stages) - <id: image_stage> 
-Dimension : 900 × 1200 px
-Format : Jpeg
-poids : > 100 ko (les compresser avant de mettre sur le site si elles sont trop lourdes)
+Dimension : 900 × 1200 px   
+Format : Jpeg   
+poids : > 100 ko (les compresser avant de mettre sur le site si elles sont trop lourdes)   
