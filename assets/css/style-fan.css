@@ -150,9 +150,9 @@ h2 a {
         background-color: rgba(90, 128, 107, 0.87);
     }
     .image-horiz {
-        margin: 1em;
-        width: 300px;
-        height: 250px;
+        margin: 1em 0;
+        width: 100%;
+        height: auto;
     }
     .image-stage {
         padding-left: 1.2em;
