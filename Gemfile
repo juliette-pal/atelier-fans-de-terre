@@ -10,4 +10,3 @@ gem "github-pages", group: :jekyll_plugins
 gem "webrick"
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
-gem 'jquery.iframetracker'
