@@ -13,6 +13,10 @@ redirect_from:
 ➪ [En savoir plus sur l'atelier ponctuel du mercredi : **décore ta poterie**](pages/parent_enfant)      
 
 ---
+<a href="/pages/bon_kdo.md">
+<img src="/images/bon-cadeau-detoure.jpg" class="image-horiz" alt="bon cadeau poterie">  
+</a>
+---
   
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
