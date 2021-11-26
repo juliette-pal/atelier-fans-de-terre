@@ -45,3 +45,10 @@ Faire une refonte (renouveller) le site de Fans de Terre.
 [Terre et Feu](https://www.terre-et-feu.com/paris/cours-de-ceramique-paris/)
 [Le Bol](https://le-bol.fr/cours-de-poterie-en-ligne/)
 => Plus chaud, plus fun, beaucoup de texte, plus difficile à trouver l'info
+
+# Les points techniques
+## Dimension des images
+### Image verticale (qu'on retrouve le plus souvent dans les pages /stages) - <id: image_stage> 
+Dimension : 900 × 1200 px   
+Format : Jpeg   
+poids : > 100 ko (les compresser avant de mettre sur le site si elles sont trop lourdes)   
