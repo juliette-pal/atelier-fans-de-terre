@@ -8,14 +8,10 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
----
 ⭐ **DU NOUVEAU LE MERCREDI !!!** ⭐  
-➪ [En savoir plus sur l'atelier ponctuel du mercredi : **décore ta poterie**](pages/parent_enfant)      
-
-<a href="/pages/bon_kdo">
-<img src="/images/bon-cadeau-detoure.jpg" class="image-horiz" alt="bon cadeau poterie">
-</a>
-
+➪ [En savoir plus sur l'atelier ponctuel du mercredi : **décore ta poterie**](pages/parent_enfant)     
+  
+---  
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
@@ -32,7 +28,10 @@ Il ne vous reste plus qu’à y faire un tour !!!
 [En savoir plus sur l'atelier fans de terre...](pages/atelier)  
 
 
-<img src="/images/Atelier-ceramique-poterie-colombes2_1.jpeg" class="image-stage">
+<a href="/pages/bon_kdo">
+<img src="/images/bon-cadeau-detoure.jpg" class="image-horiz" alt="bon cadeau poterie">
+</a>
+
 ## COURS HEBDOMADAIRES  
 
 Vous souhaitez pratiquer une **activité hebdomadaire régulière** (1H30 pour les enfants à 3H pour les adultes).  
