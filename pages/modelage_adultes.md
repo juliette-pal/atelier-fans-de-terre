@@ -12,7 +12,7 @@ date - heure début -heure fin
 Ce stage modelage permet d’**expérimenter la forme** ainsi que des **techniques de modelage** telles que le **pincé**, la **plaque**, le **colombin**.
 En fonction de la complexité de votre forme, si vous avez assez de temps, vous pourrez **décorer** votre pièce par des texture ou l'apport de couleurs (engobes).
 
-<img src="/images/modelage-céramique-poterie_atelier-fans-de-terre.jpeg" class="image-stage">
+<img src="/images/modelage-céramique-poterie_atelier-fans-de-terre.jpeg" class="image-stage" alt="bouteille technique colombin">
 
 **Durée :**  2H30
 
