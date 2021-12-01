@@ -34,7 +34,7 @@ Dans cet atelier **DIY**, vous décorez des **poteries fournies par l'atelier**,
 Contrairement aux autres formules, **1 adulte peut accompager 2 enfants**. Les **enfants** peuvent aussi en faire **tous seuls** !!!    
 
 Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'**émailler et la cuire** pour vous. 
-  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
   
 ## Modelage  
 **Durée :** 2H30  
@@ -45,6 +45,8 @@ Vous réalisez un **projet commun** et nous vous accompagnons dans sa réalisati
 En fonction du temps, vous pourrez le mettre en couleur.  
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.
 
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
+
 ## Tournage  
 **Durée :** 3H  
 **Niveau :** 8 ans et +  
@@ -54,16 +56,16 @@ Après une démonstration, vient le temps de la pratique.
 Dans le **binôme** que vous formez avec votre enfant, vous vous coacherez à tour de rôle.  
 Les petits pots tournés seront assemblés pour un **objet unique** !!!  
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.    
-  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }      
 
 ---
 ## OFFRIR un cadeau sans date définie
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }      
 
 
 ## LISTE D'ATTENTE pour un stage complet
-[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
+[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }        
 
 ## RESERVER une date précise  
 
