@@ -28,12 +28,12 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 
 Vous connaissez le **café céramique** ?  
 C'est pareil mais sans le café 😄  
-Dans cet atelier DIY, vous décorez des poteries fournies par l'atelier, que vous pourrez ensuite utiliser au quotidien !!!  
+Dans cet atelier **DIY**, vous décorez des **poteries fournies par l'atelier**, que vous pourrez ensuite utiliser au quotidien !!!  
   
   
-Contrairement aux autres formules, **1 adulte peut accompager 2 enfants**. Les enfants peuvent aussi en faire tous seuls !!!    
+Contrairement aux autres formules, **1 adulte peut accompager 2 enfants**. Les **enfants** peuvent aussi en faire **tous seuls** !!!    
 
-Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'émailler et la cuire pour vous. 
+Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'**émailler et la cuire** pour vous. 
   
   
 ## Modelage  
@@ -51,7 +51,7 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 **Tarif :** 95€ (pour 2)  
   
 Après une démonstration, vient le temps de la pratique.   
-Dans le binôme que vous formez avec votre enfant, vous vous coacherez à tour de rôle.  
+Dans le **binôme** que vous formez avec votre enfant, vous vous coacherez à tour de rôle.  
 Les petits pots tournés seront assemblés pour un **objet unique** !!!  
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.    
   
