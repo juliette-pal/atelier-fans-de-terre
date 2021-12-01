@@ -11,15 +11,16 @@ redirect_from:
 ---
 # STAGE RAKU - ADULTES  
 
+
+<img src="/images/raku-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">  
+
 Le raku est un mode de cuisson céramique issue de la **cérémonie du thé au Japon**.  
 Les pièces sont cuites une première fois avant émaillage.  
 Après émaillage, elles sont enfournées puis retirées du four quand celui-ci atteint environ 1000°.  
-La magie du raku commence !!!  
 Le **choc thermique** provoque des craquelures.  
-Les pièces sont alors **enfumées**…  
-
-<img src="/images/raku-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">
-
+Les pièces sont alors **enfumées**…
+La magie du raku commence !!!  
+  
 
 ## Formule 100% atelier  
 Modelage + émaillage + cuisson raku, le tout chez Fans de terre   
