@@ -6,6 +6,9 @@
 ---
 # Atelier Parents/Enfants
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
+
+<img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">  
+
 Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos couleurs.  
 
 ... Pour un souvenir inoubliable !!!  
@@ -13,7 +16,6 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 
 **_La récupération des pièces se fait de 10 jours à 1 mois après le stage._**
 
-<img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">
 
 Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillage, sont compris dans le prix.
 
