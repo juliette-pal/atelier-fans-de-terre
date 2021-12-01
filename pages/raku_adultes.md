@@ -33,7 +33,7 @@ Vous réglez les 150€ en choisissant la date de cuisson raku.
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 150€  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
 
  
 ## Formule atelier sans modelage  
@@ -41,7 +41,7 @@ Le prix comprend la **fourniture de 2 pièces déjà cuites** une première fois
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 150€  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }      
 
 ## Formule maison  
 Modelage et 1ère cuisson **chez vous** + émaillage et cuisson raku à l’atelier  
