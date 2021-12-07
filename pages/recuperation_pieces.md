@@ -24,22 +24,22 @@ Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour lai
 
 ## Horaires d'ouverture    
      
-***En semaine hors vacances scolaires** :   
+**En semaine hors vacances scolaires** :   
 - Lundi et mardi : Fermé
 - Mercredi : 14H-18h // 19h30-22h30
 - Jeudi : 19h30-22h30
-- Vendredi : 10h-13h // 14h-17h // 18h-20h  
-  
+- Vendredi : 10h-13h // 14h-20h  
+
+Mercredi 15 décembre :  **ouvert sans interruption**  
+
 **Week-ends et vacances** :  
-- 27 et 28 novembre : 16h-18h30 
-- 4 décembre : 10h-13h30 et 15h-18h30  
-- 11 et 12 décembre : 16h-18h30  
-- 18 décembre : 10h-13h30 et 15h-18h30    
-- 8 janvier : 10h-13h30 et 15h-18h30  
-- 9 janvier : 16h-18h30  
-- 22 janvier : 10h-13h30 et 15h-18h30  
-- 23 janvier : 16h-18h30  
-- 29 janvier : 16h-18h30  
+- 11 et 12 décembre : 13h-18h30  
+- Samedi 18 décembre : **ouvert sans interruption**  
+- Samedi 8 janvier : 10h-13h30 et 15h-18h30   
+- Dimanche 9 janvier : 16h-18h30  
+- Samedi 22 janvier : 10h-13h30 et 15h-18h30  
+- Dimanche 23 janvier : 16h-18h30  
+- Samedi 29 janvier : 16h-18h30  
 
 🌟 **VACANCES de NOEL** : l'atelier ferme ses portes du 19 décembre au 4 janvier  
 
