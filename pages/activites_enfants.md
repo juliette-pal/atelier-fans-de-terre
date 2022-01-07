@@ -20,8 +20,8 @@ Pour une **pratique artistique** régulière autour des techniques céramiques.
 
 ## [ATELIER "DECORE TA POTERIE" **](parent_enfant.md)
 ### **!!! NEW - NEW - NEW !!!**  
-Enfin un **atelier DIY** d'1h30, au coup par coup, et qui peut vite devenir addictif !!!  
-**Tous les mercredis** : 14h à 15h30 ou 16h30 à 18h  
+Enfin un **atelier DIY** d'1h15, au coup par coup, et qui peut vite devenir addictif !!!  
+**Tous les mercredis** : 14h15 à 15h30 ou 16h15 à 17h30  
 **Niveau** : à partir de 3ans (acompagné) ou 5 ans (seul)  
 **Tarif** : à partir de 15€ par participant (enfant ou adulte)  
 [Même formule que le parents/enfants "Décore ta poterie"](parent_enfant) 
