@@ -20,10 +20,10 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillage, sont compris dans le prix.
 
 ## Décore ta poterie ** NEW **  
-**Durée :** 1H30  
+**Durée :** 1H15  
 **Niveau :** à partir de 3ans (acompagné) ou 5 ans (seul)  
 **Tarif :** A partir de 15€ par participant.     
-**Tous les mercredis** : 14h à 15h30 **ou** 16h30 à 18h  
+**Tous les mercredis** : 14h15 à 15h30 **ou** 16h15 à 17h30  
 
 
 Vous connaissez le **café céramique** ?  
