@@ -7,23 +7,18 @@
 ## Horaires d'ouverture     
      
 **En semaine hors vacances scolaires** :   
-- Lundi et mardi : Fermé
+- Lundi et mardi : **Fermé**
 - Mercredi : 14H-18h // 19h30-22h30
 - Jeudi : 19h30-22h30
 - Vendredi : 10h-13h // 14h-20h  
 
-Mercredi 15 décembre :  **ouvert sans interruption**  
 
-**Week-ends et vacances** :  
-- 11 et 12 décembre : 13h-18h30  
-- Samedi 18 décembre : **ouvert sans interruption**  
-- Samedi 8 janvier : 10h-13h30 et 15h-18h30   
-- Dimanche 9 janvier : 16h-18h30  
-- Samedi 22 janvier : 10h-13h30 et 15h-18h30  
+**Week-ends et vacances** :   
+🌟 Samedi 22 janvier :  **ouvert sans interruption**  
 - Dimanche 23 janvier : 16h-18h30  
 - Samedi 29 janvier : 16h-18h30  
 
-🌟 **VACANCES de NOEL** : l'atelier ferme ses portes du 19 décembre au 4 janvier  
+    
 
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
