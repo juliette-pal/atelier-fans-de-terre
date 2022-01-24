@@ -14,12 +14,12 @@
 
 
 **Week-ends et vacances** :   
-🌟 Samedi 22 janvier :  **ouvert sans interruption**  
 - Dimanche 23 janvier : 16h-18h30  
-- Samedi 29 janvier : 16h-18h30  
-
-    
-
+- Samedi 29 janvier : 16h-18h30    
+🌟  Samedi 5 février :  **ouvert sans interruption**   
+- Dimanche 6 février : 16h-18h30     
+🌟  Samedi 19 février :  **ouvert sans interruption**  
+ 
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
   
