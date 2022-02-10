@@ -18,6 +18,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 | Samedi   | 10H00 - 13H30 | Modelage et tournage **1 samedi sur 2** - [Voir les séances](samedi.md) |
 |   | 15H00 - 18H30 | Modelage et tournage **1 samedi sur 2** - [Voir les séances](samedi.md)  |
 
+**Complet** : mercredi - jeudi - vendredi matin - samedi am et pm  
 
 :star: Une séance **raku** est comprise dans le tarif annuel des cours hebdomadaires - [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
 
