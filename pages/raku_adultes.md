@@ -22,6 +22,10 @@ Les pièces sont alors **enfumées**…
 La magie du raku commence !!!  
   
 
+## OFFRIR un stage raku
+Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
 ## Formule 100% atelier  
 Modelage + émaillage + cuisson raku, le tout chez Fans de terre   
 Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l’autre pour la cuisson raku.  
@@ -61,22 +65,10 @@ Contacter l'atelier
   
 ---
 
-## OFFRIR un cadeau sans date définie
-Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
-
 
 ## LISTE D'ATTENTE pour un stage complet  
 [Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601) si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser la date du stage en commentaire).  
-
-## RESERVER une date précise (émaillage et cuisson raku)   
-La journée (émaillage et cuisson) se déroule de 11H00 à 17H environ.  
-⭐ Si vous optez pour la formule avec modelage, vous devez venir au moins 2 semaines avant pour façonner vos pièces (consulter la liste des stages modelage).  
-
-
-Chacun ramène de quoi déjeuner dans le jardin façon auberge espagnole.  
-
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
+ 
 
 
 ***Dimensions maximales des pièces (toutes formules de prix) :** H15 D15 / pièce.*  
