@@ -32,11 +32,13 @@ Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour lai
 
 
 **Week-ends et vacances** :   
-- Dimanche 23 janvier : 16h-18h30  
-- Samedi 29 janvier : 16h-18h30    
-🌟  Samedi 5 février :  **ouvert sans interruption**   
-- Dimanche 6 février : 16h-18h30     
-🌟  Samedi 19 février :  **ouvert sans interruption** 
+🌟 **fermé du 21 février au 6 mars**   
+- Samedi 12/03 : 10h-13h30 et 16h-18h30    
+- Dimanche 13/03 : 16h-18h30  
+- Samedi 26/03 : 10h-13h30 et 16h-18h30    
+- Dimanche 27/03 : 10h-13h30 et 16h-18h30
+- Samedi 02/04 : 15h-18h30    
+- Dimanche 03/04 : 10h-17h
 
        
   
