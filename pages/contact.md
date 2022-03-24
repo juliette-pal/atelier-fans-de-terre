@@ -14,13 +14,19 @@
 
 
 **Week-ends et vacances** :   
-🌟 **fermé du 21 février au 6 mars**   
-- Samedi 12/03 : 10h-13h30 et 16h-18h30    
-- Dimanche 13/03 : 16h-18h30  
+
 - Samedi 26/03 : 10h-13h30 et 16h-18h30    
 - Dimanche 27/03 : 10h-13h30 et 16h-18h30
 - Samedi 02/04 : 15h-18h30    
-- Dimanche 03/04 : 10h-17h
+- Dimanche 03/04 : 10h-17h  
+- Samedi 09/04 : 10h-13h30 et 16h-18h30     
+- Dimanche 10/04 : 14h-17h  
+- Samedi 16/04 : 15h-18h30      
+- Dimanche 17/04 : Fermé  
+- Samedi 23/04 : 10h-13h30 et 16h-18h30  
+- Dimanche 24/04 : 10h-17h  
+🌟 **Fermé du 25 avril au 8 mai** 
+  
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
   
