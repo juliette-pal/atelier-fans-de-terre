@@ -8,7 +8,7 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
-⭐ **2 places sur les cours du vendredi 14h ou 17h !!!** ⭐      
+⭐ **Places cours adultes et enfants disponibles !!! NOUS CONSULTER** ⭐      
   
 ---  
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
@@ -22,7 +22,7 @@ Créé en 2013 par Monika, l'atelier Fans de terre, situé à Colombes (92), vou
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir !!!  
   
   
-Il ne vous reste plus qu’à y faire un tour !!!  
+Il ne vous reste plus qu’à y faire un tour ou offrir un **bon cadeau** !!!  
 
 [En savoir plus sur l'atelier fans de terre...](pages/atelier)  
 
