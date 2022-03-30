@@ -28,7 +28,7 @@ Tarif :
 Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
 **Durée** : 1 journée  
 **Niveau** : Tous niveaux    
-**Tarif** : 100€  
+**Tarif** : 110€  
 [En savoir plus...](tournage_adultes)
 
 ## [MODELAGE](modelage_adultes.md)
