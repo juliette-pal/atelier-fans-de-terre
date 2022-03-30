@@ -32,7 +32,7 @@ Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l
 *Prévoir minimum 2 semaines entre les deux dates*.    
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 150€  
+**Tarif :** 165€  
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
 
  
