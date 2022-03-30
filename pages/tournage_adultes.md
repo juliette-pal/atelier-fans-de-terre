@@ -14,7 +14,7 @@ Maximum 6 participants par stage.
 
 **Niveau :** tous niveaux  
 
-**Tarif :** 100€  
+**Tarif :** 110€  
 _**L’émaillage** n’étant pas compris, vous pouvez par la suite continuer sur un nouveau stage [« Décor / Emaillage »](emaillage_adultes) pour aller jusqu’au bout du processus. Un prix préférentiel de 50€ sera appliqué au lieu de 65€._  
 
 ---
