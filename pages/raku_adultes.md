@@ -47,7 +47,7 @@ Le prix comprend la **fourniture de 2 pièces déjà cuites** une première fois
 Modelage et 1ère cuisson **chez vous** + émaillage et cuisson raku à l’atelier  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 75€ + 15€/pièce  
+**Tarif :** 75€ + 15€/pièce (max 15cm hauteur et profondeur)  
 Utiliser le code RKHOME lors de la réservation pour payer les 75€. Le paiement des pièces se fera le jour de la cuisson.
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }  
 
