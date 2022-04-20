@@ -8,7 +8,7 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
-⭐ **Encore quelques places sur les stages vacances enfants !!!  [NOUS CONSULTER](pages/contact.md)** ⭐      
+⭐ **Encore quelques places sur les stages vacances enfants !!!  [CONSULTER](pages/stages_enfants.md)** ⭐      
   
 ---  
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
