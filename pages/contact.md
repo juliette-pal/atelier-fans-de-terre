@@ -30,7 +30,7 @@
 - Samedi 25/06 : 13h-17h        
 - Dimanche 26/06 : 13h-17h   
 - Samedi 02/07 : 13h-17h        
-- Dimanche 12/06 : 13h-17h   
+  
 🌟 **Fermé du 8 juillet au 31 août** 
   
   
