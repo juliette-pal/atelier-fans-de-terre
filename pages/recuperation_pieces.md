@@ -33,17 +33,24 @@ Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour lai
 
 **Week-ends et vacances** :   
 
-- Samedi 26/03 : 10h-13h30 et 16h-18h30    
-- Dimanche 27/03 : 10h-13h30 et 16h-18h30
-- Samedi 02/04 : 15h-18h30    
-- Dimanche 03/04 : 10h-17h  
-- Samedi 09/04 : 10h-13h30 et 16h-18h30     
-- Dimanche 10/04 : 14h-17h  
-- Samedi 16/04 : 15h-18h30      
-- Dimanche 17/04 : Fermé  
-- Samedi 23/04 : 10h-13h30 et 16h-18h30  
-- Dimanche 24/04 : 10h-17h  
 🌟 **Fermé du 25 avril au 8 mai** 
+- Samedi 14/05 : 10h-13h30 et 16h-18h30    
+- Dimanche 15/05 : 13h-17h  
+- Samedi 21/05 : 10h-13h30 et 16h-18h30        
+- Dimanche 22/05 : 13h-17h  
+- 🌟 **Fermé du 26 mai au 29 mai** 
+- Samedi 04/06 : 10h-13h30 et 16h-18h30     
+- Dimanche 05/06 : 16h-18h30   
+- Samedi 11/06 : 13h-17h        
+- Dimanche 12/06 : 13h-17h    
+- Samedi 18/06 : 10h-13h30 et 16h-18h30  
+- Dimanche 19/06 : 16h-18h30  
+- Samedi 25/06 : 13h-17h        
+- Dimanche 26/06 : 13h-17h   
+- Samedi 02/07 : 13h-17h        
+   
+🌟 **Fermé du 8 juillet au 31 août** 
+   
 
 
        
