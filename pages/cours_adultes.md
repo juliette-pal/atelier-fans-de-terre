@@ -105,7 +105,7 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 ## LISTE D'ATTENTE pour la rentrée de septembre 
 [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)  
 
-## Inscriptions 2021-2022  
+## Inscriptions 2021-2022 - Posssibilité de TEST en mai et juin pour septembre 2022  
 
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/new-inscriptions-adultes-2021-2022/widget" style="width: 100%; height: 750px; border: none;" ></iframe>
 
