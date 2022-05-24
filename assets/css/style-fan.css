@@ -90,6 +90,12 @@ h2 {
     width: 400px;
     height: 300px;
 }
+.image-galerie-horiz {
+    float: none;
+    margin: 1em;
+    width: 400px;
+    height: 300px;
+}
 
 footer {
     background-color: rgb(90, 128, 107);
