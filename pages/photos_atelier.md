@@ -1,7 +1,7 @@
 # L'atelier en images  
 ## Le matériel  
 verticale
-<img src="/images/atelier-tournage_fans-de-terre_colombes.jpeg" class="image-stage">  
+<img src="/images/atelier-tournage_fans-de-terre_colombes.jpeg">  
 
 ## les fours  
 horizontale  
