@@ -2,12 +2,6 @@
 title: Stage Raku Adultes
 redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/raku-paris
-
-<!-- Event snippet for Website traffic conversion page -->
-<script>
-  gtag('event', 'conversion', {'send_to': 'AW-10790287322/cgNaCPjLv_sCENrvmpko'});
-</script>
-
 ---
 # STAGE RAKU - ADULTES  
 

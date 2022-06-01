@@ -2,11 +2,6 @@
 redirect_from:
     - /agenda-cours-poterie-ceramique-colombes/actualites-cours-de-poterie-ceramique-colombes/stages-ados-enfants/
 
-<!-- Event snippet for Website traffic conversion page -->
-<script>
-  gtag('event', 'conversion', {'send_to': 'AW-10790287322/cgNaCPjLv_sCENrvmpko'});
-</script>
-
 ---
 # ACTIVITES ENFANTS  
 
