@@ -51,4 +51,30 @@ Faire une refonte (renouveller) le site de Fans de Terre.
 ### Image verticale (qu'on retrouve le plus souvent dans les pages /stages) - <id: image_stage> 
 Dimension : 900 × 1200 px   
 Format : Jpeg   
-poids : > 100 ko (les compresser avant de mettre sur le site si elles sont trop lourdes)   
+poids : > 100 ko (les compresser avant de mettre sur le site si elles sont trop lourdes)
+Outil sympa pour redimensionner : https://squoosh.app/  
+
+## Installation de Jekyll : travailler en local
+
+On regarde la documentation : https://jekyllrb.com/docs/installation/ubuntu/ et on suit les étapes car Juliette est sur une nouvelle machine.
+
+```terminal
+sudo apt-get install ruby-full build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+gem install jekyll bundler
+```
+
+Puis on se met dans le dossier du dépôt et on termine l’installation du site :
+
+```terminal
+bundle install
+```
+
+Enfin on peut lancer le site :
+
+```terminal
+bundle exec jekyll serve
+```
