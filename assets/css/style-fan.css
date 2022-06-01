@@ -78,23 +78,22 @@ h2 {
     height: 400px;
 }
 
-.image-galerie-vert {
-    float: none;
-    margin: 1.5em;
-    width: 300px;
-    height: 400px;
-}
-
 .image-horiz {
     margin: 1em;
     width: 400px;
     height: 300px;
 }
-.image-galerie-horiz {
-    float: none;
-    margin: 1em;
-    width: 320px;
-    height: 240px;
+.photos_atelier\.md {
+    padding: 2rem 0;
+}
+.galerie {
+    display: flex;
+    flex-wrap: wrap;
+}
+.galerie picture {
+    max-width: 320px;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
 }
 
 footer {
