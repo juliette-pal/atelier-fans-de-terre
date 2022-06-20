@@ -6,46 +6,65 @@ redirect_from:
 
 **ATTENTION** : les dates de cours de l'après midi sont après celles du matin !!!  
 
-## Groupe MATIN : 10H - 13H30  
+## Groupe A MATIN : 10H - 13H30  
 
-- Samedi n°01 - 09 Octobre  
-- Samedi n°02 - 23 Octobre**  
-- Samedi n°03 - 20 Novembre  
-- Samedi n°04 - 04 Décembre  
-- Samedi n°05 - 18 Décembre  
-- Samedi n°06 - 08 Janvier  
-- Samedi n°07 - 22 Janvier  
-- Samedi n°08 - 05 Février  
-- Samedi n°09 - 19 Février  
-- Samedi n°10 - 12 Mars  
-- Samedi n°11 - 26 Mars  
-- Samedi n°12 - 09 Avril**  
-- Samedi n°13 - 23 Avril**  
-- Samedi n°14 - 21 Mai  
-- Samedi n°15 - 04 Juin  
-- Samedi n°16 - 18 Juin  
+- Samedi n°01 -  Octobre 
+- Samedi n°02 -  Octobre  
+- Samedi n°03 -  Novembre  
+- Samedi n°04 -  Décembre  
+- Samedi n°05 -  Décembre  
+- Samedi n°06 -  Janvier  
+- Samedi n°07 -  Janvier  
+- Samedi n°08 -  Février  
+- Samedi n°09 -  Février  
+- Samedi n°10 -  Mars  
+- Samedi n°11 -  Mars  
+- Samedi n°12 -  Avril  
+- Samedi n°13 -  Avril  
+- Samedi n°14 -  Mai  
+- Samedi n°15 -  Juin  
+- Samedi n°16 -  Juin  
+
+## Groupe B MATIN : 10H - 13H30  
+
+- Samedi n°01 -  Octobre 
+- Samedi n°02 -  Octobre  
+- Samedi n°03 -  Novembre  
+- Samedi n°04 -  Décembre  
+- Samedi n°05 -  Décembre  
+- Samedi n°06 -  Janvier  
+- Samedi n°07 -  Janvier  
+- Samedi n°08 -  Février  
+- Samedi n°09 -  Février  
+- Samedi n°10 -  Mars  
+- Samedi n°11 -  Mars  
+- Samedi n°12 -  Avril  
+- Samedi n°13 -  Avril  
+- Samedi n°14 -  Mai  
+- Samedi n°15 -  Juin  
+- Samedi n°16 -  Juin  
 
 
 ## Groupe APRES-MIDI : 15H - 18H30  
-- Samedi n°01 - 06 Novembre - En remplacement du 9 octobre
-- Samedi n°02 - 13 Novembre**  
-- Samedi n°03 - 20 Novembre  
-- Samedi n°04 - 04 Décembre  
-- Samedi n°05 - 18 Décembre  
-- Samedi n°06 - 08 Janvier  
-- Samedi n°07 - 22 Janvier  
-- Samedi n°08 - 05 Février  
-- Samedi n°09 - 19 Février  
-- Samedi n°10 - 12 Mars  
-- Samedi n°11 - 26 Mars  
-- Samedi n°12 - 02 Avril**  
-- Samedi n°13 - 16 Avril**  
-- Samedi n°14 - 21 Mai  
-- Samedi n°15 - 04 Juin  
-- Samedi n°16 - 18 Juin  
+-- Samedi n°01 -  Octobre 
+- Samedi n°02 -  Octobre  
+- Samedi n°03 -  Novembre  
+- Samedi n°04 -  Décembre  
+- Samedi n°05 -  Décembre  
+- Samedi n°06 -  Janvier  
+- Samedi n°07 -  Janvier  
+- Samedi n°08 -  Février  
+- Samedi n°09 -  Février  
+- Samedi n°10 -  Mars  
+- Samedi n°11 -  Mars  
+- Samedi n°12 -  Avril  
+- Samedi n°13 -  Avril  
+- Samedi n°14 -  Mai  
+- Samedi n°15 -  Juin  
+- Samedi n°16 -  Juin  
 
-** Jours différents aux 2 groupes  
+ 
   
-⭐ Rattrapage : possible en cas d'absence exceptonnelle, annoncée au minimum 1 semaine avant (uniquement pendant les cours).  
+⭐ Rattrapage : possible en cas d'absence exceptonnelle, **annoncée au minimum 1 semaine avant (uniquement pendant les cours)**.  
 
  
