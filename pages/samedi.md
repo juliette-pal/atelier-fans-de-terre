@@ -11,8 +11,8 @@ redirect_from:
 - Samedi n°01 - 01 Octobre  
 - Samedi n°02 - 15 Octobre  
 - Samedi n°03 - 12 Novembre  
-- Samedi n°03 - 26 Novembre   
-- Samedi n°04 - 10 Décembre   
+- Samedi n°04 - 26 Novembre   
+- Samedi n°05 - 10 Décembre   
 - Samedi n°06 - 07 Janvier  
 - Samedi n°07 - 21 Janvier  
 - Samedi n°08 - 04 Février  
@@ -53,8 +53,8 @@ redirect_from:
 - Samedi n°01 - 01 Octobre  
 - **Dimanche** n°02 - 16 Octobre  
 - Samedi n°03 - 12 Novembre  
-- Samedi n°03 - 26 Novembre   
-- Samedi n°04 - 10 Décembre   
+- Samedi n°04 - 26 Novembre   
+- Samedi n°05 - 10 Décembre   
 - Samedi n°06 - 07 Janvier  
 - Samedi n°07 - 21 Janvier  
 - Samedi n°08 - 04 Février  
