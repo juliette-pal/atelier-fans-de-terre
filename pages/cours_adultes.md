@@ -60,13 +60,13 @@ Il est fortement conseillé aux élèves qui veulent apprendre le tournage, de c
 Les cours d'une durée de 3H30 ont lieu sur 16 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
   
 Deux possibilités pour ce cours :  
-- Matin (AM) : 10H - 13H30  
+- Matin (AM) : 10H - 13H30 - Groupe A ou B  
 - Après-midi (PM) : 15H - 18H30  
   
 Le contenu est similaire à la "formule modelage et tournage" ci-dessous.  
 
 
-:star: Forfait payable en 4 fois.  
+:star: Forfait payable en 4 fois.   
 
   
   
@@ -106,7 +106,7 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 ## LISTE D'ATTENTE pour la rentrée de septembre 
 [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)  
 
-## Inscriptions 2021-2022 - Posssibilité de TEST en mai et juin pour septembre 2022  
+## Inscriptions 2022-2023 - Mise en ligne le jeudi 23 juin 2022    
 
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/new-inscriptions-adultes-2021-2022/widget" style="width: 100%; height: 750px; border: none;" ></iframe>
 
