@@ -17,7 +17,7 @@ La terre se travaille à tout âge, c’est pour cette raison que nous proposons
 
 **Durée :** 1H30  
 Les cours ont lieu de fin septembre à mi juin, **hors vacances scolaires**.  
-Il n'y a pas cours pendant les vacances scolaires
+Il n'y a pas cours pendant les vacances scolaires ni sur la semaine du jeudi de l'ascension.
 
 **Niveau :** 4 ans et +  
 
@@ -26,17 +26,13 @@ Les fournitures et les cuissons sont comprises dans le prix.
 
 **Horaires** (1 cours/semaine/enfant) :  
 - Mercredi : 14H – 15H30  
-- Mercredi : 16H30 - 18H    
+- Vendredi : 17H - 18H30      
 
 
 
 [Voir toutes les activités enfants](activites_enfants)  
 ---  
   
-## OFFRIR un trimestre de poterie à un enfant
-Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
-
 ## LISTE D'ATTENTE pour la rentrée de septembre  
 [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours complet](https://forms.gle/RcWEHegz6js46Y7i8)   
 
