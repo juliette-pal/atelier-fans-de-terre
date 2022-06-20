@@ -12,13 +12,13 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 | -------- | ------------- | ------------- |
 | Mercredi | 19H30 - 22H30 | Modelage et tournage              |
 | Jeudi    | 19H30 - 22H30 | Modelage et tournage              |
-| Vendredi | 10H00 - 13H00 | Modelage et tournage              |
+| Vendredi | 09H30 - 12H30 | Modelage et tournage              |
 |          | 14H00 - 17H00 | Modelage et tournage              |
 |          | 17H00 - 20H00 | **100% tournage** |
 | Samedi   | 10H00 - 13H30 | Modelage et tournage **1 samedi sur 2** - [Voir les séances](samedi.md) |
 |   | 15H00 - 18H30 | Modelage et tournage **1 samedi sur 2** - [Voir les séances](samedi.md)  |
 
-**Complet** : mercredi - jeudi - vendredi matin - samedi am et pm  
+
 
 :star: Une séance **raku** est comprise dans le tarif annuel des cours hebdomadaires - [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
 
@@ -40,10 +40,10 @@ Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainemen
 L'idée est donc pour un petit groupe de 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
   
 Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
-**- 1H : en autonomie**, pour trouver ses propres sensations   
+**- 1H : en autonomie** (hors 2 premiers cours), pour trouver ses propres sensations   
 **- 2H : avec un professeur**  
 
-1 séance par trimestre sera éventuellement consacrée à l'émaillage (à définir avec le groupe).
+1 séance par trimestre sera consacrée à l'émaillage.
 
 :star: **Attention, 6 tours, 6 places** !!!  
 
@@ -52,7 +52,8 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
   
   
 ## 2 FORMULES SAMEDI   
-**Niveau :**  Modelage (tous niveaux) - Tournage (tous niveaux)  
+**Niveau :**  Modelage (tous niveaux) - Tournage (hors débutants)  
+Il est fortement conseillé aux élèves qui veulent apprendre le tournage, de compléter ce cours par 1 ou 2 stages intensifs d'une journée.  
 
 **Tarif : 785€ l’année** - 16 cours de 3H30  
 
@@ -74,7 +75,7 @@ Le contenu est similaire à la "formule modelage et tournage" ci-dessous.
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif : 1085€ l’année** - 29 cours de 3H  
+**Tarif : 1135€ l’année** - 29 cours de 3H  
 
 **Jours :** Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
 
@@ -100,7 +101,7 @@ A chacun son rythme selon ses envies !
   
 ## OFFRIR un trimestre de cours 100% tournage le vendredi
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
 ## LISTE D'ATTENTE pour la rentrée de septembre 
 [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)  
