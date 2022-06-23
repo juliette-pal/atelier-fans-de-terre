@@ -108,9 +108,8 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 ## LISTE D'ATTENTE pour la rentrée de septembre 
 [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)  
 
-## Inscriptions 2022-2023 - Mise en ligne le jeudi 23 juin 2022    
-
-https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2022-2023-1
+## Inscriptions 2022-2023 -     
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2022-2023-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>
 
 
 
