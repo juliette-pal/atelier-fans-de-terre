@@ -110,6 +110,5 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 
 ## Inscriptions 2022-2023       
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2022-2023-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>
-
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2022-2023-1/widget" style="width: 100%; height: 750px; border: none;" onload="window.scroll(0, this.offsetTop)"></iframe>
 
