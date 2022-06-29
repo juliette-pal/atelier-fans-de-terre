@@ -19,7 +19,9 @@ La magie du raku commence !!!
 ## OFFRIR un stage raku
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.  
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
-
+  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget" style="width: 100%; height: 750px; border: none;"></iframe>  
+  
 ## Formule 100% atelier  
 Modelage + émaillage + cuisson raku, le tout chez Fans de terre   
 Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l’autre pour la cuisson raku.  
@@ -27,15 +29,15 @@ Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 165€  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
-
+ 
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }  
  
 ## Formule atelier sans modelage  
 Le prix comprend la **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 150€  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }      
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }        
 
 ## Formule maison  
 Modelage et 1ère cuisson **chez vous** + émaillage et cuisson raku à l’atelier  
@@ -43,7 +45,7 @@ Modelage et 1ère cuisson **chez vous** + émaillage et cuisson raku à l’atel
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 75€ + 15€/pièce (max 15cm hauteur et profondeur)  
 Utiliser le code RKHOME lors de la réservation pour payer les 75€. Le paiement des pièces se fera le jour de la cuisson.
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
 
 ## Formule élève de l’atelier  
 Modelage et émaillage pendant les cours + cuisson en stage  
