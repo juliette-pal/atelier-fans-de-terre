@@ -18,9 +18,8 @@ La magie du raku commence !!!
 
 ## OFFRIR un stage raku
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
-  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget" style="width: 100%; height: 750px; border: none;"></iframe>  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
+
   
 ## Formule 100% atelier  
 Modelage + émaillage + cuisson raku, le tout chez Fans de terre   
