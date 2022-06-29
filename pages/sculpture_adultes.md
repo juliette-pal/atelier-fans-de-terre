@@ -30,7 +30,8 @@ Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.
   
 ## OFFRIR un stage - Bon cadeau numérique possible
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2021-2022/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
   
   
 ## LISTE D'ATTENTE pour un stage complet
