@@ -4,8 +4,7 @@ redirect_from:
 
 ---
 # ACTIVITES ENFANTS  
-
-## [LES COURS HEBDOMADAIRES 1H30](/pages/cours_enfants.md)
+## [LES COURS HEBDOMADAIRES 1H30](cours_enfants.md)
 Pour une **pratique artistique** régulière autour des techniques céramiques.  
 **Durée :** 1H30  
 **Niveau :** 4 ans et +  
