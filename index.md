@@ -8,7 +8,7 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
-⭐ **Venez tester un cours avant une inscription à l'année !!!  [CONSULTER](pages/cours_adultes)** ⭐      
+⭐ **FORUM des ASSOCIATIONS** Samedi 3 septembre // **PORTE OUVERTE** Dimanche 4 septembre 14h - 18h       
   
 ---  
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
