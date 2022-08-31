@@ -8,7 +8,8 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
-⭐ **FORUM des ASSOCIATIONS** Samedi 3 septembre // **PORTE OUVERTE** Dimanche 4 septembre 14h - 18h       
+⭐ **FORUM des ASSOCIATIONS** - Samedi 3 septembre 10h 18h  
+⭐ **PORTE OUVERTE** - Dimanche 4 septembre 14h - 18h        
   
 ---  
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
