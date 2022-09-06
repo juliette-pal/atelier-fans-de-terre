@@ -8,8 +8,10 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
-⭐ **FORUM des ASSOCIATIONS** - Samedi 3 septembre 10h 18h  
-⭐ **PORTE OUVERTE** - Dimanche 4 septembre 14h - 18h        
+⭐ **PODADA** - Samedi 8 et dimanche 9 octobre - 14h 19h  
+⭐ Porte Ouverte Des Ateliers D'Artistes des villes de Colombes ,Bois-colombes, Clichy, Gennevilliers, Asnières, Argenteuil  
+⭐ Avec la participation du sculpteur **Claude RHEIN**, du photographe **Bertrand GRUYER** et de la céramiste **Monika BEVIGNY JACQUES-GUSTAVE**  
+[En savoir plus sur les PODADA](https://podada.bouclenorddeseine.fr/)
   
 ---  
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
