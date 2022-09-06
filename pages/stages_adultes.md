@@ -59,6 +59,13 @@ Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre
 **Tarif** : 150€    
 [En savoir plus...](sculpture_adultes)
 
+## [STAGE BIJOUX PORCELAINE](stage_bijoux_porcelaine.md)      
+En 2 jours, vous pourrez concevoir, décorer, émailler et assembler vos bijoux pour un rendu très personnel !  
+**Durée** : 1 jour et demi  
+**Niveau** : Tous niveaux  
+**Tarif** : 210€ avec fourniture des apprêts    
+[En savoir plus...](stage_bijoux_porcelaine)  
+
 ## [PATINE](patine_adultes.md)  
 L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des patines à froid.   
 **Durée** : 1 journée  
