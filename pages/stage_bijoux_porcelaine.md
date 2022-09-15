@@ -9,8 +9,8 @@ Dimanche 5 Février - 10h - 13h : assemblage des bijoux... avec fourniture des a
 <img src="/images/programme_stage_bijoux_porcelaine_fansdeterre.png" class="image-stage" alt="Affiche stage bijoux porcelain avec Anne Drugeon">
 
 <img src="/images/stage_bijoux_porcelaine_fansdeterre.png" class="image-stage" alt="Affiche stage bijoux porcelain avec Anne Drugeon">
-
----
+  
+  
 ## OFFRIR ce stage - Bon cadeau numérique possible  
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
 
