@@ -1,7 +1,10 @@
-# Atelier Parents/Enfants
+
+  #
+  Atelier Parents/Enfants
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
 
-<img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">  
+
+<img src="/images/parents-enfants-tournage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-horiz">
 
 Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos couleurs.  
 
@@ -11,15 +14,18 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 **_La récupération des pièces se fait de 10 jours à 1 mois après le stage._**
 
 
+
 Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillage, sont compris dans le prix.
 
+
 ## Mercredi en famille - A l'étude  
-Cliquer ici pour participer à la consultation
-**Durée :**    
+[Cliquer ici pour participer au sondage](https://forms.gle/adTVVqG97Q9a3cgP7)  
+**Durée :**     
 **Niveau :** à partir de 3ans  
-**Tarif :**        
-  
-**1 adulte peut accompagner plusieurs enfants**.  
+**Tarif :**  
+ 
+**1 adulte peut accompagner plusieurs enfants**.   
+
 Vous réalisez des **projets communs** de a à z et nous vous accompagnons dans la réalisation.  
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2022-2023-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }  
