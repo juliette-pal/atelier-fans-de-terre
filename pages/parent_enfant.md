@@ -13,17 +13,26 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 
 Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillage, sont compris dans le prix.
 
-## Décore ta poterie ** NEW **  
-**Durée :** 1H15  
-**Niveau :** à partir de 3ans (acompagné) ou 5 ans (seul)  
-**Tarif :** A partir de 15€ par participant.     
-**Tous les mercredis** : 14h15 à 15h30 **ou** 16h15 à 17h30  
+## Mercredi en famille - A l'étude  
+Cliquer ici pour participer à la consultation
+**Durée :**    
+**Niveau :** à partir de 3ans  
+**Tarif :**        
+  
+**1 adulte peut accompagner plusieurs enfants**.  
+Vous réalisez des **projets communs** de a à z et nous vous accompagnons dans la réalisation.  
 
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2022-2023-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }  
+
+
+## Décore ta poterie   
+**Durée :**   
+**Niveau :** à partir de 3ans (acompagné) ou 5 ans (seul)  
+**Tarif :**        
 
 Vous connaissez le **café céramique** ?  
 C'est pareil mais sans le café 😄  
 Dans cet atelier **DIY**, vous décorez des **poteries fournies par l'atelier**, que vous pourrez ensuite utiliser au quotidien !!!  
-  
   
 Contrairement aux autres formules, **1 adulte peut accompager 2 enfants**. Les **enfants** peuvent aussi en faire **tous seuls** !!!    
 
@@ -31,7 +40,7 @@ Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2022-2023-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
 
-## Modelage  
+## P/E Modelage  
 **Durée :** 2H30  
 **Niveau :** 3 ans et +  
 **Tarif :** 80€ (pour 2)  
@@ -42,7 +51,7 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2022-2023-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }       
 
-## Tournage  
+## P/E Tournage  
 **Durée :** 3H  
 **Niveau :** 8 ans et +  
 **Tarif :** 95€ (pour 2)  
