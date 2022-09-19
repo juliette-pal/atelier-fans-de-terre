@@ -1,4 +1,4 @@
-#Actualités de l'atelier  
+#Actualités    
 
 ## En octobre  
 
