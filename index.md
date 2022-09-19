@@ -13,7 +13,8 @@ Avec la participation du sculpteur **Claude RHEIN**, du photographe **Bertrand G
 [En savoir plus sur les PODADA](https://podada.bouclenorddeseine.fr/)  
 
 
-⭐ [Voir les autres actualités de l'atelier](actualités)  
+[Voir les autres actualités de l'atelier](pages/actualités)   
+
 
 
 ---  
