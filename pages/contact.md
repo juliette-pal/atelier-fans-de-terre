@@ -2,8 +2,8 @@
 51, rue Guerlain,  
 92700 Colombes
   
-## Horaires d'ouverture         
-🌟 **PORTE OUVERTE** le dimanche **4 septembre** de 14H à 18H  
+## Horaires d'ouverture  
+
 🌟 **PODADA** (porte ouverte des ateliers d’artistes) : **8 et 9 octobre** de 14H à 19H  
 
 **Du 5 au 23 septembre**  
