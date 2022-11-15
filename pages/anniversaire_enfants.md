@@ -42,8 +42,9 @@ Le gâteau est ramené par la famille.
 - Tournage (9 ans et +) - Max 8 enfants : 50€    
 
 
-## [Nous contacter pour trouver une date](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
+## [Nous contacter pour trouver une date](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }   
 
-## Bloquer une date en versant un acompte
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/reglement-libre-2021-2022/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
+
+## Bloquer une date en versant un acompte (préciser la date bloquée lors du règlement)
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/reglement-libre/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
 
