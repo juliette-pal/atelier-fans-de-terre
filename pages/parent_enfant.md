@@ -25,23 +25,24 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 
 Vous réalisez des **projets communs** de a à z et nous vous accompagnons dans la réalisation.  
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2022-2023-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }  
-
-
 ## Décore ta poterie   
 **Durée :**   
-**Niveau :** à partir de 3ans (acompagné) ou 5 ans (seul)  
-**Tarif :**        
+**Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
+**Tarif :** en fonction des pièces choisies         
 
 Vous connaissez le **café céramique** ?  
 C'est pareil mais sans le café 😄  
 Dans cet atelier **DIY**, vous décorez des **poteries fournies par l'atelier**, que vous pourrez ensuite utiliser au quotidien !!!  
   
-Contrairement aux autres formules, **1 adulte peut accompager 2 enfants**. Les **enfants** peuvent aussi en faire **tous seuls** !!!    
+Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les **enfants** peuvent aussi en faire **tous seuls** !!!    
 
-Il faudra attendre 10 jours pour récupérer votre oeuvre car l'atelier devra l'**émailler et la cuire** pour vous. 
+Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2022-2023-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
+**Dates :**    
+**Festival des créatrices** à l’école Léon Bourgois : **samedi 3 et dimanche 4 décembre 2022**    
+ 
+ 
+  
 
 ## P/E Modelage  
 **Durée :** 2H30  
