@@ -22,7 +22,10 @@ Vous pouvez voir et réserver ci-dessous.
 **Niveau :** 6ans et +  
 **Tarif :** 25€  
 1 pièce, les fournitures de décor, la cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-enfants-vacances-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
+
+
+## [Nous contacter pour trouver une date](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
+
   
 ## STAGE MODELAGE - ENFANTS / ADOS  
 Les participants découvrent le travail en volume, ainsi que des techniques céramiques.  
