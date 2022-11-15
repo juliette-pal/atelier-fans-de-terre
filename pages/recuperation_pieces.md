@@ -20,38 +20,34 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 ## VOTRE AVIS COMPTE
 Nous espérons que vous avez apprécié votre stage.  
 Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour laisser un avis](https://g.page/fansdeterre/review?gm)  
+  
+## Horaires d'ouverture  
 
-## Horaires d'ouverture         
-🌟 **PORTE OUVERTE** le dimanche **4 septembre** de 14H à 18H  
-🌟 **PODADA** (porte ouverte des ateliers d’artistes) : **8 et 9 octobre** de 14H à 19H  
-
-**Du 5 au 23 septembre**  
-Ouvert tous les mercredis de 15H30 à 18h30
-
-**REPRISE DES COURS : 26 septembre** :   
+**Sur horaires de cours** :          
 - Lundi / Mardi : fermé  
-- Mercredi : 14H-18h // 19h30 – 22h30  
+- Mercredi : 14H-16h // 19h30 – 22h30  
 - Jeudi : 19h30 – 22h30  
-- Vendredi : 9h30 – 12h30 // 14H - 20h  
+- Vendredi : 9h30 – 12h30 // 14H - 20h   
+- Samedi : [cliquer ici pour voir les dates](samedi.md)  
+
 
 **Week-ends hors vacances** :   
-- Samedi 24/09 : 13h-18h        
-- Dimanche 25/09 : 15h30-18h   
-- Samedi 01/10 : 10h-13h  
-- Dimanche 02/10 : 15h30-18h   
-- Samedi 8 et dimanche 9/10 : 14h-19h         
-- Samedi 15/10 : 10h-13h        
-- Dimanche 16/10 : 15h30-18h   
-- Samedi 22/10 : 13h-18h   
-- Dimanche 23/10 : 15h30-18h   
+- Samedi 19/11 : 10h-13h30 et 15h30-18h30        
+- Dimanche 20/11 : Fermé   
+- Samedi 26/11 : 10h-13h30 et 15h30-18h30  
+- Dimanche 27/11 : Fermé     
+- Samedi 3 et dimanche 4/12 : **animations au festival des créatrices – Ecole Léon Bourgeois**         
+- Samedi 10/12 : 10h-13h30 et 15h30-18h30          
+- Dimanche 11/12 : 10h-13h30 et 15h30-18h30  
+- Samedi 17/12 : 10h-13h30 et 15h30-18h30  
+- Dimanche 18/12 : 15h30-18h30   
 
- **Vacances** :   
--Lundi 24 au jeudi 27 octobre : 10h – 13h  
--Fermé du 28 octobre au 8 novembre   
+ **Vacances Noël** :   
+Fermé du 19 décembre au 3 janvier   
+   
+ 
 
    
-
-
        
   
 A TRES BIENTOT  
