@@ -14,7 +14,7 @@
 
 
 **Week-ends hors vacances** :   
-- Samedi 19/11 : 10h-13h30 et 15h30-18h30        
+- Samedi 19/11 : 10h-13h30        
 - Dimanche 20/11 : Fermé   
 - Samedi 26/11 : 10h-13h30 et 15h30-18h30  
 - Dimanche 27/11 : Fermé     
