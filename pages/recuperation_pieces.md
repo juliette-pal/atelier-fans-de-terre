@@ -23,6 +23,9 @@ Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour lai
   
 ## Horaires d'ouverture  
 
+**Vacances Noël** :   
+Fermé du 22 décembre au 3 janvier   
+  
 **Sur horaires de cours** :          
 - Lundi / Mardi : fermé  
 - Mercredi : 14H-16h // 19h30 – 22h30  
@@ -32,20 +35,15 @@ Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour lai
 
 
 **Week-ends hors vacances** :   
-- Samedi 19/11 : 10h-13h30          
-- Dimanche 20/11 : Fermé   
-- Samedi 26/11 : 10h-13h30 et 15h30-18h30  
-- Dimanche 27/11 : Fermé     
-- Samedi 3 et dimanche 4/12 : **animations au festival des créatrices – Ecole Léon Bourgeois**         
-- Samedi 10/12 : 10h-13h30 et 15h30-18h30          
-- Dimanche 11/12 : 10h-13h30 et 15h30-18h30  
 - Samedi 17/12 : 10h-13h30 et 15h30-18h30  
-- Dimanche 18/12 : 15h30-18h30   
+- Dimanche 18/12 : 16h-18h30    
+- Mercredi 21/12 : 17h-22h30  
+- Samedi 7/01 : 10h-13h30 et 15h30-18h30  
+- Samedi 14/01 : 10h-13h30  
+- Samedi 21/01 : 10h-13h30 et 15h30-18h30  
+- Dimanche 22/01 : 10h-13h30  
+- Samedi 28/01 : 10h-13h30 et 15h30-18h30    
 
- **Vacances Noël** :   
-Fermé du 19 décembre au 3 janvier   
-
-       
   
 A TRES BIENTOT  
 
