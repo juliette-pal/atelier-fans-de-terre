@@ -5,8 +5,8 @@
   
 ## Horaires d'ouverture  
 
-**Vacances Noël** :   
-Fermé du 22 décembre au 3 janvier   
+**Vacances Février** :   
+Fermé du 19 février au 7 mars   
   
 **Sur horaires de cours** :          
 - Lundi / Mardi : fermé  
@@ -17,14 +17,21 @@ Fermé du 22 décembre au 3 janvier
 
 
 **Week-ends hors vacances** :   
-- Samedi 17/12 : 10h-13h30 et 15h30-18h30  
-- Dimanche 18/12 : 16h-18h30    
-- Mercredi 21/12 : 17h-22h30  
-- Samedi 7/01 : 10h-13h30 et 15h30-18h30  
-- Samedi 14/01 : 10h-13h30  
-- Samedi 21/01 : 10h-13h30 et 15h30-18h30  
-- Dimanche 22/01 : 10h-13h30  
-- Samedi 28/01 : 10h-13h30 et 15h30-18h30    
+- Samedi 11/02 : 10h-13h30 et 15h30-18h30   
+- Dimanche 12/02 : 11h-17h  
+- Samedi 18/02 : 10h-13h30 et 15h30-18h30   
+- Samedi 11/03 : 10h-13h30 et 15h30-18h30  
+- Dimanche 12/03 : 10h-13h30 et 15h30-18h30  
+- Samedi 18/03 : 10h-13h30  
+- Samedi 25/02 : 10h-13h30 et 15h30-18h30  
+- Dimanche 26/03 : 11h-17h  
+- Samedi 01/04 : 10h-13h30 et 15h30-18h30    
+- Dimanche 02/04 : 11h-17h  
+- Samedi 08/04 : 10h-13h30 et 15h30-18h30    
+- Samedi 15/04 : 10h-13h30 et 15h30-18h30    
+- Dimanche 16/04 : 11h-17h  
+- Samedi 22/04 : 10h-13h30 et 15h30-18h30    
+- Dimanche 23/04 : 11h-17h  
 
 
   
