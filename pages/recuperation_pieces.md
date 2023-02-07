@@ -50,7 +50,7 @@ Fermé du 19 février au 7 mars
 - Dimanche 16/04 : 11h-17h  
 - Samedi 22/04 : 10h-13h30 et 15h30-18h30    
 - Dimanche 23/04 : 11h-17h  
-
+ 
   
 A TRES BIENTOT  
 
