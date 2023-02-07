@@ -3,12 +3,12 @@
 92700 Colombes  
 
   
-## Horaires d'ouverture  
+## Horaires d'ouverture de l'atelier    
 
 **Vacances Février** :   
 Fermé du 19 février au 7 mars   
   
-**Sur horaires de cours** :          
+**En semaine** :                    
 - Lundi / Mardi : fermé  
 - Mercredi : 14H-16h // 19h30 – 22h30  
 - Jeudi : 19h30 – 22h30  
