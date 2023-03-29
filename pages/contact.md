@@ -14,7 +14,7 @@ Fermé du 28 avril au 9 mai
 - Mercredi : 14H-16h // 19h30 – 22h30  
 - Jeudi : 19h30 – 22h30  
 - Vendredi : 9h30 – 12h30 // 14H - 20h   
-- Samedi de cours : [cliquer ici pour voir les dates](samedi.md)  
+- Samedis de cours : [cliquer ici pour voir les dates](samedi.md)  
 
 
 **Week-ends hors vacances** :    
