@@ -5,26 +5,19 @@
   
 ## Horaires d'ouverture de l'atelier    
 
-**Vacances Février** :   
-Fermé du 19 février au 7 mars   
+**Vacances d'avril** :   
+Du lundi 24 au jeudi 27 avril : 10H - 13H  
+Fermé du 28 avril au 9 mai     
   
-**En semaine** :                    
+**En semaine hors vacances** :                    
 - Lundi / Mardi : fermé  
 - Mercredi : 14H-16h // 19h30 – 22h30  
 - Jeudi : 19h30 – 22h30  
 - Vendredi : 9h30 – 12h30 // 14H - 20h   
-- Samedi : [cliquer ici pour voir les dates](samedi.md)  
+- Samedi de cours : [cliquer ici pour voir les dates](samedi.md)  
 
 
-**Week-ends hors vacances** :   
-- Samedi 11/02 : 10h-13h30 et 15h30-18h30   
-- Dimanche 12/02 : 11h-17h  
-- Samedi 18/02 : 10h-13h30 et 15h30-18h30   
-- Samedi 11/03 : 10h-13h30 et 15h30-18h30  
-- Dimanche 12/03 : 10h-13h30 et 15h30-18h30  
-- Samedi 18/03 : 10h-13h30  
-- Samedi 25/02 : 10h-13h30 et 15h30-18h30  
-- Dimanche 26/03 : 11h-17h  
+**Week-ends hors vacances** :    
 - Samedi 01/04 : 10h-13h30 et 15h30-18h30    
 - Dimanche 02/04 : 11h-17h  
 - Samedi 08/04 : 10h-13h30 et 15h30-18h30    
