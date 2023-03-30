@@ -1,6 +1,6 @@
 # Comment récupérer vos pièces après un stage ?
 **ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.**  
-Passez à tout moment, **sur les horaires d’ouverture**, **sans message préalable**    
+Passez, **sur les horaires d’ouverture**, **sans message préalable**    
 
 
 <img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
