@@ -1,19 +1,22 @@
 # Comment récupérer vos pièces après un stage ?
-**ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.**  
-Passez, **sur les horaires d’ouverture**, **sans message préalable**    
 
+Nous espérons que vous avez apprécié votre stage 🙏🙏🙏   
+
+Passez, **sur les horaires d’ouverture**, **sans message préalable**   
+
+**ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.**   
 
 <img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
   
   
 ## VOTRE AVIS COMPTE
-Nous espérons que vous avez apprécié votre stage 🙏🙏🙏 
 
-Vous pouvez partager votre expérience via un avis google   
-[cliquer ici pour laisser un avis](https://g.page/fansdeterre/review?gm)   
+🙏 Vous pouvez partager votre expérience via un avis :     
+[cliquer ici pour laisser un avis GOOGLE](https://g.page/fansdeterre/review?gm)   
+[cliquer ici pour laisser un avis WECANDOO](https://wecandoo.fr/atelier/initiation-ceramique-tour-decor-emaillage)  
 
-Vous pouvez aussi nous aider à nous améliorer en 2mn env...   
-[cliquer ici pour remplir le questionnaire satisfaction](https://forms.office.com/r/ZMh5YtCtj7)
+🙏 Vous pouvez aussi nous aider à nous améliorer en 2mn env...   
+[cliquer ici pour remplir le QUESTIONNAIRE SATISFACTION](https://forms.office.com/r/ZMh5YtCtj7)
  
  
 ## Dans quel délai après votre stage  
