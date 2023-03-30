@@ -1,7 +1,21 @@
 # Comment récupérer vos pièces après un stage ?
 **ATTENTION !!! Les pièces sont gardées maximum 3 mois après le stage.**  
-  
+Passez à tout moment, **sur les horaires d’ouverture**, **sans message préalable**    
 
+
+<img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
+  
+  
+## VOTRE AVIS COMPTE
+Nous espérons que vous avez apprécié votre stage 🙏🙏🙏 
+
+Vous pouvez partager votre expérience via un avis google   
+[cliquer ici pour laisser un avis](https://g.page/fansdeterre/review?gm)   
+
+Vous pouvez aussi nous aider à nous améliorer en 2mn env...   
+[cliquer ici pour remplir le questionnaire satisfaction](https://forms.office.com/r/ZMh5YtCtj7)
+ 
+ 
 ## Dans quel délai après votre stage  
 
 Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a entre les deux dates :  
@@ -11,15 +25,8 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 - **Stage émaillage adultes :** 15 jours après 
 - **Stage modelage adultes :** 1 mois après 
 - **Stage raku :** 1 mois après 
-- **Stage sculpture :**  2 mois après 
-
-
-<img src="/images/vase-poterie-modelage_atelier-fans-de-terre.jpeg" class="image-stage">  
+- **Stage sculpture :**  2 mois après  
   
-  
-## VOTRE AVIS COMPTE
-Nous espérons que vous avez apprécié votre stage.  
-Aidez-nous à nous améliorer en laissant un avis google : [cliquer ici pour laisser un avis](https://g.page/fansdeterre/review?gm)  
   
 ## Horaires d'ouverture de l'atelier    
 
@@ -32,7 +39,6 @@ Fermé du 28 avril au 9 mai
 - Mercredi : 14H-16h // 19h30 – 22h30  
 - Jeudi : 19h30 – 22h30  
 - Vendredi : 9h30 – 12h30 // 14H - 20h   
-- Samedis de cours : [cliquer ici pour voir les dates](samedi.md)  
 
 
 **Week-ends hors vacances** :    
