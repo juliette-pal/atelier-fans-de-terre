@@ -6,10 +6,13 @@
 ## Horaires d'ouverture de l'atelier    
 
 **Vacances d'avril** :   
-Du lundi 24 au jeudi 27 avril : 10H - 13H  
 Fermé du 28 avril au 9 mai     
+**Semaine ascension** :   
+Fermé du 15 au 21 mai
+**Eté 2023** :   
+Fermé du 3 juillet au 5 septembre  
   
-**En semaine hors vacances** :                    
+**En semaine hors vacances – jusqu’au 16 juin 23** :                    
 - Lundi / Mardi : fermé  
 - Mercredi : 14H-16h // 19h30 – 22h30  
 - Jeudi : 19h30 – 22h30  
@@ -17,13 +20,18 @@ Fermé du 28 avril au 9 mai
 
 
 **Week-ends hors vacances** :    
-- Samedi 01/04 : 10h-13h30 et 15h30-18h30    
-- Dimanche 02/04 : 11h-17h  
-- Samedi 08/04 : 10h-13h30 et 15h30-18h30    
-- Samedi 15/04 : 10h-13h30 et 15h30-18h30    
-- Dimanche 16/04 : 11h-17h  
-- Samedi 22/04 : 10h-13h30 et 15h30-18h30    
-- Dimanche 23/04 : 11h-17h  
+- Samedi 13/05 : 10h-13h30 et 15h30-18h30    
+- Dimanche 14/05 : 11h-17h  
+- Samedi 27/05  : 10h-13h30 et 15h30-18h30    
+- Samedi 03/06 : 10h-13h30 et 15h30-18h30    
+- Dimanche 04/06 : 11h-17h  
+- Samedi 10/06 : 10h-13h30 et 15h30-18h30    
+- Dimanche 11/06 : 11h-17h  
+- Samedi 17/06 : 10h-13h30 et 15h30-18h30    
+- Samedi 24/06 : 11h-17h      
+- Dimanche 25/06 : 11h-17h  
+- Samedi 01/07 : 11h-17h      
+- Dimanche 02/07 : 11h-17h  
 
 
   
