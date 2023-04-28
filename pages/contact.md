@@ -8,7 +8,7 @@
 **Vacances d'avril** :   
 Fermé du 28 avril au 9 mai     
 **Semaine ascension** :   
-Fermé du 15 au 21 mai
+Fermé du 15 au 21 mai  
 **Eté 2023** :   
 Fermé du 3 juillet au 5 septembre  
   
