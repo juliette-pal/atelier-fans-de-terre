@@ -28,7 +28,7 @@ Tarif :
 Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
 **Durée** : 1 journée  
 **Niveau** : Tous niveaux    
-**Tarif** : 110€  
+**Tarif** : à partir de 75€  
 [En savoir plus...](tournage_adultes)
 
 ## [MODELAGE](modelage_adultes.md)
@@ -49,7 +49,7 @@ Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique jap
 Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émaillant pour un rendu parfait ! Si vous n'avez pas de pièce l'atelier vous en fournit 2.    
 **Durée** : 3H  
 **Niveau** : Déb./Int.     
-**Tarif** : à partir de 50€  
+**Tarif** : 50€ (45€ si vous le prenez en meme temps que le tournage)  
 [En savoir plus...](emaillage_adultes)
 
 ## [SCULPTURE](sculpture_adultes.md)      
@@ -63,7 +63,7 @@ Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre
 En 2 jours, vous pourrez concevoir, décorer, émailler et assembler vos bijoux pour un rendu très personnel !  
 **Durée** : 1 jour et demi  
 **Niveau** : Tous niveaux  
-**Tarif** : 210€ avec fourniture des apprêts    
+**Tarif** : à partir de 75€     
 [En savoir plus...](stage_bijoux_porcelaine)  
 
 ## [PATINE](patine_adultes.md)  
@@ -75,7 +75,7 @@ L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des pa
 
 ## [PARENT/ENFANT mais pas que...](parent_enfant.md)  
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
-**Durée** : 1H15 (décore ta poterie) - 2H30 (modelage) - 3H (tournage)  
+**Durée** : 2H30 (modelage) - 3H (tournage)  
 **Niveau** : Modelage et décore ta poterie (à partir de 3 ans) - Tournage (à partir de 8 ans)  
-**Tarif** : à partir de 30€  
+**Tarif** : à partir de 80€  
 [En savoir plus...](parent_enfant)
