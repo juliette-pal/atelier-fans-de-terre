@@ -32,6 +32,7 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 [Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }       si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser la date du stage en commentaire).    
 
 ## RESERVER une date
-**ATTENTION** : pour faire une **stage d'une journée (110€)**, vous sélectionnez un **stage de 3h30 (75€)**, puis **l'option tournassage de 2h30 (35€)** le jour même.  
+**Recommandations** : Optez pour un stage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
+
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-tournage-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
 
