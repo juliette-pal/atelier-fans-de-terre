@@ -38,14 +38,14 @@ Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l
 *Prévoir minimum 2 semaines entre les deux dates*.    
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 165€  
+**Tarif :** 159€  
  
  
-## Formule SPEED // atelier sans modelage  
-Le prix comprend la **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
+## Formule DECOUVERTE // Sans modelage  
+Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 150€  
+**Tarif :** 159€  
 
 
 ## Formule MAISON  
@@ -53,14 +53,14 @@ Modelage et 1ère cuisson **chez vous** + émaillage et cuisson raku à l’atel
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 75€ + 15€/pièce (max 15cm hauteur et profondeur)  
-Utiliser le code RKHOME lors de la réservation pour payer les 75€. Le paiement des pièces se fera le jour de la cuisson.
+Utiliser le **code RKHOME** lors de la réservation pour payer les 75€. **Le paiement des pièces se fera le jour de la cuisson.
 
 
 ## Formule ELEVE de l’atelier  
 Modelage et émaillage pendant les cours + cuisson en stage  
 **Durée :** 1/2 journée (cuisson l'après midi)  
-**Tarif modelage et émaillage en cours + cuisson en stage :** 30€ + 10€/pièce à cuire  
-**Tarif modelage en cours + émaillage et cuisson en stage :** 60€ + 10€/pièce à cuire  
+**Tarif modelage et émaillage en cours + cuisson en stage :** 12€/pièce à cuire  
+**Tarif modelage en cours + émaillage et cuisson en stage :** 60€ + 12€/pièce à cuire  
 **Tarif modelage, émaillage et cuisson en stage :** -20% sur tarif normal  
 Contacter l'atelier
   
