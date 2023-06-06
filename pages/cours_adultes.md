@@ -11,12 +11,13 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 | Jours    | Horaires      | Infos          |
 | -------- | ------------- | ------------- |
 | Mercredi | 19H30 - 22H30 | Modelage et tournage              |
-| Jeudi    | 19H30 - 22H30 | Modelage et tournage              |
+| Jeudi    | 14H00 - 17H30 | Modelage                          |
+|          | 19H30 - 22H30 | Modelage et tournage              |
 | Vendredi | 09H30 - 12H30 | Modelage et tournage              |
 |          | 14H00 - 17H00 | Modelage et tournage              |
 |          | 17H00 - 20H00 | **100% tournage** |
-| Samedi   | 10H00 - 13H30 | Modelage et tournage **1 samedi sur 2** - [Voir les séances](samedi.md) |
-|   | 15H00 - 18H30 | Modelage et tournage **1 samedi sur 2** - [Voir les séances](samedi.md)  |
+| Samedi   | 10H00 - 13H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md) |
+|   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md)  |
 
 
 
@@ -51,24 +52,22 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 
   
   
-## 2 FORMULES SAMEDI   
-**Niveau :**  Modelage (tous niveaux) - Tournage (hors débutants)  
-Il est fortement conseillé aux élèves qui veulent apprendre le tournage, de compléter ce cours par 1 ou 2 stages intensifs d'une journée.  
-
+## 2 FORMULES SAMEDI et le jeudi pm   
+**Niveau :**  Modelage (tous niveaux)  
 **Tarif : 785€ l’année** - 16 cours de 3H30  
 
+:star: Forfait payable en 4 fois.     
+
+3 possibilités pour ce cours :  
+- Jeudi après-midi : 14h - 17h30  
+- Samedi matin (AM) : 10H - 13H30 - Groupe A ou B  
+- Samedi près-midi (PM) : 15H - 18H30  
+
 Les cours d'une durée de 3H30 ont lieu sur 16 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
-  
-Deux possibilités pour ce cours :  
-- Matin (AM) : 10H - 13H30 - Groupe A ou B  
-- Après-midi (PM) : 15H - 18H30  
-  
-Le contenu est similaire à la "formule modelage et tournage" ci-dessous.  
 
+En raison de la faible récurrence de cours, les techniques de modelage sont privitégiées.  
+Nous aborderons ponctuellement le tournage. Les élèves qui veulent en faire plus régulièrement, doivent impérativement prendre 2 stages de tournage d'une journée avant de pouvoir en faire sur ce cours. Et potentiellement en prendre d'autres en cours d'année en fonction de leur évolution.   
 
-:star: Forfait payable en 4 fois.   
-
-  
   
 ## FORMULE MODELAGE ET TOURNAGE  
 
@@ -103,11 +102,16 @@ A chacun son rythme selon ses envies !
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
-## Inscriptions 2022-2023      
-L'inscription se déroule en 2 étapes :  
-- **la pré-inscription** est validée après paiement des frais d'inscription de 85 ou 135€ selon le forfait choisi (**vous devez recevoir un mail de confirmation de règlement HELLOASSO**).  
-- **l'inscirption définitive** à réception des chèques complémentaires dans les 7 jours qui suivent la préinscription. Passé ce délai votre place ne sera pas garantie et les frais d'inscription ne seront pas remboursés. 
-- Et si vous ne parvenez pas à avoir une place, inscrivez sur la liste d'attente suivante : [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
+## Inscriptions 2023-2024      
+Ouverture des inscriptions aux non inscrits à partir du 20 juin. Ceux qui se sont inscrits sur la liste d'attente sont prioritaires.  
+
+L'inscription se déroule de la façon suivante :  
+
+- **la pré-inscription** est validée après paiement des frais d'inscription de 85 ou 135€ selon le forfait choisi (**ATTENTION !!! Vous devez impérativement recevoir un mail de confirmation de règlement HELLOASSO pour que votre pré-inscription soit valide.**)  
+
+- **l'inscirption définitive** à réception des chèques complémentaires dans les 7 jours qui suivent la préinscription. Passé ce délai votre place ne sera pas garantie et les frais d'inscription ne seront pas remboursés.   
+
+- **Liste d'attente** // Et si vous voulez anticiper ou ne parvenez pas à avoir une place, inscrivez-vous sur la liste d'attente : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
 
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2022-2023-1/widget" style="width: 100%; height: 750px; border: none;"></iframe  
