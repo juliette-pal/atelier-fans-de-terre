@@ -15,19 +15,19 @@ Le nombre de pièces que l'on peut traiter dépend de ce que l'on fait (décor a
 
 **Niveau :** Débutant/Intermédiaire  
 
-**Tarif :** 50€ (hors pièces)  
+**Tarif :** 45€ en supplément d'un stage modelage ou tournage  
+50€ pris après un stage ou sans stage (supplément de 25€ si vous n'avez pas fait de stage tournage ou modelage avant. On vous fournit 2 pièces réalisées et déjà cuites par l'atelier)  
+
 Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2 pièces réalisées par vous ou fournies par l’atelier (supplément à payer).  
  
 ---
 ## OFFRIR un stage - Bon cadeau numérique possible
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
-  
-  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2023-2024/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>{:target="_blank" }    
+---  
 ## Liste d'attente
 [Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601) si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser la date du stage en commentaire).
-
+---
 ## RESERVER  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2022-2023-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }   
-
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
