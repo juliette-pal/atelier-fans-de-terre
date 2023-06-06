@@ -100,7 +100,9 @@ A chacun son rythme selon ses envies !
   
 ## OFFRIR un stage
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2023-2024/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>{:target="_blank" }   
+
 
 ## Inscriptions 2023-2024      
 Ouverture des inscriptions aux non inscrits à partir du 20 juin. Ceux qui se sont inscrits sur la liste d'attente sont prioritaires.  
@@ -113,6 +115,6 @@ L'inscription se déroule de la façon suivante :
 
 - **Liste d'attente** // Et si vous voulez anticiper ou ne parvenez pas à avoir une place, inscrivez-vous sur la liste d'attente : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2023-2024-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>  
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2022-2023-1/widget" style="width: 100%; height: 750px; border: none;"></iframe  
 
