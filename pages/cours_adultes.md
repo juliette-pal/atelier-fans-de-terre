@@ -52,14 +52,14 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
 
   
   
-## 2 FORMULES SAMEDI et le jeudi pm   
+## FORMULES une semaine sur deux : jeudi (new!!!) et samedi   
 **Niveau :**  Modelage (tous niveaux)  
 **Tarif : 785€ l’année** - 16 cours de 3H30  
 
 :star: Forfait payable en 4 fois.     
 
 3 possibilités pour ce cours :  
-- Jeudi après-midi : 14h - 17h30  
+- Jeudi après-midi : 14h - 17h30 - **NEW !!!  
 - Samedi matin (AM) : 10H - 13H30 - Groupe A ou B  
 - Samedi près-midi (PM) : 15H - 18H30  
 
