@@ -26,7 +26,7 @@ Tarif :
 
 ## [TOURNAGE](tournage_adultes.md)  
 Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
-**Durée** : 1 journée  
+**Durée** : à partir de 3H30    
 **Niveau** : Tous niveaux    
 **Tarif** : à partir de 75€  
 [En savoir plus...](tournage_adultes)
@@ -40,7 +40,7 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 
 ## [RAKU](raku_adultes.md)  
 Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
-**Durée** : 1 jour et demi  
+**Durée** : à partir d'un jour    
 **Niveau** : Déb./Int.     
 **Tarif** : à partir de 85€  
 [En savoir plus...](raku_adultes) 
@@ -61,7 +61,7 @@ Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre
 
 ## [BIJOU PORCELAINE](stage_bijoux_porcelaine.md)        
 En 2 jours, vous pourrez concevoir, décorer, émailler et assembler vos bijoux pour un rendu très personnel !  
-**Durée** : 1 jour et demi  
+**Durée** : à partir de 4H  
 **Niveau** : Tous niveaux  
 **Tarif** : à partir de 75€     
 [En savoir plus...](stage_bijoux_porcelaine)  
