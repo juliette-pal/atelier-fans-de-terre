@@ -25,10 +25,10 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 
 Vous réalisez des **projets communs** de a à z et nous vous accompagnons dans la réalisation.  
 
-## Décore ta poterie   
+## Animation extérieure : décore ta poterie   
 **Durée :**   
 **Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
-**Tarif :** en fonction des pièces choisies         
+**Tarif :** à partir de 5€, en fonction des pièces choisies         
 
 Vous connaissez le **café céramique** ?  
 C'est pareil mais sans le café 😄  
@@ -40,6 +40,7 @@ Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'
 
 **Dates :**    
 **Festival des créatrices** à l’école Léon Bourgois : **samedi 3 et dimanche 4 décembre 2022**    
+**Marché de noêl** à l’école Jeanne d'Arc :     
  
  
   
