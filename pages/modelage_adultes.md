@@ -32,5 +32,5 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 ---
 
 ## RESERVER une date   
-**ATTENTION aux dates !!!**   2023/09/12  =  12 septembre 2023  
+**ATTENTION aux dates de stages**...   Ex :  2023/09/12  =  12 septembre 2023  
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
