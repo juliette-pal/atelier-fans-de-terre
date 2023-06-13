@@ -5,6 +5,8 @@ En formule 4H le jeudi ou 7H le dimanche
 **Niveau :**  Débutant / Intermédiaire  
 **Tarif :** à partir de 75€    
 
+---
+
 <img src="/images/Stage_porcelaine_monde_marin_24.jpg" class="image-stage" alt="Affiche stage bijoux porcelain avec Anne Drugeon">  
 
 <img src="/images/Stage_porcelaine_inventer_paysage_24.jpg" class="image-stage" alt="Affiche stage bijoux porcelain avec Anne Drugeon">  
