@@ -31,7 +31,7 @@ Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, n
 **Durée** : à partir de 2H30  
 **Niveau** : à partir de 3 ans   
 **Tarif pour 2** : à partir de 80€  
-Possibilités d'**animations extérieures  
+Possibilités d'**animations extérieures**    
 [En savoir plus](parent_enfant)  
 
 ## [ANNIVERSAIRE avec les copains et les copines](anniversaire_enfants.md)
