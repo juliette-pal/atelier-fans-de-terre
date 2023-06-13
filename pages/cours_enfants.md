@@ -43,7 +43,7 @@ L'inscription se déroule en 2 étapes :
 
   
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-enfants-2022-23/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+
 
 
 
