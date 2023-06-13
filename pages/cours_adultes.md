@@ -21,7 +21,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 
 
-:star: Une séance **raku** est comprise dans le tarif annuel des cours hebdomadaires - [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
+:star: Une séance **raku** est comprise dans le tarif annuel des cours hebdomadaires (hors 100% tournage) - [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
 
 :star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages le week-end** [ - Voir les stages adultes](stages_adultes.md).   
 
