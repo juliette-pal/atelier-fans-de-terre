@@ -2,7 +2,7 @@
 redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/16-samedis/
 ---
-# 16 COURS ADULTES LE SAMEDI  
+# 15 COURS ADULTES LE SAMEDI  
 
 **ATTENTION** : les dates de cours de l'après midi sont après celles du matin !!!  
 
