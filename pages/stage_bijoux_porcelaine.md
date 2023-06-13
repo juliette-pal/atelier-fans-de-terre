@@ -15,7 +15,7 @@ En formule 4H le jeudi ou 7H le dimanche
 
 <img src="/images/Stage_porcelaine_expression_florale_24.jpg" class="image-stage" alt="Affiche stage bijoux porcelain avec Anne Drugeon">  
 
-
+---
 ## OFFRIR ce stage - Bon cadeau numérique possible  
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
 
