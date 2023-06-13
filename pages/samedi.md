@@ -8,6 +8,25 @@ redirect_from:
 
 ## Groupe A MATIN : 10H - 13H30  
 
+- Jeudi n°01 -  Octobre  
+- Jeudi n°02 -  Octobre  
+- Jeudi n°03 -  Novembre  
+- Jeudi n°04 -  Novembre   
+- Jeudi n°05 -  Décembre   
+- Jeudi n°06 -  Janvier  
+- Jeudi n°07 -  Janvier  
+- Jeudi n°08 -  Février  
+- Jeudi n°09 -  Février  
+- Jeudi n°10 -  Mars  
+- Jeudi n°11 -  Mars  
+- Jeudi n°12 -  Avril  
+- Jeudi n°13 -  Avril  
+- Jeudi n°14 -  Mai  
+- Jeudi n°15 -  Juin  
+ 
+
+## Groupe A MATIN : 10H - 13H30  
+
 - Samedi n°01 -  Octobre  
 - Samedi n°02 -  Octobre  
 - Samedi n°03 -  Novembre  
@@ -29,16 +48,16 @@ redirect_from:
 
 ## Groupe B MATIN : 10H - 13H30  
 
-- **Dimanche** n°01 -   Octobre  
-- **Dimanche** n°02 -   Octobre  
-- **Dimanche** n°03 -   Novembre   
+- Samedi n°01 -   Octobre  
+- Samedi n°02 -   Octobre  
+- Samedi n°03 -   Novembre   
 - Samedi n°04 -   Novembre  
-- **Dimanche** n°05 -  Décembre  
+- Samedi n°05 -  Décembre  
 - Samedi n°06 -  Décembre  
 - Samedi n°07 -  Janvier   
 - Samedi n°08 -  Janvier  
 - Samedi n°09 -  Février  
-- **Dimanche**  n°10 -  Mars  
+- Samedi n°10 -  Mars  
 - Samedi n°11 -  Mars  
 - Samedi n°12 -  Avril  
 - Samedi n°13 -  Avril  
@@ -50,8 +69,8 @@ redirect_from:
 
 
 ## Groupe APRES-MIDI : 15H - 18H30  
-- Samedi n°01 -  Octobre  
-- **Dimanche** n°02 -  Octobre  
+- Samedi n°01 -   Octobre  
+- Samedi n°02 -  Octobre  
 - Samedi n°03 -  Novembre  
 - Samedi n°04 -  Novembre   
 - Samedi n°05 -  Décembre   
