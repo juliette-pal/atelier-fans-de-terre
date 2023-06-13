@@ -11,7 +11,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 | Jours    | Horaires      | Infos          |
 | -------- | ------------- | ------------- |
 | Mercredi | 19H30 - 22H30 | Modelage et tournage              |
-| Jeudi    | 14H00 - 17H30 | Modelage                          |
+| Jeudi    | 15H00 - 18H30 | Modelage **1 jeudi sur 2** - [Voir les séances](samedi.md) |
 |          | 19H30 - 22H30 | Modelage et tournage              |
 | Vendredi | 09H30 - 12H30 | Modelage et tournage              |
 |          | 14H00 - 17H00 | Modelage et tournage              |
@@ -54,16 +54,16 @@ Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux te
   
 ## FORMULES une semaine sur deux : jeudi (new!!!) et samedi   
 **Niveau :**  Modelage (tous niveaux)  
-**Tarif : 785€ l’année** - 16 cours de 3H30  
+**Tarif : 785€ l’année** - 15 cours de 3H30  
 
 :star: Forfait payable en 4 fois.     
 
 3 possibilités pour ce cours :  
-- Jeudi après-midi : 14h - 17h30 - **NEW !!!  
+- Jeudi après-midi : 15h - 18h30 - **NEW !!!  
 - Samedi matin (AM) : 10H - 13H30 - Groupe A ou B  
 - Samedi près-midi (PM) : 15H - 18H30  
 
-Les cours d'une durée de 3H30 ont lieu sur 16 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
+Les cours d'une durée de 3H30 ont lieu sur 15 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
 
 En raison de la faible récurrence de cours, les techniques de modelage sont privitégiées.  
 Nous aborderons ponctuellement le tournage. Les élèves qui veulent en faire plus régulièrement, doivent impérativement prendre 2 stages de tournage d'une journée avant de pouvoir en faire sur ce cours. Et potentiellement en prendre d'autres en cours d'année en fonction de leur évolution.   
