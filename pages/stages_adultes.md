@@ -59,7 +59,7 @@ Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre
 **Tarif** : 150€    
 [En savoir plus...](sculpture_adultes)
 
-## [BIJOU PORCELAINE](stage_bijoux_porcelaine.md)        
+## [PORCELAINE](stage_bijoux_porcelaine.md)        
 En 2 jours, vous pourrez concevoir, décorer, émailler et assembler vos bijoux pour un rendu très personnel !  
 **Durée** : à partir de 4H  
 **Niveau** : Tous niveaux  
