@@ -1,4 +1,4 @@
-# STAGE BIJOUX PORCELAINE  
+# STAGES PORCELAINE  
 ## Avec Anne DRUGEON    
 En formule 4H le jeudi ou 7H le dimanche 
 **Durée :**  4H ou 7H  
@@ -28,4 +28,5 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 
 ## RESERVER une date  
 **ATTENTION aux dates**... Ex :   2023/09/12  =  12 septembre 2023  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-bijoux-porcelaine/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
+
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-porcelaine/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
