@@ -115,6 +115,9 @@ L'inscription se déroule de la façon suivante :
 
 - **Liste d'attente** // Et si vous voulez anticiper ou ne parvenez pas à avoir une place, inscrivez-vous sur la liste d'attente : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2023-2024-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
+
+
   
 
 
