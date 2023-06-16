@@ -26,6 +26,7 @@ Les fournitures et les cuissons sont comprises dans le prix.
 
 **Horaires** (1 cours/semaine/enfant) :  
 - Mercredi : 14H – 15H30  
+- Mercredi : 16H – 17H30  
 - Vendredi : 17H - 18H30      
 
 
