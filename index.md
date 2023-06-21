@@ -13,6 +13,9 @@ redirect_from:
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
 
+  
+🌟 _REPRISE DES COURS **le 25 septembre 2023**_ 🌟    
+---  
 
 ## [L'ATELIER FANS DE TERRE](pages/atelier.md)  
 Créé en 2013 par Monika, l'atelier Fans de terre, situé à Colombes (92), vous propose de découvrir le **tournage**, le **modelage**, le **raku** et bien d'autres activités autour de la terre.    
