@@ -1,18 +1,16 @@
 ## Atelier FANS DE TERRE  
 51, rue Guerlain  
 92700 Colombes  
-
   
+🌟 _REPRISE DES COURS **le 25 septembre 2023**_    
+---  
 ## Horaires d'ouverture de l'atelier    
-  
-🌟**Rentré le 25 septembre 2023**  
-
-**Du 19/06/23 au 02/07/23** et **du 05/09/23 au 24/09/23** :   
-- Lundi / Mardi : fermé  
-- Mercredi : 14H - 17h     
-- Vendredi : 14H - 17h   
+**En semaine, en juin, juillet, septembre :**   
+**Juin** du 19 au 30/06/23 : Mercredi de 14H à 17h  
+**Juillet** : du 03 au 13/07/23 : Lundi au jeudi de 10H à 13h  
+**Septembre** : du 05 au 24/09/23 : Mercredi de 14H à 17h      
      
-**Eté 2023** : **Fermé** du 3 juillet au 5 septembre  
+**Eté 2023** : **Fermé** du 10 juillet au 5 septembre  
   
 **En semaine hors vacances - A partir du 25/09/23** :                    
 - Lundi / Mardi : fermé  
