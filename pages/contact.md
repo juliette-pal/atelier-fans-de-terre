@@ -4,30 +4,24 @@
 
   
 ## Horaires d'ouverture de l'atelier    
+  
+🌟**Rentré le 25 septembre 2023**  
 
-**Du 19 juin au 2 juillet 2023** :   
+**Du 19/06/23 au 02/07/23** et **du 05/09/23 au 24/09/23** :   
 - Lundi / Mardi : fermé  
 - Mercredi : 14H - 17h     
 - Vendredi : 14H - 17h   
      
-**Eté 2023** :   
-Fermé du 3 juillet au 5 septembre  
+**Eté 2023** : **Fermé** du 3 juillet au 5 septembre  
   
-**En semaine hors vacances – A partir du 25 septembre 2023** :                    
+**En semaine hors vacances - A partir du 25/09/23** :                    
 - Lundi / Mardi : fermé  
 - Mercredi : 14H-16h // 19h30 – 22h30  
 - Jeudi : 19h30 – 22h30  
 - Vendredi : 9h30 – 12h30 // 14H - 20h   
 
 
-**Week-ends hors vacances** :    
-- Samedi 13/05 : 10h-13h30 et 15h30-18h30    
-- Dimanche 14/05 : 11h-17h  
-- Samedi 27/05  : 10h-13h30 et 15h30-18h30    
-- Samedi 03/06 : 10h-13h30 et 15h30-18h30    
-- Dimanche 04/06 : 11h-17h  
-- Samedi 10/06 : 10h-13h30 et 15h30-18h30    
-- Dimanche 11/06 : 11h-17h  
+**Week-ends hors vacances** :     
 - Samedi 17/06 : 10h-13h30 et 15h30-18h30    
 - Samedi 24/06 : 11h-17h      
 - Dimanche 25/06 : 11h-17h  
