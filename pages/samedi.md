@@ -6,7 +6,7 @@ redirect_from:
 
 **ATTENTION** : les dates de cours de l'après midi sont après celles du matin !!!  
 
-## Groupe A MATIN : 10H - 13H30  
+## Jeudi 15H - 18H30  
 
 - Jeudi n°01 - 05 Octobre  
 - Jeudi n°02 - 19 Octobre  
