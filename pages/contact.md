@@ -5,26 +5,27 @@
 🌟 _REPRISE DES COURS **le 25 septembre 2023**_    
 ---  
 ## Horaires d'ouverture de l'atelier    
-**En semaine, en juin, juillet, septembre :**   
-**Juin** du 19 au 30/06/23 : Mercredi de 14H à 17h  
-**Juillet** : du 03 au 13/07/23 : Lundi au jeudi de 10H à 13h  
-**Septembre** : du 05 au 24/09/23 : Mercredi de 14H à 17h      
-     
-**Eté 2023** : **Fermé** du 10 juillet au 5 septembre  
-  
-**En semaine hors vacances - A partir du 25/09/23** :                    
-- Lundi / Mardi : fermé  
-- Mercredi : 14H-16h // 19h30 – 22h30  
-- Jeudi : 19h30 – 22h30  
-- Vendredi : 9h30 – 12h30 // 14H - 20h   
+
+**En semaine hors vacances - A partir du 25/09/23** :  
+•	Lundi / Mardi : fermé  
+•	Mercredi : 14h00 - 18h30 et 19h30 - 22h30  
+•	Jeudi........ : 15h00 - 18h30 et 19h30 - 22h30  
+•	Vendredi... : 9h30 - 12h30 et 14h00 - 20h00  
 
 
-**Week-ends hors vacances** :     
-- Samedi 17/06 : 10h-13h30 et 15h30-18h30    
-- Samedi 24/06 : 11h-17h      
-- Dimanche 25/06 : 11h-17h  
-- Samedi 01/07 : 11h-17h       
+**Le week-end** :  
+•	Dimanche 24/09 : 14h - 17h30  
+•	Samedi..... 30/09 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 01/10 : 11h - 17h30  
+•	Samedi..... 07/10 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 08/10 : 16h - 18h30  
+•	Samedi..... 14/10 : 11h - 13h30 et 16h - 18h30  
+•	Samedi..... 21/10 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 22/10 : 11h - 17h30  
+ 
 
+**Vacances de Toussaint** :  
+•	Lundi 23 au jeudi 26 octobre : 11h - 13h30  
 
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
