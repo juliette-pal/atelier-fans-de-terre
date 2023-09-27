@@ -8,7 +8,7 @@
 
 **En semaine hors vacances - A partir du 25/09/23** :  
 •	Lundi / Mardi : fermé  
-•	Mercredi : 14h00 - 18h30 et 19h30 - 22h30  
+•	Mercredi : 14h00 - 17h30 et 19h30 - 22h30  
 •	Jeudi........ : 15h00 - 18h30 et 19h30 - 22h30  
 •	Vendredi... : 9h30 - 12h30 et 14h00 - 20h00  
 
