@@ -6,8 +6,9 @@ Pour toutes les occasions, anniversaires, cadeau de Noel, Fête des mères, des 
 
 <img src="/images/carte cadeau-ceramique-fansdeterre-raku-paris-600 410.png" class="image-horiz">
 
-1. Choisissez la formule la plus adaptée  
-2. Une fois son cadeau reçu, le bénéficiaire pourra réserver une date à l'aide du code qui vous sera communiqué à l'achat.  
+1. Choisissez la formule la plus adaptée
+2. Imprimez le bon vierge et complétez le en personalisant votre message
+3. Une fois son cadeau reçu, le bénéficiaire pourra réserver une date à l'aide du code qui vous sera communiqué à l'achat.  
 
      
 **ATTENTION aux dates !!!**   2023/09/12  =  12 septembre 2023  
