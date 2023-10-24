@@ -40,21 +40,30 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 •	Vendredi... : 9h30 - 12h30 et 14h00 - 20h00  
 
 
-**Le week-end** :  
-•	Dimanche 24/09 : 14h - 17h30  
-•	Samedi..... 30/09 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 01/10 : 11h - 17h30  
-•	Samedi..... 07/10 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 08/10 : 16h - 18h30  
-•	Samedi..... 14/10 : 11h - 13h30 et 16h - 18h30  
-•	Samedi..... 21/10 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 22/10 : 11h - 17h30  
- 
+**Le week-end** :   
+•	Samedi..... 11/11 : 11h - 13h30 et 16h - 18h30  
+•	Samedi..... 18/11 : 11h - 13h30 et 16h - 18h30  
+•	Samedi..... 25/11 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 26/11 : 11h - 17h30  
+•	Samedi..... 02/12 : 16h - 18h30  
+•	Samedi..... 09/12 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 10/12 : 11h - 17h30  
+•	Samedi..... 16/12 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 17/12 : 11h - 17h30  
+•	Samedi..... 13/01 : 11h - 13h30     
+•	Samedi..... 20/01 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 21/01 : 11h - 17h30   
+•	Samedi..... 27/01 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 28/01 : 11h - 17h30  
 
 **Vacances de Toussaint** :  
 •	Lundi 23 au jeudi 26 octobre : 11h - 13h30  
+•	Fermé du 27 octobre au 7 novembre  
 
+**Vacances de Noel** :  
+Fermé du 23 décembre au 9 janvier    
 
+   
 **A très vite !!!**
 
   
