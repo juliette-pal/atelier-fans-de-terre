@@ -13,8 +13,8 @@ redirect_from:
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
 
-🌟 PORTE OUVERTE **le 10 septembre 2023 de 14h à 18h** 🌟  
-🌟 REPRISE DES COURS **le 25 septembre 2023** 🌟    
+🌟 **VENTE DE NOEL DE CERAMIQUES à la boutique l'instant (au dessus du marché de colombes) tout le mois de décembre 2023** 🌟  
+   
 ---  
 
 ## [L'ATELIER FANS DE TERRE](pages/atelier.md)  
