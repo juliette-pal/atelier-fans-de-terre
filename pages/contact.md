@@ -2,7 +2,7 @@
 51, rue Guerlain  
 92700 Colombes  
   
-🌟 _REPRISE DES COURS **le 25 septembre 2023**_    
+🌟 _ A suivre... Ventes de céramiques pour Noêl_    
 ---  
 ## Horaires d'ouverture de l'atelier    
 
