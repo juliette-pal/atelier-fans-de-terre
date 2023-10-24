@@ -12,7 +12,6 @@
 •	Jeudi........ : 15h00 - 18h30 et 19h30 - 22h30  
 •	Vendredi... : 9h30 - 12h30 et 14h00 - 20h00  
 
-
 **Le week-end** :   
 •	Samedi..... 11/11 : 11h - 13h30 et 16h - 18h30  
 •	Samedi..... 18/11 : 11h - 13h30 et 16h - 18h30  
@@ -29,8 +28,15 @@
 •	Samedi..... 27/01 : 11h - 13h30 et 16h - 18h30  
 •	Dimanche 28/01 : 11h - 17h30  
 
+
+**Vacances de Toussaint** :  
+•	Lundi 23 au jeudi 26 octobre : 11h - 13h30  
+•	Fermé du 27 octobre au 7 novembre  
+
 **Vacances de Noel** :  
 Fermé du 23 décembre au 9 janvier    
+
+   
 
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
