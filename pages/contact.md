@@ -1,8 +1,6 @@
 ## Atelier FANS DE TERRE  
 51, rue Guerlain  
 92700 Colombes  
-  
-🌟 _ A suivre... Ventes de céramiques pour Noêl_    
 ---  
 ## Horaires d'ouverture de l'atelier    
 
