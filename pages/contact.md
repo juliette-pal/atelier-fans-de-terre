@@ -4,7 +4,8 @@
 ---  
 ## Horaires d'ouverture de l'atelier    
 
-**En semaine hors vacances - A partir du 25/09/23** :  
+**En semaine // Hors vacances** :  
+**Ouverture exceptionnelle ce mercredi 20/12/23 de 10h à 13h en  plus...**  
 •	Lundi / Mardi : fermé  
 •	Mercredi : 14h00 - 17h30 et 19h30 - 22h30  
 •	Jeudi........ : 15h00 - 18h30 et 19h30 - 22h30  
