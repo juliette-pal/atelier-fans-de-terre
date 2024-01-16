@@ -1,10 +1,7 @@
----
 # STAGES DESSIN - ADULTES
 
-Nous vous accompagnons dans la **réalisation de bustes** ou des **représentations du corps humain**.  
-Des animaux et autres représentations peuvent également être abordées.  
-
 En initiation ou en perfectionnement, et toujours de façon ludique...   
+
 Venez aborder des techniques d'observation et de dessin :  
 - observation et **imaginaire**  
 - dessin **aquarellé**
@@ -17,7 +14,6 @@ Les stages de dessin sont animés par [Claude RHEIN](intervenants_fansdeterre)
 **Niveau :** Tous niveaux  
 **Tarif :** 180€ (+10€ le jour du stage pour le modèle vivant)    
 
-<img src="/images/Dessin-modele-vivant-fansdeterre.jpeg" class="image-stage">
 
 
 ---
