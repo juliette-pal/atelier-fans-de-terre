@@ -24,7 +24,7 @@ Les stages de dessin sont animés par [Claude RHEIN](intervenants_fansdeterre)
 ## OFFRIR un stage - Bon cadeau numérique possible
 Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2022-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2023-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
   
   
 ## LISTE D'ATTENTE pour un stage complet
