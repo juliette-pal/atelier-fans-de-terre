@@ -11,6 +11,7 @@ Venez aborder des techniques d'observation et de dessin :
 - ...
 
 Les stages de dessin sont animés par [Claude RHEIN](intervenants_fansdeterre)  
+
 **Durée :** 12 H  
 **Niveau :** Tous niveaux  
 **Tarif :** 180€ (+10€ le jour du stage pour le modèle vivant)    
