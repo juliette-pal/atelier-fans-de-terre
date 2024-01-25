@@ -13,18 +13,18 @@
 
 **Le week-end** :   
 •	Samedi..... 27/01 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 28/01 : 11h - 17h30 
-•	Samedi..... 03/02 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 04/03 : 15h - 18h30  
-•	Samedi..... 10/02 : 11h - 13h30   
-•	Dimanche 11/02 : 11h - 18h30 
-•	Samedi..... 02/03 : 11h - 13h30 et 16h - 18h30  
-•	Samedi..... 09/03 : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... 16/03 : 11h - 13h30 et 16h - 18h30   
-•	Dimanche 17/03 : 11h - 13h30 et 16h - 18h30
-•	Dimanche 24/03 : 11h - 17h30  
-•	Samedi..... 30/03 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 31/03 : 11h - 17h30  
+•	Dimanche 28/01 : 11h - 17h30  
+•	Samedi..... 03/02 : 11h - 13h30 et 16h - 18h30   
+•	Dimanche 04/03 : 15h - 18h30   
+•	Samedi..... 10/02 : 11h - 13h30    
+•	Dimanche 11/02 : 11h - 18h30  
+•	Samedi..... 02/03 : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... 09/03 : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... 16/03 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 17/03 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 24/03 : 11h - 17h30   
+•	Samedi..... 30/03 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 31/03 : 11h - 17h30   
   
 
 **Vacances de février** :  
