@@ -34,23 +34,33 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 ## Horaires d'ouverture de l'atelier    
 
 
-**En semaine hors vacances - A partir du 25/09/23** :  
+**En semaine // Hors vacances** :  
+**Ouverture exceptionnelle ce mercredi 20/12/23 de 10h à 13h en  plus...**  
 •	Lundi / Mardi : fermé  
-•	Mercredi : 14h00 - 17h30 et 19h30 - 22h30  
+•	Mercredi : 10h00 - 17h30 et 19h30 - 22h30  
 •	Jeudi........ : 15h00 - 18h30 et 19h30 - 22h30  
 •	Vendredi... : 9h30 - 12h30 et 14h00 - 20h00  
 
 **Le week-end** :   
-•	Samedi..... 16/12 : 10h - 13h30    
-•	Dimanche 17/12 : 11h - 17h30  
-•	Samedi..... 13/01 : 11h - 13h30     
-•	Samedi..... 20/01 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 21/01 : 11h - 17h30   
 •	Samedi..... 27/01 : 11h - 13h30 et 16h - 18h30  
 •	Dimanche 28/01 : 11h - 17h30  
+•	Samedi..... 03/02 : 11h - 13h30 et 16h - 18h30   
+•	Dimanche 04/03 : 15h - 18h30   
+•	Samedi..... 10/02 : 11h - 13h30    
+•	Dimanche 11/02 : 11h - 18h30  
+•	Samedi..... 02/03 : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... 09/03 : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... 16/03 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 17/03 : 11h - 13h30 et 16h - 18h30  
+•	Dimanche 24/03 : 11h - 17h30   
+•	Samedi..... 30/03 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 31/03 : 11h - 17h30   
+  
 
-**Vacances de Noel** :  
-Fermé du 23 décembre au 9 janvier    
+**Vacances de février** :  
+Fermé du 12 au 27 février 2024      
+
+  
 
 
    
