@@ -1,4 +1,5 @@
 # ANNIVERSAIRES
+**Envoyez vos demandes à anniversaires@fansdeterre.com**    
 Les parents nous confient les enfants durant toute la durée de la séance.
 Chaque enfant réalise un objet céramique autour d’un thème choisi, selon l’âge des enfants.
 Nous les accompagnons dans le façonnage de l’argile.  
@@ -42,7 +43,8 @@ Le gâteau est ramené par la famille.
 - Tournage (9 ans et +) - Max 8 enfants : 50€    
 
 
-## [Cliquer ici pour nous contacter pour trouver une date](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }   
+## Nous contacter pour trouver une date
+**Envoyez votre demande à anniversaires@fansdeterre.com**       
 
 
 ## Bloquer une date en versant un acompte (préciser la date bloquée lors du règlement)
