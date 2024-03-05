@@ -1,5 +1,6 @@
 # ANNIVERSAIRES
 **Envoyez vos demandes à anniversaires@fansdeterre.com**    
+
 Les parents nous confient les enfants durant toute la durée de la séance.
 Chaque enfant réalise un objet céramique autour d’un thème choisi, selon l’âge des enfants.
 Nous les accompagnons dans le façonnage de l’argile.  
