@@ -3,32 +3,43 @@
 92700 Colombes  
 ---  
 ## Horaires d'ouverture de l'atelier    
+**Prochaines vacances** :  
+Ouvert du 8 au 11 avril de 10h à 13h30   
+Fermé du 12 au 23 avril 2024      
+Fermé du 6 au  14 mai (ascension)    
+Ouvert du 8 au 11 juillet de 10h à 13h30   
 
-**En semaine // Hors vacances** :  
-**Ouverture exceptionnelle ce mercredi 20/12/23 de 10h à 13h en  plus...**  
+**En semaine // Hors vacances** jusqu'au 15/06 :    
 •	Lundi / Mardi : fermé  
 •	Mercredi : 10h00 - 17h30 et 19h30 - 22h30  
 •	Jeudi........ : 15h00 - 18h30 et 19h30 - 22h30  
 •	Vendredi... : 9h30 - 12h30 et 14h00 - 20h00  
+Du 15 juin au 25 septembre : mercredi sur rdv   
 
 **Le week-end** :   
-•	Samedi..... 27/01 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 28/01 : 11h - 17h30  
-•	Samedi..... 03/02 : 11h - 13h30 et 16h - 18h30   
-•	Dimanche 04/03 : 15h - 18h30   
-•	Samedi..... 10/02 : 11h - 13h30    
-•	Dimanche 11/02 : 11h - 18h30  
-•	Samedi..... 02/03 : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... 09/03 : 11h - 13h30 et 16h - 18h30    
 •	Samedi..... 16/03 : 11h - 13h30 et 16h - 18h30    
 •	Dimanche 17/03 : 11h - 13h30 et 16h - 18h30  
 •	Dimanche 24/03 : 11h - 17h30   
 •	Samedi..... 30/03 : 11h - 13h30 et 16h - 18h30    
 •	Dimanche 31/03 : 11h - 17h30   
-  
+•	Samedi..... 06/04 : 11h - 13h30 et 16h - 18h30   
+•	Dimanche 07/04 : 11h - 17h30   
+•	Samedi..... 27/04 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 28/04 : 11h - 17h30   
+•	Samedi..... 04/05 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 05/05 : 11h - 17h30   
+•	Samedi..... 18/05 : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... 25/05 : 11h - 17h30     
+•	Samedi..... 01/06 : 11h - 13h30     
+•	Samedi..... 08/06 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 09/06 : 11h - 17h30   
+•	Samedi..... 15/06 : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... 22/06 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 23/06 : 11h - 17h30   
+•	Dimanche 30/06 : 16h - 18h30   
 
-**Vacances de février** :  
-Fermé du 12 au 27 février 2024      
+
+
 
    
 
