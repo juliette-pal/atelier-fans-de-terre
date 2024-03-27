@@ -12,8 +12,10 @@ redirect_from:
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
+ᐉ **Seul**, en **famille**, entre **amis** ou **collègues**...     
 
-🌟 **VENTE DE NOEL DE CERAMIQUES à la boutique l'instant (au dessus du marché de colombes) tout le mois de décembre 2023** 🌟  
+---   
+🌟 **NEW !** - Animations **TEAM BUILDING** entreprises - Cliquer **ICI** pour en savoir plus 🌟  
    
 ---  
 
