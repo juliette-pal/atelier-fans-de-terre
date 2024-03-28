@@ -85,4 +85,11 @@ Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, n
 **Durée** : 2H30 (modelage) - 3H (tournage)  
 **Niveau** : Modelage et décore ta poterie (à partir de 3 ans) - Tournage (à partir de 8 ans)  
 **Tarif** : à partir de 80€  
-[En savoir plus...](parent_enfant)
+[En savoir plus...](parent_enfant)  
+
+
+➪ **Récupérer les pièces de stage**
+[Cliquer ici pouur voir quand et comment](recuperation_pieces)  
+
+➪ **Liste d'attente**
+[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser le stage dans le formulaire)](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
