@@ -15,7 +15,7 @@ redirect_from:
 ᐉ **Seul**, en **famille**, entre **amis** ou **collègues**...     
 
 ---   
-🌟 **NEW !** - Animations **TEAM BUILDING** entreprises - Cliquer [ICI](animations_groupes) pour en savoir plus 🌟  
+🌟 **NEW !** - Animations **TEAM BUILDING** entreprises - Cliquer [ICI](pages/animations_groupes) pour en savoir plus 🌟  
    
 ---  
 
