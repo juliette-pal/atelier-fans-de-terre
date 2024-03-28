@@ -1,5 +1,5 @@
 # ANNIVERSAIRES
-Envoyez vos demandes à **anniversaires@fansdeterre.com**    
+Envoyez vos demandes à **animations@fansdeterre.com**    
 
 Les parents nous confient les enfants durant toute la durée de la séance.
 Chaque enfant réalise un objet céramique autour d’un thème choisi, selon l’âge des enfants.
@@ -45,7 +45,7 @@ Le gâteau est ramené par la famille.
 
 
 ## Nous contacter pour trouver une date
-Envoyez votre demande à **anniversaires@fansdeterre.com**       
+Envoyez votre demande à **animations@fansdeterre.com**       
 
 
 ## Bloquer une date en versant un acompte (préciser la date bloquée lors du règlement)
