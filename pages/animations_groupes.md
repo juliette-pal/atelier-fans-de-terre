@@ -9,14 +9,16 @@ Que ce soit...
 Et repartez avec des objets personnels et collectifs pour un **souvenir inoubliable** !  
 
 Nos activités valorisent :  
-- les échanges, la créativité et l’estime de soi
-- la cohésion d’équipe par le jeu
-- l'expression collective
-- le processus créatifs  
+- les échanges,
+- la créativité
+- l’estime de soi  
+- la cohésion d’équipe par le jeu  
+- l'expression collective  
+- le processus créatif  
 
 **Durée :** à partir de 2H  
-**Niveau :** Aucun  
-**Nombre de participants :** 10 à 30 participants  
+**Niveau :** aucun  
+**Nombre de participants :** 10 à 30   
 **Tarif :** nous consulter  
 
 ## Option - Décorer une céramique  
@@ -24,7 +26,7 @@ Chaque participant "repart" avec un objet individuel réalisé lors d'un jeu col
 
 ## Option - Concevoir une fresque murale
 Une oeuvre commune est élaborée, toujours dans un cadre ludique.  
-Idéal pour décorer un espace commun en entreprise.
+Idéal pour décorer un espace commun.
 
 
 ## Les PLUS...    
