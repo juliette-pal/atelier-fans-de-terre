@@ -15,10 +15,10 @@ redirect_from:
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
 ---   
- ## [Animations céramiques pour les groupes](pages/animations_groupes)  
+## [Animations céramiques pour les groupes](pages/animations_groupes.md)  
  🌟 **NEW NEW !** 🌟   
 Entreprises, amis, famille... Venez vite partager cette activité !!!       
-Cliquer [ICI](pages/animations_groupes) pour en savoir plus    
+Cliquer [ICI](pages/animations_groupes.md) pour en savoir plus    
 ---    
 
  
