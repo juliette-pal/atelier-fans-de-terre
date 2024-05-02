@@ -5,22 +5,23 @@ src-instagram: "images/icone_instagram.png"
 redirect_from:
 - /galeries-cours-poterie-ceramique-colombes/
 ---
-
-# **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
-
----   
-🌟 **NEW NEW !**    
-Animations céramique pour groupes (entreprises, amis, famille...)   
-Cliquer [ICI](pages/animations_groupes) pour en savoir plus 🌟   
----    
-
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
 ᐉ **Seul**, en **famille**, entre **amis** ou **collègues**...     
 
 
----  
+--- 
+# **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
+
+---   
+ ## [Animations céramiques pour les groupes](pages/animations_groupes)  
+ 🌟 **NEW NEW !** 🌟   
+Entreprises, amis, famille... Venez vite partager cette activité !!!       
+Cliquer [ICI](pages/animations_groupes) pour en savoir plus    
+---    
+
+ 
 
 ## [L'ATELIER FANS DE TERRE](pages/atelier.md)  
 Créé en 2013 par Monika, l'atelier Fans de terre, situé à Colombes (92), vous propose de découvrir le **tournage**, le **modelage**, le **raku** et bien d'autres activités autour de la terre.    
