@@ -8,15 +8,18 @@ redirect_from:
 
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
----  
+---   
+🌟 **NEW NEW !**    
+Animations céramique pour groupes (entreprises, amis, famille...)   
+Cliquer [ICI](pages/animations_groupes) pour en savoir plus 🌟   
+---    
+
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
 ᐉ **Seul**, en **famille**, entre **amis** ou **collègues**...     
 
----   
-🌟 **NEW !** - Animations **TEAM BUILDING** entreprises - Cliquer [ICI](pages/animations_groupes) pour en savoir plus 🌟  
-   
+
 ---  
 
 ## [L'ATELIER FANS DE TERRE](pages/atelier.md)  
