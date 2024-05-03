@@ -32,8 +32,6 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 
 ## Horaires d'ouverture de l'atelier    
 **Prochaines vacances** :  
-Ouvert du 8 au 11 avril de 10h à 13h30   
-Fermé du 12 au 23 avril 2024      
 Fermé du 6 au  14 mai (ascension)    
 Ouvert du 8 au 11 juillet de 10h à 13h30   
 
@@ -45,17 +43,7 @@ Ouvert du 8 au 11 juillet de 10h à 13h30
 Du 15 juin au 25 septembre : mercredi sur rdv   
 
 **Le week-end** :   
-•	Samedi..... 16/03 : 11h - 13h30 et 16h - 18h30    
-•	Dimanche 17/03 : 11h - 13h30 et 16h - 18h30  
-•	Dimanche 24/03 : 11h - 17h30   
-•	Samedi..... 30/03 : 11h - 13h30 et 16h - 18h30    
-•	Dimanche 31/03 : 11h - 17h30   
-•	Samedi..... 06/04 : 11h - 13h30 et 16h - 18h30   
-•	Dimanche 07/04 : 11h - 17h30   
-•	Samedi..... 27/04 : 11h - 13h30 et 16h - 18h30    
-•	Dimanche 28/04 : 11h - 17h30   
 •	Samedi..... 04/05 : 11h - 13h30 et 16h - 18h30    
-•	Dimanche 05/05 : 11h - 17h30   
 •	Samedi..... 18/05 : 11h - 13h30 et 16h - 18h30    
 •	Samedi..... 25/05 : 11h - 17h30     
 •	Samedi..... 01/06 : 11h - 13h30     
