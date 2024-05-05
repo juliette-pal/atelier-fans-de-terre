@@ -1,5 +1,16 @@
 # Animations céramique
-**En groupe**, que ce soit...   
+## Vous voulez proposer une activité créative fun (restaurant, festival, marché...)   
+Vous souhaitez proposer une animation **"Décore ta poterie"** à un de vos évènements  
+- Les adultes ou enfants choisissent des pièces façonnées et cuites une première fois (bol, mug,...)    
+- Les pièces sont décorées grâce à des couleurs par les participants   
+- Ces pièces personnalisées seront émaillées à l'atelier fans de terre   
+- Les familles les récupèrent 8 à 10 jours après.   
+
+Ces pièces pourront être utilisées à la maison comme si elles avaient été achetées dans le commerce.   
+
+N'hésitez pas à nous contacter sur **animations@fansdeterre.com**   
+
+## Vous souhaitez organiser un évènement divertissant et favorisant les échanges :      
 ... dans le cadre d'un **team building** en entreprise,   
 ... ou juste d'une animation d'équipe...   
 ... ou simplement passer un bon moment entre **amis**...  
@@ -30,7 +41,7 @@ Idéal pour décorer un espace commun.
 
 
 ## Les PLUS...    
-Restauration  
+Possibilités de restauration  
 Installation de la fresque murale  
 Vidéo souvenir  
 
