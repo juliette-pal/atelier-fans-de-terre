@@ -19,7 +19,7 @@ redirect_from:
  🌟 **NEW NEW !** 🌟   
 Entreprises, amis, famille...   
 Venez vite partager cette activité !!!       
-Cliquer [ICI](pages/animations_groupes.md) pour en savoir plus    
+Cliquer **[ICI](pages/animations_groupes.md)** pour en savoir plus    
 ---    
 
  
