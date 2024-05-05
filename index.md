@@ -15,7 +15,7 @@ redirect_from:
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
 ---   
-## [Animations céramique pour les groupes](pages/animations_groupes.md)  
+## [Décore ta poterie // Animations céramique pour les groupes](pages/animations_groupes.md)  
  🌟 **NEW NEW !** 🌟   
 Entreprises, amis, famille...   
 Venez vite partager cette activité !!!       
