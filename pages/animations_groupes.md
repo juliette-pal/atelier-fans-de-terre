@@ -38,5 +38,5 @@ Vidéo souvenir
 Envoyez votre demande à **animations@fansdeterre.com**       
 
 
-## Bloquer une date en versant un acompte (préciser la date vue avec nous lors du règlement)
+## Verser un acompte (Pour bloquer une date, préciser celle qui a été vue avec nous au préalable)
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/reglement-libre/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
