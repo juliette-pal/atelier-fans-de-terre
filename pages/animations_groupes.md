@@ -18,6 +18,7 @@ N'hésitez pas à nous contacter sur **animations@fansdeterre.com**
 
 ## Pour les entreprises et les particuliers       
 Venez créer grâce à notre **jeu céramique**, et repartez avec un **souvenir collectif inoubliable** !!!  
+<img src="/images/animation-poterie-fansdeterre-ceramique-colombes-paris.jpg" class="image-horiz">  
 
 ... dans le cadre d'un **team building** en entreprise,   
 ... ou d'une animation d'équipe...   
