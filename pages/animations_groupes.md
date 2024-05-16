@@ -4,6 +4,8 @@ Offrez une expérience divertisssante et créative lors de vos évènements, qu'
 ## Une animation grand public     
 Vous souhaitez proposer une activité **"de décoration sur céramique"** lors de vos évènements de type festival et marché de créateurs, guinguette...  
 
+<img src="/images/installation-animation-poterie-fansdeterre-ceramique-colombes-paris.jpg" class="image-horiz">   
+
 Le principe est simple :
 - Les adultes ou enfants choisissent une poterie (bol, mug,...)    
 - Ils les décorent à l'aide de nos peintures céramiques   
