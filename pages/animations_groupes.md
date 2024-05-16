@@ -20,7 +20,7 @@ N'hésitez pas à nous contacter sur **animations@fansdeterre.com**
 
 **Venez créer par le jeu, et repartez avec un souvenir collectif inoubliable** !  
 
-Notre **céramic game** valorise :  
+Notre **"céramic game"** valorise :  
 - les échanges,
 - la créativité
 - l’estime de soi  
