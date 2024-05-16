@@ -1,6 +1,8 @@
-# Animations céramique
-## Proposer une activité créative et fun (restaurant, festival et marché de créateurs...)   
-Vous souhaitez proposer une animation **" de décoration sur céramique"** à un de vos évènements  
+# Animations céramique  
+Offrez une expérience divertisssante et créative lors de vos évènements, qu'ils soient de grande envergure ou plus intimes !!!   
+
+## Une activité créative et fun (restaurant, festival et marché de créateurs...)   
+Vous souhaitez proposer une animation **"de décoration sur céramique"** à un de vos évènements  
 - Les adultes ou enfants choisissent des pièces (bol, mug,...)    
 - Ils les décorent à l'aide de nos peintures céramiques   
 - Ces pièces personnalisées seront vernies pour un usage alimentaire dans notre atelier   
@@ -17,7 +19,7 @@ N'hésitez pas à nous contacter sur **animations@fansdeterre.com**
 
 **Venez créer par le jeu, et repartez avec un souvenir collectif inoubliable** !  
 
-Nos activités valorisent :  
+Notre **céramic game** valorise :  
 - les échanges,
 - la créativité
 - l’estime de soi  
