@@ -1,8 +1,9 @@
 # Animations céramique  
 Offrez une expérience divertisssante et créative lors de vos évènements, qu'ils soient de grande envergure ou plus intimes !!!   
 
-## Une activité créative et fun (restaurant, festival et marché de créateurs...)   
-Vous souhaitez proposer une animation **"de décoration sur céramique"** à un de vos évènements  
+## Une activité créative et fun   
+Vous souhaitez proposer une animation **"de décoration sur céramique"** à un de vos évènements de type festival et marché de créateurs...  
+Le principe est simple :
 - Les adultes ou enfants choisissent des pièces (bol, mug,...)    
 - Ils les décorent à l'aide de nos peintures céramiques   
 - Ces pièces personnalisées seront vernies pour un usage alimentaire dans notre atelier   
