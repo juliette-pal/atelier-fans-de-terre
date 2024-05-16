@@ -12,9 +12,7 @@ Le principe est simple :
 - Ces pièces personnalisées seront vernies pour un usage alimentaire dans notre atelier   
 - Les familles récupèrent les créations sous 8 à 10 jours.   
 
-Ces pièces pourront être utilisées à la maison comme si elles avaient été achetées dans le commerce.   
-
-N'hésitez pas à nous contacter sur **animations@fansdeterre.com**   
+Ces pièces pourront être utilisées à la maison comme si elles avaient été achetées dans le commerce.    
 
 ## Pour les entreprises et les particuliers       
 Venez créer grâce à notre **jeu céramique**, et repartez avec un **souvenir collectif inoubliable** !!!  
