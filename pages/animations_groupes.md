@@ -1,23 +1,21 @@
 # Animations céramique
-## Vous voulez proposer une activité créative fun (restaurant, festival, marché...)   
-Vous souhaitez proposer une animation **"Décore ta poterie"** à un de vos évènements  
-- Les adultes ou enfants choisissent des pièces façonnées et cuites une première fois (bol, mug,...)    
-- Les pièces sont décorées grâce à des couleurs par les participants   
-- Ces pièces personnalisées seront émaillées à l'atelier fans de terre   
-- Les familles les récupèrent 8 à 10 jours après.   
+## Proposer une activité créative et fun (restaurant, festival et marché de créateurs...)   
+Vous souhaitez proposer une animation **" de décoration sur céramique"** à un de vos évènements  
+- Les adultes ou enfants choisissent des pièces (bol, mug,...)    
+- Ils les décorent à l'aide de nos peintures céramiques   
+- Ces pièces personnalisées seront vernies pour un usage alimentaire dans notre atelier   
+- Les familles récupèrent les créations sous 8 à 10 jours.   
 
 Ces pièces pourront être utilisées à la maison comme si elles avaient été achetées dans le commerce.   
 
 N'hésitez pas à nous contacter sur **animations@fansdeterre.com**   
 
-## Vous souhaitez organiser un évènement divertissant et favorisant les échanges :      
+## Vous souhaitez organiser un évènement       
 ... dans le cadre d'un **team building** en entreprise,   
-... ou juste d'une animation d'équipe...   
-... ou simplement passer un bon moment entre **amis**...  
+... ou d'une animation d'équipe...   
+... ou pour passer un bon moment entre **amis**...  
 
-**Venez créer par le jeu !!!**    
-
-Et repartez avec des objets personnels et collectifs pour un **souvenir inoubliable** !  
+**Venez créer par le jeu, et repartez avec un souvenir collectif inoubliable** !  
 
 Nos activités valorisent :  
 - les échanges,
@@ -31,16 +29,10 @@ Nos activités valorisent :
 **Niveau :** aucun  
 **Nombre de participants :** 10 à 30   
 **Tarif :** nous consulter  
-
-## Option - Décorer une céramique  
-Chaque participant "repart" avec un objet individuel réalisé lors d'un jeu collectif.   
-
-## Option - Concevoir une fresque murale
-Une oeuvre commune est élaborée, toujours dans un cadre ludique.  
-Idéal pour décorer un espace commun.
-
-
-## Les PLUS...    
+**Options**   
+- Décorer une céramique : chaque participant personnalise un objet lors d'un jeu collectif.   
+- Concevoir une fresque : une oeuvre commune est élaborée, toujours dans un cadre ludique. Idéal pour décorer un espace commun.  
+**Les PLUS...**    
 Possibilités de restauration  
 Installation de la fresque murale  
 Vidéo souvenir  
