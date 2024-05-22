@@ -70,7 +70,6 @@ Contacter l'atelier
 [Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601) si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser la date du stage en commentaire).  
  
 ---
-## RESERVER   
-**ATTENTION aux dates de stages**...   Ex :  2023/09/12  =  12 septembre 2023  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-raku-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
+## RESERVER    
+[Cliquer ici](https://booking.wecandoo.com/artisans/b1a3527e-10f3-4fef-93a9-dc43a283be2a/workshops/ce669687-7471-4a77-9bb0-d1dfdcd31930/book) pour réserver   
 
