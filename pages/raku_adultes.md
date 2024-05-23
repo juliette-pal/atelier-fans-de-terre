@@ -6,9 +6,9 @@ redirect_from:
 # STAGE RAKU - ADULTES  
 
 
-***Dimensions maximales (toutes formules) :** H 15cm x D 15cm / pièce.  
+🌟🌟🌟***Dimensions maximales (toutes formules) :** H 15cm x D 15cm / pièce.  
 
-***TENUE :** prévoir une tenue couvrante (pantalon et haut manches longues) en coton ou jean et des chaussures de type tennis, chantier ou randonnée.    
+🌟🌟🌟***TENUE :** prévoir une tenue couvrante (pantalon et haut manches longues) en coton ou jean et des chaussures de type tennis, chantier ou randonnée.    
 
 Le raku est un mode de cuisson céramique issue de la **cérémonie du thé au Japon**.  
 Les pièces sont cuites une première fois avant émaillage.  
@@ -54,7 +54,7 @@ Emaillage + cuisson raku **chez nous**
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 75€ + 15€/pièce (max 15cm hauteur et profondeur)  
-Nous contacter sur contact@fansdeterre.com  
+🌟 Nous contacter sur contact@fansdeterre.com  
 
 
 ## Formule ELEVE     
@@ -63,7 +63,7 @@ Modelage et émaillage pendant les cours + cuisson en stage
 **Tarif modelage et émaillage en cours + cuisson en stage :** 12€/pièce à cuire  
 **Tarif modelage en cours + émaillage et cuisson en stage :** 60€ + 12€/pièce à cuire  
 **Tarif modelage, émaillage et cuisson en stage :** -20% sur tarif normal  
-Voir directement avec celui ou celle qui anime ton cours chez Fans de terre  
+🌟 Voir directement avec celui ou celle qui anime ton cours chez Fans de terre  
   
 
 ---
