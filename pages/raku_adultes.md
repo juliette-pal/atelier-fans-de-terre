@@ -32,37 +32,38 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 
 Toutes les formules sont possibles aux dates proposées ci-dessous.  
   
-## Formule CLASSIQUE // 100% atelier  
+## Formule 100% atelier // Avec modelage chez Fans de terre  
 Modelage + émaillage + cuisson raku, le tout chez Fans de terre   
 Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l’autre pour la cuisson raku.  
 *Prévoir minimum 2 semaines entre les deux dates*.    
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 159€  
+**Tarif :** 165€  
  
  
-## Formule DECOUVERTE // Sans modelage  
+## Formule DECOUVERTE // Sans modelage - 2 pièces fournies  
 Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 159€  
+**Tarif :** 165€  
 
 
 ## Formule MAISON  
-Modelage et 1ère cuisson **chez vous** + émaillage et cuisson raku à l’atelier  
+Modelage + 1ère cuisson **chez vous**  
+Emaillage + cuisson raku **chez nous**    
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 75€ + 15€/pièce (max 15cm hauteur et profondeur)  
-Utiliser le **code RKHOME** lors de la réservation pour payer les 75€. **Le paiement des pièces se fera le jour de la cuisson.
+Nous contacter sur contact@fansdeterre.com  
 
 
-## Formule ELEVE de l’atelier  
+## Formule ELEVE     
 Modelage et émaillage pendant les cours + cuisson en stage  
 **Durée :** 1/2 journée (cuisson l'après midi)  
 **Tarif modelage et émaillage en cours + cuisson en stage :** 12€/pièce à cuire  
 **Tarif modelage en cours + émaillage et cuisson en stage :** 60€ + 12€/pièce à cuire  
 **Tarif modelage, émaillage et cuisson en stage :** -20% sur tarif normal  
-Contacter l'atelier
+Voir directement avec celui ou celle qui anime ton cours chez Fans de terre  
   
 
 ---
@@ -70,6 +71,6 @@ Contacter l'atelier
 [Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601) si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser la date du stage en commentaire).  
  
 ---
-## RESERVER    
+## RESERVER (100% atelier et découverte)       
 [Cliquer ici](https://booking.wecandoo.com/artisans/b1a3527e-10f3-4fef-93a9-dc43a283be2a/workshops/ce669687-7471-4a77-9bb0-d1dfdcd31930/book) pour réserver   
 
