@@ -8,7 +8,7 @@ redirect_from:
 Pour une **pratique artistique** régulière autour des techniques céramiques.  
 **Durée :** 1H30  
 **Niveau :** 4 ans et +  
-**Tarif :** 550€  
+**Tarif :** 575€  
 [En savoir plus](cours_enfants)  
 
 
