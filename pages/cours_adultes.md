@@ -113,7 +113,7 @@ L'inscription se déroule de la façon suivante :
 
 - **2 - L'inscirption définitive** : à réception des chèques complémentaires dans les 7 jours qui suivent la pré-inscription, l'inscription devient définitive. Passé ce délai votre place ne sera pas garantie et les frais d'inscription ne seront pas remboursés.   
 
-- **Liste d'attente** // Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la liste d'attente. Vous serez informé et pourrez profiter des places, avant l'ouverture à tou. Inscrivez vous sans tarder : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
+- **Liste d'attente** // Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la liste d'attente. Vous serez informé et pourrez profiter des places, avant l'ouverture à tous. Inscrivez vous sans tarder : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
 
 
