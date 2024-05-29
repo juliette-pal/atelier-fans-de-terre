@@ -1,10 +1,6 @@
 # COURS ENFANTS HEBDOMADAIRES  
 
-
-**Covid :** [Voir les conditions COVID](covid)  
-
-
-La terre se travaille à tout âge, c’est pour cette raison que nous proposons aux **enfants dès 4ans**, et **adolescents** des cours hebdomadaires d'1H30, dans lesquels ils alternent :
+La terre se travaille à tout âge, c’est pour cette raison que nous proposons aux **enfants dès 4ans**, et **adolescents** des cours hebdomadaires d'1H30. Ils pourront aborder en alternance :
 - des cours guidés autour d'une technique spécifique de façonnage ou de décoration
 - des cours pour donner libre cours à leur créativité.
 
@@ -21,7 +17,7 @@ Il n'y a pas cours pendant les vacances scolaires ni sur la semaine du jeudi de 
 
 **Niveau :** 4 ans et +  
 
-**Tarif annuel :** 550€  
+**Tarif annuel :** 565€  
 Les fournitures et les cuissons sont comprises dans le prix.  
 
 **Horaires** (1 cours/semaine/enfant) :  
@@ -42,7 +38,7 @@ L'inscription se déroule en 2 étapes :
 - **la pré-inscription** est validée après paiement des frais d'inscription de 85€ (**vous devez recevoir un mail de confirmation de règlement HELLOASSO**).  
 - **l'inscription définitive** à réception des chèques complémentaires dans les 7 jours qui suivent la préinscription. Passé ce délai votre place ne sera pas garantie et les frais d'inscription ne seront pas remboursés.     
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-enfants-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }    
+
 
 
 
