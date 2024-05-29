@@ -17,7 +17,7 @@ Il n'y a pas cours pendant les vacances scolaires ni sur la semaine du jeudi de 
 
 **Niveau :** 4 ans et +  
 
-**Tarif annuel :** 565€  
+**Tarif annuel :** 575€  
 Les fournitures et les cuissons sont comprises dans le prix.  
 
 **Horaires** (1 cours/semaine/enfant) :  
