@@ -10,6 +10,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 | Jours    | Horaires      | Infos          |
 | -------- | ------------- | ------------- |
+| Mardi    | 19H30 - 22H30 | Modelage et tournage              |
 | Mercredi | 19H30 - 22H30 | Modelage et tournage              |
 | Jeudi    | 15H00 - 18H30 | Modelage **1 jeudi sur 2** - [Voir les séances](samedi.md) |
 |          | 19H30 - 22H30 | Modelage et tournage              |
@@ -27,46 +28,44 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 :warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
   
-➪ **Covid :** [Voir les conditions COVID](covid)    
+
 
 ## FORMULE 100% TOURNAGE  
 
 **Niveau tournage :** tous niveaux  
 
-**Tarif : 385€ - 10 séances** - Sept à dec * janv à mars * avril à juin  
+**Tarif : 415€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
 
 **Jour :** Vendredi 17H00 - 20H
 
-Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
-L'idée est donc pour un petit groupe de 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
-  
 Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
 **- 1H : en autonomie** (hors 2 premiers cours), pour trouver ses propres sensations   
 **- 2H : avec un professeur**  
 
-1 séance par trimestre sera consacrée à l'émaillage.
-
-:star: **Attention, 6 tours, 6 places** !!!  
-
-:star: Forfait payable en 1 fois.  
+Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
+L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
+  
+:star: 1 séance par trimestre sera consacrée à l'émaillage.   
+:star: **Attention, 6 tours, 6 places** !!!   
+:star: Forfait payable en 2 fois.   
 
   
   
-## FORMULES une semaine sur deux : jeudi (new!!!) et samedi   
+## FORMULES 1 semaine sur 2 ( jeudi et samedi )   
 **Niveau :**  Modelage (tous niveaux)  
-**Tarif : 785€ l’année** - 15 cours de 3H30  
+**Tarif : 845€ l’année** - 15 cours de 3H30  
 
-:star: Forfait payable en 4 fois.     
+:star: Forfait payable en 5 fois.     
 
 3 possibilités pour ce cours :  
-- Jeudi après-midi : 15h - 18h30 - **NEW !!!  
+- Jeudi après-midi : 15h - 18h30    
 - Samedi matin (AM) : 10H - 13H30 - Groupe A ou B  
 - Samedi près-midi (PM) : 15H - 18H30  
 
 Les cours d'une durée de 3H30 ont lieu sur 15 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
 
 En raison de la faible récurrence de cours, les techniques de modelage sont privitégiées.  
-Nous aborderons ponctuellement le tournage. Les élèves qui veulent en faire plus régulièrement, doivent impérativement prendre 2 stages de tournage d'une journée avant de pouvoir en faire sur ce cours. Et potentiellement en prendre d'autres en cours d'année en fonction de leur évolution.   
+Nous aborderons ponctuellement le tournage, histoire de découvrir cette technique. Les élèves qui veulent en faire plus régulièrement, doivent impérativement faire 2 stages de tournage d'une journée avant de pouvoir en faire sur ce cours. Et potentiellement en prendre d'autres en cours d'année en fonction de leur évolution.   
 
   
 ## FORMULE MODELAGE ET TOURNAGE  
@@ -74,7 +73,7 @@ Nous aborderons ponctuellement le tournage. Les élèves qui veulent en faire pl
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif : 1135€ l’année** - 29 cours de 3H  
+**Tarif : 1215€ l’année** - 29 cours de 3H  
 
 **Jours :** Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
 
@@ -87,7 +86,7 @@ Nous vous faisons également **découvrir de nouvelles techniques** chaque anné
 Et pour les plus indépendants, il est possible de **suivre son propre rytme**.  
 
 
-:star: Forfait payable en 4 fois.  
+:star: Forfait payable en 5 fois.  
 
 
 **Nous serons ravis de vous accompagner en fonction de votre niveau et quelque soit la formule choisie.**  
@@ -104,18 +103,19 @@ Une fois votre règlement effectué, vous recevrez un code à communiquer au bé
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2023-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }   
 
 
-## Inscriptions 2023-2024      
-Ouverture des inscriptions aux non inscrits à partir du 20 juin. Ceux qui se sont inscrits sur la liste d'attente sont prioritaires.  
+## Inscriptions 2024-2025      
+Ouverture des inscriptions aux non inscrits à partir du 20 juin.    
+Ceux qui se sont inscrits sur la liste d'attente recevront un mail avant cette date.  
 
 L'inscription se déroule de la façon suivante :  
 
-- **la pré-inscription** est validée après paiement des frais d'inscription de 85 ou 135€ selon le forfait choisi (**ATTENTION !!! Vous devez impérativement recevoir un mail de confirmation de règlement HELLOASSO pour que votre pré-inscription soit valide.**)  
+- **1 - La pré-inscription** : elle est validée après paiement des frais d'inscription selon le forfait choisi (**ATTENTION !!! Vous devez impérativement recevoir un mail de confirmation de règlement HELLOASSO pour que votre pré-inscription soit validée.**)  
 
-- **l'inscirption définitive** à réception des chèques complémentaires dans les 7 jours qui suivent la préinscription. Passé ce délai votre place ne sera pas garantie et les frais d'inscription ne seront pas remboursés.   
+- **2 - L'inscirption définitive** : à réception des chèques complémentaires dans les 7 jours qui suivent la pré-inscription, l'inscription devient définitive. Passé ce délai votre place ne sera pas garantie et les frais d'inscription ne seront pas remboursés.   
 
-- **Liste d'attente** // Et si vous voulez anticiper ou ne parvenez pas à avoir une place, inscrivez-vous sur la liste d'attente : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
+- **Liste d'attente** // Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la liste d'attente. Vous serez informé et pourrez profiter des places, avant l'ouverture à tou. Inscrivez vous sans tarder : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2023-2024-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
+
 
 
   
