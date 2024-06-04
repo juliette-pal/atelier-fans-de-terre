@@ -31,13 +31,14 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 
 ## FORMULE 100% TOURNAGE  
+:star: **PAS DE RATTRAPAGE SUR CE COURS**  
 
 **Niveau tournage :** tous niveaux  
 
 **Tarif : 415€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
 
-**Jour :** Vendredi 17H00 - 20H
-
+**Jour :** Vendredi 17H00 - 20H  
+---
 Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
 **- 1H : en autonomie** (hors 2 premiers cours), pour trouver ses propres sensations   
 **- 2H : avec un professeur**  
