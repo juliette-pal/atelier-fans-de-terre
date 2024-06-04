@@ -5,6 +5,7 @@ redirect_from:
 # 15 COURS ADULTES - JEUDI et SAMEDI  
 
 **ATTENTION** : les dates de cours de l'après midi sont après celles du matin BBB !!!  
+---
 ⭐⭐⭐ **Rattrapage** : possible **1 fois** par trimestre si **annoncée au minimum 1 semaine avant (uniquement pendant les cours)**.    
 
 ## Jeudi 15H - 18H30  
