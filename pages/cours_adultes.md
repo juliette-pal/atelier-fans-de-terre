@@ -22,11 +22,13 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 
 
-:star: Une séance **raku** est comprise dans le tarif annuel des cours hebdomadaires (hors 100% tournage) - [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
+:warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
+---
+## LES PLUS +++ 
+:star: Une séance **raku est offerte** dans le tarif annuel des cours hebdomadaires (hors 100% tournage) - [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
 
 :star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages le week-end** [ - Voir les stages adultes](stages_adultes.md).   
 
-:warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
   
 
 
@@ -38,7 +40,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 **Tarif : 415€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
 
 **Jour :** Vendredi 17H00 - 20H  
----
+
 Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
 **- 1H : en autonomie** (hors 2 premiers cours), pour trouver ses propres sensations   
 **- 2H : avec un professeur**  
