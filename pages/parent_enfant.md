@@ -49,7 +49,7 @@ Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'
 ## P/E Modelage  
 **Durée :** 2H30  
 **Niveau :** 3 ans et +  
-**Tarif :** 80€ (pour 2)  
+**Tarif :** 85€ (pour 2)  
   
 Vous réalisez un **projet commun** et nous vous accompagnons dans sa réalisation.  
 En fonction du temps, vous pourrez le mettre en couleur.  
