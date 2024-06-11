@@ -30,7 +30,7 @@ Les stages se déroulent sur 4 séances de 3 heures (lundi au jeudi)
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
 **Durée** : à partir de 2H30  
 **Niveau** : à partir de 3 ans   
-**Tarif pour 2** : à partir de 80€  
+**Tarif pour 2** : à partir de 85€  
 Possibilités d'**animations extérieures**    
 [En savoir plus](parent_enfant)  
 
