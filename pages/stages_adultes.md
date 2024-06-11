@@ -84,7 +84,7 @@ L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des pa
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
 **Durée** : 2H30 (modelage) - 3H (tournage)  
 **Niveau** : Modelage et décore ta poterie (à partir de 3 ans) - Tournage (à partir de 8 ans)  
-**Tarif** : à partir de 80€  
+**Tarif** : à partir de 85€  
 [En savoir plus...](parent_enfant)  
 
 
