@@ -9,16 +9,13 @@ Veuillez préciser votre demande dans le formulaire contact :
 ---  
 ## Horaires d'ouverture de l'atelier    
 
-Fermeture estivale du 11 juillet au 1er septembre
+Fermeture estivale du 11 juillet au 1er septembre  
 
-**Prochaines vacances** :     
-Ouvert du 8 au 11 juillet de 10h à 13h30   
-
-**En semaine // Hors vacances**  
+**Ouvertures en semaine // Hors vacances** :  
 Jusqu'au 7 juillet : mercredi 10h00 - 18h  
 Du 8 au 11 juillet de 10h à 13h30   
 
-**Le week-end** :    
+**Ouvertures le week-end** :    
 •	Samedi..... 22/06 : 11h - 13h30 et 16h - 18h30    
 •	Dimanche 23/06 : 11h - 17h30   
 •	Samedi..... 29/06 : 11h - 13h30 et 16h - 18h30    
