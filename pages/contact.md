@@ -13,7 +13,7 @@ Fermeture estivale du 11 juillet au 1er septembre
 
 **Ouvertures en semaine // Hors vacances** :  
 Jusqu'au 7 juillet : mercredi 10h00 - 18h  
-Du 8 au 11 juillet de 10h à 13h30   
+Du 8 au 11 juillet : tlj de 10h à 13h30   
 
 **Ouvertures le week-end** :    
 •	Samedi..... 22/06 : 11h - 13h30 et 16h - 18h30    
