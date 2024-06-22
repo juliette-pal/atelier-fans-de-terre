@@ -31,36 +31,18 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
   
 
 ## Horaires d'ouverture de l'atelier    
-**Prochaines vacances** :  
-Fermé du 6 au  14 mai (ascension)    
-Ouvert du 8 au 11 juillet de 10h à 13h30   
+Fermeture estivale du 11 juillet au 1er septembre  
 
-**En semaine // Hors vacances** jusqu'au 15/06 :    
-•	Lundi / Mardi : fermé  
-•	Mercredi : 10h00 - 17h30 et 19h30 - 22h30  
-•	Jeudi........ : 15h00 - 18h30 et 19h30 - 22h30  
-•	Vendredi... : 9h30 - 12h30 et 14h00 - 20h00  
-Du 15 juin au 25 septembre : mercredi sur rdv   
+**Ouvertures en semaine // Hors vacances** :  
+Jusqu'au 7 juillet : mercredi 10h00 - 18h  
+Du 8 au 11 juillet : tlj de 10h à 13h30   
 
-**Le week-end** :   
-•	Samedi..... 04/05 : 11h - 13h30 et 16h - 18h30    
-•	Samedi..... 18/05 : 11h - 13h30 et 16h - 18h30    
-•	Samedi..... 25/05 : 11h - 17h30     
-•	Samedi..... 01/06 : 11h - 13h30     
-•	Samedi..... 08/06 : 11h - 13h30 et 16h - 18h30    
-•	Dimanche 09/06 : 11h - 17h30   
-•	Samedi..... 15/06 : 11h - 13h30 et 16h - 18h30    
+**Ouvertures le week-end** :    
 •	Samedi..... 22/06 : 11h - 13h30 et 16h - 18h30    
 •	Dimanche 23/06 : 11h - 17h30   
+•	Samedi..... 29/06 : 11h - 13h30 et 16h - 18h30    
 •	Dimanche 30/06 : 16h - 18h30   
-
-
-
-   
-
   
-
-
    
 **A très vite !!!**
 
