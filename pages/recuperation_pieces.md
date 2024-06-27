@@ -40,7 +40,7 @@ Du 8 au 11 juillet : tlj de 10h à 13h30
 **Ouvertures le week-end** :    
 •	Samedi..... 22/06 : 11h - 13h30 et 16h - 18h30    
 •	Dimanche 23/06 : 11h - 17h30   
-•	Samedi..... 29/06 : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... 29/06 : 12h - 18h    
 •	Dimanche 30/06 : 16h - 18h30   
   
    
