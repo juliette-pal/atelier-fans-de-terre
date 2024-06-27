@@ -80,7 +80,7 @@ Modelage (tous niveaux) - Tournage (tous niveaux)
 
 **Tarif : 1215€ l’année** - 29 cours de 3H  
 
-**Jours :** Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
+**Jours :** Mardi 19H30 - Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
 
 Les cours hebdomadaires de 3h de **modelage et tournage** vous permettent de pratiquer ces deux techniques pour une **approche globale du travail de la terre**.  
 
