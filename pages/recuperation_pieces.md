@@ -34,14 +34,16 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 Fermeture estivale du 11 juillet au 1er septembre  
 
 **Ouvertures en semaine // Hors vacances** :  
-Jusqu'au 7 juillet : mercredi 10h00 - 18h  
-Du 8 au 11 juillet : tlj de 10h à 13h30   
+Jusqu'au 10 juillet : mercredi 10h00 - 18h  
+Du lundi 8 au jeudi 11 juillet : tlj de 10h à 13h30   
 
 **Ouvertures le week-end** :    
 •	Samedi..... 22/06 : 11h - 13h30 et 16h - 18h30    
 •	Dimanche 23/06 : 11h - 17h30   
-•	Samedi..... 29/06 : 12h - 18h    
+•	Samedi..... 29/06 : 12h - 18h        
 •	Dimanche 30/06 : 16h - 18h30   
+•	Samedi..... 06/07 : 16h - 19h    
+
   
    
 **A très vite !!!**
