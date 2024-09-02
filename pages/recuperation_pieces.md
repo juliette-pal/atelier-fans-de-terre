@@ -37,7 +37,8 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 **ADULTES** le jeudi 26/09    
 
 **Ouvertures en semaine** :  
-**Jusqu'au 25/09** : mercredi 10h00 - 18h  
+**Jusqu'au 25/09** : mercredi 13h00 - 18h 
+**A partir du 26/09 : sur les horaires de cours
 
 **Ouvertures vacances de toussaint**  
 Du 21 au 24 octobre 24 : tlj de 10h à 13h30  
