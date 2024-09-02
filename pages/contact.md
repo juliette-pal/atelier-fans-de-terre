@@ -13,11 +13,12 @@ Veuillez préciser votre demande dans le formulaire contact :
 **ENFANTS** le mercredi 25/09   
 **ADULTES** le jeudi 26/09    
 
-**Ouvertures en semaine // Hors vacances** :  
+**Ouvertures en semaine** :  
 **Jusqu'au 25/09** : mercredi 10h00 - 18h  
 
-**Ouvertures vacances de toussaint**
-Du 21 au 24 octobre 24 : tlj de 10h à 13h30   
+**Ouvertures vacances de toussaint**  
+Du 21 au 24 octobre 24 : tlj de 10h à 13h30  
+Fermé du 25/10 au 03/11  
 
 **Ouvertures le week-end** :    
 •	Samedi..... 28/09 : 11h - 13h30 et 16h - 18h30    
