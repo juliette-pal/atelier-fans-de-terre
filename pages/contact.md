@@ -9,18 +9,25 @@ Veuillez préciser votre demande dans le formulaire contact :
 ---  
 ## Horaires d'ouverture de l'atelier    
 
-Fermeture estivale du 11 juillet au 1er septembre  
+**REPRISE DES COURS**   
+**ENFANTS** le mercredi 25/09   
+**ADULTES** le jeudi 26/09    
 
 **Ouvertures en semaine // Hors vacances** :  
-Jusqu'au 10 juillet : mercredi 10h00 - 18h  
-Du lundi 8 au jeudi 11 juillet : tlj de 10h à 13h30   
+**Jusqu'au 25/09** : mercredi 10h00 - 18h  
+
+**Ouvertures vacances de toussaint**
+Du 21 au 24 octobre 24 : tlj de 10h à 13h30   
 
 **Ouvertures le week-end** :    
-•	Samedi..... 22/06 : 11h - 13h30 et 16h - 18h30    
-•	Dimanche 23/06 : 11h - 17h30   
-•	Samedi..... 29/06 : 12h - 18h        
-•	Dimanche 30/06 : 16h - 18h30   
-•	Samedi..... 06/07 : 16h - 19h    
+•	Samedi..... 28/09 : 11h - 13h30 et 16h - 18h30    
+•	Dimanche 29/09 : 11h - 17h30   
+•	Samedi..... 05/10 : 11h - 13h30 et 16h - 18h30          
+•	Dimanche 06/10 : 16h - 18h30   
+•	Samedi..... 12/10 : 14h - 19h    
+•	Dimanche 13/10 : 14h - 19h   
+•	Samedi..... 19/10 : 11h - 13h30 et 16h - 18h30       
+•	Dimanche 20/10 : 11h - 17h30     
 
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
