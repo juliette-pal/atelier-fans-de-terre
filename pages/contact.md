@@ -14,7 +14,7 @@ Veuillez préciser votre demande dans le formulaire contact :
 **ADULTES** le jeudi 26/09    
 
 **Ouvertures en semaine** :  
-**Jusqu'au 25/09** : mercredi 10h00 - 18h  
+**Jusqu'au 25/09** : mercredi 13h00 - 18h  
 **A partir du 26/09 :**   
 Lundi...... : fermé  
 Mardi...... : 19h30-22h30  
