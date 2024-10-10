@@ -15,8 +15,10 @@ Le nombre de pièces que l'on peut traiter dépend de ce que l'on fait (décor a
 
 **Niveau :** Débutant/Intermédiaire  
 
-**Tarif :** 45€ en supplément d'un stage modelage ou tournage  
-50€ pris après un stage ou sans stage (supplément de 25€ si vous n'avez pas fait de stage tournage ou modelage avant. On vous fournit 2 pièces réalisées et déjà cuites par l'atelier)  
+**Tarif :**   
+45€ pour l'achat simultané d'un stage modelage ou tournage et d'un stage décor/émaillage    
+50€ si ce stage est pris après un stage ou sans stage  
+Supplément de 25€ pour la fourniture de 2 pièces réalisées et déjà cuites par l'atelier si vous n'avez pas fait de stage tournage ou modelage avant.   
 
 Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2 pièces réalisées par vous ou fournies par l’atelier (supplément à payer).  
  
