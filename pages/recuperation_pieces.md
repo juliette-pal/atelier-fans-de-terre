@@ -30,15 +30,9 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 - **Stage sculpture :**  2 mois après  
   
 
-## Horaires d'ouverture de l'atelier    
+## Horaires d'ouverture de l'atelier      
 
-**REPRISE DES COURS**   
-**ENFANTS** le mercredi 25/09   
-**ADULTES** le jeudi 26/09    
-
-**Ouvertures en semaine** :  
-**Jusqu'au 25/09** : mercredi 13h00 - 18h   
-**A partir du 26/09 :**   
+**Ouvertures en semaine** :     
 Lundi...... : fermé  
 Mardi...... : 19h30-22h30  
 Mercredi :  10h00-18h00 et 19H30-22h30  
@@ -47,17 +41,21 @@ Vendredi : 09H30-12h30 et 14H00-20H00
 
 **Ouvertures vacances de toussaint**  
 Du 21 au 24 octobre 24 : tlj de 10h à 13h30  
-Fermé du 25/10 au 03/11
+Fermé du 25/10 au 04/11  
 
-**Ouvertures le week-end** :    
-•	Samedi..... 28/09 : 11h - 13h30 et 16h - 18h30    
-•	Dimanche 29/09 : 11h - 17h30   
-•	Samedi..... 05/10 : 11h - 13h30 et 16h - 18h30          
-•	Dimanche 06/10 : 16h - 18h30   
-•	Samedi..... 12/10 : 14h - 19h    
-•	Dimanche 13/10 : 14h - 19h   
-•	Samedi..... 19/10 : 11h - 13h30 et 16h - 18h30       
-•	Dimanche 20/10 : 11h - 17h30     
+**Ouvertures le week-end** :     
+•	Samedi..... **19/10** : 11h - 13h30 et 16h - 18h30       
+•	Dimanche **20/10** : 11h - 17h30     
+•	Samedi..... **09/11** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **16/11** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **17/11** : 11h - 17h30   
+•	Samedi..... **22/11** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **30/11** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **01/12** : 11h - 17h30   
+•	Samedi..... **14/12** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **21/12** : 11h - 13h30 et 16h - 18h30   
+
+     
   
    
 **A très vite !!!**
