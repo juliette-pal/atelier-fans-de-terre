@@ -14,6 +14,12 @@ Le principe est simple :
 
 Ces pièces pourront être utilisées à la maison comme si elles avaient été achetées dans le commerce.    
 
+
+**PROCHAINES DATES**  
+**Festival des créatrices** à l’école Léon Bourgois   
+**samedi 7 et dimanche 8 Décembre 2024 (14h - 18h)**    
+
+
 ## Pour les entreprises et les particuliers       
 Venez créer grâce à notre **jeu céramique**, et repartez avec un **souvenir collectif inoubliable** !!!  
 <img src="/images/animation-poterie-fansdeterre-ceramique-colombes-paris.jpg" class="image-horiz">  
