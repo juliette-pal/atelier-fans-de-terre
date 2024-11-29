@@ -38,14 +38,14 @@ Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l
 *Prévoir minimum 2 semaines entre les deux dates*.    
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 165€  
+**Tarif :** 160€  
  
  
 ## Formule DECOUVERTE // Sans modelage - 2 pièces fournies  
 Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 165€  
+**Tarif :** 160€  
 
 
 ## Formule MAISON  
