@@ -15,13 +15,13 @@ redirect_from:
 # **COURS ET STAGES DE POTERIE ET CÉRAMIQUE**  
 
 ---   
-## Décore ta poterie  
+## ACTUALITES - Décore ta poterie !!!  
 **AU FESTIVAL DES CREATRICES**   
 Ecole Léon Bourgeois (7 et 8 décembre 2024)  
 [**Cliquer ici pour vous inscrire au festival des créatrices**](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }   
 
-Récupération des pièces à partir du 18 décembre 2024   
-[Voir les horaires d'ouverture pour récupérer vos pièces](recuperation_pieces)   
+Récupération des pièces à partir du 18 décembre 2024 :   
+[Voir les horaires d'ouverture pour récupérer vos pièces](pages/recuperation_pieces.md)   
 
 
 🌟 **NEW NEW !!! POUR LES ENTREPRISES ET LES GROUPES** 🌟   
