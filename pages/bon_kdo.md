@@ -10,8 +10,8 @@ L'expérience d'un savoir-faire artisanal garanti !
 1. Choisissez la formule la plus adaptée
 2. Imprimez et complétez le bon vierge en personalisant votre message.  
    **Attention**  
-   Le bon est proposé au moment d'accepter les CGV.  
-   Le bon précise toutes les modalités de réservations.  
+   Le bon et les modalités de réservation sont proposés avec les CGV.  
+   Le bon précise toutes **les modalités de réservations** ainsi que le code indispensable pour réserver.  
    Il faut l'imprimer et le donner en même temps que le cadeau !!!  
 3. Une fois son cadeau reçu, le bénéficiaire pourra réserver une date à l'aide du code qui vous sera communiqué à l'achat.  
 
