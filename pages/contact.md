@@ -11,26 +11,25 @@ Veuillez préciser votre demande dans le formulaire contact :
 
 **Ouvertures en semaine** :     
 Lundi...... : fermé  
-Mardi...... : 19h30-22h30  
-Mercredi :  10h00-18h00 et 19H30-22h30  
-Jeudi....... : 19H30-22H30   
-Vendredi : 09H30-12h30 et 14H00-20H00   
+Mardi...... : 19h30 - 22h30  
+Mercredi :  11h00 - 22h30  
+Jeudi....... : 19h30 - 22h30   
+Vendredi : 09h30 - 12h30 et 14h00-20h00   
 
-**Ouvertures vacances de toussaint**  
-Du 21 au 24 octobre 24 : tlj de 10h à 13h30  
-Fermé du 25/10 au 04/11  
+**Vacances de Noël**  
+Fermé du 22/12 au 07/01  
 
 **Ouvertures le week-end** :     
-•	Samedi..... **19/10** : 11h - 13h30 et 16h - 18h30       
-•	Dimanche **20/10** : 11h - 17h30     
-•	Samedi..... **09/11** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **16/11** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **17/11** : 11h - 17h30   
-•	Samedi..... **23/11** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **30/11** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **01/12** : 11h - 17h30   
-•	Samedi..... **14/12** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **21/12** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **14/12** : 11h - 18h30   
+•	Samedi..... **21/12** : 11h - 18h30   
+•	Samedi..... **11/01** : 11h - 13h30         
+•	Samedi..... **18/01** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **19/01** : 11h - 17h30  
+•	Samedi..... **25/01** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **01/02** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **08/02** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **9/02** : 11h - 17h30  
+•	Samedi..... **15/02** : 11h - 13h30 et 16h - 18h30   
 
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
