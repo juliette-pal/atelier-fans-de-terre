@@ -32,29 +32,31 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 
 ## Horaires d'ouverture de l'atelier      
 
-**Ouvertures en semaine** :     
-Lundi...... : fermé  
-Mardi...... : 19h30 - 22h30  
-Mercredi :  11h00 - 22h30  
-Jeudi....... : 19h30 - 22h30   
-Vendredi : 09h30 - 12h30 et 14h00-20h00   
+**Ouvertures en semaine :**
+Lundi...... : **fermé**
+Mardi...... : **19h30 - 22h30**
+Mercredi : **12h00 - 22h30**
+Jeudi....... : **19h30 - 22h30**
+Vendredi : **09h30 - 12h30** et **14h00-20h00**
 
-**Vacances de Noël**  
-Fermé du 22/12 au 07/01  
+**Vacances de Février**
+Fermé du 16/02 au 03/03
 
-**Ouvertures le week-end** :     
-•	Samedi..... **14/12** : 11h - 18h30   
-•	Samedi..... **21/12** : 11h - 18h30   
-•	Samedi..... **11/01** : 11h - 13h30         
-•	Samedi..... **18/01** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **19/01** : 11h - 17h30  
-•	Samedi..... **25/01** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **01/02** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **08/02** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **9/02** : 11h - 17h30  
-•	Samedi..... **15/02** : 11h - 13h30 et 16h - 18h30   
-
-     
+**Ouvertures le week-end :**
+• Samedi..... **18/01** : 11h - 13h30 et 16h - 18h30
+• Dimanche **19/01** : 11h - 17h30
+• Samedi..... **25/01** : 11h - 13h30 et 16h - 18h30
+• Samedi..... **01/02** : 11h - 13h30 et 16h - 18h30
+• Samedi..... **08/02** : 11h - 13h30 et 16h - 18h30
+• Dimanche **9/02** : 11h - 17h30
+• Samedi..... **15/02** : 11h - 13h30 et 16h - 18h30
+• Samedi..... **08/03** : 11h - 13h30 et 16h - 18h30
+• Samedi..... **15/03** : 11h - 13h30 et 16h - 18h30
+• Dimanche **16/03** : 16h - 18h30
+• Samedi..... **22/03** : 11h - 13h30 et 16h - 18h30
+• Dimanche **23/03** : 11h - 17h30
+• Samedi..... **29/03** : 11h - 13h30 et 16h - 18h30
+• Dimanche **30/03** : 11h - 17h30 
   
    
 **A très vite !!!**
