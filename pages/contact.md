@@ -12,17 +12,14 @@ Veuillez préciser votre demande dans le formulaire contact :
 **Ouvertures en semaine** :     
 Lundi...... : fermé  
 Mardi...... : 19h30 - 22h30  
-Mercredi :  11h00 - 22h30  
+Mercredi :  12h00 - 22h30  
 Jeudi....... : 19h30 - 22h30   
 Vendredi : 09h30 - 12h30 et 14h00-20h00   
 
-**Vacances de Noël**  
-Fermé du 22/12 au 07/01  
+**Vacances de Février**  
+Fermé du 16/02 au 03/03  
 
-**Ouvertures le week-end** :     
-•	Samedi..... **14/12** : 11h - 18h30   
-•	Samedi..... **21/12** : 11h - 18h30   
-•	Samedi..... **11/01** : 11h - 13h30         
+**Ouvertures le week-end** :       
 •	Samedi..... **18/01** : 11h - 13h30 et 16h - 18h30   
 •	Dimanche **19/01** : 11h - 17h30  
 •	Samedi..... **25/01** : 11h - 13h30 et 16h - 18h30   
@@ -30,6 +27,13 @@ Fermé du 22/12 au 07/01
 •	Samedi..... **08/02** : 11h - 13h30 et 16h - 18h30   
 •	Dimanche **9/02** : 11h - 17h30  
 •	Samedi..... **15/02** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **08/03** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **15/03** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **16/03** : 16h - 18h30  
+•	Samedi..... **22/03** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **23/03** : 11h - 17h30  
+•	Samedi..... **29/03** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **30/03** : 11h - 17h30  
 
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
