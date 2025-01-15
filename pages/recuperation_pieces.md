@@ -32,7 +32,7 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 
 ## Horaires d'ouverture de l'atelier      
 
-**Ouvertures en semaine :**
+**Ouvertures en semaine :**   
 Lundi...... : **fermé**   
 Mardi...... : **19h30 - 22h30**   
 Mercredi : **12h00 - 22h30**   
