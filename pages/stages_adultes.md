@@ -75,9 +75,9 @@ En 2 jours, vous pourrez concevoir, décorer, émailler et assembler vos bijoux 
 
 ## [PATINE](patine_adultes.md)  
 L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des patines à froid.   
-**Durée** : 1 journée  
+**Durée** : 3H    
 **Niveau** : Tous niveaux  
-**Tarif** : 120€  
+**Tarif** : 80€  
 [En savoir plus...](patine_adultes)
 
 ## [PARENT/ENFANT mais pas que...](parent_enfant.md)  
