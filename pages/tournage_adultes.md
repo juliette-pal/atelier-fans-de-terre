@@ -19,10 +19,7 @@ Maximum 6 participants par stage.
 
 **L’émaillage** n’étant pas compris, vous pouvez par la suite continuer sur un nouveau stage [« Décor / Emaillage »](emaillage_adultes) pour aller jusqu’au bout du processus et sublimer vos pièces. Cette étape consiste à décorer votre pièce pour un rendu unique !!!      
 
----
-## OFFRIR un stage de tournage - Bon cadeau numérique possible
-Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon, pour effectuer sa réservation sur le stage choisi ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2023-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }  
+
 
 ---
 ## LISTE D'ATTENTE pour un stage complet
