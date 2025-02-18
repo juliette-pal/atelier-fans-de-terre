@@ -22,14 +22,10 @@ Supplément de 25€ pour la fourniture de 2 pièces réalisées et déjà cuite
 
 Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2 pièces réalisées par vous ou fournies par l’atelier (supplément à payer).  
  
----
-## OFFRIR un stage - Bon cadeau numérique possible
-Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2023-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
----  
 ## Liste d'attente
-[Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601) si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser la date du stage en commentaire).
+[Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601) si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser la date du stage en commentaire).  
+
 ---
 ## RESERVER  
 **ATTENTION aux dates de stages !!!**   Ex :  2023/09/12  =  12 septembre 2023  
