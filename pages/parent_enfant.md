@@ -67,10 +67,6 @@ Les petits pots tournés seront assemblés pour un **objet unique** !!!
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.    
 
 ---
-## OFFRIR un cadeau sans date définie
-Une fois votre règlement effectué, vous recevrez un code à communiquer au bénéficiaire du bon. Il pourra ainsi effectuer sa réservation sur le stage offert ou un autre. En cas de différence de tarif, un complément sera demandé ou mis en attente pour une seconde réservation.    
-      
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2023-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>{:target="_blank" }    
 
 ## LISTE D'ATTENTE pour un stage complet
 **[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }        
