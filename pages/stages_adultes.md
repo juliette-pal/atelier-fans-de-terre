@@ -20,15 +20,8 @@ Tarif :
 ➪ **Récupérer les pièces de stage**
 [Cliquer ici pour voir quand et comment](recuperation_pieces)  
 
-➪ **Liste d'attente**
+➪ **Liste d'attente pour un stage complet**
 [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser le stage dans le formulaire)](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
-
-## [DESSIN](stages_dessin.md)... NEW !!!   
-Venez développer votre créativité par le dessin !!!  
-**Durée** : 12H      
-**Niveau** : Tous niveaux    
-**Tarif** : 180€ (+10€ si modèle vivant)    
-[En savoir plus...](stages_dessin.md)
 
 
 ## [TOURNAGE](tournage_adultes.md)  
@@ -79,6 +72,15 @@ L'effet, bronze vous tente ?  Venez apercevoir les possibilités infinies des pa
 **Niveau** : Tous niveaux  
 **Tarif** : 80€  
 [En savoir plus...](patine_adultes)
+
+
+## [DESSIN](stages_dessin.md)... NEW !!!   
+Venez développer votre créativité par le dessin !!!  
+**Durée** : 12H      
+**Niveau** : Tous niveaux    
+**Tarif** : 180€ (+10€ si modèle vivant)    
+[En savoir plus...](stages_dessin.md)
+
 
 ## [PARENT/ENFANT mais pas que...](parent_enfant.md)  
 Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, nièce, neveu, filleul, filleule, beau-fils, belle-fille...  
