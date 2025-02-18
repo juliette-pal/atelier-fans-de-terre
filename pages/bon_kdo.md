@@ -11,7 +11,7 @@ L'expérience d'un savoir-faire artisanal garanti !
    Un montant libre (ci-dessous)   
    Ou la formule la plus adaptée dans chaque page dédiée (un stage tournage dans la page stage tournage)   
 
-Clicquer ici pour choisir stage par stage
+   Clicquer ici pour choisir stage par stage
 
 2. Imprimez et complétez le bon cadeau vierge en personalisant votre message.  
    
