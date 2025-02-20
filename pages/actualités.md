@@ -5,6 +5,10 @@
 - Régler l'animation de ce jour via notre formulaire règlement L  
   <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/reglement-libre/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>    
   
+
+- Comment avez-vous trouvé notre animation ?        
+  [cliquer ici pour laisser un avis](https://g.page/fansdeterre/review?gm)  
+
 - Vous inscrire sur la liste d'attente d'un ou plusieurs cours   
   Pour vous donner plus de chances, choisissez plusieurs cours !   
   [Cliquer ici](https://forms.gle/RcWEHegz6js46Y7i8)    
