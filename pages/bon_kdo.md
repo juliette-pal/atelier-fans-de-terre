@@ -7,16 +7,18 @@ L'expérience d'un savoir-faire artisanal garanti !
 
 <img src="/images/carte cadeau-ceramique-fansdeterre-raku-paris-600 410.png" class="image-horiz">
 
-1. Choisissez :   
-   Un montant libre (ci-dessous)   
-   Ou la formule la plus adaptée dans chaque page dédiée (un stage tournage dans la page stage tournage)   
+## Offrir un stage précis
+Si vous avez une idée précise de ce qui plaira à celui ou celle qui recevra le bon cadeau, allez directement au stage ou cours concerné.   
+Par exemple, allez aux stages tournage ou en offir un.      
+[Cliquer ici pour choisir stage par stage](pages/stages_adultes.md)    
 
-   Clicquer ici pour choisir stage par stage
+## Offir un montant libre
+Si vous avez un doute, ou hésitez optez pour un montant libre :  
+1. Choisissez le montant libre correspondant à votre budget (voir RESERVER ci-dessous)   
 
 2. Imprimez et complétez le bon cadeau vierge en personalisant votre message.  
-   
    **Attention**  
-   Le bon et les modalités de réservation sont proposés avec les CGV.  
+   Le bon cadeau et les modalités de réservationest sont à imprimer ou télécharger au moment de signer les conditions générales de ventes.  
    La page 2 du bon précise toutes **les modalités de réservations** ainsi que le **code indispensable** pour réserver.  
    
    Il faut l'imprimer et le donner en même temps que le cadeau !!!  
