@@ -14,7 +14,7 @@ redirect_from:
 
 🌟 NEW NEW !!!🌟   
 **ANIMATIONS POUR LES ENTREPRISES ET LES GROUPES**  
-[Cliquer ici pour en savoir plus sur les animations GROUPES/ENTREPRISES](pages/animations_groupes.md) 
+[Cliquer ici pour en savoir plus sur les animations GROUPES / ENTREPRISES](pages/animations_groupes.md) 
 
 
 ---    
