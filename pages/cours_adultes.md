@@ -101,9 +101,6 @@ Et pour les plus indépendants, il est possible de **suivre son propre rytme**.
 A chacun son rythme selon ses envies !  
 
 ---
-  
-## [Cliquer ici pour OFFRIR un stage](pages/bon_kdo)
-
 
 ## Inscriptions 2024-2025      
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2024-2025/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" } 
