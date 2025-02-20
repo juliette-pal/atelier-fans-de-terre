@@ -21,11 +21,11 @@ Si vous avez un doute, ou hésitez optez pour un montant libre :
 
    **Attention !!!**  
    Le **bon cadeau**, est à **imprimer ou télécharger** au moment de **signer les conditions générales de ventes**.  
-   La page 2 du bon cadeau précise toutes **les modalités de réservations** ainsi que le **code indispensable** pour réserver.  
+   La page 2 du bon cadeau précise toutes **les modalités de réservations** ainsi que le **CODE RESERVATION indispensable** pour réserver.  
    
    **Pensez à les remettre en même temps que le bon cadeau !!!**  
 
-3. Une fois son cadeau reçu, le bénéficiaire pourra réserver une date à l'aide du code figurant dans les modalités de réservations.  
+3. Une fois son cadeau reçu, le bénéficiaire pourra réserver une date à l'aide du **CODE RESERVATION**.  
 
      
 **ATTENTION aux dates !!!**  
