@@ -30,6 +30,13 @@ Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émail
 **Tarif** : 50€ (45€ si vous le prenez en meme temps que le tournage)  
 [En savoir plus...](emaillage_adultes)  
 
+## [RAKU](raku_adultes.md)  
+Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
+**Durée** : à partir d'un jour    
+**Niveau** : Déb./Int.     
+**Tarif** : à partir de 85€  
+[En savoir plus...](raku_adultes) 
+
 ## [TOURNAGE](tournage_adultes.md)  
 Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
 **Durée** : à partir de 3H30    
@@ -43,13 +50,6 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 **Niveau** : Déb./Int.   
 **Tarif** : 55€  
 [En savoir plus...](modelage_adultes)
-
-## [RAKU](raku_adultes.md)  
-Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
-**Durée** : à partir d'un jour    
-**Niveau** : Déb./Int.     
-**Tarif** : à partir de 85€  
-[En savoir plus...](raku_adultes) 
 
 ## [SCULPTURE](sculpture_adultes.md)      
 Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
