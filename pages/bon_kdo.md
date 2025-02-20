@@ -11,7 +11,7 @@ L'expérience d'un savoir-faire artisanal garanti !
 Si vous avez une idée précise de ce qui plaira à celui ou celle qui recevra le bon cadeau, allez directement au stage ou cours concerné.   
 Par exemple, allez aux stages tournage pour en offrir un.      
  
-[Stages Adultes](pages/stages_adultes)  
+[Voir les stages adultes](pages/stages_adultes.md) 
 
 ## Offir un montant libre
 Si vous avez un doute, ou hésitez optez pour un montant libre :  
