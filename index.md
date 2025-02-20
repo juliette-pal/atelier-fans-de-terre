@@ -35,6 +35,8 @@ Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre
 Il ne vous reste plus qu’à y faire un tour ou offrir un **bon cadeau** !!!  
 
 [En savoir plus sur l'atelier fans de terre...](pages/atelier)  
+ 
+[Nous contacter](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }   
 
 
 <a href="/pages/bon_kdo">
