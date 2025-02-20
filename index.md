@@ -26,7 +26,7 @@ redirect_from:
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
 ᐉ **Seul**, en **famille**, entre **amis** ou **collègues**...     
 
-Il ne vous reste plus qu’à y faire un tour ou offrir un **bon cadeau** !!!  
+Il ne vous reste plus qu’à **y faire un tour** ou offrir un **bon cadeau** !!!  
 
 [En savoir plus sur l'atelier fans de terre...](pages/atelier)  
  
