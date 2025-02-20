@@ -29,7 +29,7 @@ Si vous avez un doute, ou hésitez optez pour un montant libre :
 
      
 **ATTENTION aux dates !!!**  
-2023/09/12  =  12 septembre 2023  
+2025/09/12  =  12 septembre 2025  
 
 # RESERVER UN MONTANT LIBRE   
 🎁 **BON VALABLE 1 AN A COMPTER DE LA DATE D'ACHAT**   
