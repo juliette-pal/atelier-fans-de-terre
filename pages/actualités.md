@@ -17,6 +17,11 @@
 
 - Vous inscrire à une démonstration
   Votre inscription ne sera validée qu'à reception de notre confirmation
- 
+
+
+
+# HORAIRES D'OUVERTURE
+Vous y trouverez aussi les délais de récupéreration des pièces de stages  
+[Cliquer ici](recuperation_pieces) 
 
 
