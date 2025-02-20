@@ -2,7 +2,8 @@
 
     
 ## Quelle actualité vous concerne ?    
-- S'inscrire sur liste d'attente pour un cours
+- S'inscrire sur la liste d'attente d'un ou plusieurs cours
+  Pour vous donner plus de chances, choisissez plusieurs cours !
   
 - Recevoir notre newsletter
   
