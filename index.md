@@ -8,9 +8,7 @@ redirect_from:
 
 # **ATELIER DE POTERIE ET CÉRAMIQUE**  
 
- 
 
-## [L'ATELIER FANS DE TERRE](pages/atelier.md)  
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture,...** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
