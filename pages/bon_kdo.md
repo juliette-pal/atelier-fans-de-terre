@@ -9,19 +9,21 @@ L'expérience d'un savoir-faire artisanal garanti !
 
 ## Offrir un stage précis
 Si vous avez une idée précise de ce qui plaira à celui ou celle qui recevra le bon cadeau, allez directement au stage ou cours concerné.   
-Par exemple, allez aux stages tournage ou en offir un.      
+Par exemple, allez aux stages tournage ou en offrir un.      
 [Cliquer ici pour choisir stage par stage](pages/stages_adultes.md)    
 
 ## Offir un montant libre
 Si vous avez un doute, ou hésitez optez pour un montant libre :  
 1. Choisissez le montant libre correspondant à votre budget (voir RESERVER ci-dessous)   
 
-2. Imprimez et complétez le bon cadeau vierge en personalisant votre message.  
-   **Attention**  
-   Le bon cadeau et les modalités de réservationest sont à imprimer ou télécharger au moment de signer les conditions générales de ventes.  
-   La page 2 du bon précise toutes **les modalités de réservations** ainsi que le **code indispensable** pour réserver.  
+2. Imprimez et complétez le bon cadeau vierge.
+   Le document peut être personalisé.   
+
+   **Attention !!!**  
+   Le **bon cadeau**, est à **imprimer ou télécharger** au moment de **signer les conditions générales de ventes**.  
+   La page 2 du bon cadeau précise toutes **les modalités de réservations** ainsi que le **code indispensable** pour réserver.  
    
-   Il faut l'imprimer et le donner en même temps que le cadeau !!!  
+   **Pensez à les remettre en même temps que le bon cadeau !!!**  
 
 3. Une fois son cadeau reçu, le bénéficiaire pourra réserver une date à l'aide du code figurant dans les modalités de réservations.  
 
