@@ -1,5 +1,8 @@
-# Horaires d'ouverture et modalités de récupération des pièces
+# Horaires d'ouverture   
+# Récupération des pièces
 [Cliquer ici](recuperation_pieces) pour tout consulter  
+
+---
 
 
 # Quelques accès rapides :   
