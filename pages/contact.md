@@ -12,28 +12,40 @@ Veuillez préciser votre demande dans le formulaire contact :
 **Ouvertures en semaine** :     
 Lundi...... : fermé  
 Mardi...... : 19h30 - 22h30  
-Mercredi :  12h00 - 22h30  
+Mercredi :  14h00 - 22h30  
 Jeudi....... : 19h30 - 22h30   
 Vendredi : 09h30 - 12h30 et 14h00-20h00   
 
-**Vacances de Février**  
-Fermé du 16/02 au 03/03  
+**Vacances d'avril**  
+Stage du 14 au 17 de 10h à 13h
+Fermé du 18/04 au 27/04  
 
 **Ouvertures le week-end** :       
-•	Samedi..... **18/01** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **19/01** : 11h - 17h30  
-•	Samedi..... **25/01** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **01/02** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **08/02** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **9/02** : 11h - 17h30  
-•	Samedi..... **15/02** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **08/03** : 11h - 13h30 et 16h - 18h30   
 •	Samedi..... **15/03** : 11h - 13h30 et 16h - 18h30   
 •	Dimanche **16/03** : 16h - 18h30  
 •	Samedi..... **22/03** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **23/03** : 11h - 17h30  
+•	Dimanche **23/03** : 11h - 17h  
 •	Samedi..... **29/03** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **30/03** : 11h - 17h30  
+•	Dimanche **30/03** : 11h - 17h  
+•	Samedi..... **05/04** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **06/04** : 11h - 17h  
+•	Samedi..... **12/04** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **13/04** : 11h - 17h   
+•	Samedi..... **03/05** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **10/05** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **11/05** : 11h - 17h   
+•	Samedi..... **17/05** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **18/05** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **24/05** : 11h - 17h      
+•	Samedi..... **07/06** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **14/06** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **21/06** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **22/06** : 11h - 13h30 et 16h - 18h30  
+•	Samedi..... **28/06** : 11h - 17h     
+•	Dimanche **29/06** : 11h - 17h   
+•	Samedi..... **05/07** : 11h - 17h     
+•	Dimanche **06/07** : 11h - 17h   
+
 
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
