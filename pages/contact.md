@@ -17,7 +17,7 @@ Jeudi....... : 19h30 - 22h30
 Vendredi : 09h30 - 12h30 et 14h00-20h00   
 
 **Vacances d'avril**  
-Stage du 14 au 17 de 10h à 13h
+Stage du 14 au 17 de 10h à 13h   
 Fermé du 18/04 au 27/04  
 
 **Ouvertures le week-end** :       
