@@ -21,14 +21,6 @@ Stage du 14 au 17 de 10h à 13h
 Fermé du 18/04 au 27/04  
 
 **Ouvertures le week-end** :       
-•	Samedi..... **15/03** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **16/03** : 16h - 18h30  
-•	Samedi..... **22/03** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **23/03** : 11h - 17h  
-•	Samedi..... **29/03** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **30/03** : 11h - 17h  
-•	Samedi..... **05/04** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **06/04** : 11h - 17h  
 •	Samedi..... **12/04** : 11h - 13h30 et 16h - 18h30   
 •	Dimanche **13/04** : 11h - 17h   
 •	Samedi..... **03/05** : 11h - 13h30 et 16h - 18h30   
