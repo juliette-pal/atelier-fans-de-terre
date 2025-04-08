@@ -49,5 +49,4 @@ Envoyez votre demande à **animations@fansdeterre.com**
 
 
 ## Bloquer une date en versant un acompte (préciser la date bloquée lors du règlement)
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/reglement-libre/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>  
-
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/cadeaux-animations-expos/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
