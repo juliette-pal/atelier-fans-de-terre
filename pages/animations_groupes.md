@@ -48,5 +48,4 @@ Ces pièces pourront être utilisées à la maison comme si elles avaient été 
 ## Verser un acompte 
 Le versement d'un acompte vous garantie la réservation de la date préalablement convenue avec nous.   
  
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/cadeaux-animations-expos/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
