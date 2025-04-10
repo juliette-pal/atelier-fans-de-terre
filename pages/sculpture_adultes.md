@@ -22,7 +22,6 @@ Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre)
 
 **Niveau :** Tous niveaux  
 
-**Tarif :** 150€  
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.  
 
 ---
