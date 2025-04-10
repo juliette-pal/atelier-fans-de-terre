@@ -55,7 +55,7 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
 **Durée** : 1 jour et demi  
 **Niveau** : Tous niveaux  
-**Tarif** : 150€    
+**Tarif** : 170€    
 [En savoir plus...](sculpture_adultes)
 
 ## [PORCELAINE](stage_bijoux_porcelaine.md)        
