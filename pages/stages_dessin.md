@@ -16,7 +16,6 @@ Les stages de dessin sont animés par [Claude RHEIN](intervenants_fansdeterre)
 **Niveau :** Tous niveaux  
 **Tarif :** 180€ (+10€ le jour du stage pour le modèle vivant)    
 
-<img src="/images/Dessin-modele-vivant-fansdeterre.jpg" class="image-stage" alt="stage dessin avec Claude Rhein">   
 
 ---
   
