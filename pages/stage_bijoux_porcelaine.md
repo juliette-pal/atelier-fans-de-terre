@@ -17,7 +17,4 @@ Vous pouvez aussi vous limiter à de petits carreaux si le principe du bijou ne 
 ## LISTE D'ATTENTE  
 [Si ce stage est complet ou que les dates proposées ne vous conviennent pas, **cliquer ici** pour vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
 
-## RESERVER une date  
-**ATTENTION aux dates**... Ex :   2023/09/12  =  12 septembre 2023  
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-porcelaine/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
