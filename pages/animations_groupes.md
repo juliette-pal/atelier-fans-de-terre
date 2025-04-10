@@ -18,11 +18,6 @@ Notre **"céramic game"** valorise :
 
 **Durée :** à partir de 2H  
 
-**Options** :
-- Décorer une céramique : chaque participant personnalise un objet lors d'un jeu collectif.   
-- Concevoir une fresque : une oeuvre commune est élaborée, toujours dans un cadre ludique. Idéal pour décorer un espace commun.  
-- **Les PLUS...** : vidéo souvenir, possibilités de restauration, installation de la fresque     
-
 **DEMANDER UN DEVIS** sur **animations@fansdeterre.com**
    
 ## Animations grand public     
@@ -38,14 +33,11 @@ Le principe est simple :
 
 Ces pièces pourront être utilisées à la maison comme si elles avaient été achetées dans le commerce.    
 
-**PROCHAINES DATES**  
-**Festival des créatrices** à l’école Léon Bourgois   
-**samedi 7 et dimanche 8 Décembre 2024 (14h - 18h)**    
-
 **DEMANDER UN DEVIS** sur **animations@fansdeterre.com**       
 
-
-## Verser un acompte 
-Le versement d'un acompte vous garantie la réservation de la date préalablement convenue avec nous.   
+## Découvrir l'activité décore ta poterie en solo
  
+  
+
+
 
