@@ -6,12 +6,11 @@ En formule 4H le jeudi ou 7H le dimanche
 **Tarif :** à partir de 75€    
 
 ---
+<img src="/images/Stage_porcelaine_inventer_paysage_24.jpg" class="image-stage" alt="Affiche stage bijoux porcelain avec Anne Drugeon">  
+---
 Le format du bijoux se prête bien aux expériementations en tous genres.  
 Ce qui se concoit petit peut également être expérimenté par la suite en plus grand.  
 Vous pouvez aussi vous limiter à de petits carreaux si le principe du bijou ne vous séduit pas🙂    
-
----
-<img src="/images/Stage_porcelaine_inventer_paysage_24.jpg" class="image-stage" alt="Affiche stage bijoux porcelain avec Anne Drugeon">  
 
 
 ## LISTE D'ATTENTE  
