@@ -43,11 +43,6 @@ Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.
 **Tarif :** 165€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 
-<!-- Début de widget de badge Calendly -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/fansdeterre/ados-juillet-25', text: 'Réserver', color: '#31871b', textColor: '#ffffff' }); }</script>
-<!-- Fin de widget de badge Calendly -->
 
 ---
 ## LISTE D'ATTENTE pour un stage complet
