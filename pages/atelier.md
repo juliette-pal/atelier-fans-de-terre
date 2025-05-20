@@ -4,7 +4,7 @@ redirect_from:
     - /cours-stages-poterie-ceramique-colombes/l-atelier-cours-de-poterie-ceramique-colombes/
 ---
 # L'ATELIER  
-Créé en 2013, l'atelier Fans de terre, est situé à Colombes (92).  
+Créé en 2013, l'atelier Fans de terre, est un atelier de **poterie**/**céramique**/**sculpture** situé à Colombes (92).  
 Vous pourrez y découvrir le **tournage**, le **modelage**, le **raku** et bien d'autres activités autour de la terre.    
 
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir !!!  
