@@ -17,7 +17,8 @@
   [cliquer ici pour laisser un avis](https://g.page/fansdeterre/review?gm)  
 
 - **Régler une animation** via notre formulaire :      
-  <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/reglements-divers/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/cadeaux-animations-expos/widget-bouton" style="width: 100%; height: 70px; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height const haWidgetElement = document.getElementById('haWidget') haWidgetElement.height = dataHeight + 'px' } )" ></iframe>
+
 
 
 
