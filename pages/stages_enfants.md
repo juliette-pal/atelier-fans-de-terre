@@ -35,6 +35,12 @@ Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.
 **Tarif :** 145€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 
+<!-- Début de widget de lien Calendly -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fansdeterre/stage-jeunes-modelage-juillet'});return false;">Réserver - Stage modelage 4j - 7/7 au 10/7/25</a>
+<!-- Fin de widget de lien Calendly -->
+
 ## STAGE TOURNAGE - ENFANTS / ADOS  
 L’idée est de découvrir le tournage céramique en créant une œuvre unique à partir de plusieurs pièces tournées.  
 Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
@@ -51,8 +57,4 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 ---
 ## LISTE D'ATTENTE pour un stage complet
 **[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
----
-## RESERVER    
-**ATTENTION aux dates de stages**...   Ex :  2023/09/12  =  12 septembre 2023  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-enfants-vacances-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
 
