@@ -18,7 +18,7 @@ En fonction de la complexité de votre forme, si vous avez assez de temps, vous 
 
 **Niveau :**  Débutant / Intermédiaire
 
-**Tarif : 55€**  
+**Tarif :   
 Le tarif comprend une pièce de 20cm x 20cm maximum qui sera **cuite 2 fois et émaillée par l’atelier**.
 
 ---  
@@ -29,5 +29,3 @@ Le tarif comprend une pièce de 20cm x 20cm maximum qui sera **cuite 2 fois et �
 ## RESERVER une date   
 <iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79103959" width="100%" height="800" frameBorder="0"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>  
 
-**ATTENTION aux dates de stages**...   Ex :  2023/09/12  =  12 septembre 2023  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
