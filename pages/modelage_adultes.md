@@ -27,5 +27,9 @@ Le tarif comprend une pi√®ce de 20cm x 20cm maximum qui sera **cuite 2 fois et √
 ---
 
 ## RESERVER une date   
+<a href="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79103959" target="_blank" class="acuity-embed-button" style="background: #5fb8b9; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Schedule Appointment</a>
+<link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/35942538.css" id="acuity-button-styles" />
+<script src="https://embed.acuityscheduling.com/embed/button/35942538.js" async></script>  
+
 **ATTENTION aux dates de stages**...   Ex :  2023/09/12  =  12 septembre 2023  
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-modelage-ou-emaillage-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
