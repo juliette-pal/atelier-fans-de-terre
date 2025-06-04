@@ -28,4 +28,5 @@ Maximum 6 participants par stage.
 ## RESERVER  
 **Recommandations** : Optez pour un Pack : stage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
 [Réserver un stage TOURNAGE 6H](https://Fansdeterre.as.me/Tournage6H)  
+[Réserver un stage TOURNAGE 6H](https://Fansdeterre.as.me/touram)  
 
