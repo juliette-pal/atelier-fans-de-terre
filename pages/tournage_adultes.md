@@ -23,9 +23,9 @@ Maximum 6 participants par stage.
 ## LISTE D'ATTENTE pour un stage complet
 [Cliquer ici](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }       si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser la date du stage en commentaire).    
 ---
-<a href="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79153292" target="_blank" class="acuity-embed-button" style="background: #5fb8b9; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Schedule Appointment</a>
+<a href="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79153292" target="_blank" class="acuity-embed-button" style="background: #5fb8b9; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Réserver un stage 6H</a>
 <link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/35942538.css" id="acuity-button-styles" />
-<script src="https://embed.acuityscheduling.com/embed/button/35942538.js" async></script>  
+<script src="https://embed.acuityscheduling.com/embed/button/35942538.js" async></script>
 
 
 ## RESERVER une date
