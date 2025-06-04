@@ -35,3 +35,6 @@ Optez pour un Pack : stage 3h30 ou 6h, complété d'un stage décor/émaillage d
 [Réserver un stage TOURNAGE 3H30](https://Fansdeterre.as.me/touram)  
 [Réserver un Pack TOURNAGE 3H30 + Emaillage](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989002)    
 
+[Voir tous les stages et packs Fans de terre](https://Fansdeterre.as.me/)   
+
+
