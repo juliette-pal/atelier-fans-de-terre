@@ -29,6 +29,10 @@ Fansdeterre
 </div>
 <script src="https://embed.acuityscheduling.com/embed/bar/35942538.js" async></script>   
 
+<a href="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79153606" target="_blank" class="acuity-embed-button" style="background: #5fb8b9; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Schedule Appointment</a>
+<link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/35942538.css" id="acuity-button-styles" />
+<script src="https://embed.acuityscheduling.com/embed/button/35942538.js" async></script>
+
 ## RESERVER une date
 **Recommandations** : Optez pour un stage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
 **ATTENTION aux dates de stages**...   Ex :  2023/09/12  =  12 septembre 2023  
