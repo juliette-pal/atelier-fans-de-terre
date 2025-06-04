@@ -26,10 +26,12 @@ Maximum 6 participants par stage.
 
  
 ## RESERVER  
-**Recommandations** : Optez pour un Pack : stage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
+**Recommandations** :   
+Optez pour un Pack : stage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
+
 [Réserver un stage TOURNAGE 6H](https://Fansdeterre.as.me/Tournage6H)  
-[Réserver un Pack TOURNAGE 6H + Emaillage]([https://Fansdeterre.as.me/Tournage6H](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001))  
+[Réserver un Pack TOURNAGE 6H + Emaillage](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001))  
 
 [Réserver un stage TOURNAGE 3H30](https://Fansdeterre.as.me/touram)  
-[Réserver un Pack TOURNAGE 3H30 + Emaillage](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001)  
+[Réserver un Pack TOURNAGE 3H30 + Emaillage](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989002)    
 
