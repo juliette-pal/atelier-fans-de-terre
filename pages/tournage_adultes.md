@@ -26,14 +26,16 @@ Maximum 6 participants par stage.
 
  
 ## RESERVER  
-**Recommandations** :   
-Optez pour un Pack : stage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
+Vous pouvez opter pour un **STAGE** ou un **PACK** de plusieurs stages à un prix préférentiel.   
+Optez par exemple pour un Pack tournage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
 
-[Réserver un stage TOURNAGE 3H30 + finitions 2h30 - 130€](https://Fansdeterre.as.me/Tournage6H)  
-[Réserver un Pack TOURNAGE + finitions 2h30 + Emaillage - 165€](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001)  
+[Stage TOURNAGE 3H30                            // **80€**](https://Fansdeterre.as.me/touram)  
+[Stage TOURNAGE 6H (tour 3H30 + finitions 2h30) // **120€**](https://Fansdeterre.as.me/Tournage6H)  
+[Pack TOURNAGE 3H30 + Emaillage // **130€** au lieu de 145€](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989002)    
+[Pack TOURNAGE 6H + Emaillage   // **165€** au lieu de 185€](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001)  
 
-[Réserver un stage TOURNAGE 3H30 - 80€](https://Fansdeterre.as.me/touram)  
-[Réserver un Pack TOURNAGE 3H30 + Emaillage - 120€](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989002)    
+
+
 
 [Voir tous les stages et packs Fans de terre](https://Fansdeterre.as.me/)   
 
