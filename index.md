@@ -22,7 +22,7 @@ Il ne vous reste plus qu’à **y faire un tour** ou offrir un **bon cadeau** !!
 
 ---  
 <a href="/pages/bon_kdo">
-<img src="/images/bon-cadeau-detoure.jpg" class="image-horiz" alt="bon cadeau poterie">
+<img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">
 </a>
 
 ## COURS HEBDOMADAIRES  
