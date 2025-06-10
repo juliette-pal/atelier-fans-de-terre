@@ -64,7 +64,7 @@ L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours hab
 - Samedi matin (AM) : 10H - 13H30 - Groupe A ou B  
 - Samedi près-midi (PM) : 15H - 18H30  
 
-Les cours d'une durée de 3H30 ont lieu sur 15 séances, 1 samedi sur 2 (souvent mais pas toujours)   
+Les cours d'une durée de 3H30 ont lieu sur 15 séances, 1 semaine sur 2 (souvent mais pas toujours)   
 [Voir les séances](samedi.md)  
 
 En raison de la faible récurrence de cours, les techniques de modelage sont privitégiées.  
