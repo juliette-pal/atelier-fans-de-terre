@@ -24,12 +24,9 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 :warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
 
-## LES PLUS Fans de terre +++ 
-:star: Une séance **raku est offerte** dans le tarif annuel des cours hebdomadaires (hors 100% tournage)  
+<img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">   
 [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
-
-:star: Les élèves incrits à l'année bénéficient d'une **réduction de 20% sur les stages le week-end**    
-[ - Voir les stages adultes](stages_adultes.md).   
+[ - Voir les stages adultes](stages_adultes.md)   
 
   
 
