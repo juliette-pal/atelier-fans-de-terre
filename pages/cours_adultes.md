@@ -68,7 +68,7 @@ Les cours d'une durée de 3H30 ont lieu sur 15 séances, 1 semaine sur 2 (souven
 [Voir les séances](samedi.md)  
 
 En raison de la faible récurrence de cours, les techniques de modelage sont privitégiées.  
-Nous aborderons ponctuellement le tournage, histoire de découvrir cette technique. Les élèves qui veulent en faire plus régulièrement, doivent impérativement faire 2 stages de tournage d'une journée avant de pouvoir en faire sur ce cours. Et potentiellement en prendre d'autres en cours d'année en fonction de leur évolution.   
+Nous aborderons ponctuellement le tournage, histoire de découvrir cette technique. Les élèves qui veulent en faire plus régulièrement, doivent impérativement faire 2 stages de tournage d'une journée avant de pouvoir en faire sur ce cours. Ils pourront pratiquer le tournage libre aussi (conditions à voir directement à l'atelier).
 
   
 ## FORMULE MODELAGE ET TOURNAGE  
