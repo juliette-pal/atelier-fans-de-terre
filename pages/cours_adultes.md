@@ -26,7 +26,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 <img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">   
 [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
-[ - Voir les stages adultes](stages_adultes.md)   
+[Voir les stages adultes bénéficiant de la réduction de 20%](stages_adultes.md)   
 
   
 
