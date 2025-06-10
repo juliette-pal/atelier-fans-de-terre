@@ -41,7 +41,7 @@ Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** une premiè
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 160€  
-[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339) 
+[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1993154) 
 
 ## Formule MAISON  
 Modelage + 1ère cuisson **chez vous**  
