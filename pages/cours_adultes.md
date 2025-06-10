@@ -39,12 +39,12 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 **Niveau tournage :** tous niveaux  
 
-**Tarif : 415€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
+**Tarif : 405€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
 
 **Jour :** Vendredi 17H00 - 20H  
 
 Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
-**- 1H : en autonomie** (hors 2 premiers cours), pour trouver ses propres sensations   
+**- 1H : en autonomie** pour trouver ses propres sensations   
 **- 2H : avec un professeur**  
 
 Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
@@ -58,16 +58,17 @@ L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours hab
   
 ## FORMULES 1 semaine sur 2 ( jeudi et samedi )   
 **Niveau :**  Modelage (tous niveaux)  
-**Tarif : 845€ l’année** - 15 cours de 3H30  
+**Tarif : 875€ l’année** - 15 cours de 3H30  
 
 :star: Forfait payable en 5 fois.     
 
-3 possibilités pour ce cours :  
+3 possibilités :  
 - Jeudi après-midi : 15h - 18h30    
 - Samedi matin (AM) : 10H - 13H30 - Groupe A ou B  
 - Samedi près-midi (PM) : 15H - 18H30  
 
-Les cours d'une durée de 3H30 ont lieu sur 15 séances, 1 samedi sur 2 (souvent mais pas toujours) - [Voir les séances](samedi.md)  
+Les cours d'une durée de 3H30 ont lieu sur 15 séances, 1 samedi sur 2 (souvent mais pas toujours)   
+[Voir les séances](samedi.md)  
 
 En raison de la faible récurrence de cours, les techniques de modelage sont privitégiées.  
 Nous aborderons ponctuellement le tournage, histoire de découvrir cette technique. Les élèves qui veulent en faire plus régulièrement, doivent impérativement faire 2 stages de tournage d'une journée avant de pouvoir en faire sur ce cours. Et potentiellement en prendre d'autres en cours d'année en fonction de leur évolution.   
@@ -78,7 +79,7 @@ Nous aborderons ponctuellement le tournage, histoire de découvrir cette techniq
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif : 1215€ l’année** - 29 cours de 3H  
+**Tarif : 1255€ l’année** - 29 cours de 3H  
 
 **Jours :** Mardi 19H30 - Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
 
@@ -102,9 +103,9 @@ A chacun son rythme selon ses envies !
 
 ---
 
-## Inscriptions 2024-2025      
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2024-2025/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" } 
+## Inscriptions 2025-2026     
 
+**Très bientôt !!!**
 Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la "liste d'attente". Vous serez informé et pourrez profiter des places, avant l'ouverture à tous. Inscrivez vous sans tarder : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
 
