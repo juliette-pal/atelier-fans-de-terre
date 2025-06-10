@@ -31,8 +31,8 @@ Optez par exemple pour un Pack tournage 3h30 ou 6h, complété d'un stage décor
 
 [Stage TOURNAGE 3H30                            // **80€**](https://Fansdeterre.as.me/touram)  
 [Stage TOURNAGE 6H (tour 3H30 + finitions 2h30) // **120€**](https://Fansdeterre.as.me/Tournage6H)  
-[Pack TOURNAGE 3H30 + Emaillage // **130€** au lieu de 145€](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989002)    
-[Pack TOURNAGE 6H + Emaillage   // **165€** au lieu de 185€](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001)  
+[Pack TOURNAGE 3H30 + Emaillage 3H // **135€** au lieu de 145€](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989002)    
+[Pack TOURNAGE 6H00 + Emaillage 3H   // **170€** au lieu de 185€](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001)  
 
 
 
