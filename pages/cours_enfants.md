@@ -29,11 +29,10 @@ Les fournitures et les cuissons sont comprises dans le prix.
 [Cliquer ici pour voir toutes les activités enfants](activites_enfants)  
 ---  
   
-## Inscriptions 2024-2025      
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-enfants-2024-2025/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
+## Inscriptions 2025-2025      
+Mise en ligne le 16 juin 2025 !!!   
 
-
-- **Liste d'attente** // Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la liste d'attente. Vous serez informé et pourrez profiter des places, avant l'ouverture à tous.    
+- **Liste d'attente** // Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la liste d'attente. Vous serez informé dès le 14 juin et pourrez profiter des places, avant l'ouverture à tous.    
 Inscrivez vous sans tarder : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
 
