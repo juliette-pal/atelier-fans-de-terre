@@ -40,14 +40,14 @@ Dans cette formule **vous devez choisir 2 dates** :
 Vous recevrez un code vous permettant de réserver votre raku après la programmation du modelage.  
 *Prévoir minimum 2 semaines entre les deux dates*.    
 
-[RESERVER le modelage](https://Fansdeterre.as.me/ModelageAdulte)  
+[RESERVER](https://Fansdeterre.as.me/ModelageAdulte)  
 
 ## Formule DECOUVERTE // Sans modelage - 2 pièces fournies  
 Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 160€  
-[RESERVER la cuisson raku](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1993154) 
+[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1993154) 
 
 ## Formule MAISON  
 Modelage + 1ère cuisson **chez vous**  
