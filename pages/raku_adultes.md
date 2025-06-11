@@ -32,7 +32,7 @@ Modelage + émaillage + cuisson raku, le tout chez Fans de terre
 
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 160€  
+**Tarif : 160€**  
 (modelage 65€ + cuisson 95€ au lieu de 105€)    
 
 Dans cette formule **vous devez choisir 2 dates** : 
@@ -47,7 +47,7 @@ Vous recevrez un code vous permettant de réserver votre raku après la programm
 Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 160€  
+**Tarif : 160€**  
 [RESERVER](https://Fansdeterre.as.me/cuissonraku) 
 
 ## Formule MAISON  
@@ -55,7 +55,7 @@ Modelage + 1ère cuisson **chez vous**
 Emaillage + cuisson raku **chez nous**    
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
-**Tarif :** 75€ + 15€/pièce (max 15cm hauteur et profondeur)  
+**Tarif : 75€ + 15€/pièce** (max 15cm hauteur et profondeur)  
 🌟 Nous contacter sur contact@fansdeterre.com  
 
 
