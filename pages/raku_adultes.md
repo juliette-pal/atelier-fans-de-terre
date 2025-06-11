@@ -29,19 +29,25 @@ Toutes les formules sont possibles aux dates proposées ci-dessous.
   
 ## Formule 100% atelier // Avec modelage chez Fans de terre  
 Modelage + émaillage + cuisson raku, le tout chez Fans de terre   
-Dans cette formule **vous devez choisir 2 dates**. L’une pour le modelage et l’autre pour la cuisson raku.  
-*Prévoir minimum 2 semaines entre les deux dates*.    
+
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 160€  
-[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
+
+Dans cette formule **vous devez choisir 2 dates** : 
+- la 1ere date est celle du modelage  
+- la seconde pour la cuisson raku  
+Vous recevrez un code vous permettant de réserver votre raku après la programmation du modelage.  
+*Prévoir minimum 2 semaines entre les deux dates*.    
+
+[RESERVER le modelage](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
 
 ## Formule DECOUVERTE // Sans modelage - 2 pièces fournies  
 Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif :** 160€  
-[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1993154) 
+[RESERVER la cuisson raku](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1993154) 
 
 ## Formule MAISON  
 Modelage + 1ère cuisson **chez vous**  
