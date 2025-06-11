@@ -40,7 +40,7 @@ Dans cette formule **vous devez choisir 2 dates** :
 Vous recevrez un code vous permettant de réserver votre raku après la programmation du modelage.  
 *Prévoir minimum 2 semaines entre les deux dates*.    
 
-[RESERVER le modelage](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
+[RESERVER le modelage](https://Fansdeterre.as.me/ModelageAdulte)  
 
 ## Formule DECOUVERTE // Sans modelage - 2 pièces fournies  
 Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** une première fois par l’atelier.  
