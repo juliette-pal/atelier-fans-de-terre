@@ -26,9 +26,6 @@ Si vous avez un doute, ou hésitez, optez pour un montant à affecter à n'impor
      
 
 
-# RESERVER   
+
 🎁 **BON VALABLE 1 AN A COMPTER DE LA DATE D'ACHAT**   
 
-**ATTENTION** - **Le bon cadeau et les modalités d'utilisation** ainsi que **les conditions générales de ventes** sont dans le même document.  
-Pensez à les imprimer au moment de signer les CGV !!!    
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/bon-cadeau-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
