@@ -28,7 +28,8 @@ La magie du raku commence !!!
 Toutes les formules sont possibles aux dates proposées ci-dessous.  
   
 ## Formule 100% atelier    
-Modelage **+** émaillage **+** cuisson raku, le tout chez Fans de terre   
+Modelage **+** émaillage **+** cuisson raku, le tout chez Fans de terre    
+Ce sont vos pièces qui sont cuites.   
 
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
@@ -41,9 +42,11 @@ Dans cette formule **vous devez choisir 2 dates** à l'aide des codes qui vous s
 
 [RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
 
-## Formule DECOUVERTE // Sans modelage - 2 pièces fournies  
-Emaillage + cuisson raku + **fourniture de 2 pièces déjà cuites** + initiation au modelage (ces pièces ne sont pas gardées).  
-**Durée :** 1 journée (émaillage, cuisson, modelage)  
+## Formule DECOUVERTE    
+Emaillage **+** cuisson raku **+** fourniture de 2 pièces déjà cuites **+** initiation au modelage (ces pièces ne sont pas gardées).  
+Ce ne sont pas vos pièces qui sont cuites.  
+
+**Durée :** 1 journée  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif : 135€**  
 [RESERVER](https://Fansdeterre.as.me/cuissonraku) 
