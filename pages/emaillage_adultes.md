@@ -7,11 +7,13 @@ Vous comprendrez en quoi cette dernière phase peut **sublimer vos pièces**.
 Point ultime de la réalisation, vous connaîtrez ainsi les différents aspects du travail de la terre, du façonnage à l'émaillage.  
 Le nombre de pièces que l'on peut traiter dépend de ce que l'on fait (décor aux engobes ou pas), de la minutie du décor,...  
 
+<img src="/images/decoration-emaillage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">
+
 ATTENTION ! Ce stage est réservé à ceux qui ont effectué un premier stage modelage ou tournage chez Fans de terre.  
 
 **Récupération des pièces environ 15 jours après le stage (hors vacances).**  
 
-<img src="/images/decoration-emaillage-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">
+
 
 **Durée :** 3 H  
 
