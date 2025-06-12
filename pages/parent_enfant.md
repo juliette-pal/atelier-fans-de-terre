@@ -14,7 +14,7 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 
 ---
 
-## P/E Modelage  
+## P/E MODELAGE     
 **Durée :** 2H30  
 **Niveau :** 3 ans et +  
 **Tarif :** 85€ (pour 2)  
@@ -24,7 +24,7 @@ En fonction du temps, vous pourrez le mettre en couleur.
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.
 
 
-## P/E Tournage  
+## P/E TOURNAGE    
 **Durée :** 3H  
 **Niveau :** 8 ans et +  
 **Tarif :** 95€ (pour 2)  
@@ -35,7 +35,7 @@ Les petits pots tournés seront assemblés pour un **objet unique** !!!
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous. 
 
 
-## Animation extérieure : décore ta poterie   
+## DECORE TA POTERIE      
 **Durée :**   
 **Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
 **Tarif :** à partir de 5€, en fonction des pièces choisies         
@@ -44,7 +44,7 @@ Vous connaissez le **café céramique** ?
 C'est pareil mais sans le café 😄  
 Dans cet atelier **DIY**, vous décorez des **poteries fournies par l'atelier**, que vous pourrez ensuite utiliser au quotidien !!!  
   
-Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les **enfants** peuvent aussi en faire **tous seuls** !!!    
+Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les **enfants** peuvent aussi pratiquer **tous seuls** !!!    
 
 Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
 
@@ -52,7 +52,7 @@ Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'
 **Festival des créatrices** à l’école Léon Bourgois : **samedi 6 et dimanche 7**    
     
 
-## [Cliquer ici pour nous contacter pour votre évènement](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
+[Cliquer ici pour nous contacter pour votre évènement](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
 
 ---
  
