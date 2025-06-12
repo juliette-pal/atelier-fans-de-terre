@@ -7,44 +7,12 @@ Venez partager une activité avec votre fils, fille, petit-fils, petite-fille, n
 Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos couleurs.   
 ... Pour un souvenir inoubliable !!!   
 
-
-**_La récupération des pièces se fait 1 mois après le stage._**
-
-
-
 Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillage, sont compris dans le prix.
 
+*La récupération des pièces se fait 1 mois après le stage (hors vacances).*
 
-## Mercredi en famille - A l'étude  
-[Cliquer ici pour participer au sondage](https://forms.gle/adTVVqG97Q9a3cgP7)  
-**Durée :**     
-**Niveau :** à partir de 3ans  
-**Tarif :**  
- 
-**1 adulte peut accompagner plusieurs enfants**.   
 
-Vous réalisez des **projets communs** de a à z et nous vous accompagnons dans la réalisation.  
-
-## Animation extérieure : décore ta poterie   
-**Durée :**   
-**Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
-**Tarif :** à partir de 5€, en fonction des pièces choisies         
-
-Vous connaissez le **café céramique** ?  
-C'est pareil mais sans le café 😄  
-Dans cet atelier **DIY**, vous décorez des **poteries fournies par l'atelier**, que vous pourrez ensuite utiliser au quotidien !!!  
-  
-Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les **enfants** peuvent aussi en faire **tous seuls** !!!    
-
-Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
-
-**Dates et horaires des animations décembre 2024 :**    
-**Festival des créatrices** à l’école Léon Bourgois : **samedi 7 et dimanche 8 (14h - 18h)**    
-    
-
-## [Cliquer ici pour nous contacter pour votre évènement](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
- 
-  
+---
 
 ## P/E Modelage  
 **Durée :** 2H30  
@@ -64,14 +32,40 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 Après une démonstration, vient le temps de la pratique.   
 Dans le **binôme** que vous formez avec votre enfant, vous vous coacherez à tour de rôle.  
 Les petits pots tournés seront assemblés pour un **objet unique** !!!  
-Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.    
+Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous. 
+
+
+## Animation extérieure : décore ta poterie   
+**Durée :**   
+**Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
+**Tarif :** à partir de 5€, en fonction des pièces choisies         
+
+Vous connaissez le **café céramique** ?  
+C'est pareil mais sans le café 😄  
+Dans cet atelier **DIY**, vous décorez des **poteries fournies par l'atelier**, que vous pourrez ensuite utiliser au quotidien !!!  
+  
+Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les **enfants** peuvent aussi en faire **tous seuls** !!!    
+
+Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
+
+**Dates et horaires des animations décembre 2024 :**    
+**Festival des créatrices** à l’école Léon Bourgois : **samedi 7 et dimanche 8 (14h - 18h)**    
+    
+
+## [Cliquer ici pour nous contacter pour votre évènement](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
 
 ---
-
+ 
 ## LISTE D'ATTENTE pour un stage complet
 **[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }        
 
+
+[Cliquer ici pour participer au sondage poterie en famille le mercredi](https://forms.gle/adTVVqG97Q9a3cgP7)  
+1 adulte peut accompagner plusieurs enfants.   
+Vous réalisez des **projets communs** de a à z et nous vous accompagnons dans la réalisation.  
+  
+
+
 ## RESERVER - Tous les stages  
-**ATTENTION aux dates de stages**...   Ex :  2023/09/12  =  12 septembre 2023  
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/stages-parents-enfants-2023-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
+Les nouvelles dates 2025-2026 arrivent !!!
 
