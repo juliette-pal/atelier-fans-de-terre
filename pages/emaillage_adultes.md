@@ -22,7 +22,7 @@ ATTENTION ! Ce stage est réservé à ceux qui ont effectué un premier stage mo
 **Tarif : 65€**   
 Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2 pièces réalisées par vous.  
 Tarif réduit pour l'achat simultané d'un stage modelage ou tournage + un stage décor/émaillage.    
-Le lien de réservation est envoyé au moment de votre achat (modelage ou tournage).  
+Pack tournage et émaillage : utilisez le code reçu à l'issu de votre achat pour réserver la suite de votre stage.  
 
 ## RESERVER une date   
 
