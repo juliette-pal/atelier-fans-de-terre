@@ -24,7 +24,8 @@ Le tarif comprend l’apprentissage du décor aux engobes et l’émaillage de 2
 Tarif réduit pour l'achat simultané d'un stage modelage ou tournage + un stage décor/émaillage.    
 Le lien de réservation est envoyé au moment de votre achat (modelage ou tournage).  
 
-  
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79152530" width="100%" height="800" frameBorder="0"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
+			  
 
  
 
