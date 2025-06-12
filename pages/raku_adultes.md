@@ -26,7 +26,7 @@ Le modelage a lieu tout au long de l'année (1 séance au moins par mois).
 
 ## Formule 100% ATELIER    
 
-<img src="/images/Raku_ambiance_fans_de_terre.jpeg" class="image-stage">  
+<img src="/images/Raku_ambiance_fans_de_terre.jpg" class="image-stage">  
 
 
 Modelage **+** émaillage **+** cuisson raku, le tout chez Fans de terre    
