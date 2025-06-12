@@ -48,8 +48,8 @@ Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les 
 
 Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
 
-**Dates et horaires des animations décembre 2024 :**    
-**Festival des créatrices** à l’école Léon Bourgois : **samedi 7 et dimanche 8 (14h - 18h)**    
+**Dates et horaires des animations décembre 2025 :**    
+**Festival des créatrices** à l’école Léon Bourgois : **samedi 6 et dimanche 7**    
     
 
 ## [Cliquer ici pour nous contacter pour votre évènement](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
@@ -57,7 +57,7 @@ Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'
 ---
  
 ## LISTE D'ATTENTE pour un stage complet
-**[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }        
+[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }        
 
 
 [Cliquer ici pour participer au sondage poterie en famille le mercredi](https://forms.gle/adTVVqG97Q9a3cgP7)  
