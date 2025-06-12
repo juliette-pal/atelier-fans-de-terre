@@ -15,7 +15,7 @@ Vous y trouverez **deux grands espaces** dont un dédié au tournage avec ses **
 
 Il ne vous reste plus qu’à y faire un tour ou offrir un **bon cadeau** !!!  
 
-<img src="/images/atelier-tournage_fans-de-terre_colombes.jpeg" class="image-stage">
+<img src="/images/salle_modelage_fans_de_terre_colombes_paris.jpg" class="image-stage">   
 
 **L'équipe est composée de professionnels passionnés** qui sauront vous accompagner dans votre démarche de découverte ou d'approfondissement des nombreuses techniques ceramiques : modelage, tournage, sculpture, colombin, plaques, raku, émaillage, terre papier, etc...  
 
