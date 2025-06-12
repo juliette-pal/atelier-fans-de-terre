@@ -35,7 +35,8 @@ Ce sont vos pièces qui sont cuites.
 Dans cette formule **vous devez choisir 2 dates** à l'aide des codes qui vous seront fournis à l'achat : 
 - la 1ere date est celle du modelage  
 - la seconde pour l'émaillage et la cuisson raku  
-*Prévoir **minimum 2 semaines** entre les deux dates*.    
+*Prévoir **minimum 2 semaines** entre les deux dates*.
+*EX : modelage en septembre et raku en avril c'est possible*...   
 
 [RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
 
