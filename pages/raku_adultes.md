@@ -17,16 +17,13 @@ Le **choc thermique** provoque des craquelures.
 Les pièces sont alors **enfumées**…
 La magie du raku commence !!!  
 
+Le raku se passant en grande partie en extérieur, les séances de cuissons ont lieu sur les mois de : mars, avril, mai, juin, juillet, septembre, octobre.  
+Le modelage a lieu tout au long de l'année (1 séance au moins par mois).
+
+
+
 ---
 
-## RAKU NOCTURNE  
-[Voir la vidéo d’un raku nocturne avec les élèves de l’atelier](https://www.youtube.com/watch?v=EiUtPL2H8mU)
-  
----
-<img src="/images/raku-stages-poterie-fansdeterre-ceramique-colombes-paris.jpeg" class="image-stage">  
-
-Toutes les formules sont possibles aux dates proposées ci-dessous.  
-  
 ## Formule 100% atelier    
 Modelage **+** émaillage **+** cuisson raku, le tout chez Fans de terre    
 Ce sont vos pièces qui sont cuites.   
