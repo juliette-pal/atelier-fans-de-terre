@@ -45,6 +45,8 @@ Dans cette formule **vous devez choisir 2 dates** à l'aide des codes qui vous s
 [RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
 
 ## Formule DECOUVERTE    
+<img src="/images/raku_geste_fans_de_terre.jpg" class="image-stage">  
+
 Emaillage **+** cuisson raku **+** fourniture de 2 pièces déjà cuites **+** initiation au modelage (ces pièces ne sont pas gardées).  
 **Ce ne sont des pièces fournies par l'atelier qui sont cuites en raku**.  
 
