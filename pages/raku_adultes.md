@@ -17,7 +17,7 @@ Le **choc thermique** provoque des craquelures.
 Les pièces sont alors **enfumées**…
 La magie du raku commence !!!  
 
-Le raku se passant en grande partie en extérieur, les séances de cuissons ont lieu sur les mois de : mars, avril, mai, juin, juillet, septembre, octobre.  
+Le raku se passant en grande partie en extérieur, les séances de cuissons ont lieu sur les mois de : **mars, avril, mai, juin, juillet, septembre, octobre**.    
 Le modelage a lieu tout au long de l'année (1 séance au moins par mois).
 
 
