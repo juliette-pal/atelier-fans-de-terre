@@ -10,7 +10,8 @@ L'expérience d'un savoir-faire artisanal garanti !
 ## Offrir un stage précis
 Si vous avez une idée précise de ce qui plaira à celui ou celle qui recevra le bon cadeau, allez directement au stage ou cours concerné.   
 Par exemple, allez aux stages tournage pour en offrir un.      
-Pensez à indiquer les coordonnées du bénéficiaire !!!   
+Pensez à indiquer les coordonnées du bénéficiaire !!! 
+
 [RESERVER](https://Fansdeterre.as.me/)   
 
 
@@ -19,7 +20,8 @@ Si vous avez un doute, ou hésitez, optez pour un montant à affecter à n'impor
   
 1. Choisissez x bons de 50€ (selon votre budget)     
 
-2. un code permettra au bénéficiaire de l'affecter à sa guise !    
+2. un code permettra au bénéficiaire de l'affecter à sa guise !
+
 [RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1994579)  
      
 
