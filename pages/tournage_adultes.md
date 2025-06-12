@@ -4,7 +4,7 @@ Sur une journée complète (6h) ou une demie journée (3h30), généralement le 
   
 Après vous être familiarisé au tour le matin (3h30 ou 6h), l'après-midi (uniquement sur formule 6h), vous continuez à tourner sur les pièces du matin qui auront séché entre temps. Cette étape est **vivement recommandée** car elle change complètement le rendu final de vos pièces, on parle alors du **tournassage**. 
 
-<img src="/images/tournage-poterie-vase_fans-de-terre.jpeg" class="image-stage">  
+<img src="/images/stage_tournage_fans_de_terre_colombes_paris.jpg" class="image-stage">  
 
 Ceux qui le souhaitent, peuvent également continuent à tourner sur terre mole l'après-midi (en **approfondissement**).  
 Si vous êtes plus **confirmé**, vous pourrez aborder des **formes plus complexes**.  
