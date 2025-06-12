@@ -10,28 +10,21 @@ L'expérience d'un savoir-faire artisanal garanti !
 ## Offrir un stage précis
 Si vous avez une idée précise de ce qui plaira à celui ou celle qui recevra le bon cadeau, allez directement au stage ou cours concerné.   
 Par exemple, allez aux stages tournage pour en offrir un.      
+Pensez à indiquer les coordonnées du bénéficiaire !!!   
+[RESERVER](https://Fansdeterre.as.me/)   
 
 
-## Offir un montant libre
-Si vous avez un doute, ou hésitez optez pour un montant libre :  
-1. Choisissez le montant libre correspondant à votre budget (voir RESERVER ci-dessous)   
+## Offir un montant à affecter 
+Si vous avez un doute, ou hésitez, optez pour un montant à affecter à n'importe quel stage Fans de terre.   
+  
+1. Choisissez x bons de 50€ (selon votre budget)     
 
-2. Imprimez et complétez le bon cadeau vierge.
-   Le document peut être personalisé.   
-
-   **Attention !!!**  
-   Le **bon cadeau**, est à **imprimer ou télécharger** au moment de **signer les conditions générales de ventes**.  
-   La page 2 du bon cadeau précise toutes **les modalités de réservations** ainsi que le **CODE RESERVATION indispensable** pour réserver.  
-   
-   **Pensez à les remettre en même temps que le bon cadeau !!!**  
-
-3. Une fois son cadeau reçu, le bénéficiaire pourra réserver une date à l'aide du **CODE RESERVATION**.  
-
+2. un code permettra au bénéficiaire de l'affecter à sa guise !    
+[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1994579)  
      
-**ATTENTION aux dates !!!**  
-2025/09/12  =  12 septembre 2025  
 
-# RESERVER UN MONTANT LIBRE   
+
+# RESERVER   
 🎁 **BON VALABLE 1 AN A COMPTER DE LA DATE D'ACHAT**   
 
 **ATTENTION** - **Le bon cadeau et les modalités d'utilisation** ainsi que **les conditions générales de ventes** sont dans le même document.  
