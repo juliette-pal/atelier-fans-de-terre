@@ -69,6 +69,6 @@ Vous réalisez des **projets communs** de a à z et nous vous accompagnons dans 
   
 
 
-## RESERVER - Tous les stages  
-Les nouvelles dates 2025-2026 arrivent !!!
+## [RESERVER - Tous les stages](https://Fansdeterre.as.me/)    
+
 
