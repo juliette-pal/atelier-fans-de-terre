@@ -22,7 +22,7 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 <!-- Début de widget de lien Calendly -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fansdeterre/stage-ados-tournage-juillet'});return false;">Réserver stage ados tournage 4j 30/6 au 3/7</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fansdeterre/stage-ados-tournage-juillet'});return false;">Réserver stage ados tournage 4j 30/6/25 au 3/7/25</a>
 <!-- Fin de widget de lien Calendly -->   
 
 [RESERVER un stage 2025-2026](https://Fansdeterre.as.me/vacancestour)   
