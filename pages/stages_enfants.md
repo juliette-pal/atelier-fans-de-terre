@@ -9,8 +9,8 @@ Les pièces sont cuites et récupérées entre 15j et un mois après le stage (h
 Les cuissons, le matériel et la terre sont compris dans le prix des stages.
 
 Les stages sont maintenus à partir de 4 participants.  
+<img src="/images/stage_vacances_tournage_fans_de_terre_colombes_paris.jpg" class="image-stage" alt="technique tour">
 
-<img src="/images/image_elephant_céramique_enfant.jpeg" class="image-stage">
 
 ## STAGE DECORE TA POTERIE - ENFANTS / ADOS  
 Les participants décorent une pièce fournie par l'atelier.   
