@@ -29,10 +29,9 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 [RESERVER un stage 2025-2026](https://Fansdeterre.as.me/vacancestour)   
 
 
-<img src="/images/stage_vacances_modelage_fans_de_terre_colombes_paris.jpg" class="image-stage" alt="technique tour">  
   
 ## STAGE MODELAGE - ENFANTS / ADOS  
-
+<img src="/images/stage_vacances_modelage_fans_de_terre_colombes_paris.jpg" class="image-stage" alt="technique modelage">  
 Les participants découvrent le travail en volume, ainsi que des techniques céramiques.  
 Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
 **Durée :** 3H  
