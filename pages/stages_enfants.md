@@ -25,6 +25,7 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fansdeterre/stage-ados-tournage-juillet'});return false;">Réserver stage ados tournage 4j 30/6 au 3/7</a>
 <!-- Fin de widget de lien Calendly -->   
 
+[RESERVER un stage 2025-2026](https://Fansdeterre.as.me/vacancestour)   
 
 ---
   
@@ -42,11 +43,13 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fansdeterre/stage-jeunes-modelage-juillet'});return false;">Réserver - Stage modelage 4j - 7/7 au 10/7/25</a>
 <!-- Fin de widget de lien Calendly -->
 
+[RESERVER un stage 2025-2026](https://Fansdeterre.as.me/vacancesmodelage)   
 
 ---
 ## LISTE D'ATTENTE pour un stage complet   
 [Cliquer ici pour vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
 
+---
 ## STAGE DECORE TA POTERIE - ENFANTS / ADOS  
 Les participants décorent une pièce fournie par l'atelier.   
 Ces ateliers ponctuels se déroulent pendant les vacances scolaires, certains mardis, mercredis ou jeudis de 11h30 à 13H.  
