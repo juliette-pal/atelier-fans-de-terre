@@ -11,6 +11,19 @@ Les cuissons, le matériel et la terre sont compris dans le prix des stages.
 Les stages sont maintenus à partir de 4 participants.  
 <img src="/images/stage_vacances_tournage_fans_de_terre_colombes_paris.jpg" class="image-stage" alt="technique tour">
 
+## STAGE TOURNAGE - ENFANTS / ADOS  
+L’idée est de découvrir le tournage céramique en créant une œuvre unique à partir de plusieurs pièces tournées.  
+Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
+**Durée :** 3H  
+**Niveau :** 9 ans et +  
+**Tarif :** 165€  
+Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
+
+<!-- Début de widget de lien Calendly -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fansdeterre/stage-ados-tournage-juillet'});return false;">Réserver stage ados tournage 4j 30/6 au 3/7</a>
+<!-- Fin de widget de lien Calendly -->   
 
 
 ---
@@ -29,19 +42,6 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fansdeterre/stage-jeunes-modelage-juillet'});return false;">Réserver - Stage modelage 4j - 7/7 au 10/7/25</a>
 <!-- Fin de widget de lien Calendly -->
 
-## STAGE TOURNAGE - ENFANTS / ADOS  
-L’idée est de découvrir le tournage céramique en créant une œuvre unique à partir de plusieurs pièces tournées.  
-Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
-**Durée :** 3H  
-**Niveau :** 9 ans et +  
-**Tarif :** 165€  
-Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
-
-<!-- Début de widget de lien Calendly -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fansdeterre/stage-ados-tournage-juillet'});return false;">Réserver stage ados tournage 4j 30/6 au 3/7</a>
-<!-- Fin de widget de lien Calendly -->   
 
 ---
 ## LISTE D'ATTENTE pour un stage complet   
