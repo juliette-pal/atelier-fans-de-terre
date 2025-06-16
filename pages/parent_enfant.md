@@ -23,7 +23,7 @@ Vous réalisez un **projet commun** et nous vous accompagnons dans sa réalisati
 En fonction du temps, vous pourrez le mettre en couleur.  
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.  
 
-[RESERVER un stage 2025-2026](https://Fansdeterre.as.me/parentsenfantsmodelage)   
+[RESERVER un stage](https://Fansdeterre.as.me/parentsenfantsmodelage)   
 
 
 ## P/E TOURNAGE    
@@ -36,7 +36,7 @@ Dans le **binôme** que vous formez avec votre enfant, vous vous coacherez à to
 Les petits pots tournés seront assemblés pour un **objet unique** !!!  
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous. 
 
-[RESERVER un stage 2025-2026](https://Fansdeterre.as.me/parentsenfantstournage)   
+[RESERVER un stage](https://Fansdeterre.as.me/parentsenfantstournage)   
 
 ## DECORE TA POTERIE      
 **Durée :**   
