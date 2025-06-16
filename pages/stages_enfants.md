@@ -28,7 +28,7 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 
 [RESERVER un stage 2025-2026](https://Fansdeterre.as.me/vacancestour)   
 
----
+
 <img src="/images/stage_vacances_modelage_fans_de_terre_colombes_paris.jpg" class="image-stage" alt="technique tour">  
   
 ## STAGE MODELAGE - ENFANTS / ADOS  
