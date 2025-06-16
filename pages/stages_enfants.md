@@ -9,9 +9,10 @@ Les pièces sont cuites et récupérées entre 15j et un mois après le stage (h
 Les cuissons, le matériel et la terre sont compris dans le prix des stages.
 
 Les stages sont maintenus à partir de 4 participants.  
-<img src="/images/stage_vacances_tournage_fans_de_terre_colombes_paris.jpg" class="image-stage" alt="technique tour">
 
 ## STAGE TOURNAGE - ENFANTS / ADOS  
+<img src="/images/stage_vacances_tournage_fans_de_terre_colombes_paris.jpg" class="image-stage" alt="technique tour">  
+
 L’idée est de découvrir le tournage céramique en créant une œuvre unique à partir de plusieurs pièces tournées.  
 Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
 **Durée :** 3H  
@@ -30,6 +31,8 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 ---
   
 ## STAGE MODELAGE - ENFANTS / ADOS  
+<img src="/images/stage_vacances_modelage_fans_de_terre_colombes_paris.jpg" class="image-stage" alt="technique tour">  
+
 Les participants découvrent le travail en volume, ainsi que des techniques céramiques.  
 Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
 **Durée :** 3H  
