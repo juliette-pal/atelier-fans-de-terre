@@ -34,7 +34,7 @@ Mercredi :  10h - 13h
 Jeudi....... : 10h - 13h   
 Vendredi : fermé  
 •	Samedi..... **05/07** : 11h - 17h     
-•	Dimanche **06/07** : 11h - 17h   
+ 
 
 
 **Ouvertures le week-end** :       
@@ -43,7 +43,7 @@ Vendredi : fermé
 •	Samedi..... **28/06** : 11h - 17h     
 •	Dimanche **29/06** : 11h - 17h   
 •	Samedi..... **05/07** : 11h - 17h     
-•	Dimanche **06/07** : 11h - 17h   
+
 
 
   
