@@ -25,14 +25,13 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 :warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
 
 <img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">   
-[Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
-[Voir les stages adultes bénéficiant de la réduction de 20%](stages_adultes.md)   
+:star: [Cliquer ici pour découvrir la technique du raku](raku_adultes.md)  
+:star: [Voir les stages adultes bénéficiant de la réduction de 20%](stages_adultes.md)   
 
   
 
 
 ## FORMULE 100% TOURNAGE  
-:star: **PAS DE RATTRAPAGE SUR CE COURS**  
 
 **Niveau tournage :** tous niveaux  
 
@@ -50,7 +49,7 @@ L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours hab
 :star: 1 séance par trimestre sera consacrée à l'émaillage.   
 :star: **Attention, 6 tours, 6 places** !!!   
 :star: Forfait payable en 2 fois.   
-
+:star: PAS DE RATTRAPAGE SUR CE COURS  
   
   
 ## FORMULES 1 semaine sur 2 ( jeudi et samedi )   
