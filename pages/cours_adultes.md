@@ -32,7 +32,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
   
 
   
-## FORMULE MODELAGE et/ou TOURNAGE  
+## COURS MODELAGE et/ou TOURNAGE  
 
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  
@@ -53,7 +53,7 @@ Et pour les plus indépendants, il est possible de **suivre son propre rytme**.
 :star: Forfait payable en 5 fois.  
 
   
-## FORMULES 1 semaine sur 2 ( jeudi et samedi )   
+## COURS 1 semaine sur 2 ( jeudi et samedi )   
 **Niveau :**  Modelage (tous niveaux)  
 **Tarif : 875€ l’année** - 15 cours de 3H30  
 
@@ -72,7 +72,7 @@ Nous aborderons ponctuellement le tournage, histoire de découvrir cette techniq
 
 
 
-## FORMULE 100% TOURNAGE  
+## COURS 100% TOURNAGE  
 
 **Niveau tournage :** tous niveaux  
 
