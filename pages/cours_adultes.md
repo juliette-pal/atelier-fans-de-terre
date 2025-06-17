@@ -21,11 +21,11 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 |   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md)  |
 
 
-
+<img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">   
 :warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
 
-<img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">   
 :star: [Cliquer ici pour découvrir la **technique du raku**](raku_adultes.md)   
+
 :star: [Voir les **stages adultes** bénéficiant de la réduction de 20%](stages_adultes.md)    
 
   
