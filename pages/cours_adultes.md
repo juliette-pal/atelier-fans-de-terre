@@ -31,26 +31,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
   
 
 
-## FORMULE 100% TOURNAGE  
 
-**Niveau tournage :** tous niveaux  
-
-**Tarif : 405€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
-
-**Jour :** Vendredi 17H00 - 20H  
-
-Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
-**- 1H : en autonomie** pour trouver ses propres sensations   
-**- 2H : avec un professeur**  
-
-Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
-L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
-  
-:star: 1 séance par trimestre sera consacrée à l'émaillage.   
-:star: **Attention, 6 tours, 6 places** !!!   
-:star: Forfait payable en 2 fois.   
-:star: PAS DE RATTRAPAGE SUR CE COURS  
-  
   
 ## FORMULES 1 semaine sur 2 ( jeudi et samedi )   
 **Niveau :**  Modelage (tous niveaux)  
@@ -90,6 +71,26 @@ Et pour les plus indépendants, il est possible de **suivre son propre rytme**.
 
 :star: Forfait payable en 5 fois.  
 
+## FORMULE 100% TOURNAGE  
+
+**Niveau tournage :** tous niveaux  
+
+**Tarif : 405€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
+
+**Jour :** Vendredi 17H00 - 20H  
+
+Le cours de 3h **dédié à l'apprentissage du tournage** se déroule en deux temps :  
+**- 1H : en autonomie** pour trouver ses propres sensations   
+**- 2H : avec un professeur**  
+
+Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainement !!!  
+L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
+  
+:star: 1 séance par trimestre sera consacrée à l'émaillage.   
+:star: **Attention, 6 tours, 6 places** !!!   
+:star: Forfait payable en 2 fois.   
+:star: PAS DE RATTRAPAGE SUR CE COURS  
+  
 
 **Nous serons ravis de vous accompagner en fonction de votre niveau et quelque soit la formule choisie.**  
 
