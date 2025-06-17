@@ -29,6 +29,10 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 :star: [Voir les **stages adultes** bénéficiant de la réduction de 20%](stages_adultes.md)    
 
+**Nous serons ravis de vous accompagner en fonction de votre niveau et quelque soit la formule choisie.**  
+
+
+A chacun son rythme selon ses envies !  
   
 
   
@@ -93,11 +97,6 @@ L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours hab
 :star: PAS DE RATTRAPAGE SUR CE COURS  
   
 
-**Nous serons ravis de vous accompagner en fonction de votre niveau et quelque soit la formule choisie.**  
-
-
-
-A chacun son rythme selon ses envies !  
 
 ---
 
