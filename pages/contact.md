@@ -21,7 +21,7 @@ Vendredi : 09h30 - 12h30 et 14h00-20h00
 **Horaires d'été du 24 juin au 29**  
 Lundi...... : fermé    
 Mardi...... : fermé     
-Mercredi :  10h - 13h   
+Mercredi :  14h - 18h   
 Jeudi....... : fermé   
 Vendredi : 14h - 20h  
 •	Samedi..... **28/06** : 11h - 17h     
