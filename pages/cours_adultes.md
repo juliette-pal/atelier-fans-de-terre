@@ -21,7 +21,8 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 |   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md)  |
 
 
-<img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">   
+<img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">    
+
 :warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
 
 :star: [Cliquer ici pour découvrir la **technique du raku**](raku_adultes.md)   
@@ -30,7 +31,26 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
   
 
+  
+## FORMULE MODELAGE et/ou TOURNAGE  
 
+**Niveau :**  
+Modelage (tous niveaux) - Tournage (tous niveaux)  
+
+**Tarif : 1255€ l’année** - 29 cours de 3H  
+
+**Jours :** Mardi 19H30 - Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
+
+Les cours hebdomadaires de 3h de **modelage et tournage** vous permettent de pratiquer ces deux techniques pour une **approche globale du travail de la terre**.  
+
+Il y a 6 tours pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme **décorer**, **émailler** !  
+L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
+
+Nous vous faisons également **découvrir de nouvelles techniques** chaque année en alternance avec des **projets personnels**.  
+Et pour les plus indépendants, il est possible de **suivre son propre rytme**.  
+
+
+:star: Forfait payable en 5 fois.  
 
   
 ## FORMULES 1 semaine sur 2 ( jeudi et samedi )   
@@ -50,26 +70,7 @@ Les cours d'une durée de 3H30 ont lieu sur 15 séances, 1 semaine sur 2 (souven
 En raison de la faible récurrence de cours, les techniques de modelage sont privitégiées.  
 Nous aborderons ponctuellement le tournage, histoire de découvrir cette technique. Les élèves qui veulent en faire plus régulièrement, doivent impérativement faire 2 stages de tournage d'une journée avant de pouvoir en faire sur ce cours. Ils pourront pratiquer le tournage libre aussi (conditions à voir directement à l'atelier).
 
-  
-## FORMULE MODELAGE ET TOURNAGE  
 
-**Niveau :**  
-Modelage (tous niveaux) - Tournage (tous niveaux)  
-
-**Tarif : 1255€ l’année** - 29 cours de 3H  
-
-**Jours :** Mardi 19H30 - Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
-
-Les cours hebdomadaires de 3h de **modelage et tournage** vous permettent de pratiquer ces deux techniques pour une **approche globale du travail de la terre**.  
-
-Il y a 6 tours pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme **décorer**, **émailler** !  
-L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
-
-Nous vous faisons également **découvrir de nouvelles techniques** chaque année en alternance avec des **projets personnels**.  
-Et pour les plus indépendants, il est possible de **suivre son propre rytme**.  
-
-
-:star: Forfait payable en 5 fois.  
 
 ## FORMULE 100% TOURNAGE  
 
