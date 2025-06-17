@@ -15,7 +15,7 @@ Pour une **pratique artistique** régulière autour des techniques céramiques.
 ## [STAGES VACANCES SCOLAIRES](stages_enfants.md)
 Les stages se déroulent sur 4 séances de 3 heures (lundi au jeudi)  
 **Niveau** : à partir de 4 ans  
-**Tarif** : à partir de 145€  
+**Tarif** : à partir de 155€  
 [En savoir plus](stages_enfants)  
 
 ## [PARENTS/ENFANTS – Le mercredi ou le week-end](parent_enfant.md)    
