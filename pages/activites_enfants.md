@@ -12,14 +12,6 @@ Pour une **pratique artistique** régulière autour des techniques céramiques.
 [En savoir plus](cours_enfants)  
 
 
-## [ATELIER "DECORE TA POTERIE" **](parent_enfant.md)  
-Enfin un **atelier DIY** d'1h15, au coup par coup, et qui peut vite devenir addictif !!!  
-**Tous les mercredis** :   
-**Niveau** : à partir de 3ans (acompagné) ou 5 ans (seul)  
-**Tarif** :   
-[Même formule que le parents/enfants "Décore ta poterie"](parent_enfant) 
-
-
 ## [STAGES VACANCES SCOLAIRES](stages_enfants.md)
 Les stages se déroulent sur 4 séances de 3 heures (lundi au jeudi)  
 **Niveau** : à partir de 4 ans  
@@ -41,5 +33,14 @@ Offrez à votre enfant un **anniversaire** entre copains à l'atelier (ou chez v
 **Tarif :** à partir de 20€/enfant  
 **Options :** à domicile - Tournage  
 [En savoir plus](anniversaire_enfants)
+
+
+## [ATELIER "DECORE TA POTERIE" **](parent_enfant.md)  
+Enfin un **atelier DIY** d'1h15, au coup par coup, et qui peut vite devenir addictif !!!  
+**Tous les mercredis** :   
+**Niveau** : à partir de 3ans (acompagné) ou 5 ans (seul)  
+**Tarif** :   
+[Même formule que le parents/enfants "Décore ta poterie"](parent_enfant) 
+
 
 
