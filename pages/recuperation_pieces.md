@@ -38,7 +38,7 @@ Mardi...... : 19h30 - 22h30
 Mercredi :  14h00 - 22h30  
 Jeudi....... : 19h30 - 22h30   
 Vendredi : 09h30 - 12h30 et 14h00-20h00   
-•	Samedi..... **21/06** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **21/06** : 11h - 16h        
 •	Dimanche **22/06** : 11h - 13h30 et 16h - 18h30  
 
 **Horaires d'été du 24 juin au 29**  
