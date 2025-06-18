@@ -29,11 +29,15 @@ Les fournitures et les cuissons sont comprises dans le prix.
 [Cliquer ici pour voir toutes les activités enfants](activites_enfants)  
 ---  
   
-## Inscriptions 2025-2025      
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-enfants-2025-2026/widget" style="width: 100%; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )" ></iframe>
-
-- **Liste d'attente** // Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la liste d'attente. Vous serez informé dès le 14 juin et pourrez profiter des places, avant l'ouverture à tous.    
+## Inscriptions 2025-2025    
+**Liste d'attente**   
+Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la liste d'attente. Vous serez informé avant tout le monde, d'une place qui se libère.    
 Inscrivez vous sans tarder : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
+
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-enfants-2025-2026/widget" style="width: 100%; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )" ></iframe>   
+
+
 
 
 
