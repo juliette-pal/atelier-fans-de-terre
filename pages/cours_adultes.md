@@ -102,7 +102,8 @@ L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours hab
 
 ## Inscriptions 2025-2026     
 
-**Très bientôt !!!**
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/inscriptions-adultes-2025-2026/widget" style="width: 100%; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )" ></iframe>
+
 Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la "liste d'attente". Vous serez informé et pourrez profiter des places, avant l'ouverture à tous. Inscrivez vous sans tarder : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
 
