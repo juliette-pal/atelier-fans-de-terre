@@ -7,18 +7,22 @@ Venez créer grâce à notre **jeu céramique**, et repartez avec un **souvenir 
 
 ... dans le cadre d'un **team building** en entreprise,   
 ... ou d'une animation d'équipe...   
-... ou pour passer un bon moment entre **amis**...  
+... ou pour passer un bon moment entre **amis**... **enterrement de vie de jeune fille ou garçon**...     
 
 
-Notre **"céramic game"** valorise :  
-- la créativité  
-- l’estime de soi  
-- la cohésion d’équipe par le jeu  
-- l'expression collaborative  
+Nos **jeux** permettent :  
+- de développer votre cohésion d'équipe    
+- de partager un moment convivial et fédérateur   
+- d'améliorer la communication de vos équipes   
+- de développer le sentiment d'appartenance à l'entreprise
+- de participer à un activité RSE (remplacer les objets non durables)
+- ...
 
 **Durée :** à partir de 3H  
 
-**DEMANDER UN DEVIS** sur **animations@fansdeterre.com**
+** [voir une video de présentation](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)       
+
+** [Réserver un appel découverte](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)   
    
 ## Animations festivals / marchés / guinguette...        
 Vous souhaitez proposer une activité **"de décoration sur céramique"** lors de vos évènements de type festival et marché de créateurs, guinguette...  
@@ -33,12 +37,10 @@ Le principe est simple :
 
 Ces pièces pourront être utilisées à la maison comme si elles avaient été achetées dans le commerce.    
 
-** [voir une video de présentation](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)       
-
 ** [Réserver un appel découverte](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)   
 
 ## Découvrir l'activité décore ta poterie en solo   
-Cliquer [ICI](parent_enfant.md) pour connaître nos lieux d'animation 
+Cliquer [ICI](parent_enfant.md) pour connaître nos lieux d'animation  
  
   
 
