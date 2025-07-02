@@ -1,7 +1,7 @@
-# Animations céramique  
+# ANIMATIONS ET TEAM BUILDING CERAMIQUE  
 Offrez une expérience divertisssante et créative lors de vos évènements, qu'ils soient de grande envergure ou plus intimes !!!   
 
-## Pour les entreprises et les particuliers       
+## Pour les entreprises et les groupes de- particuliers       
 Venez créer grâce à notre **jeu céramique**, et repartez avec un **souvenir collectif inoubliable** !!!  
 <img src="/images/animation-poterie-fansdeterre-ceramique-colombes-paris.jpg" class="image-horiz">  
 
@@ -14,13 +14,13 @@ Notre **"céramic game"** valorise :
 - la créativité  
 - l’estime de soi  
 - la cohésion d’équipe par le jeu  
-- l'expression collective  
+- l'expression collaborative  
 
-**Durée :** à partir de 2H  
+**Durée :** à partir de 3H  
 
 **DEMANDER UN DEVIS** sur **animations@fansdeterre.com**
    
-## Animations grand public     
+## Animations festivals / marchés / guinguette...        
 Vous souhaitez proposer une activité **"de décoration sur céramique"** lors de vos évènements de type festival et marché de créateurs, guinguette...  
 
 <img src="/images/geste-animation-poterie-fansdeterre-ceramique-colombes-paris.jpg" class="image-horiz">   
