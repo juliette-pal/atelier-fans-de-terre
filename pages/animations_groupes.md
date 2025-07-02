@@ -3,7 +3,7 @@ Offrez une expérience divertisssante et créative lors de vos évènements, qu'
 
 ## Pour les entreprises et les groupes de- particuliers       
 Venez créer grâce à notre **jeu céramique**, et repartez avec un **souvenir collectif inoubliable** !!!  
-<img src="/images/animation-poterie-fansdeterre-ceramique-colombes-paris.jpg" class="image-horiz">  
+<img src="/images/Flyer_team_building_fans_de_terre.png" class="image-horiz">  
 
 ... dans le cadre d'un **team building** en entreprise,   
 ... ou d'une animation d'équipe...   
@@ -33,9 +33,12 @@ Le principe est simple :
 
 Ces pièces pourront être utilisées à la maison comme si elles avaient été achetées dans le commerce.    
 
-**DEMANDER UN DEVIS** sur **animations@fansdeterre.com**       
+** [voir une video de présentation](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)       
 
-## Découvrir l'activité décore ta poterie en solo
+** [Réserver un appel découverte](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)   
+
+## Découvrir l'activité décore ta poterie en solo   
+Cliquer ICI pour connaître nos lieux d'animation 
  
   
 
