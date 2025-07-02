@@ -3,7 +3,7 @@ Offrez une expérience divertisssante et créative lors de vos évènements, qu'
 
 ## Pour les entreprises et les groupes de- particuliers       
 Venez créer grâce à notre **jeu céramique**, et repartez avec un **souvenir collectif inoubliable** !!!  
-<img src="/images/Flyer_team_building_fans_de_terre.png" class="image-horiz">  
+<img src="/images/Flyer_reduit_team_building_fans_de_terre.png" class="image-horiz">  
 
 ... dans le cadre d'un **team building** en entreprise,   
 ... ou d'une animation d'équipe...   
