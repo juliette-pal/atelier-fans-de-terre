@@ -38,7 +38,7 @@ Ces pièces pourront être utilisées à la maison comme si elles avaient été 
 ** [Réserver un appel découverte](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)   
 
 ## Découvrir l'activité décore ta poterie en solo   
-Cliquer ICI pour connaître nos lieux d'animation 
+Cliquer [ICI](parent_enfant.md) pour connaître nos lieux d'animation 
  
   
 
