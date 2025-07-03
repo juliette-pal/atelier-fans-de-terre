@@ -23,23 +23,23 @@ Tarif :
 ➪ **Liste d'attente pour un stage complet**
 [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser le stage dans le formulaire)](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
 
-## [DECOR / EMAILLAGE](emaillage_adultes.md)   
-Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émaillant pour un rendu parfait ! Si vous n'avez pas de pièce l'atelier vous en fournit 2.    
-**Durée** : 3H  
-**Niveau** : Déb./Int.      
-[En savoir plus...](emaillage_adultes)  
+## [MASTERCLASS](masterclass.md)      
+Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
+**Durée** : 1 jour et demi  
+**Niveau** : Tous niveaux  
+[En savoir plus...](masterclass)  
 
 ## [RAKU](raku_adultes.md)  
 Faconner sa pièce, l'émailler et la cuire selon cette fascinante technique japonaise qu'est le raku…  
 **Durée** : à partir d'un jour    
 **Niveau** : Déb./Int.     
-[En savoir plus...](raku_adultes) 
+[En savoir plus...](raku_adultes)   
 
 ## [TOURNAGE](tournage_adultes.md)  
 Cédez à la magie du tournage en céramique. En initiation ou en perfectionnement, à chacun son niveau !   
 **Durée** : à partir de 3H30    
 **Niveau** : Tous niveaux    
-[En savoir plus...](tournage_adultes)
+[En savoir plus...](tournage_adultes)  
 
 ## [MODELAGE](modelage_adultes.md)
 Venez découvrir une technique de façonnage autre que le tournage : plaque, colombin, pincé, coulage   
@@ -47,11 +47,12 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 **Niveau** : Déb./Int.   
 [En savoir plus...](modelage_adultes)
 
-## [MASTERCLASS](masterclass.md)      
-Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
-**Durée** : 1 jour et demi  
-**Niveau** : Tous niveaux  
-[En savoir plus...](masterclass)
+
+## [DECOR / EMAILLAGE](emaillage_adultes.md)   
+Venez sublimer vos pièces en les décorant à vos couleurs. Finir en les émaillant pour un rendu parfait ! Si vous n'avez pas de pièce l'atelier vous en fournit 2.    
+**Durée** : 3H  
+**Niveau** : Déb./Int.      
+[En savoir plus...](emaillage_adultes)  
 
 ## [PORCELAINE](stage_bijoux_porcelaine.md)        
 En 2 jours, vous pourrez concevoir, décorer, émailler et assembler vos bijoux pour un rendu très personnel !  
