@@ -19,7 +19,8 @@ Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_b
 
 **COMPRIS DANS LE TARIF** : outils + 1 cuisson   
 
-**OPTION PAYANTE** : pour les extérieurs (non élèves de l'atelier) : émaillage 10€/p - Voir sur place.  
+**OPTION PAYANTE** : pour les extérieurs (non élèves de l'atelier) : émaillage et seconde cuisson 10€/p - Voir sur place.  
+
 
 [**RESERVER**](https://Fansdeterre.as.me/luangrath)  
 
