@@ -47,11 +47,11 @@ Venez découvrir une technique de façonnage autre que le tournage : plaque, col
 **Niveau** : Déb./Int.   
 [En savoir plus...](modelage_adultes)
 
-## [SCULPTURE](sculpture_adultes.md)      
+## [MASTERCLASS](masterclass.md)      
 Sur un week-end, vous pourrez vous initier ou approfondir le travail de la terre en volume à travers l’anatomie du corps humain ou animal.   
 **Durée** : 1 jour et demi  
 **Niveau** : Tous niveaux  
-[En savoir plus...](sculpture_adultes)
+[En savoir plus...](masterclass)
 
 ## [PORCELAINE](stage_bijoux_porcelaine.md)        
 En 2 jours, vous pourrez concevoir, décorer, émailler et assembler vos bijoux pour un rendu très personnel !  
