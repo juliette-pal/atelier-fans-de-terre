@@ -46,7 +46,7 @@ Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.
 
 
 
-## [RESERVER](https://Fansdeterre.as.me/SCULPTURE)  
+[**RESERVER**](https://Fansdeterre.as.me/SCULPTURE)  
 
 
 ---
