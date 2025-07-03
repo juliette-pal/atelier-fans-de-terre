@@ -8,7 +8,8 @@ redirect_from:
 
 Nous avons la joie d'acceuillir Thierry pour cette super masterclasse !!!   
 Sur 2 jours : 10h-13h et 14h-17h   
-Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.   
+Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.  
+Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_button_share_sheet&igsh=bDZnYm5hYW03ZGl4) pour voir le travail de Thierry
 
 **Durée :** 12 H  
 
@@ -18,12 +19,8 @@ Les participants aborderont la technique de terre repoussée sur des bols de 350
 
 **OPTION PAYANTE** : pour les extérieurs (non élèves de l'atelier) : émaillage 10€/p - Voir sur place.  
 
-## RESERVER 
-<div class="acuity-booking-bar" style="display: none;">
-Fansdeterre
-<a href="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79154649" target="_blank" class="acuity-embed-button">Schedule Appointment</a>
-</div>
-<script src="https://embed.acuityscheduling.com/embed/bar/35942538.js" async></script>
+[**RESERVER**](https://Fansdeterre.as.me/luangrath)  
+
 
 ## STAGE SCULPTURE - ADULTES
 
@@ -49,10 +46,8 @@ Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.
 
 
 
-## RESERVER  
-<a href="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79154649" target="_blank" class="acuity-embed-button" style="background: #5fb8b9; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Schedule Appointment</a>
-<link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/35942538.css" id="acuity-button-styles" />
-<script src="https://embed.acuityscheduling.com/embed/button/35942538.js" async></script>
+## [RESERVER](https://Fansdeterre.as.me/SCULPTURE)  
+
 
 ---
 ## LISTE D'ATTENTE pour un stage complet
