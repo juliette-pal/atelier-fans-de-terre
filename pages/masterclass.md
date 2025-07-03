@@ -8,10 +8,10 @@ redirect_from:
 
 Nous avons la joie d'acceuillir Thierry pour cette super masterclass !!!   
 Sur 2 jours : 10h-13h et 14h-17h   
-Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.  
-Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_button_share_sheet&igsh=bDZnYm5hYW03ZGl4) pour voir le travail de Thierry
 
 <img src="/images/masterclass_fans_de_terre_Luang_Rath.png" class="image-stage">  
+Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.  
+Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_button_share_sheet&igsh=bDZnYm5hYW03ZGl4) pour voir le travail de Thierry.  
 
 **Durée :** 12 H  
 
@@ -40,11 +40,12 @@ Les sculptures sont récupérées au moins 2 mois après le stage. Car le sécha
 
 Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre) 
 
-**Durée :** 9 H  
+**Durée :** 10 H  
 
 **Niveau :** Tous niveaux  
 
-Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.  
+Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.   
+Un supplément de 30€ (à payer le 1er jour du stage) est demandé pour le modèle vivant
 
 
 
