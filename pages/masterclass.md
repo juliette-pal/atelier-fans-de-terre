@@ -6,7 +6,7 @@ redirect_from:
 
 ## Thierry LUANG RATH  
 
-Nous avons la joie d'acceuillir Thierry pour cette super masterclasse !!!   
+Nous avons la joie d'acceuillir Thierry pour cette super masterclass !!!   
 Sur 2 jours : 10h-13h et 14h-17h   
 Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.  
 Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_button_share_sheet&igsh=bDZnYm5hYW03ZGl4) pour voir le travail de Thierry
