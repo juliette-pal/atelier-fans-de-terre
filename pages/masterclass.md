@@ -2,7 +2,30 @@
 redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/stages-sculpture/
 ---
-# STAGE SCULPTURE - ADULTES
+# MASTERCLASS
+
+## Thierry LUANG RATH  
+
+Nous avons la joie d'acceuillir Thierry pour cette super masterclasse !!!   
+Sur 2 jours : 10h-13h et 14h-17h   
+Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.   
+
+**Durée :** 12 H  
+
+**Niveau :** Tous niveaux  
+
+**COMPRIS DANS LE TARIF** : outils + 1 cuisson   
+
+**OPTION PAYANTE** : pour les extérieurs (non élèves de l'atelier) : émaillage 10€/p - Voir sur place.  
+
+## RESERVER 
+<div class="acuity-booking-bar" style="display: none;">
+Fansdeterre
+<a href="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79154649" target="_blank" class="acuity-embed-button">Schedule Appointment</a>
+</div>
+<script src="https://embed.acuityscheduling.com/embed/bar/35942538.js" async></script>
+
+## STAGE SCULPTURE - ADULTES
 
 Nous vous accompagnons dans la **réalisation de bustes** ou des **représentations du corps humain**.  
 Des animaux et autres représentations peuvent également être abordées.  
@@ -24,13 +47,13 @@ Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre)
 
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.  
 
----
-  
-## LISTE D'ATTENTE pour un stage complet
-[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
+
 
 ## RESERVER  
-**ATTENTION aux dates de stages**...   Ex :  2025/09/12  =  12 septembre 2025   
+<a href="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79154649" target="_blank" class="acuity-embed-button" style="background: #5fb8b9; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Schedule Appointment</a>
+<link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/35942538.css" id="acuity-button-styles" />
+<script src="https://embed.acuityscheduling.com/embed/button/35942538.js" async></script>
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/evenements/masterclass-1/widget" style="width: 100%; height: 750px; border: none;"></iframe>{:target="_blank" }  
-
+---
+## LISTE D'ATTENTE pour un stage complet
+[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
