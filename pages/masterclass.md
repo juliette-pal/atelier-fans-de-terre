@@ -11,6 +11,8 @@ Sur 2 jours : 10h-13h et 14h-17h
 Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.  
 Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_button_share_sheet&igsh=bDZnYm5hYW03ZGl4) pour voir le travail de Thierry
 
+<img src="/images/masterclass_fans_de_terre_Luang_Rath.png" class="image-stage">  
+
 **Durée :** 12 H  
 
 **Niveau :** Tous niveaux  
@@ -27,6 +29,8 @@ Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_b
 Nous vous accompagnons dans la **réalisation de bustes** ou des **représentations du corps humain**.  
 Des animaux et autres représentations peuvent également être abordées.  
 
+<img src="/images/sculpture-stages-poterie-fansdeterre-ceramique-colombes.jpeg" class="image-stage">  
+
 A titre d’exemple, le visage est traité en buste :  
 - étude et élaboration de la forme synthétique d’un visage et pose des axes principaux permettant de placer de manière juste les différents éléments à naître (le nez, les oreilles...).  
 - étude et élaboration de chacun des éléments constituant le visage  
@@ -35,8 +39,6 @@ A titre d’exemple, le visage est traité en buste :
 Les sculptures sont récupérées au moins 2 mois après le stage. Car le séchage ne doit pas être trop rapide pour éviter la casse.  
 
 Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre) 
-
-<img src="/images/sculpture-stages-poterie-fansdeterre-ceramique-colombes.jpeg" class="image-stage">
 
 **Durée :** 9 H  
 
