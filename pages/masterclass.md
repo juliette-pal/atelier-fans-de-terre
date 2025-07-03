@@ -17,6 +17,8 @@ Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_b
 
 **Niveau :** Tous niveaux  
 
+**Tarif :** 300€ (élèves de l'atelier 270€)     
+
 **COMPRIS DANS LE TARIF** : outils + 1 cuisson   
 
 **OPTION PAYANTE** : pour les extérieurs (non élèves de l'atelier) : émaillage et seconde cuisson 10€/p - Voir sur place.  
@@ -24,6 +26,29 @@ Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_b
 
 [**RESERVER**](https://Fansdeterre.as.me/luangrath)  
 
+## RECHERCHE EMAUX avec SYLVIE BARBARA
+Stage **émaux de grès** en cuisson **électrique**   
+
+Ce stage permettra de comprendre ce qu’est un émail de grès et comment on peut mener des recherches pour obtenir des textures et des couleurs.  
+
+**Les stagiaires devront venir avec chacun 125 tuiles de grès** (fournir la photo de l’étiquette du pain utilisé pour éviter que certains arrivent avec de la faïence…). Cela leur permet d’avoir les tests sur leur propre grès.   
+
+Trois méthodes seront mises en pratique :    
+- une recherche de bases d’émaux par variation d’alumine/silice permettant de faire varier la texture,  
+- une recherche de couleurs à partir d’oxydes métalliques par méthode binaire,  
+- une recherche de couleur à partir d’oxydes métalliques par la méthode en triangle.
+  
+Les stagiaires repartiront avec :
+- 1 exemplaire chacun tous les échantillons réalisés ce qui leur donnera déjà de nombreux émaux utilisables
+- 1 support de cours très complet est fourni
+
+**Durée :** 4 jours    
+
+**Niveau :** personnes ayant un four    
+
+**Tarif :** 560€ (élèves de l'atelier 450€)     
+
+[**RESERVER**](https://Fansdeterre.as.me/rechercheemaux)  
 
 ## STAGE SCULPTURE - ADULTES
 
@@ -44,6 +69,8 @@ Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre)
 **Durée :** 10 H  
 
 **Niveau :** Tous niveaux  
+
+**Tarif :** 170€ (élèves de l'atelier 150€)     
 
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.   
 Un supplément de 30€ (à payer le 1er jour du stage) est demandé pour le modèle vivant
