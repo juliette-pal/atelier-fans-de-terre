@@ -37,12 +37,12 @@ Vos disponibilités varient et vous préférez pratiquer **au coup par coup** de
   - [Stages Adultes](pages/stages_adultes)
   - [Stages Enfants](pages/stages_enfants)
 
-## ANIMATIONS    
+## ANIMATIONS - GROUPES et ENTREPRISES    
 🌟 NEW NEW !!!🌟   
-les animations sont à destination des ENTREPRISES et des GROUPES    
+Les animations "décore ta poterie" sont à destination des groupes en tout genre : entreprises, familles, enterrements de vie de jeune, festivals, marchés de Noël,...    
 [Cliquer ici pour en savoir plus sur les animations GROUPES / ENTREPRISES](pages/animations_groupes.md)   
 
 
-## [AGENDA ANNUEL](https://www.helloasso.com/associations/fans-de-terre){:target="_blank" }  
+
 
 
