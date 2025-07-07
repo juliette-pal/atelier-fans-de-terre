@@ -18,9 +18,9 @@ Pensez à indiquer les coordonnées du bénéficiaire !!!
 ## Offir un montant à affecter 
 Si vous avez un doute, ou hésitez, optez pour un montant à affecter à n'importe quel stage Fans de terre.   
   
-1. Choisissez x bons de 50€ (selon votre budget)     
+1. Choisissez de1 à .... bons de 50€ (selon votre budget)     
 
-2. un code permettra au bénéficiaire de l'affecter à sa guise !
+2. un code permettra au bénéficiaire de les affecter à sa guise !
 
 [RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1994579)  
      
