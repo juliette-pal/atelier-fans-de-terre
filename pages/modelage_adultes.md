@@ -19,7 +19,7 @@ En fonction de la complexité de votre forme, si vous avez assez de temps, vous 
 **Niveau :**  Débutant / Intermédiaire
 
 **Tarif :   
-Le tarif comprend une pièce de 20cm x 20cm maximum qui sera **cuite 2 fois et émaillée par l’atelier**.
+Le tarif comprend 1 à 2 pièces de 20cm x 20cm maximum qui sera **cuite 2 fois et émaillée par l’atelier**.
 
 ---  
 ## LISTE D'ATTENTE pour un stage complet
