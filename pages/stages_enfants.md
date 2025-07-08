@@ -17,7 +17,7 @@ L’idée est de découvrir le tournage céramique en créant une œuvre unique 
 Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
 **Durée :** 3H  
 **Niveau :** 9 ans et +  
-**Tarif :** 165€  
+**Tarif :** 175€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 
 [RESERVER](https://Fansdeterre.as.me/vacancestour)   
@@ -30,7 +30,7 @@ Les participants découvrent le travail en volume, ainsi que des techniques cér
 Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.  
 **Durée :** 3H  
 **Niveau :** 4 ans et +  
-**Tarif :** 145€  
+**Tarif :** 155€  
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 
 [RESERVER](https://Fansdeterre.as.me/vacancesmodelage)   
