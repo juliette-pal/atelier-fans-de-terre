@@ -36,8 +36,8 @@ Offrez à votre enfant un **anniversaire** entre copains à l'atelier (ou chez v
 
 
 ## [ATELIER "DECORE TA POTERIE" **](parent_enfant.md)  
-Enfin un **atelier DIY** d'1h15, au coup par coup, et qui peut vite devenir addictif !!!  
-**Tous les mercredis** :   
+Réalisez un objet à utiliser au quotidien et personnalisez-le à vos couleurs.   
+... Pour un souvenir inoubliable !!!     
 **Niveau** : à partir de 3ans (acompagné) ou 5 ans (seul)  
 **Tarif** :   
 [Même formule que le parents/enfants "Décore ta poterie"](parent_enfant) 
