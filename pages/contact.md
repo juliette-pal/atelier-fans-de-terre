@@ -15,7 +15,7 @@ REPRISE DES COURS **ENFANTS** LE **24/09/25**
 REPRISE DES COURS **ADULTES** LE **26/09/25**  
 
 **Horaires semaine à partir du 10/09/25** :     
-Mercredi :  10H à 16H sur RDV      
+Mercredi :  10H à 16H **sur RDV**      
 
 **Horaires semaine à partir du 24/09/25** :     
 Lundi...... : fermé  
