@@ -32,41 +32,31 @@ Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a en
 
 ## Horaires d'ouverture de l'atelier      
 
-**Ouvertures jusqu'au 23 juin** :     
+L'atelier est **fermé pendant les vacances**   
+
+REPRISE DES COURS **ENFANTS** LE **24/09/25**  
+REPRISE DES COURS **ADULTES** LE **26/09/25**  
+
+**Horaires semaine à partir du 10/09/25** :     
+Mercredi :  10H à 16H **sur RDV**      
+
+**Horaires semaine à partir du 24/09/25** :     
 Lundi...... : fermé  
 Mardi...... : 19h30 - 22h30  
 Mercredi :  14h00 - 22h30  
 Jeudi....... : 19h30 - 22h30   
-Vendredi : 09h30 - 12h30 et 14h00-20h00   
-•	Samedi..... **21/06** : 11h - 16h        
-•	Dimanche **22/06** : 11h - 13h30 et 16h - 18h30  
-
-**Horaires d'été du 24 juin au 29**  
-Lundi...... : fermé    
-Mardi...... : fermé     
-Mercredi :  14h - 18h   
-Jeudi....... : fermé   
-Vendredi : 14h - 20h  
-•	Samedi..... **28/06** : 11h - 17h     
-•	Dimanche **29/06** : 11h - 17h   
-
-**Horaires d'été du 30 juin au 10 juillet**  
-Lundi...... : 10h - 13h   
-Mardi...... : 10h - 13h     
-Mercredi :  10h - 13h   
-Jeudi....... : 10h - 13h   
-Vendredi : fermé  
-•	Samedi..... **05/07** : 11h - 17h     
- 
-
+Vendredi : 09h30 - 12h30 et 14h00-20h00      
 
 **Ouvertures le week-end** :       
-•	Samedi..... **21/06** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **22/06** : 11h - 13h30 et 16h - 18h30  
-•	Samedi..... **28/06** : 11h - 17h     
-•	Dimanche **29/06** : 11h - 17h   
-•	Samedi..... **05/07** : 11h - 17h     
-
+•	Samedi..... **13/09** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **27/09** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **28/09** : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... **04/10** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **05/10** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **11/10** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **12/10** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **18/10** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **19/10** : 11h - 13h30 et 16h - 18h30   
 
   
    
