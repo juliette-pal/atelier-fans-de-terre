@@ -8,6 +8,8 @@ redirect_from:
 
 # **ATELIER DE POTERIE ET CÉRAMIQUE**  
 
+REPRISE DES COURS **ENFANTS** LE **24/09/25**  
+REPRISE DES COURS **ADULTES** LE **26/09/25**  
 
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture,...** ?  
