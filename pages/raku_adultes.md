@@ -24,13 +24,13 @@ Le modelage a lieu tout au long de l'année (1 séance au moins par mois).
 
 ---
 
-## Formule 100% ATELIER    
+## Formule 100% ATELIER   
+**Email et cuisson de vos pièces**      
 
 <img src="/images/Raku_ambiance_fans_de_terre.jpg" class="image-stage">  
 
 
 Modelage **+** émaillage **+** cuisson raku, le tout chez Fans de terre    
-**Ce sont vos pièces qui sont cuites en raku**.   
 
 **Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
@@ -44,11 +44,11 @@ Dans cette formule **vous devez choisir 2 dates** à l'aide des codes qui vous s
 
 [RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
 
-## Formule DECOUVERTE    
+## Formule DECOUVERTE   
+**Email et cuisson pièces FDT**       
 <img src="/images/raku_geste_fans_de_terre.jpg" class="image-stage">  
 
 Emaillage **+** cuisson raku **+** fourniture de 2 pièces déjà cuites **+** initiation au modelage (ces pièces ne sont pas gardées).  
-**Ce ne sont des pièces fournies par l'atelier qui sont cuites en raku**.  
 
 **Durée :** 1 journée  
 **Niveau :** Débutant/Intermédiaire  
@@ -56,8 +56,8 @@ Emaillage **+** cuisson raku **+** fourniture de 2 pièces déjà cuites **+** i
 [RESERVER](https://Fansdeterre.as.me/cuissonraku) 
 
 ## Formule MAISON  
-Modelage + 1ère cuisson **chez vous**  
-Emaillage + cuisson raku **chez nous**    
+**Chez vous** : Modelage + 1ère cuisson     
+**chez nous** : Emaillage + cuisson raku      
 **Durée :** 1 journée (émaillage et cuisson)  
 **Niveau :** Débutant/Intermédiaire  
 **Tarif : 85€ + 10€/pièce** (max 15cm hauteur et profondeur)  
@@ -65,11 +65,16 @@ Emaillage + cuisson raku **chez nous**
 
 
 ## Formule ELEVE     
-Modelage et émaillage pendant les cours + cuisson en stage  
-**Durée :** 1/2 journée (cuisson l'après midi)  
-**Tarif modelage et émaillage en cours + cuisson en stage :** 10€/pièce à cuire  
+**En cours** : Modelage et émaillage pendant les cours   
+**En stage** : cuisson   
+**Durée :** 1/2 journée (cuisson l'après midi)   
+**Tarif modelage et émaillage en cours + cuisson en stage :** 10€/pièce à cuire   
+
+**En cours** : Modelage pendant les cours   
+**En stage** : Emaillage et cuisson   
+**Durée :** 1/2 journée (cuisson l'après midi)   
 **Tarif modelage en cours + émaillage et cuisson en stage :** 70€ + 10€/pièce à cuire  
-**Tarif modelage, émaillage et cuisson en stage :** -20% sur tarif normal  
+
 🌟 Voir directement avec celui ou celle qui anime ton cours chez Fans de terre  
   
 
