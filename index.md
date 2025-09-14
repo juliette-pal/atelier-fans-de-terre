@@ -23,7 +23,7 @@ Il ne vous reste plus qu’à **y faire un tour** ou offrir un [**bon cadeau**](
 [Nous contacter](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }   
 
 ---  
-<a href="/pages/courss_adultes">
+<a href="/pages/cours_adultes">
 <img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">
 </a>
 
@@ -35,7 +35,7 @@ Ce sera votre **pause artistique** de la semaine !
   - [Voir les cours Enfants 1H30](pages/cours_enfants)  
 
 ---  
-<a href="/pages/courss_adultes">
+<a href="https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989010">
 <img src="/images/Offre_rentree_2025_fansdeterre.jpg" class="image-horiz" alt="Offre de rentrée">
 </a>   
 
