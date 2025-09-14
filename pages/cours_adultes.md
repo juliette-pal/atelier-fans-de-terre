@@ -33,8 +33,8 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 
 
 A chacun son rythme selon ses envies !  
-  
-
+----  
+[Cliquer ici](https://fansdeterre.com/pages/tournage_libre) pour en savoir plus sur le **tournage libre**.   
   
 ## COURS MODELAGE et/ou TOURNAGE  
 
