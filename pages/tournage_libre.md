@@ -5,17 +5,23 @@ redirect_from:
 ---
 # TOURNAGE LIBRE  
 
-Le tournage libre... et comme son nom l'indique, c'est du tournage et non du modelage🤗   
-Cette pratique s'adresse aux actuels et anciens élèves inscrits aux cours réguliers de l'atelier.    
+Le tournage libre... est comme son nom l'indique, du tournage et non du modelage🤗   
+
+Cette possibilité s'adresse aux **actuels et anciens élèves inscrits aux cours réguliers de l'atelier**.    
 Les élèves inscrits au moins 1 trimestre aux cours 100% tournage sont également admis.   
 
 Nous privilégeons les personnes qui connaissent le fonctionnement de l'atelier et l'importance que nous accordons au rangement et au ménage pour que chacun soit accueilli, du mardi au dimanche, dans de bonnes conditions.  
 
 ## Quand ?    
-Vous êtes en autonomie sur des créneaux de 4h incompressibles : 10-14h ou 14h-18h ou 18h - 22h   
+Vous êtes en autonomie sur des créneaux de 4h :   
+- 10h - 14h   
+- 14h - 18h  
+- 18h - 22h    
+Tout créneau commencé est dü car la place vous a été réservée, souvent de longue date.   
+Idem si vous ne restez que 3H. Toute la plage vous a été réservée et ne peut bénéficier à d'autres.   
 
 ## Compris dans le forfait 
-Pour 3 séances de 4h soit 12h sur 1 mois :    
+Le forfait de 100€ les 3 séances de 4h (soit 12h) comprend :    
 • La terre W11   
 • Le matériel et l'outillage   
 • un seau personnel pour la barbotine de tournage   
