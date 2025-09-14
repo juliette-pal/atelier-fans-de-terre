@@ -36,7 +36,7 @@ A chacun son rythme selon ses envies !
 
 
 ----  
-[Cliquer ici](https://fansdeterre.com/pages/tournage_libre) pour en savoir plus sur le **tournage libre**.   
+[Cliquer ici](https://fansdeterre.com/pages/tournage_libre) pour en savoir plus sur le **TOURNAGE LIBRE**.   
   
 ## COURS MODELAGE et/ou TOURNAGE  
 
