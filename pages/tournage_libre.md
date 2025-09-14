@@ -35,5 +35,5 @@ Le forfait de 100€ les 3 séances de 4h (soit 12h) comprend :
 Les inscriptions se font pour 3 séances sur 45 jours.    
 Attention, il y a 2 à 4 places max par créneau !!!  
 
-[**RESERVER**](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&id=1993655&clear=1)
+[**Je souhaite RESERVER**](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&id=1993655&clear=1)
 
