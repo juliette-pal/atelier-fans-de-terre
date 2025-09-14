@@ -8,7 +8,6 @@ redirect_from:
 Le tournage libre... est comme son nom l'indique, du tournage et non du modelage🤗   
 
 Cette possibilité s'adresse aux **actuels et anciens élèves inscrits aux cours réguliers de l'atelier**.    
-Les élèves inscrits au moins 1 trimestre aux cours 100% tournage sont également admis.   
 
 Nous privilégeons les personnes qui connaissent le fonctionnement de l'atelier et l'importance que nous accordons au rangement et au ménage pour que chacun soit accueilli, du mardi au dimanche, dans de bonnes conditions.  
 
@@ -28,8 +27,8 @@ Le forfait de 100€ les 3 séances de 4h (soit 12h) comprend :
 • Une grande planche de stockage /pers   
 
 ## Ne sont pas compris dans le forfait  
-• Les cuissons qui sont facturées au poids (pensez à tourner plus fin😂)   
-• Les séances d'émaillage qui peuvent se faire en cours pour les élèves et en stage pour les autres   
+• Les cuissons sont facturées au poids (pensez à tourner plus fin😂)   
+• Les séances d'émaillage peuvent se faire en cours pour les élèves et en stage pour les autres   
 
 ## INSCRIPTIONS 
 Les inscriptions se font pour 3 séances sur 45 jours.    
