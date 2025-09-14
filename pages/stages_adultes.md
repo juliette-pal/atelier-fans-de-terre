@@ -23,6 +23,11 @@ Tarif :
 ➪ **Liste d'attente pour un stage complet**
 [Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un stage (préciser le stage dans le formulaire)](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
 
+---  
+<a href="https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989010">
+<img src="/images/Offre_rentree_2025_fansdeterre.jpg" class="image-horiz" alt="Offre de rentrée">
+</a> 
+
 ## [MASTERCLASS](masterclass.md)      
 Sur 2 à 3 jour, souvent le wee-end ou pendant les vacances...   
 Des céramistes reconnus dans le milieu, viendront vous transmettre leur savoir !   
