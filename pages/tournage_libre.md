@@ -1,32 +1,33 @@
-J'ai tardé🫣 mais voici les infos pour le tournage libre... et comme son nom l'indique, c'est du tournage et non du modelage🤗
-Cela n'est possible que pour les élèves actuels ou anciens de l'atelier. Car vous connaissez le fonctionnement de l'atelier et l'importance que nous accordons au rangement et au ménage pour que chacun soit accueilli, du mardi au dimanche, dans de bonnes conditions.
+---
+title: Tournage libre 
+redirect_from:
+    - /cours-stages-poterie-ceramique-colombes/l-atelier-cours-de-poterie-ceramique-colombes/
+---
+# TOURNAGE LIBRE  
 
-MENAGE
-Cela suppose que vous laissiez le lieu aussi propre qu'il l'était à votre arrivée. 
-Soyez particulièrement vigilant :
-• Au tournage : tâches au mur et au sol, pensez à nettoyer les plâtres et outils utilisés... chiffon gris pour le sol🤗
-• Au tournassage : balayez les tournassures laissées au sol, nettoyez les outils...
+Le tournage libre... et comme son nom l'indique, c'est du tournage et non du modelage🤗   
+Cette pratique s'adresse aux actuels et anciens élèves inscrits aux cours réguliers de l'atelier.    
+Les élèves inscrits au moins 1 trimestre aux cours 100% tournage sont également admis.   
 
-QUAND 
-Vous êtes en autonomie sur des créneaux de 4h incompressibles : 10-14h ou 14h-18h 
-Ils ont lieu le mercredi matin ou le samedi en parallèle de cours où il y a essentiellement du modelage ou le dimanche.
-Veillez à ne pas déranger ceux qui tournent avec vous ou le cours ou stage eventuel🙏🏻 Pas de musique sans demander...
+Nous privilégeons les personnes qui connaissent le fonctionnement de l'atelier et l'importance que nous accordons au rangement et au ménage pour que chacun soit accueilli, du mardi au dimanche, dans de bonnes conditions.  
 
-COÛT 
-Pour 3 séances de 4h soit 12h sur 1 mois : 100€.
-+ 5€/kg de pièces à cuire (facturation au 1 kg non fractionable). Pensez à tourner plus fin😂
-+ surcoût dépassements 20×20 habituel
-Sont compris dans le prix :
-• La terre W11
-• Le matériel et l'outillage 
-• Une grande planche de stockage /pers
+## Quand ?    
+Vous êtes en autonomie sur des créneaux de 4h incompressibles : 10-14h ou 14h-18h ou 18h - 22h   
 
-ÉMAILLAGE 
-L'émaillage des pièces gardées pourra se faire cours sans surcoût pour la cuisson pour les élèves. Ou en stage décor/émaillage pour les anciens.
+## Compris dans le forfait 
+Pour 3 séances de 4h soit 12h sur 1 mois :    
+• La terre W11   
+• Le matériel et l'outillage   
+• un seau personnel pour la barbotine de tournage   
+• Une grande planche de stockage /pers   
 
-INSCRIPTIONS 
-Les inscriptions se font pour 3 séances sur 1 mois. 
-Les dates sont données à l'avance et ne peuvent pas être échangées contre un autre jour ou un autre créneau horaire... histoire que ça ne devienne pas une usine à gaz😂
+## Ne sont pas compris dans le forfait  
+• Les cuissons qui sont facturées au poids (pensez à tourner plus fin😂)   
+• Les séances d'émaillage qui peuvent se faire en cours pour les élèves et en stage pour les autres   
 
-Attention, il y a 2 places max par créneau !!!
+## INSCRIPTIONS 
+Les inscriptions se font pour 3 séances sur 45 jours.    
+Attention, il y a 2 à 4 places max par créneau !!!  
+
+[**RESERVER**](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&id=1993655&clear=1)
 
