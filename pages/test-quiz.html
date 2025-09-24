@@ -1,0 +1,1216 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Cohésion d'Équipe - Fans de Terre</title>
+    <meta name="description" content="Évaluez la cohésion de votre équipe en 2 minutes et découvrez comment renforcer la collaboration avec nos ateliers céramique">
+    
+    <!-- 
+    CONFIGURATION :
+    - Pour changer l'URL Calendly : modifier CALENDLY_URL dans le script
+    - Pour changer l'endpoint POST : modifier POST_URL dans le script  
+    - Pour changer l'email de réception : modifier MAIL_TO dans le script
+    - Pour changer le nom du PDF : modifier PDF_FILENAME dans le script
+    
+    EXEMPLE cURL pour tester l'endpoint :
+    curl -X POST "https://api.example.com/leads" \
+      -H "Content-Type: application/json" \
+      -d '{"email":"prenom.nom@entreprise.com","score":14,"bucket":"Cohésion en construction","timestamp":"2025-09-11T10:15:00Z","source":"quiz-cohesion"}'
+    -->
+    
+    <style>
+        /* Import des fonts avec fallbacks système */
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
+        
+        /* CSS Variables pour la charte couleur */
+        :root {
+            --terracotta: #C3703E;
+            --sable: #F1E9E2;
+            --ardoise: #2F3640;
+            --olive: #5B6E37;
+            --ivoire: #F8F6F1;
+            --white: #FFFFFF;
+            --error: #D32F2F;
+            --success: #388E3C;
+            
+            /* Ombres */
+            --shadow-soft: 0 4px 20px rgba(47, 54, 64, 0.1);
+            --shadow-card: 0 8px 32px rgba(47, 54, 64, 0.12);
+            --shadow-button: 0 2px 8px rgba(195, 112, 62, 0.3);
+            
+            /* Transitions */
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', 'Montserrat', system-ui, sans-serif;
+            background: linear-gradient(135deg, var(--ivoire) 0%, var(--sable) 100%);
+            color: var(--ardoise);
+            line-height: 1.6;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .main-title {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(1.4rem, 4vw, 2rem);
+            font-weight: 700;
+            color: var(--ardoise);
+            margin-bottom: 16px;
+            line-height: 1.2;
+        }
+        
+        .subtitle {
+            font-size: 1.1rem;
+            color: var(--ardoise);
+            opacity: 0.8;
+            max-width: 600px;
+             margin: 0 auto 24px auto; /* marge basse ajoutée */
+        }
+        
+        .quiz-card {
+            background: var(--white);
+            border-radius: 16px;
+            padding: 12px 40px;
+            box-shadow: var(--shadow-card);
+            border: 2px solid var(--sable);
+            margin-bottom: 30px;
+            transition: var(--transition);
+        }
+        
+        .quiz-card:hover {
+            box-shadow: 0 12px 40px rgba(47, 54, 64, 0.15);
+        }
+        
+        .quiz-question {
+            margin-bottom: 32px;
+			margin :0px solid red !important;
+        }
+        
+        .question-legend {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: var(--ardoise);
+            margin-bottom: 16px;
+            display: block;
+        }
+        
+        .question-options {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        
+        .option-label {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            padding: 16px;
+            background: var(--sable);
+            border-radius: 12px;
+            cursor: pointer;
+            transition: var(--transition);
+            border: 2px solid transparent;
+        }
+        
+        .option-label:hover {
+            background: var(--terracotta);
+            color: var(--white);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-button);
+        }
+        
+        .option-input {
+            accent-color: var(--terracotta);
+            margin-top: 2px;
+        }
+        
+        .option-label:has(.option-input:checked) {
+            background: var(--terracotta);
+            color: var(--white);
+            border-color: var(--olive);
+        }
+        
+        .submit-btn {
+            background: var(--terracotta);
+            color: var(--white);
+            border: none;
+            border-radius: 12px;
+            padding: 16px 32px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            box-shadow: var(--shadow-button);
+            width: 100%;
+            margin-top: 20px;
+        }
+        
+        .submit-btn:hover:not(:disabled) {
+            background: var(--olive);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px rgba(91, 110, 55, 0.4);
+        }
+        
+        .submit-btn:focus {
+            outline: 3px solid var(--terracotta);
+            outline-offset: 2px;
+        }
+        
+        .submit-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        #result-section {
+            display: none;
+        }
+        
+        .result-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+      #result-title {
+		font-family: 'Playfair Display', serif;
+		font-size: 1.8rem;
+		font-weight: 700;
+		color: var(--terracotta);
+		margin-bottom: 8px; /* au lieu de 16px */
+	}
+
+	.score-display {
+		font-size: 1.2rem;
+		font-weight: 600;
+		color: var(--ardoise);
+		margin-bottom: 8px; /* au lieu de 16px */
+	}
+        
+        #result-text {
+            font-size: 1.1rem;
+            line-height: 1.7;
+            color: var(--ardoise);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .cta-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            margin-top: 40px;
+        }
+        
+        .cta-column {
+            background: var(--white);
+            padding: 32px;
+            border-radius: 16px;
+            box-shadow: var(--shadow-card);
+            border: 2px solid var(--sable);
+        }
+        
+        .cta-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--ardoise);
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .email-input {
+            width: 100%;
+            padding: 14px 16px;
+            border: 2px solid var(--sable);
+            border-radius: 8px;
+            font-size: 1rem;
+            margin-bottom: 16px;
+            transition: var(--transition);
+        }
+        
+        .email-input:focus {
+            outline: none;
+            border-color: var(--terracotta);
+            box-shadow: 0 0 0 3px rgba(195, 112, 62, 0.1);
+        }
+        
+        .cta-btn {
+            width: 100%;
+            padding: 16px 24px;
+            border: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            box-shadow: var(--shadow-button);
+        }
+        
+        .btn-primary {
+            background: var(--terracotta);
+            color: var(--white);
+        }
+        
+        .btn-primary:hover:not(:disabled) {
+            background: var(--olive);
+            transform: translateY(-2px);
+        }
+        
+        .btn-secondary {
+            background: var(--ardoise);
+            color: var(--white);
+        }
+        
+        .btn-secondary:hover {
+            background: var(--olive);
+            transform: translateY(-2px);
+        }
+        
+        .cta-btn:focus {
+            outline: 3px solid var(--terracotta);
+            outline-offset: 2px;
+        }
+        
+        .error-message {
+            color: var(--error);
+            font-size: 0.9rem;
+            margin-top: 8px;
+            display: none;
+        }
+        
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--success);
+            color: white;
+            padding: 16px 20px;
+            border-radius: 8px;
+            box-shadow: var(--shadow-card);
+            display: none;
+            z-index: 1000;
+        }
+        
+        .spinner {
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            border: 2px solid transparent;
+            border-top: 2px solid currentColor;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-right: 8px;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        #honeypot {
+            display: none !important;
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 15px;
+            }
+            
+            .quiz-card {
+                padding: 12px 24px
+			}
+            
+            .cta-section {
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+            
+            .cta-column {
+                padding: 24px;
+            }
+            
+            .option-label {
+                padding: 12px;
+            }
+        }
+        
+        /* Accessibilité */
+        @media (prefers-reduced-motion: reduce) {
+            * {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
+        
+        /* Focus visible pour l'accessibilité */
+        .option-input:focus-visible + .option-text {
+            outline: 2px solid var(--terracotta);
+            outline-offset: 2px;
+        }
+		
+		.calendly-modal {
+  display: none;
+  position: fixed;
+  z-index: 2000;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.7);
+}
+
+.calendly-modal-content {
+  background: var(--white);
+  margin: 10px auto; /* 10px depuis le haut */
+  padding: 20px;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 900px;
+  position: relative;
+}
+
+
+.calendly-close {
+  position: absolute;
+  top: 12px; right: 16px;
+  font-size: 28px;
+  font-weight: bold;
+  color: var(--ardoise);
+  cursor: pointer;
+  transition: var(--transition);
+}
+.calendly-close:hover { color: var(--terracotta); }
+
+		
+    </style>
+</head>
+<body>
+
+
+
+
+
+    <div class="container">
+        <header class="header">
+            <h1 class="main-title">Évaluez la cohésion de votre équipe en 2 minutes</h1>
+            <p class="subtitle">Découvrez si votre équipe fonctionne en véritable collectif ou si elle a besoin d'un coup de pouce pour renforcer communication, créativité et motivation.</p>
+        </header>
+
+        <main>
+            <!-- Formulaire Quiz -->
+           <div class="quiz-card" id="quiz-wrapper">
+                <form id="quiz-form">
+                    <!-- Question 1 -->
+                    <fieldset class="quiz-question" style="border:0px solid red">
+                        <legend class="question-legend">1. Comment qualifiez-vous la communication interne dans votre équipe ?</legend>
+                        <div class="question-options">
+                            <label class="option-label">
+                                <input type="radio" name="q1" value="A" class="option-input" required>
+                                <span class="option-text">Fluide et ouverte</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q1" value="B" class="option-input" required>
+                                <span class="option-text">Parfois des malentendus</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q1" value="C" class="option-input" required>
+                                <span class="option-text">Souvent des blocages ou tensions</span>
+                            </label>
+                        </div>
+                    </fieldset>
+
+                    <!-- Question 2 -->
+                    <fieldset class="quiz-question" style="border:0px solid red">
+                        <legend class="question-legend">2. Comment votre équipe collabore-t-elle sur les projets ?</legend>
+                        <div class="question-options">
+                            <label class="option-label">
+                                <input type="radio" name="q2" value="A" class="option-input" required>
+                                <span class="option-text">Coopèrent facilement et se complètent</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q2" value="B" class="option-input" required>
+                                <span class="option-text">Coopèrent avec quelques frictions</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q2" value="C" class="option-input" required>
+                                <span class="option-text">Avancent chacun de leur côté</span>
+                            </label>
+                        </div>
+                    </fieldset>
+
+                    <!-- Question 3 -->
+                    <fieldset class="quiz-question" style="border:0px solid red">
+                        <legend class="question-legend">3. À quelle fréquence votre équipe génère-t-elle de nouvelles idées créatives ?</legend>
+                        <div class="question-options">
+                            <label class="option-label">
+                                <input type="radio" name="q3" value="A" class="option-input" required>
+                                <span class="option-text">Idées nombreuses</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q3" value="B" class="option-input" required>
+                                <span class="option-text">Parfois</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q3" value="C" class="option-input" required>
+                                <span class="option-text">Rarement</span>
+                            </label>
+                        </div>
+                    </fieldset>
+
+                    <!-- Question 4 -->
+                    <fieldset class="quiz-question" style="border:0px solid red">
+                        <legend class="question-legend">4. Comment votre équipe gère-t-elle les conflits ou désaccords ?</legend>
+                        <div class="question-options">
+                            <label class="option-label">
+                                <input type="radio" name="q4" value="A" class="option-input" required>
+                                <span class="option-text">Solutions rapides</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q4" value="B" class="option-input" required>
+                                <span class="option-text">Difficile mais possible</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q4" value="C" class="option-input" required>
+                                <span class="option-text">Conflits qui s'enveniment</span>
+                            </label>
+                        </div>
+                    </fieldset>
+
+                    <!-- Question 5 -->
+                    <fieldset class="quiz-question" style="border:0px solid red">
+                        <legend class="question-legend">5. Comment décririez-vous l'ambiance générale de travail ?</legend>
+                        <div class="question-options">
+                            <label class="option-label">
+                                <input type="radio" name="q5" value="A" class="option-input" required>
+                                <span class="option-text">Dynamique et inspirant</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q5" value="B" class="option-input" required>
+                                <span class="option-text">Variable</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q5" value="C" class="option-input" required>
+                                <span class="option-text">Faible</span>
+                            </label>
+                        </div>
+                    </fieldset>
+
+                    <!-- Question 6 -->
+                    <fieldset class="quiz-question" style="border:0px solid red">
+                        <legend class="question-legend">6. Quel est le niveau d'appartenance à l'équipe ressenti par vos collaborateurs ?</legend>
+                        <div class="question-options">
+                            <label class="option-label">
+                                <input type="radio" name="q6" value="A" class="option-input" required>
+                                <span class="option-text">Fort</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q6" value="B" class="option-input" required>
+                                <span class="option-text">Moyen</span>
+                            </label>
+                            <label class="option-label">
+                                <input type="radio" name="q6" value="C" class="option-input" required>
+                                <span class="option-text">Faible</span>
+                            </label>
+                        </div>
+                    </fieldset>
+
+                    <!-- Honeypot anti-bot -->
+                    <input type="text" id="honeypot" name="honeypot" tabindex="-1" autocomplete="off">
+
+                    <button type="submit" id="submit-quiz" class="submit-btn">Voir mes résultats</button>
+                </form>
+            </div>
+
+            <!-- Section Résultats -->
+            <section id="result-section" aria-live="polite">
+                <div class="quiz-card">
+                    <div class="result-header">
+                        <h2 id="result-title"></h2>
+                        <div class="score-display">Score : <span id="result-score"></span>/18</div>
+                        <p id="result-text"></p>
+                    </div>
+
+                    <div class="cta-section">
+                        <!-- CTA Gauche : Téléchargement PDF -->
+                       <!-- CTA Gauche : Téléchargement PDF -->
+<div class="cta-column">
+  <h3 class="cta-title">
+    Téléchargez vos résultats + le guide pour développer la cohésion d'entreprise
+  </h3>
+
+  <form id="download-form">
+  <label for="email-input" style="display:block; font-weight:600; margin-bottom:8px; color:var(--ardoise);">
+    Votre email professionnel
+  </label>
+  <input 
+    type="email" 
+    id="email-input" 
+    class="email-input" 
+    placeholder="exemple@entreprise.com" 
+    required
+  >
+  <div id="email-error" class="error-message"></div>
+
+  <input type="hidden" id="hidden-score" name="score">
+  <input type="hidden" id="hidden-bucket" name="bucket">
+
+  <button type="submit" class="cta-btn btn-primary">Télécharger le PDF</button>
+</form>
+
+
+</div>
+
+
+
+                        <!-- CTA Droite : Calendly -->
+                        <div class="cta-column">
+                            <h3 class="cta-title">Passons à l'action</h3>
+                            <p style="margin-bottom: 20px; color: var(--ardoise); opacity: 0.8;">
+                                Échangeons sur vos besoins et découvrez comment nos ateliers céramique peuvent transformer votre équipe.
+                            </p>
+                            <button id="calendly-btn" class="cta-btn btn-secondary">
+						Prendre rendez-vous
+					</button>
+                        </div>
+						
+					
+
+						
+                    </div>
+					
+					
+					
+					
+					<hr style="margin:40px 0; border:1px solid var(--sable);">
+
+<div class="" style="text-align:center;">
+  <h1 class="cta-title" style="color : #157878 !important;font-size:1.8rem">Transformez Votre Équipe en 2 Heures</h1>
+  <p style="font-size:1.1rem; font-weight:600; margin-bottom:12px; color:#c57646;">
+    L'Atelier Céramique qui Booste vos Performances de 20%
+  </p>
+  <p style="font-size:1rem; color:var(--ardoise); opacity:0.85; margin-bottom:24px;">
+    
+       Découvrez l'atelier teambuilding le plus collaboratif de Paris qui transforme les tensions en cohésion grâce à notre jeu créatif inédit.
+  </p>
+  
+  
+  <video src="https://d1yei2z3i6k35z.cloudfront.net/13358443/68cc3af095f9d_VidéoMonikaV5.mp4" style="width: 100%; height: 100%;" preload="auto"  controls="" controlslist="nodownload" playsinline="" webkit-playsinline="" x5-playsinline=""></video>
+  
+  
+  <a href="https://teambuilding.fansdeterre.com/presentation-ateliers" 
+     class="cta-btn btn-primary" 
+     style="display:inline-block; text-align:center;">
+     Découvrez l'atelier
+  </a>
+</div>
+
+					
+					
+					
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Toast pour messages de succès -->
+    <div id="toast" class="toast" role="alert" aria-live="assertive"></div>
+
+    <script>
+        // CONFIGURATION - Modifiable selon vos besoins
+        const CONFIG = {
+            CALENDLY_URL: "https://calendly.com/fans-de-terre/20min",
+            POST_URL: "https://api.example.com/leads", 
+            PDF_FILENAME: "guide-team-building-ceramique.pdf",
+            MAIL_TO: "benoit.lefevre.pro@gmail.com",
+            
+            // Messages de résultats
+            RESULTS: {
+                high: {
+                    title: "Équipe soudée mais toujours perfectible",
+                    text: "Votre équipe fonctionne bien, la cohésion est là. Un atelier collaboratif comme celui de la céramique peut renforcer encore vos points forts et stimuler la créativité collective."
+                },
+                medium: {
+                    title: "Cohésion en construction", 
+                    text: "Vous avez des bases solides mais aussi des zones de friction. L'atelier céramique est une occasion concrète de développer écoute, coopération et créativité."
+                },
+                low: {
+                    title: "Besoin urgent de renforcer la cohésion",
+                    text: "Des difficultés à communiquer et à travailler ensemble sont probables. Un atelier expérientiel peut être un déclencheur fort pour recréer du lien autour d'un projet commun."
+                }
+            }
+        };
+
+        // Variables globales
+        let currentScore = 0;
+        let currentBucket = '';
+
+        // Initialisation
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeQuiz();
+        });
+
+
+
+
+
+
+function initializeQuiz() {
+  const form = document.getElementById('quiz-form');
+  const downloadBtn = document.getElementById('download-pdf-btn');
+  const calendlyBtn = document.getElementById('calendly-btn');
+
+  // Event submit quiz
+  form.addEventListener('submit', handleQuizSubmit);
+
+
+
+
+  // Event Calendly
+  if (calendlyBtn) {
+    calendlyBtn.addEventListener('click', handleCalendlyClick);
+  }
+}
+
+
+        function handleQuizSubmit(e) {
+            e.preventDefault();
+            
+            // Vérification honeypot
+            const honeypot = document.getElementById('honeypot');
+            if (honeypot.value.trim() !== '') {
+                console.warn('Bot détecté via honeypot');
+                return;
+            }
+
+            const formData = new FormData(e.target);
+            const result = computeScore(formData);
+            
+            currentScore = result.score;
+            currentBucket = result.bucket;
+            
+            renderResult(result.score, result.bucket);
+            
+            // Scroll vers les résultats
+            document.getElementById('result-section').scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+
+        function computeScore(formData) {
+            let score = 0;
+            const scoreMap = { 'A': 3, 'B': 2, 'C': 1 };
+
+            // Calcul du score total
+            for (let i = 1; i <= 6; i++) {
+                const answer = formData.get(`q${i}`);
+                if (answer && scoreMap[answer]) {
+                    score += scoreMap[answer];
+                }
+            }
+
+            // Détermination de la tranche
+            let bucket;
+            if (score >= 15) {
+                bucket = 'high';
+            } else if (score >= 10) {
+                bucket = 'medium';
+            } else {
+                bucket = 'low';
+            }
+
+            return { score, bucket };
+        }
+
+ function renderResult(score, bucket) {
+  const resultConfig = CONFIG.RESULTS[bucket];
+
+  // Mettre à jour le header
+  const titleEl = document.querySelector('.header .main-title');
+  const subtitleEl = document.querySelector('.header .subtitle');
+  if (titleEl) titleEl.textContent = 'Résultat';
+  if (subtitleEl) {
+    subtitleEl.style.display = 'none';
+    subtitleEl.style.marginBottom = '0'; // supprime aussi la marge
+  }
+
+  // Remplir les textes de résultats
+  document.getElementById('result-title').textContent = resultConfig.title;
+  document.getElementById('result-text').textContent = resultConfig.text;
+  document.getElementById('result-score').textContent = score;
+
+  // Cacher la carte du quiz
+  const quizWrapper = document.getElementById('quiz-wrapper');
+  if (quizWrapper) quizWrapper.remove(); // ou quizWrapper.style.display = 'none';
+
+  // Afficher la section résultats
+  document.getElementById('result-section').style.display = 'block';
+
+  // Mettre à jour les champs cachés du formulaire (pour l’email → envoi + PDF)
+  const scoreInput  = document.querySelector("form [name=score]");
+  const bucketInput = document.querySelector("form [name=bucket]");
+  if (scoreInput && bucketInput) {
+    scoreInput.value  = score;
+    bucketInput.value = bucket;
+  }
+
+  // Mettre à jour le titre de l’onglet
+  document.title = 'Résultat — Quiz Cohésion d’Équipe';
+
+  // Scroll vers les résultats
+  document.getElementById('result-section').scrollIntoView({
+    behavior: 'smooth',
+    block: 'start'
+  });
+}
+
+
+
+        function validateEmail() {
+            const emailInput = document.getElementById('email-input');
+            const errorDiv = document.getElementById('email-error');
+            const email = emailInput.value.trim().toLowerCase();
+            
+            // Regex stricte pour email professionnel
+            const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
+            
+            if (!email) {
+                showEmailError('Veuillez saisir votre email professionnel');
+                return false;
+            }
+            
+            if (!emailRegex.test(email)) {
+                showEmailError('Veuillez saisir une adresse email valide');
+                return false;
+            }
+            
+            clearEmailError();
+            return true;
+        }
+
+        function showEmailError(message) {
+            const errorDiv = document.getElementById('email-error');
+            errorDiv.textContent = message;
+            errorDiv.style.display = 'block';
+            
+            const emailInput = document.getElementById('email-input');
+            emailInput.style.borderColor = 'var(--error)';
+            emailInput.setAttribute('aria-invalid', 'true');
+        }
+
+        function clearEmailError() {
+            const errorDiv = document.getElementById('email-error');
+            errorDiv.style.display = 'none';
+            
+            const emailInput = document.getElementById('email-input');
+            emailInput.style.borderColor = 'var(--sable)';
+            emailInput.removeAttribute('aria-invalid');
+        }
+
+       
+
+
+        async function postLead(payload) {
+            try {
+                const response = await fetch(CONFIG.POST_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(payload)
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                return await response.json();
+            } catch (error) {
+                console.error('Erreur POST:', error);
+                throw error;
+            }
+        }
+
+      
+
+
+	  
+
+        async function downloadPDF() {
+            try {
+                // Tentative de téléchargement du fichier PDF réel
+                const response = await fetch(CONFIG.PDF_FILENAME);
+                
+                if (response.ok) {
+                    const blob = await response.blob();
+                    triggerDownload(blob, CONFIG.PDF_FILENAME);
+                } else {
+                    throw new Error('PDF non trouvé');
+                }
+            } catch (error) {
+                // Fallback : création d'un PDF placeholder
+                console.warn('PDF non trouvé, création d\'un placeholder:', error);
+                createPlaceholderPDF();
+            }
+        }
+
+function createPlaceholderPDF() {
+  const { jsPDF } = window.jspdf;
+  const doc = new jsPDF();
+
+  // Couleurs (palette Fans de Terre)
+  const terracotta = [195, 112, 62];  // #C3703E
+  const sable = [241, 233, 226];      // #F1E9E2
+  const ardoise = [47, 54, 64];       // #2F3640
+  const olive = [91, 110, 55];        // #5B6E37
+
+  let y = 20; // Position verticale initiale
+  const marginBottom = 280; // Limite avant saut de page
+
+  function addText(text, x, font = "normal", size = 12, color = ardoise, lineHeight = 7) {
+    doc.setFont("helvetica", font);
+    doc.setFontSize(size);
+    doc.setTextColor(...color);
+
+    const lines = doc.splitTextToSize(text, 170);
+    lines.forEach(line => {
+      if (y > marginBottom) {
+        doc.addPage();
+        y = 20;
+      }
+      doc.text(line, x, y);
+      y += lineHeight;
+    });
+    return lines.length * lineHeight;
+  }
+
+  // --- Couverture ---
+  addText("Diagnostic Cohésion d'Équipe", 20, "bold", 20, terracotta, 10);
+  addText(`Votre score : ${currentScore}/18`, 20, "normal", 14, ardoise, 8);
+  addText(`Catégorie : ${CONFIG.RESULTS[currentBucket].title}`, 20, "normal", 14, ardoise, 8);
+  y += 8;
+  addText(CONFIG.RESULTS[currentBucket].text, 20);
+
+  y += 10;
+
+  // --- Les risques ---
+  addText("Les risques d'une cohésion défaillante", 20, "bold", 16, terracotta, 10);
+  const pains = [
+    "• Communication cloisonnée entre services",
+    "• Créativité qui peine à s’exprimer",
+    "• Tensions latentes freinant la coopération",
+    "• Sentiment d’appartenance faible (turnover, démotivation)"
+  ];
+  pains.forEach(line => addText(line, 20));
+  y += 6;
+
+  // --- Pourquoi travailler la cohésion ---
+  addText("Pourquoi travailler la cohésion ?", 20, "bold", 16, olive, 10);
+  const benefices = [
+    "• Motivation accrue",
+    "• Créativité libérée",
+    "• Rétention des talents",
+    "• +20% de performance collective"
+  ];
+  benefices.forEach(line => addText(line, 20));
+  y += 6;
+
+  // --- Notre solution ---
+  addText("Notre solution : l’atelier Fans de Terre", 20, "bold", 16, terracotta, 10);
+  const atelierIntro = `Atelier collaboratif de 2h pour 15 à 20 participants.
+But : stimuler la communication, renforcer la cohésion et favoriser la créativité collective.
+Résultats attendus : une meilleure coopération, une confiance renforcée et un objet concret symbole du collectif.`;
+  addText(atelierIntro, 20);
+
+  y += 6;
+  addText("Déroulé :", 20, "bold", 12, ardoise, 8);
+
+  const atelierSteps = [
+    "1. Accueil & introduction",
+    "2. Jeu de cartes inédit pour stimuler les échanges",
+    "3. Réalisation d’une œuvre commune en grès",
+    "4. Débrief et mise en perspective managériale"
+  ];
+  atelierSteps.forEach(line => addText(line, 20));
+  y += 6;
+
+  // --- Atouts différenciants ---
+  addText("Les atouts différenciants", 20, "bold", 16, olive, 10);
+  const atouts = [
+    "• Une approche créative unique en France",
+    "• Un objet concret qui ancre l’expérience",
+    "• Un cadre qui libère la parole",
+    "• Adaptable à vos enjeux (communication, innovation, stress)"
+  ];
+  atouts.forEach(line => addText(line, 20));
+  y += 6;
+
+  // --- Prochaine étape ---
+  addText("Prochaine étape", 20, "bold", 16, terracotta, 10);
+  addText("Réservez un échange découverte de 20 minutes :", 20);
+  addText("https://calendly.com/fansdeterre/appel-decouverte-tb", 20, "normal", 12, olive, 8);
+
+  // Sauvegarde
+  doc.save("diagnostic-cohesion-fans-de-terre.pdf");
+}
+
+
+
+
+        function triggerDownload(blob, filename) {
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+function handleCalendlyClick(e) {
+  e.preventDefault();
+  document.getElementById('calendly-modal').style.display = 'block';
+}
+
+
+
+// Fermer le modal
+document.addEventListener('DOMContentLoaded', () => {
+  const modal = document.getElementById('calendly-modal');
+  const closeBtn = document.querySelector('.calendly-close');
+
+  if (closeBtn) {
+    closeBtn.addEventListener('click', () => modal.style.display = 'none');
+  }
+
+  window.addEventListener('click', (e) => {
+    if (e.target === modal) {
+      modal.style.display = 'none';
+    }
+  });
+});
+
+
+
+        function showToast(message, type = 'success') {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.style.display = 'block';
+            toast.style.background = type === 'error' ? 'var(--error)' : 'var(--success)';
+            
+            setTimeout(() => {
+                toast.style.display = 'none';
+            }, 5000);
+        }
+
+        // Amélioration de l'accessibilité : gestion du clavier
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter' && e.target.classList.contains('option-label')) {
+                const radio = e.target.querySelector('input[type="radio"]');
+                if (radio) radio.click();
+            }
+        });
+    </script>
+	
+	
+	
+<!-- Modal Calendly -->
+<div id="calendly-modal" class="calendly-modal">
+  <div class="calendly-modal-content">
+    <span class="calendly-close">&times;</span>
+    <div class="calendly-inline-widget"
+         data-url="https://calendly.com/fansdeterre/appel-decouverte-tb?primary_color=5a806b"
+         style="min-width:320px;height:700px;"></div>
+  </div>
+</div>
+<script src="https://assets.calendly.com/assets/external/widget.js" ></script>
+
+
+<!--<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const params = new URLSearchParams(window.location.search);
+  const email = params.get("email");
+
+  // Regex stricte pour email
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+  if (!email || !emailRegex.test(email)) {
+    console.warn("Email invalide ou absent dans l’URL :", email);
+    // Retour à la page précédente si possible, sinon redirection par défaut
+    if (document.referrer) {
+      window.location.replace(document.referrer);
+    } else {
+      window.location.replace("https://teambuilding.fansdeterre.com/quiz/"); 
+    }
+  }
+});
+</script>-->
+
+
+<script>
+document.getElementById("download-form").addEventListener("submit", async function(e) {
+  e.preventDefault();
+
+  const email  = document.getElementById("email-input").value.trim();
+  const score  = currentScore;
+  const bucket = currentBucket;
+
+  if (!email) {
+    alert("Veuillez entrer un email");
+    return;
+  }
+
+  // --- 1. Envoi des infos par Ajax au serveur ---
+  fetch("send_mail.php", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: "email=" + encodeURIComponent(email) +
+          "&score=" + encodeURIComponent(score) +
+          "&bucket=" + encodeURIComponent(bucket)
+  })
+  .then(r => r.json())
+  .then(data => {
+    if (data.success) {
+      console.log("Mail envoyé !");
+    } else {
+      console.error("Erreur mail:", data.error);
+    }
+  })
+  .catch(err => console.error("Erreur Ajax:", err));
+
+  // --- 2. Génération et téléchargement du PDF enrichi ---
+  createPlaceholderPDF();
+});
+
+
+// 🔹 Fonction qui génère le PDF avec contenu enrichi
+function createPlaceholderPDF() {
+  const { jsPDF } = window.jspdf;
+  const doc = new jsPDF();
+
+  // Couleurs (palette Fans de Terre)
+  const terracotta = [195, 112, 62];  // #C3703E
+  const sable = [241, 233, 226];      // #F1E9E2
+  const ardoise = [47, 54, 64];       // #2F3640
+  const olive = [91, 110, 55];        // #5B6E37
+
+  let y = 20; // Position verticale initiale
+  const marginBottom = 280; // Limite avant saut de page
+
+  function addText(text, x, font = "normal", size = 12, color = ardoise, lineHeight = 7) {
+    doc.setFont("helvetica", font);
+    doc.setFontSize(size);
+    doc.setTextColor(...color);
+
+    const lines = doc.splitTextToSize(text, 170);
+    lines.forEach(line => {
+      if (y > marginBottom) {
+        doc.addPage();
+        y = 20;
+      }
+      doc.text(line, x, y);
+      y += lineHeight;
+    });
+    return lines.length * lineHeight;
+  }
+
+  // --- Couverture ---
+  addText("Diagnostic Cohésion d'Équipe", 20, "bold", 20, terracotta, 10);
+  addText(`Votre score : ${currentScore}/18`, 20, "normal", 14, ardoise, 8);
+  addText(`Catégorie : ${CONFIG.RESULTS[currentBucket].title}`, 20, "normal", 14, ardoise, 8);
+  y += 8;
+  addText(CONFIG.RESULTS[currentBucket].text, 20);
+
+  y += 10;
+
+  // --- Les risques ---
+  addText("Les risques d'une cohésion défaillante", 20, "bold", 16, terracotta, 10);
+  const pains = [
+    "• Communication cloisonnée entre services",
+    "• Créativité qui peine à s’exprimer",
+    "• Tensions latentes freinant la coopération",
+    "• Sentiment d’appartenance faible (turnover, démotivation)"
+  ];
+  pains.forEach(line => addText(line, 20));
+  y += 6;
+
+  // --- Pourquoi travailler la cohésion ---
+  addText("Pourquoi travailler la cohésion ?", 20, "bold", 16, olive, 10);
+  const benefices = [
+    "• Motivation accrue",
+    "• Créativité libérée",
+    "• Rétention des talents",
+    "• +20% de performance collective"
+  ];
+  benefices.forEach(line => addText(line, 20));
+  y += 6;
+
+  // --- Notre solution ---
+  addText("Notre solution : l’atelier Fans de Terre", 20, "bold", 16, terracotta, 10);
+  const atelierIntro = `Atelier collaboratif de 2h pour 15 à 20 participants.
+But : stimuler la communication, renforcer la cohésion et favoriser la créativité collective.
+Résultats attendus : une meilleure coopération, une confiance renforcée et un objet concret symbole du collectif.`;
+  addText(atelierIntro, 20);
+
+  y += 6;
+  addText("Déroulé :", 20, "bold", 12, ardoise, 8);
+
+  const atelierSteps = [
+    "1. Accueil & introduction",
+    "2. Jeu de cartes inédit pour stimuler les échanges",
+    "3. Réalisation d’une œuvre commune en grès",
+    "4. Débrief et mise en perspective managériale"
+  ];
+  atelierSteps.forEach(line => addText(line, 20));
+  y += 6;
+
+  // --- Atouts différenciants ---
+  addText("Les atouts différenciants", 20, "bold", 16, olive, 10);
+  const atouts = [
+    "• Une approche créative unique en France",
+    "• Un objet concret qui ancre l’expérience",
+    "• Un cadre qui libère la parole",
+    "• Adaptable à vos enjeux (communication, innovation, stress)"
+  ];
+  atouts.forEach(line => addText(line, 20));
+  y += 6;
+
+  // --- Prochaine étape ---
+  addText("Prochaine étape", 20, "bold", 16, terracotta, 10);
+  addText("Réservez un échange découverte de 20 minutes :", 20);
+  addText("https://calendly.com/fansdeterre/appel-decouverte-tb", 20, "normal", 12, olive, 8);
+
+  // Sauvegarde
+  doc.save("diagnostic-cohesion-fans-de-terre.pdf");
+}
+</script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+	
+</body>
+</html>
