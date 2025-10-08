@@ -26,6 +26,10 @@ Le tarif comprend 1 à 2 pièces de 20cm x 20cm maximum qui sera **cuite 2 fois 
 [Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)   
 ---
 
-## RESERVER une date   
+## RESERVER UNE DATE    
+**En semaine** :   
+Le mercredi soir de 19h30 à 22h30 - [voir les disponibilités](https://Fansdeterre.as.me/modelagesemaine)   
+
+**Le week-end** :      
 <iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79103959" width="100%" height="800" frameBorder="0"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>  
 
