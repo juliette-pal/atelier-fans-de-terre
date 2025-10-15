@@ -29,7 +29,7 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 ## P/E TOURNAGE    
 **Durée :** 3H  
 **Niveau :** 8 ans et +  
-**Tarif :** 95€ (pour 2)  
+**Tarif :** 105€ (pour 2)  
   
 Après une démonstration, vient le temps de la pratique.   
 Dans le **binôme** que vous formez avec votre enfant, vous vous coacherez à tour de rôle.  
