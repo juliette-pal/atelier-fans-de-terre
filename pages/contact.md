@@ -9,32 +9,29 @@ Veuillez préciser votre demande dans le formulaire contact :
 ---  
 ## Horaires d'ouverture de l'atelier      
 
-L'atelier est **fermé pendant les vacances**   
+**Vacances de Toussaint**   
+L'atelier est ouvert du lundi 20 au samedi 25 de 10H à 13H   
+L'atelier est fermé du 26 octobre au 3 novembre       
 
-REPRISE DES COURS **ENFANTS** LE **24/09/25**  
-REPRISE DES COURS **ADULTES** LE **26/09/25**  
-
-**Horaires semaine à partir du 10/09/25** :     
-Mercredi :  10H à 16H **sur RDV**      
-
-**Horaires semaine à partir du 24/09/25** :     
+**Horaires semaine HORS VACANCES** :     
 Lundi...... : fermé  
 Mardi...... : 19h30 - 22h30  
 Mercredi :  14h00 - 22h30  
 Jeudi....... : 19h30 - 22h30   
-Vendredi : 09h30 - 12h30 et 14h00-20h00      
+Vendredi : 10h00 - 13h00 et 14h00-20h00      
 
 **Ouvertures le week-end** :       
-•	Samedi..... **13/09** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **27/09** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **28/09** : 11h - 13h30 et 16h - 18h30    
-•	Samedi..... **04/10** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **05/10** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **11/10** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **12/10** : 11h - 13h30 et 16h - 18h30   
 •	Samedi..... **18/10** : 11h - 13h30 et 16h - 18h30   
 •	Dimanche **19/10** : 11h - 13h30 et 16h - 18h30   
-
+•	Samedi..... **15/11** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **16/11** : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... **22/11** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **23/11** : 16h - 18h30   
+•	Samedi..... **29/11** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **13/12** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **14/12** : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... **20/12** : 11h - 13h30 et 16h - 18h30   
+   
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
   
