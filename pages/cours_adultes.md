@@ -14,7 +14,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 | Mercredi | 19H30 - 22H30 | Modelage et tournage              |
 | Jeudi    | 15H00 - 18H30 | Modelage **1 jeudi sur 2** - [Voir les séances](samedi.md) |
 |          | 19H30 - 22H30 | Modelage et tournage              |
-| Vendredi | 09H30 - 12H30 | Modelage et tournage              |
+| Vendredi | 10H00 - 12H30 | Modelage et tournage              |
 |          | 14H00 - 17H00 | Modelage et tournage              |
 |          | 17H00 - 20H00 | **100% tournage** |
 | Samedi   | 10H00 - 13H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md) |
@@ -45,7 +45,7 @@ Modelage (tous niveaux) - Tournage (tous niveaux)
 
 **Tarif : 1255€ l’année** - 29 cours de 3H  
 
-**Jours :** Mardi 19H30 - Mercredi 19H30 - Jeudi 19H30 - Vendredi 9H30 et 14H
+**Jours :** Mardi 19H30 - Mercredi 19H30 - Jeudi 19H30 - Vendredi 10H00 et 14H
 
 Les cours hebdomadaires de 3h de **modelage et tournage** vous permettent de pratiquer ces deux techniques pour une **approche globale du travail de la terre**.  
 
