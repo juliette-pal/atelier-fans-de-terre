@@ -34,10 +34,7 @@ Ce sera votre **pause artistique** de la semaine !
   - [Vori les cours Adultes 3H](pages/cours_adultes)
   - [Voir les cours Enfants 1H30](pages/cours_enfants)  
 
----  
-<a href="https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989010">
-<img src="/images/Offre_rentree_2025_fansdeterre.jpg" class="image-horiz" alt="Offre de rentrée">
-</a>   
+---   
 
 ## STAGES PONCTUELS 
 Vos disponibilités varient et vous préférez pratiquer **au coup par coup** de nombreuses techniques telles que le **raku**, la **sculpture**, le **tournage**, la **patine**, des **ateliers parents/enfants**...  
