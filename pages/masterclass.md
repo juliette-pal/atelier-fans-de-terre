@@ -4,28 +4,6 @@ redirect_from:
 ---
 # MASTERCLASS
 
-## Thierry LUANG RATH  
-
-Nous avons la joie d'acceuillir Thierry pour cette super masterclass !!!   
-Sur 2 jours : 10h-13h et 14h-17h   
-
-<img src="/images/masterclass_fans_de_terre_Luang_Rath.png" class="image-stage">  
-Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.  
-Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_button_share_sheet&igsh=bDZnYm5hYW03ZGl4) pour voir le travail de Thierry.  
-
-**Durée :** 12 H  
-
-**Niveau :** Tous niveaux  
-
-**Tarif :** 300€ (élèves de l'atelier 270€)     
-
-**COMPRIS DANS LE TARIF** : outils + 1 cuisson   
-
-**OPTION PAYANTE** : pour les extérieurs (non élèves de l'atelier) : émaillage et seconde cuisson 10€/p - Voir sur place.  
-
-
-[**RESERVER**](https://Fansdeterre.as.me/luangrath)  
-
 ## RECHERCHE EMAUX avec SYLVIE BARBARA
 Stage **émaux de grès** en cuisson **électrique**   
 
@@ -49,6 +27,7 @@ Les stagiaires repartiront avec :
 **Tarif :** 560€ (élèves de l'atelier 450€)     
 
 [**RESERVER**](https://Fansdeterre.as.me/rechercheemaux)  
+
 
 ## STAGE SCULPTURE - ADULTES
 
@@ -75,10 +54,29 @@ Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre)
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.   
 Un supplément de 30€ (à payer le 1er jour du stage) est demandé pour le modèle vivant
 
-
-
 [**RESERVER**](https://Fansdeterre.as.me/SCULPTURE)  
 
+## Thierry LUANG RATH  
+
+Nous avons la joie d'acceuillir Thierry pour cette super masterclass !!!   
+Sur 2 jours : 10h-13h et 14h-17h   
+
+<img src="/images/masterclass_fans_de_terre_Luang_Rath.png" class="image-stage">  
+Les participants aborderont la technique de terre repoussée sur des bols de 350g env tournés par Thierry.  
+Cliquer [**ICI**](https://www.instagram.com/thierryluangrath?utm_source=ig_web_button_share_sheet&igsh=bDZnYm5hYW03ZGl4) pour voir le travail de Thierry.  
+
+**Durée :** 12 H  
+
+**Niveau :** Tous niveaux  
+
+**Tarif :** 300€ (élèves de l'atelier 270€)     
+
+**COMPRIS DANS LE TARIF** : outils + 1 cuisson   
+
+**OPTION PAYANTE** : pour les extérieurs (non élèves de l'atelier) : émaillage et seconde cuisson 10€/p - Voir sur place.  
+
+
+[**RESERVER**](https://Fansdeterre.as.me/luangrath)  
 
 ---
 ## LISTE D'ATTENTE pour un stage complet
