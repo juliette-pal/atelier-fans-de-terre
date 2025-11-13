@@ -5,9 +5,6 @@ redirect_from:
 ---
 # STAGES WEEK-END  
 ---  
-<a href="https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989010">
-<img src="/images/Offre_rentree_2025_fansdeterre.jpg" class="image-horiz" alt="Offre de rentrée">
-</a> 
 
 # ADULTES
 
