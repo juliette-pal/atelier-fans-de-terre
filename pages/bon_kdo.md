@@ -22,9 +22,7 @@ Si vous avez un doute, ou hésitez, optez pour un montant à affecter à n'impor
 
 2. un code permettra au bénéficiaire de les affecter à sa guise !
 
-[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1994579)  
-     
-
+[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538)    
 
 
 🎁 **BON VALABLE 1 AN A COMPTER DE LA DATE D'ACHAT**   
