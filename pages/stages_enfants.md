@@ -38,15 +38,3 @@ Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans l
 ---
 ## LISTE D'ATTENTE pour un stage complet   
 [Cliquer ici pour vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601)  
-
----
-## STAGE DECORE TA POTERIE - ENFANTS / ADOS  
-Les participants décorent une pièce fournie par l'atelier.   
-Ces ateliers ponctuels se déroulent pendant les vacances scolaires, certains mardis, mercredis ou jeudis de 11h30 à 13H.  
-Vous pouvez voir et réserver ci-dessous.  
-**Durée :** 1H30   
-**Niveau :** 6ans et +  
-**Tarif :** 25€  
-1 pièce, les fournitures de décor, la cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
-
-[Nous contacter pour trouver une date](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
