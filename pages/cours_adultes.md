@@ -18,7 +18,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 |          | 14H00 - 17H00 | Modelage et tournage - COMPLET    |
 |          | 17H00 - 20H00 | **100% tournage** |
 | Samedi   | 10H00 - 13H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md) |
-|   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md)  |
+|   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - COMPLET  |
 
 
 <img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">    
