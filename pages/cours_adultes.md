@@ -11,7 +11,7 @@ Plusieurs formules vous sont proposées en fonction de votre disponibilité et d
 | Jours    | Horaires      | Infos          |
 | -------- | ------------- | ------------- |
 | Mardi    | 19H30 - 22H30 | Modelage et tournage              |
-| Mercredi | 19H30 - 22H30 | Modelage et tournage - COMPLET    |
+| Mercredi | 19H30 - 22H30 | Modelage et tournage              |
 | Jeudi    | 15H00 - 18H30 | Modelage **1 jeudi sur 2** - [Voir les séances](samedi.md) |
 |          | 19H30 - 22H30 | Modelage et tournage - COMPLET    |
 | Vendredi | 10H00 - 12H30 | Modelage et tournage              |
