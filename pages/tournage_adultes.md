@@ -2,7 +2,7 @@
 
 Sur une journée complète (6h) ou une demie journée (3h30), généralement le week-end, vous commencez par apprendre ou approfondir les **gestes de base du tournage d’un bol ou d’un cylindre**.  
   
-Après vous être familiarisé au tour le matin (3h30 ou 6h), l'après-midi (uniquement sur formule 6h), vous continuez à tourner sur les pièces du matin qui auront séché entre temps. Cette étape est **vivement recommandée** car elle change complètement le rendu final de vos pièces, on parle alors du **tournassage**. 
+Après vous être familiarisé au tour le matin (3h30 ou 6h), l'après-midi (uniquement sur formule 6h), vous continuez à tourner sur les pièces du matin qui auront séché entre temps. Cette étape est **vivement recommandée** car elle change complètement le rendu final de vos pièces, on parle alors de finitions ou du **tournassage**. 
 
 <img src="/images/stage_tournage_fans_de_terre_colombes_paris.jpg" class="image-stage">  
 
