@@ -27,8 +27,8 @@ Maximum 6 participants par stage.
 Vous pouvez opter pour un **STAGE** ou un **PACK** de plusieurs stages à un prix préférentiel.   
 Optez par exemple pour un Pack tournage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
 
-Stage TOURNAGE 3H30 // **80€** + option tournassage **40€** : [Voir le pack](https://Fansdeterre.as.me/touram)  
-Stage TOURNAGE 6H (tour 3H30 + finitions 2h30) // **120€** : [Voir le pack](https://Fansdeterre.as.me/Tournage6H)  
+Stage TOURNAGE 3H30 // **80€** + option tournassage **40€** : [Stage + option](https://Fansdeterre.as.me/touram)  
+Stage TOURNAGE 6H (tour 3H30 + finitions 2h30) // **120€** : [Stage + option](https://Fansdeterre.as.me/Tournage6H)  
 Pack TOURNAGE 3H30 + Emaillage 3H // **135€** au lieu de 145€ : [Voir le pack](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989002)    
 Pack TOURNAGE 6H00 + Emaillage 3H   // **170€** au lieu de 185€ : [Voir le pack](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001)  
 
