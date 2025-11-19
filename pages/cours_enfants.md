@@ -20,9 +20,9 @@ Il n'y a pas cours pendant les vacances scolaires ni sur la semaine du jeudi de 
 Les fournitures et les cuissons sont comprises dans le prix.  
 
 **Horaires** (1 cours/semaine/enfant) :  
-- Mercredi : 14H – 15H30  
+- Mercredi : 14H – 15H30 - COMPLET  
 - Mercredi : 16H – 17H30  
-- Vendredi : 17H - 18H30      
+- Vendredi : 17H - 18H30 - COMPLET        
 
 
 
