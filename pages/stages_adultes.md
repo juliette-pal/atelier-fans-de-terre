@@ -29,7 +29,7 @@ Tarif :
 ## [MASTERCLASS](masterclass.md)      
 Sur 2 à 3 jour, souvent le wee-end ou pendant les vacances...   
 Des céramistes reconnus dans le milieu, viendront vous transmettre leur savoir !   
-Vous pourrez ainsi vous initier ou approfondir des techniques telles que la :
+Vous pourrez ainsi vous initier ou approfondir des techniques telles que la :   
 La **fabrication d'émaux**, la **sculpture**, et bien d'autres...   
 **Durée** : variable  
 **Niveau** : Tous niveaux   :
