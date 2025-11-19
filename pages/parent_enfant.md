@@ -52,9 +52,9 @@ Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les 
 Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
 
 **Dates et horaires des animations Noêl 2025 :**    
-**Dimanche 9 novembre** : Halle Flachat  
-**Dimanche 30 novembre** : Chez Pepites de familles    
-**samedi 6 et dimanche 7 décembre** : Festival des créatrices à l’école Léon Bourgois   
+**Dimanche 9 novembre** : Halle Flachat à Asnières - Sans réservation  
+**Dimanche 30 novembre** : Chez Pepites de familles à Colombes - [RESERVER](https://www.pepitesdefamilles.fr/boutique-2/)    
+**samedi 6 et dimanche 7 décembre** : Festival des créatrices à l’école Léon Bourgois de Colombes - Sans réservation     
 
     
 
