@@ -52,7 +52,9 @@ Les stages sculpture sont animés par [Claude RHEIN](intervenants_fansdeterre)
 **Tarif :** 170€ (élèves de l'atelier 150€)     
 
 Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.   
-Un supplément de 30€ (à payer le 1er jour du stage) est demandé pour le modèle vivant
+Un supplément de 30€ (à payer le 1er jour du stage) est demandé pour le modèle vivant.   
+Dates et thèmes :
+Visage (décembre) - Animalier (janvier) - Modèle vivant (mai ou juin)   
 
 [**RESERVER**](https://Fansdeterre.as.me/SCULPTURE)  
 
