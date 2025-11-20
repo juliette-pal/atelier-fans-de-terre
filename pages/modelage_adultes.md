@@ -28,7 +28,7 @@ Le tarif comprend 1 à 2 pièces de 20cm x 20cm maximum qui seront **cuites 2 fo
 
 ## RESERVER UNE DATE    
 **En semaine** :   
-Principalement le **mardi** ou **mercredi** soir de 19h30 à 22h30 ou le vendredi matin de 10h30 à 13h.   
+Principalement le **mardi** ou **mercredi** soir de 20h à 22h30 ou le vendredi matin de 10h30 à 13h.   
 Certains **jeudis** de 15h30 à 18h (nous consulter sur contact@fansdeterre.com)      
 
 **Le week-end** :     
