@@ -3,7 +3,7 @@
 Offrez une expérience divertisssante et créative lors de vos évènements, qu'ils soient de grande envergure ou plus intimes !!!   
 En entreprise ou pour des groupes qui veulent créer ou entretenir du lien.   
 
-## Pour les entreprises et les groupes de particuliers       
+## POUR LES ENTREPRISES ET LES GROUPES DE PARTICULIERS         
 Venez créer grâce à notre **jeu céramique**, et repartez **chacun** avec un **souvenir collectif inoubliable** à utiliser au quotidien !!!  
 <img src="/images/Flyer_reduit_team_building_fans_de_terre.png" class="image-horiz">  
 
@@ -19,8 +19,7 @@ Nos **jeux** permettent :
 - de développer le sentiment d'appartenance à l'entreprise
 - de participer à un activité RSE (remplacer les objets non durables)
 - ...
-
-**Durée :** à partir de 2H  
+  
 
 🌟 [Voir une video de présentation](https://youtu.be/9OFrnbaKFkM?si=Tc0rfVL2d9T-oOTU)     
 Vous aurez un aperçu mais on ne dévoile pas tout ! Il y a aussi des challenges en groupes...   
@@ -32,7 +31,7 @@ En 2 minutes top chrono, ayez une idée et des pistes d'amélioration pour votre
 Pour en savoir si nos animation peuvent vous convenir, comment elles se déroulent...    
 
 
-## Animations pour festivals / marchés / guinguettes...        
+## POUR LES FESTIVALS - MARCHES - GUINGUETTES...        
 Vous souhaitez proposer une activité de **décoration sur céramique** comme les cafés céramique.   
 Ces animations sont très prisées lors d'évènements de type festival et marché de créateurs, guinguette...  
 
@@ -48,7 +47,7 @@ Ces pièces pourront être utilisées à la maison comme si elles avaient été 
 
 ** [Nous contacter](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)   
 
-## Découvrir l'activité décore ta poterie en solo   
+## EN PETIT COMITé (adultes - parents/enfants...)   
 Cliquer [ICI](parent_enfant.md) pour connaître nos prochains lieux d'animations   
  
   
