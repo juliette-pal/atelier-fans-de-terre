@@ -26,7 +26,7 @@ Nos **jeux** permettent :
 Vous aurez un aperçu mais on ne dévoile pas tout ! Il y a aussi des challenges en groupes...   
 
 🌟 [Faire un quiz cohésion d'équipe](https://teambuilding.fansdeterre.com/quiz-si)   
-En 3 minutes top chrono, ayez une idée et des pistes d'amélioration de la cohésion de votre équipe.   
+En 2 minutes top chrono, ayez une idée et des pistes d'amélioration pour votre équipe.   
 
 🌟 [Pour en savoir plus sur notre teambuilding céramique](https://teambuilding.fansdeterre.com/ateliers-si)    
 Pour en savoir si nos animation peuvent vous convenir, comment elles se déroulent...    
@@ -49,7 +49,7 @@ Ces pièces pourront être utilisées à la maison comme si elles avaient été 
 ** [Nous contacter](https://docs.google.com/forms/d/e/1FAIpQLSfAaMJPh-1QEouYHQ4PK2VW39pBCma3NkCVcRWdkdgfhH1ERw/viewform?usp=sharing&ouid=114279184575287051335)   
 
 ## Découvrir l'activité décore ta poterie en solo   
-Cliquer [ICI](parent_enfant.md) pour connaître nos prochains lieux d'animation  
+Cliquer [ICI](parent_enfant.md) pour connaître nos prochains lieux d'animations   
  
   
 
