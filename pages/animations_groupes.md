@@ -1,4 +1,4 @@
-# TEAM BUILDING CERAMIQUE  
+# TEAMBUILDING CERAMIQUE  
 # ANIMATIONS    
 Offrez une expérience divertisssante et créative lors de vos évènements, qu'ils soient de grande envergure ou plus intimes !!!   
 En entreprise ou pour des groupes qui veulent créer ou entretenir du lien.   
@@ -28,7 +28,7 @@ Vous aurez un aperçu mais on ne dévoile pas tout ! Il y a aussi des challenges
 🌟 [Faire un quiz cohésion d'équipe](https://teambuilding.fansdeterre.com/quiz-si)   
 En 3 minutes top chrono, ayez une idée et des pistes d'amélioration de la cohésion de votre équipe.   
 
-🌟 [Réserver un appel découverte gratuit](https://teambuilding.fansdeterre.com/ateliers-si)    
+🌟 [Pour en savoir plus sur notre teambuilding céramique](https://teambuilding.fansdeterre.com/ateliers-si)    
 Pour en savoir si nos animation peuvent vous convenir, comment elles se déroulent...    
 
 
