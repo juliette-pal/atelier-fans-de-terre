@@ -22,14 +22,17 @@ Nos **jeux** permettent :
 
 **Durée :** à partir de 2H  
 
-** [voir une video de présentation](https://youtu.be/9OFrnbaKFkM?si=Tc0rfVL2d9T-oOTU)       
+🌟 [Voir une video de présentation](https://youtu.be/9OFrnbaKFkM?si=Tc0rfVL2d9T-oOTU)     
+Vous aurez un aperçu mais on ne dévoile pas tout ! Il y a aussi des challenges en groupes...   
 
-** [Faire un quiz cohésion d'équipe](https://teambuilding.fansdeterre.com/quiz-si)   
+🌟 [Faire un quiz cohésion d'équipe](https://teambuilding.fansdeterre.com/quiz-si)   
+En 3 minutes top chrono, ayez une idée et des pistes d'amélioration de la cohésion de votre équipe.   
 
-** [Réserver un appel découverte](https://teambuilding.fansdeterre.com/ateliers-si)    
+🌟 [Réserver un appel découverte gratuit](https://teambuilding.fansdeterre.com/ateliers-si)    
+Pour en savoir si nos animation peuvent vous convenir, comment elles se déroulent...    
 
-   
-## Animations festivals / marchés / guinguettes...        
+
+## Animations pour festivals / marchés / guinguettes...        
 Vous souhaitez proposer une activité de **décoration sur céramique** comme les cafés céramique.   
 Ces animations sont très prisées lors d'évènements de type festival et marché de créateurs, guinguette...  
 
