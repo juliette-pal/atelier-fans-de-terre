@@ -7,7 +7,7 @@ redirect_from:
 ## [LES COURS HEBDOMADAIRES 1H30](cours_enfants.md)
 Pour une **pratique artistique** régulière autour des techniques céramiques.  
 **Durée :** 1H30  
-**Niveau :** 4 ans et +  
+**Niveau :** 5 ans et +  
 **Tarif :** à partir de 135€  
 [En savoir plus](cours_enfants)  
 
