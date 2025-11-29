@@ -1,6 +1,6 @@
 # COURS ENFANTS HEBDOMADAIRES  
 
-La terre se travaille à tout âge, c’est pour cette raison que nous proposons aux **enfants dès 4ans**, et **adolescents** des cours hebdomadaires d'1H30. Ils pourront aborder en alternance :
+La terre se travaille à tout âge, c’est pour cette raison que nous proposons aux **enfants dès 5ans**, et **adolescents** des cours hebdomadaires d'1H30. Ils pourront aborder en alternance :
 - des cours guidés autour d'une technique spécifique de façonnage ou de décoration
 - des cours pour donner libre cours à leur créativité.
 
@@ -15,7 +15,7 @@ La terre se travaille à tout âge, c’est pour cette raison que nous proposons
 Les cours ont lieu de fin septembre à mi juin, **hors vacances scolaires**.  
 Il n'y a pas cours pendant les vacances scolaires ni sur la semaine du jeudi de l'ascension.
 
-**Niveau :** 4 ans et +  
+**Niveau :** 5 ans et +  
 
 Les fournitures et les cuissons sont comprises dans le prix.  
 
