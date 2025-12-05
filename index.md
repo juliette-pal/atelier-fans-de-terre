@@ -24,7 +24,7 @@ Il ne vous reste plus qu’à **y faire un tour** ou offrir un [**bon cadeau**](
 
 ---  
 <a href="/pages/bon_kdo">
-<img src="/images/Affiche_bon_cadeau_fansdeterre.jpeg" class="image-stage">
+<img src="/images/Affiche_bon_cadeau_fansdeterre.jpg" class="image-stage">
 </a>
 
 ## COURS HEBDOMADAIRES  
