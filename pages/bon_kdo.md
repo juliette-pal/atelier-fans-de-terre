@@ -5,8 +5,13 @@
 Pour toutes les occasions, anniversaires, cadeau de Noel, Fête des mères, des pères,….  
 L'expérience d'un savoir-faire artisanal garanti !
 
-<img src="/images/carte cadeau-ceramique-fansdeterre-raku-paris-600 410.png" class="image-horiz">
-<img src="/images/Affiche_bon_cadeau_fansdeterre.jpg" class="image-stage">
+<img src="/images/Affiche_bon_cadeau_fansdeterre.jpg" class="image-stage">   
+
+## Utiliser un bon reçu
+Munissez-vous de votre code certificat remis au moment de l'achat.  
+Choisissez le stage désiré.
+Renseignez-le code certificat au moment de saisir les coordonnées bancaires.  
+[Utiliser son bon](https://Fansdeterre.as.me/)  
 
 ## Offrir un stage précis
 Si vous avez une idée précise de ce qui plaira à celui ou celle qui recevra le bon cadeau, allez directement au stage ou cours concerné.   
