@@ -6,6 +6,7 @@ Pour toutes les occasions, anniversaires, cadeau de Noel, Fête des mères, des 
 L'expérience d'un savoir-faire artisanal garanti !
 
 <img src="/images/carte cadeau-ceramique-fansdeterre-raku-paris-600 410.png" class="image-horiz">
+<img src="/images/Affiche_bon_cadeau_fansdeterre.jpeg" class="image-stage">
 
 ## Offrir un stage précis
 Si vous avez une idée précise de ce qui plaira à celui ou celle qui recevra le bon cadeau, allez directement au stage ou cours concerné.   
