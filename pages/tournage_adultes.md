@@ -32,7 +32,8 @@ Stage TOURNAGE 6H (tour 3H30 + finitions 2h30) // **120€** : [Stage + option](
 Pack TOURNAGE 3H30 + Emaillage 3H // **135€** au lieu de 145€ : [Voir le pack](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989002)    
 Pack TOURNAGE 6H00 + Emaillage 3H   // **170€** au lieu de 185€ : [Voir le pack](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1989001)  
 
-
+*PROCHAINES DATES DE TOURNAGE 3H30 OU 6H**  
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79153292" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
 
 ---
 [Voir tous les stages et packs Fans de terre](https://Fansdeterre.as.me/)   
