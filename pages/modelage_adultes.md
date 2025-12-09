@@ -34,6 +34,8 @@ Certains **jeudis** de 15h30 à 18h (nous consulter sur contact@fansdeterre.com)
 **Le week-end** :     
 Le samedi ou dimanche de 16h à 18h30   
 
-[voir les disponibilités 2H30 en semaine](https://Fansdeterre.as.me/Modelagesemaine)    
-[voir les disponibilités 2H30 le week-end](<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79103959" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>)    
+[**voir les disponibilités 2H30 en semaine**](https://Fansdeterre.as.me/Modelagesemaine)    
+
+**Les disponibilités 2H30 le week-end**   
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79103959" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script> 
 
