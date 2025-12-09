@@ -22,8 +22,8 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 Vous réalisez un **projet commun** et nous vous accompagnons dans sa réalisation.  
 En fonction du temps, vous pourrez le mettre en couleur.  
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous.  
-
-[RESERVER un stage](https://Fansdeterre.as.me/parentsenfantsmodelage)   
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79697491" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
+  
 
 
 ## P/E TOURNAGE    
@@ -35,8 +35,8 @@ Après une démonstration, vient le temps de la pratique.
 Dans le **binôme** que vous formez avec votre enfant, vous vous coacherez à tour de rôle.  
 Les petits pots tournés seront assemblés pour un **objet unique** !!!  
 Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la cuire 2 fois et l'émailler pour vous. 
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79697260" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
 
-[RESERVER un stage](https://Fansdeterre.as.me/parentsenfantstournage)   
 
 ## DECORE TA POTERIE      
 **Durée :**   
