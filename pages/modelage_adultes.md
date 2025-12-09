@@ -34,5 +34,5 @@ Certains **jeudis** de 15h30 à 18h (nous consulter sur contact@fansdeterre.com)
 **Le week-end** :     
 Le samedi ou dimanche de 16h à 18h30   
 
-[voir les disponibilités](https://Fansdeterre.as.me)    
-
+[voir les disponibilités 2H30 en semaine](https://Fansdeterre.as.me/ModelageAdulte)    
+[voir les disponibilités 3H00 le week-end](https://Fansdeterre.as.me/DECOREMAILLAGE)    
