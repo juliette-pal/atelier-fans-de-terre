@@ -24,38 +24,8 @@ Le modelage a lieu tout au long de l'année (1 séance au moins par mois).
 
 ---
 
-## Formule 100% ATELIER   
-**Email et cuisson de vos pièces**      
-
-<img src="/images/Raku_ambiance_fans_de_terre.jpg" class="image-stage">  
-
-
-Modelage **+** émaillage **+** cuisson raku, le tout chez Fans de terre    
-
-**Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
-**Niveau :** Débutant/Intermédiaire  
-**Tarif : 160€**    
-
-Dans cette formule **vous devez choisir 2 dates** à l'aide des codes qui vous seront fournis à l'achat : 
-- la 1ere date est celle du modelage  
-- la seconde pour l'émaillage et la cuisson raku  
-*Prévoir **minimum 2 semaines** entre les deux dates*.
-*EX : modelage en septembre et raku en avril c'est possible*...   
-
-[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
-
-## Formule DECOUVERTE   
-**Email et cuisson pièces FDT**       
-<img src="/images/raku_geste_fans_de_terre.jpg" class="image-stage">  
-
-Emaillage **+** cuisson raku **+** fourniture de 2 pièces déjà cuites **+** initiation au modelage (ces pièces ne sont pas gardées).  
-
-**Durée :** 1 journée  
-**Niveau :** Débutant/Intermédiaire  
-**Tarif : 135€**  
-[RESERVER](https://Fansdeterre.as.me/cuissonraku) 
-
-## Formule MAISON  
+## Formule MAISON   
+**Email + cuisson pièces faites chez vous**      
 **Chez vous** : Modelage + 1ère cuisson     
 **chez nous** : Emaillage + cuisson raku      
 **Durée :** 1 journée (émaillage et cuisson)  
@@ -77,6 +47,40 @@ Emaillage **+** cuisson raku **+** fourniture de 2 pièces déjà cuites **+** i
 
 🌟 Voir directement avec celui ou celle qui anime ton cours chez Fans de terre  
   
+## Formule 100% ATELIER   
+**Modelage + Email + cuisson**      
+
+<img src="/images/Raku_ambiance_fans_de_terre.jpg" class="image-stage">  
+
+
+Modelage **+** émaillage **+** cuisson raku, le tout chez Fans de terre    
+
+**Durée :** 2H30 de modelage + 1 journée (émaillage et cuisson)  
+**Niveau :** Débutant/Intermédiaire  
+**Tarif : 160€**    
+
+Dans cette formule **vous devez choisir 2 dates** à l'aide des codes qui vous seront fournis à l'achat : 
+- la 1ere date est celle du modelage  
+- la seconde pour l'émaillage et la cuisson raku  
+*Prévoir **minimum 2 semaines** entre les deux dates*.
+*EX : modelage en septembre et raku en avril c'est possible*...   
+
+[RESERVER](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&clear=1&id=1988339)  
+
+## Formule DECOUVERTE   
+**Email + cuisson pièces FDT**       
+<img src="/images/raku_geste_fans_de_terre.jpg" class="image-stage">  
+
+Emaillage **+** cuisson raku **+** fourniture de 2 pièces déjà cuites **+** initiation au modelage (ces pièces ne sont pas gardées).  
+
+**Durée :** 1 journée  
+**Niveau :** Débutant/Intermédiaire  
+**Tarif : 135€**  
+
+**LES DATES CI-DESSOUS SONT TOUTES LES DATES RAKU PREVUES QUELQUESOIT LA FORMULE CHOISIE**
+
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79105647" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
+
 
 ---
 ## LISTE D'ATTENTE pour un stage complet  
