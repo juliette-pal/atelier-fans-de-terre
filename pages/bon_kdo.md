@@ -13,20 +13,13 @@ Choisissez le stage désiré.
 Renseignez-le code certificat au moment de saisir les coordonnées bancaires.  
 [Utiliser son bon](https://Fansdeterre.as.me/)  
 
-## Offrir un stage précis
-Si vous avez une idée précise de ce qui plaira à celui ou celle qui recevra le bon cadeau, allez directement au stage ou cours concerné.   
-Par exemple, allez aux stages tournage pour en offrir un.      
-Pensez à indiquer les coordonnées du bénéficiaire !!! 
-
-[RESERVER un stage spécifique](https://Fansdeterre.as.me/)   
-
 
 ## Offir un montant à affecter 
 Si vous avez un doute, ou hésitez, optez pour un montant à affecter à n'importe quel stage Fans de terre.   
   
-1. Choisissez de1 à plusieurs bons de 40 ou 50€ (selon votre budget)     
+1. Choisissez de 1 à plusieurs bons de 40 ou 50€ (selon votre budget)     
 
-2. un code permettra au bénéficiaire de les affecter à sa guise !
+2. Un code (ou plusieurs) permettra au bénéficiaire de les affecter à sa guise !
 
 [RESERVER un montant à affecter](https://app.acuityscheduling.com/catalog.php?owner=35942538)    
 
