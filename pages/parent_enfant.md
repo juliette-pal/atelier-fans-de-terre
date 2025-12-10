@@ -52,13 +52,10 @@ Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les 
 Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
 
 **NOS PROCHAINES DATES :**    
+
 **DIMANCHE 8 FEVRIER 2026** : chez NOUS **FANS DE TERRE** à Colombes
-<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=86661562" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>  
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=86661562" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>    
 
-**SAMEDI 14 MARS 2026** : à la **Halle Flachat** à Asnières
-<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=86661894" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
-
-**SAMEDI 18 AVRIL 2026** : chez **Pepites de familles** à Colombes - [RESERVER](https://www.pepitesdefamilles.fr/boutique-2/)    
 
 ---
 
