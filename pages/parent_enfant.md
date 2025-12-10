@@ -38,7 +38,7 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 <iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79697260" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
 
 
-## DECORE TA POTERIE      
+## DECORE TA POTERIE notre café céramique !!!      
 **Durée :**   
 **Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
 **Tarif :** à partir de 5€, en fonction des pièces choisies         
@@ -51,27 +51,23 @@ Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les 
 
 Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
 
-**Dates et horaires des animations Noêl 2025 :**    
-**Dimanche 9 novembre** : Halle Flachat à Asnières - Sans réservation  
-**Dimanche 30 novembre** : Chez Pepites de familles à Colombes - [RESERVER](https://www.pepitesdefamilles.fr/boutique-2/)    
-**samedi 6 et dimanche 7 décembre** : Festival des créatrices à l’école Léon Bourgois de Colombes - Sans réservation     
+**NOS PROCHAINES DATES :**    
+**DIMANCHE 8 FEVRIER 2026** : chez NOUS **FANS DE TERRE** à Colombes
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=86661562" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>  
 
-    
+**SAMEDI 14 MARS 2026** : à la **Halle Flachat** à Asnières
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=86661894" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
+
+**SAMEDI 18 AVRIL 2026** : chez **Pepites de familles** à Colombes - [RESERVER](https://www.pepitesdefamilles.fr/boutique-2/)    
+
+---
 
 [Cliquer ici pour nous contacter pour votre évènement](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
 
----
- 
-## LISTE D'ATTENTE pour un stage complet
+
 [Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }        
 
-
-[Cliquer ici pour participer au sondage poterie en famille le mercredi](https://forms.gle/adTVVqG97Q9a3cgP7)  
-1 adulte peut accompagner plusieurs enfants.   
-Vous réalisez des **projets communs** de a à z et nous vous accompagnons dans la réalisation.  
   
-
-
-## [RESERVER - Tous les stages](https://Fansdeterre.as.me/)    
+[Voir tous les stages](https://Fansdeterre.as.me/)    
 
 
