@@ -3,6 +3,11 @@ redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/cours-de-tournage-uniquement/
 ---
 # COURS ADULTES HEBDOMADAIRES   
+
+<a href="/pages/bon_kdo">
+<img src="/images/Affiche_bon_cadeau_fansdeterre.jpg" class="image-stage">
+</a>
+
 Plusieurs formules vous sont proposées en fonction de votre disponibilité et de votre attrait particulier pour le tournage céramique.  
   
   
