@@ -4,11 +4,15 @@ redirect_from:
 ---
 # COURS ADULTES HEBDOMADAIRES   
 
-<a href="(https://www.google.com/search?sca_esv=7a7784c0b95b5c0d&rlz=1C1DLBX_frFR878FR880&sxsrf=AE3TifNL6jAnsxFHc8Wcz8NBM5FiLGSgQw:1765455304028&q=fansdeterre&si=AMgyJEvkVjFQtirYNBhM3ZJIRTaSJ6PxY6y1_6WZHGInbzDnMWvUeOmJK7INkDteKAWb-s8XqL8OWOOrdQta_Qb5H8P6_wjzWQJU2sdC_Pj9Bly3uEMVNa0%3D&uds=AOm0WdFjhyjv-N7IxYZGImag8WESIos6b5FG7Oiin7a7S_pku2Y4ryGygzzD2I6ehV04XUwrOedfN7ZwoFM6AtGOY3dGvghIMzrTZYbytlQv1Mum1mgd-_c&sa=X&ved=2ahUKEwjgyY3CwbWRAxXbRaQEHdhzK2YQ3PALegQIKhAF&biw=1396&bih=588&dpr=1.38)">
-<img src="/images/avis_cours_fansdeterre.png" class="image-stage">
+<a href="https://www.google.com/search?sca_esv=7a7784c0b95b5c0d&rlz=1C1DLBX_frFR878FR880&sxsrf=AE3TifNL6jAnsxFHc8Wcz8NBM5FiLGSgQw:1765455304028&q=fansdeterre&si=AMgyJEvkVjFQtirYNBhM3ZJIRTaSJ6PxY6y1_6WZHGInbzDnMWvUeOmJK7INkDteKAWb-s8XqL8OWOOrdQta_Qb5H8P6_wjzWQJU2sdC_Pj9Bly3uEMVNa0%3D&uds=AOm0WdFjhyjv-N7IxYZGImag8WESIos6b5FG7Oiin7a7S_pku2Y4ryGygzzD2I6ehV04XUwrOedfN7ZwoFM6AtGOY3dGvghIMzrTZYbytlQv1Mum1mgd-_c&sa=X&ved=2ahUKEwjgyY3CwbWRAxXbRaQEHdhzK2YQ3PALegQIKhAF&biw=1396&bih=588&dpr=1.38">
+<img src="/images/avis_cours_fansdeterre.png" class="image-horiz">
 </a>
 
-Plusieurs formules vous sont proposées en fonction de votre disponibilité et de votre attrait particulier pour le tournage céramique.  
+Pratiquer une activité céramique c'est une bulle de création et bien plus encore !!!   
+D'après nos élèves venir chez Fans de terre c'est...  
+"Mettre son cerveau en mode calme" - ""déconnexion et évasion" - ""mettre mon cerveau en mode calme"" - "évasion/ partage/ création" - "de la détente et des bons gateaux" - "me donne de la joie" - "retrouver de belles personnes" - "convivialité" - "difficile de s'en passer" - "moment magique" - "bienveillance"...      
+
+Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposées en fonction de votre disponibilité et de votre attrait particulier pour le tournage céramique...  
   
   
 **Horaires** :  
