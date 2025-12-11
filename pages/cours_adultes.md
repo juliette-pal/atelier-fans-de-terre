@@ -36,7 +36,8 @@ Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposé
 | Samedi   | 10H00 - 13H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md) |
 |   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - COMPLET  |
 
-Nos élèves incris à l'année bénéficient de 6 bonus : raku, 20% de réduction sur les stages week-end, 3 rattrapages possibles en cas d'absence, l'accès privilégié au tournage libre, le paiment en plusieurs fois.   
+**Nos élèves incris à l'année bénéficient de 6 bonus :**   
+1 cuisson Raku par an, 20% de réduction sur les stages week-end, 3 rattrapages possibles en cas d'absence, l'accès privilégié au tournage libre, le paiment en plusieurs fois.   
 
 
 <img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">    
