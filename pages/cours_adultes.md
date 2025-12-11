@@ -9,9 +9,9 @@ redirect_from:
 </a>
 *Cliquer sur l'avis pour voir plus d'avis"   
 
-Pratiquer une activité céramique c'est une bulle de création et bien plus encore !!!   
+Pratiquer une activité céramique c'est une bulle de création **et bien plus encore** !!!   
 
-**D'après nos élèves venir chez Fans de terre c'est...** 
+**D'après nos élèves venir chez Fans de terre c'est...**   
 "Mettre son cerveau en mode calme" - "déconnexion et évasion" - "partage/ création"   
 "de la détente et des bons gateaux" - "me donne de la joie" - "retrouver de belles personnes"   
 "convivialité" - "difficile de s'en passer" - "moment magique" - "bienveillance"...      
