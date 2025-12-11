@@ -11,10 +11,13 @@ redirect_from:
 
 Pratiquer une activité céramique c'est une bulle de création **et bien plus encore** !!!   
 
-**D'après nos élèves venir chez Fans de terre c'est...**   
+**D'après nos élèves, venir chez Fans de terre c'est...**   
 "Mettre son cerveau en mode calme" - "déconnexion et évasion" - "partage/ création"   
-"de la détente et des bons gateaux" - "me donne de la joie" - "retrouver de belles personnes"   
-"convivialité" - "difficile de s'en passer" - "moment magique" - "bienveillance"...      
+"de la détente et des bons gateaux"   
+"me donne de la joie" - "convivialité"   
+"retrouver de belles personnes"   
+"moment magique" - "bienveillance"   
+"difficile de s'en passer"...      
 
 Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposées en fonction de votre disponibilité et de votre attrait particulier pour le tournage céramique...  
   
@@ -32,6 +35,8 @@ Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposé
 |          | 17H00 - 20H00 | **100% tournage** |
 | Samedi   | 10H00 - 13H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md) |
 |   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - COMPLET  |
+
+Nos élèves incris à l'année bénéficient de 6 bonus : raku, 20% de réduction sur les stages week-end, 3 rattrapages possibles en cas d'absence, l'accès privilégié au tournage libre, le paiment en plusieurs fois.   
 
 
 <img src="/images/bonuseleves.jpg" class="image-horiz" alt="Bonus élèves">    
