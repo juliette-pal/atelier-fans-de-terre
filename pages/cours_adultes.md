@@ -3,11 +3,12 @@ redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/cours-de-tournage-uniquement/
 ---
 # COURS ADULTES HEBDOMADAIRES   
-[Cliquer ici pour voir plus d'avis](https://www.google.com/search?
+[Cliquer ici pour voir plus d'avis](https://www.google.com/search?sca_esv=7a7784c0b95b5c0d&rlz=1C1DLBX_frFR878FR880&sxsrf=AE3TifNL6jAnsxFHc8Wcz8NBM5FiLGSgQw:1765455304028&q=fansdeterre&si=AMgyJEvkVjFQtirYNBhM3ZJIRTaSJ6PxY6y1_6WZHGInbzDnMWvUeOmJK7INkDteKAWb-s8XqL8OWOOrdQta_Qb5H8P6_wjzWQJU2sdC_Pj9Bly3uEMVNa0%3D&uds=AOm0WdFjhyjv-N7IxYZGImag8WESIos6b5FG7Oiin7a7S_pku2Y4ryGygzzD2I6ehV04XUwrOedfN7ZwoFM6AtGOY3dGvghIMzrTZYbytlQv1Mum1mgd-_c&sa=X&ved=2ahUKEwjgyY3CwbWRAxXbRaQEHdhzK2YQ3PALegQIKhAF&biw=1396&bih=588&dpr=1.38")   
+
 <a href="https://www.google.com/search?sca_esv=7a7784c0b95b5c0d&rlz=1C1DLBX_frFR878FR880&sxsrf=AE3TifNL6jAnsxFHc8Wcz8NBM5FiLGSgQw:1765455304028&q=fansdeterre&si=AMgyJEvkVjFQtirYNBhM3ZJIRTaSJ6PxY6y1_6WZHGInbzDnMWvUeOmJK7INkDteKAWb-s8XqL8OWOOrdQta_Qb5H8P6_wjzWQJU2sdC_Pj9Bly3uEMVNa0%3D&uds=AOm0WdFjhyjv-N7IxYZGImag8WESIos6b5FG7Oiin7a7S_pku2Y4ryGygzzD2I6ehV04XUwrOedfN7ZwoFM6AtGOY3dGvghIMzrTZYbytlQv1Mum1mgd-_c&sa=X&ved=2ahUKEwjgyY3CwbWRAxXbRaQEHdhzK2YQ3PALegQIKhAF&biw=1396&bih=588&dpr=1.38">
 <img src="/images/avis_cours_fansdeterre.png" class="image-horiz">
 </a>
-sca_esv=7a7784c0b95b5c0d&rlz=1C1DLBX_frFR878FR880&sxsrf=AE3TifNL6jAnsxFHc8Wcz8NBM5FiLGSgQw:1765455304028&q=fansdeterre&si=AMgyJEvkVjFQtirYNBhM3ZJIRTaSJ6PxY6y1_6WZHGInbzDnMWvUeOmJK7INkDteKAWb-s8XqL8OWOOrdQta_Qb5H8P6_wjzWQJU2sdC_Pj9Bly3uEMVNa0%3D&uds=AOm0WdFjhyjv-N7IxYZGImag8WESIos6b5FG7Oiin7a7S_pku2Y4ryGygzzD2I6ehV04XUwrOedfN7ZwoFM6AtGOY3dGvghIMzrTZYbytlQv1Mum1mgd-_c&sa=X&ved=2ahUKEwjgyY3CwbWRAxXbRaQEHdhzK2YQ3PALegQIKhAF&biw=1396&bih=588&dpr=1.38")     
+  
 
 Pratiquer une activité céramique c'est une bulle de création **et bien plus encore** !!!   
 
