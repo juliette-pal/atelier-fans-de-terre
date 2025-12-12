@@ -9,7 +9,8 @@ Réalisez ensemble un objet à utiliser au quotidien et personnalisez-le à vos 
 
 Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillage, sont compris dans le prix.
 
-*La récupération des pièces se fait 1 mois après le stage (hors vacances).*
+*La récupération des pièces se fait entre 10 jours et 1 mois après le stage (hors vacances).*
+
 
 
 ---
