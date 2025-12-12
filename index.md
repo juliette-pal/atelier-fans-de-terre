@@ -41,7 +41,7 @@ Les stages ont lieu principalement le week-end pour les adultes et pendant les v
 
 ## ANIMATIONS - GROUPES et ENTREPRISES    
 🌟 NEW NEW !!!🌟   
-Nos cafés céramique ou animations "décore ta poterie" sont à destination des groupes en tout genre : entreprises, familles, enterrements de vie de jeune, festivals, marchés de Noël,...    
+Nos **cafés céramique** ou animations **décore ta poterie** sont à destination des groupes en tout genre : entreprises, familles, enterrements de vie de jeune, festivals, marchés de Noël,...    
 [Cliquer ici pour en savoir plus sur les animations GROUPES / ENTREPRISES](pages/animations_groupes.md)   
 
 
