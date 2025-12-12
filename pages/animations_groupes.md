@@ -32,7 +32,7 @@ Pour en savoir si nos animation peuvent vous convenir, comment elles se déroule
 
 
 ## POUR LES FESTIVALS - MARCHES - GUINGUETTES...        
-Vous souhaitez proposer une activité de **décoration sur céramique** comme les cafés céramique.   
+Vous souhaitez proposer une activité de **décoration sur céramique** comme les **cafés céramique**.   
 Ces animations sont très prisées lors d'évènements de type festival et marché de créateurs, guinguette...  
 
 <img src="/images/geste-animation-poterie-fansdeterre-ceramique-colombes-paris.jpg" class="image-horiz">   
