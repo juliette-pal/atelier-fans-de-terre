@@ -39,18 +39,18 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 <iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79697260" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
 
 
-## DECORE TA POTERIE notre café céramique !!!      
+## CAFE CERAMIQUE OU DECORE TA POTERIE  !!!      
 **Durée :**   
 **Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
 **Tarif :** à partir de 5€, en fonction des pièces choisies         
 
-Vous connaissez le **café céramique** ? C'est pareil !    
+Vous connaissez le **café céramique** ?    
 
 Dans cet atelier **DIY**, vous décorez des **poteries fournies par l'atelier**, que vous pourrez ensuite utiliser au quotidien !!!  
   
-Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**. Les **enfants** peuvent aussi pratiquer **tous seuls** !!!    
+Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**.       
 
-Il faudra attendre 10 jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire** pour vous.   
+Il faudra attendre quelques jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire une seconde fois** pour vous.   
 
 **NOS PROCHAINES DATES :**    
 
