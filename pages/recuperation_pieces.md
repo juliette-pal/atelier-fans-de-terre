@@ -20,14 +20,15 @@ Passez, **sur les horaires d’ouverture**, **sans message préalable**
  
 ## Dans quel délai après votre stage  
 
-Vous devez rajouter la durée des vacances aux délais ci-dessous s'il y en a entre les deux dates :  
-- **Stage vacances enfants :** 1 mois après 
-- **Atelier parents/enfants :** 1 mois après 
-- **Stage tournage adultes :** 15 jours après 
-- **Stage émaillage adultes :** 15 jours après 
-- **Stage modelage adultes :** 1 mois après 
-- **Stage raku :** 1 mois après 
-- **Stage sculpture :**  2 mois après  
+Vous devez rajouter la durée des vacances (15 jours ou 2 mois pour l'été) aux délais ci-dessous s'il y en a à ces délais :  
+- **Café céramique ou décore ta poterie :** 10 jours  
+- **Stage vacances enfants :** .......1 mois   
+- **Atelier parents/enfants :** ........1 mois   
+- **Stage tournage adultes :** ....15 jours  
+- **Stage émaillage adultes :** ...15 jours   
+- **Stage modelage adultes :** .....1 mois   
+- **Stage raku :** ................................ 1 mois 
+- **Stage sculpture :** ...................... 2 mois  
   
 
 ## Horaires d'ouverture de l'atelier      
