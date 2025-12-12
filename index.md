@@ -8,9 +8,6 @@ redirect_from:
 
 # **ATELIER DE POTERIE ET CÉRAMIQUE**  
 
-REPRISE DES COURS **ENFANTS** LE **24/09/25**  
-REPRISE DES COURS **ADULTES** LE **26/09/25**  
-
 ᐉ Vous cherchez une **activité artistique** et **créative** ?  
 ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture,...** ?  
 ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
@@ -44,7 +41,7 @@ Les stages ont lieu principalement le week-end pour les adultes et pendant les v
 
 ## ANIMATIONS - GROUPES et ENTREPRISES    
 🌟 NEW NEW !!!🌟   
-Les animations "décore ta poterie" sont à destination des groupes en tout genre : entreprises, familles, enterrements de vie de jeune, festivals, marchés de Noël,...    
+Nos cafés céramique ou animations "décore ta poterie" sont à destination des groupes en tout genre : entreprises, familles, enterrements de vie de jeune, festivals, marchés de Noël,...    
 [Cliquer ici pour en savoir plus sur les animations GROUPES / ENTREPRISES](pages/animations_groupes.md)   
 
 
