@@ -13,12 +13,12 @@ redirect_from:
 Pratiquer une activité céramique c'est une bulle de création **et bien plus encore** !!!   
 
 **D'après nos élèves, venir chez Fans de terre c'est...**   
-"Mettre son cerveau en mode calme" - "déconnexion et évasion" - "partage/ création"   
-"de la détente et des bons gateaux"   
-"me donne de la joie" - "convivialité"   
-"retrouver de belles personnes"   
-"moment magique" - "bienveillance"   
-"difficile de s'en passer"...      
+*"Mettre son cerveau en mode calme" - "déconnexion et évasion" - "partage/ création"*   
+*"de la détente et des bons gateaux"*   
+*"me donne de la joie" - "convivialité"*   
+*"retrouver de belles personnes"*   
+*"moment magique" - "bienveillance"*   
+*"difficile de s'en passer"*...      
 
 Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposées en fonction de votre disponibilité et de votre attrait particulier pour le tournage céramique...  
   
