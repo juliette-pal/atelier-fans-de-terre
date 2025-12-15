@@ -42,7 +42,7 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 ## CAFE CERAMIQUE OU DECORE TA POTERIE  !!!      
 **Durée :**   
 **Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
-**Tarif :** à partir de 5€, en fonction des pièces choisies         
+**Tarif :** à partir de 10€, en fonction des pièces choisies         
 
 Vous connaissez le **café céramique** ?    
 
@@ -63,7 +63,7 @@ Il faudra attendre quelques jours pour récupérer votre œuvre car l'atelier de
 [Cliquer ici pour nous contacter pour votre évènement](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
 
 
-[Cliquer ici si vous souhaitez vous inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }        
+[Cliquer ici pour suivre notre actualité et connaître nos prochaines dates de café céramique](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }        
 
   
 [Voir tous les stages](https://Fansdeterre.as.me/)    
