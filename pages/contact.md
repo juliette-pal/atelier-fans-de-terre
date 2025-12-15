@@ -9,9 +9,8 @@ Veuillez préciser votre demande dans le formulaire contact :
 ---  
 ## Horaires d'ouverture de l'atelier      
 
-**Vacances de Toussaint**   
-L'atelier est ouvert du lundi 20 au samedi 25 de 10H à 13H   
-L'atelier est fermé du 26 octobre au 3 novembre       
+**Vacances de NOEL**   
+L'atelier est fermé du 23 décembre au 5 janvier 2026       
 
 **Horaires semaine HORS VACANCES** :     
 Lundi...... : fermé  
@@ -21,17 +20,22 @@ Jeudi....... : 19h30 - 22h30
 Vendredi : 10h00 - 13h00 et 14h00-20h00      
 
 **Ouvertures le week-end** :       
-•	Samedi..... **18/10** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **19/10** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **15/11** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **16/11** : 11h - 13h30 et 16h - 18h30    
-•	Samedi..... **22/11** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **23/11** : 16h - 18h30   
-•	Samedi..... **29/11** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **13/12** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **14/12** : 11h - 13h30 et 16h - 18h30    
 •	Samedi..... **20/12** : 11h - 13h30 et 16h - 18h30   
-   
+•	Samedi..... **10/01** : 11h - 13h30   
+•	Samedi..... **17/01** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **18/01** : 11h - 13h30 et 16h - 18h30    
+•	Samedi..... **24/01** : 11h - 13h30 et 16h - 18h30      
+•	Samedi..... **31/01** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **01/02** : 16h - 18h30   
+•	Samedi..... **07/02** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **08/02** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **14/02** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **21/02** : 11h - 13h30 et 16h - 18h30   
+
+**Vacances de FEVRIER**   
+L'atelier est fermé du 23 février au 9 mars 2026       
+
+
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
   
