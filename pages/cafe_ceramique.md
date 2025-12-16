@@ -1,4 +1,7 @@
 # CAFE CERAMIQUE OU DECORE TA POTERIE  !!!      
+
+<img src="/images/cafe_ceramiqe_fansdeterre.jpg" class="image-horiz">
+
 **Durée :**   
 **Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
 **Tarif :** à partir de 10€, en fonction des pièces choisies         
