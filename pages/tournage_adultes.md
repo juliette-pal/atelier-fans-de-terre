@@ -25,7 +25,11 @@ Maximum 6 participants par stage.
  
 ## RESERVER  
 Vous pouvez opter pour un **STAGE** ou un **PACK** de plusieurs stages à un prix préférentiel.   
-Optez par exemple pour un Pack tournage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.  
+Optez par exemple pour un Pack tournage 3h30 ou 6h, complété d'un stage décor/émaillage de 3h pour sublimer vos pièces.   
+
+*Entre deux dates (tournage et émaillage), il faudra veiller au séchage des pièces et faire la 1ère cuisson.  
+Il faut donc bien au moins 2 semaines entre les deux !  
+Pensez-y lors de votre réservation pour le décor émaillage.*   
 
 Stage TOURNAGE 3H30 // **80€** + option tournassage **40€** : [Stage + option](https://Fansdeterre.as.me/touram)  
 Stage TOURNAGE 6H (tour 3H30 + finitions 2h30) // **120€** : [Stage + option](https://Fansdeterre.as.me/Tournage6H)  
