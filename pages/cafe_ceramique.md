@@ -1,6 +1,6 @@
 # CAFE CERAMIQUE OU DECORE TA POTERIE  !!!      
 
-<img src="/images/cafe_ceramiqe_fansdeterre.jpg" class="image-horiz">
+<img src="/images/cafe_ceramique_fansdeterre.JPG" class="image-horiz">
 
 **Durée :**   
 **Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
