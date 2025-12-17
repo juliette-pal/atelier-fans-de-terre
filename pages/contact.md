@@ -15,7 +15,7 @@ L'atelier est fermé du 23 décembre au 5 janvier 2026
 **Horaires semaine HORS VACANCES** :     
 Lundi...... : fermé  
 Mardi...... : 19h30 - 22h30  
-Mercredi :  14h00 - 22h30  
+Mercredi :  14h00 - 18h00 et 19h30 - 22h30  
 Jeudi....... : 19h30 - 22h30   
 Vendredi : 10h00 - 13h00 et 14h00-20h00      
 
