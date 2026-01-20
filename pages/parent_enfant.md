@@ -13,6 +13,12 @@ Quelle que soit la formule choisie, les fournitures, les cuissons et l'émaillag
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
 
 
+
+---
+## CAFE CERAMIQUE OU DECORE TA POTERIE  !!!      
+[Cliquer ici pour en savoir plus](cafe_ceramique)    
+
+
 ---
 
 ## P/E MODELAGE     
@@ -40,8 +46,7 @@ Il faudra attendre un peu pour récupérer votre oeuvre car l'atelier devra la c
 
 ---
 
-## CAFE CERAMIQUE OU DECORE TA POTERIE  !!!      
-**[Cliquer ici pour en savoir plus](cafe_ceramique)**    
+ 
 
 
 
