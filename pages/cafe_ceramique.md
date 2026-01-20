@@ -17,13 +17,14 @@ Contrairement aux autres formules, **1 adulte peut accompagner 2 enfants**.
 Il faudra attendre quelques jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire une seconde fois** pour vous.   
 
 ## NOS PROCHAINES DATES    
-DIMANCHE 8 FEVRIER 2026 : chez NOUS **FANS DE TERRE** à Colombes   
+DIMANCHE 8 FEVRIER 2026 : chez **Pepites de familles** à Colombes - 14H 15h30 ou  15h30-17h     
 SAMEDI 14 MARS 2026     : à la **Halle Flachat** à Asnières    
 SAMEDI 18 AVRIL 2026    : chez **Pepites de familles** à Colombes   
 ---
 ## RESERVER
-**DIMANCHE 8 FEVRIER 2026** : chez NOUS **FANS DE TERRE** à Colombes
-<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=86661562" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>    
+**DIMANCHE 8 FEVRIER 2026** : chez **PEPITES DE FAMILLES** au 4 rue hoche à Colombes  
+Réservation directement sur le site pépites de familles
+
 
 
 ---
