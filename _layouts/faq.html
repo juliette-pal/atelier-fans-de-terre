@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+{% include head.html %}
+<body>
+  {% include header.html param="faq" %}
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL6BZZX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <main id="content" class="main-content {{ page.name }}" role="main">
+    {% for item in page.questions %}
+      {% if item["question"] %}
+        <div class="question-faq" style="font-weight: bold;">{{ item["question"] }}</div>
+        {% if item["réponse"] %}
+          <div class="question-faq">{{ item["réponse"] | markdownify }}</div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}  
+  </main>
+  {% include footer.html %}
+</body>
+</html>

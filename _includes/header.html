@@ -14,6 +14,7 @@
       <a href="/pages/animations_groupes" class="btn">TEAMBUILDING</a>
       <a href="/pages/contact" class="btn">NOUS CONTACTER</a>
     </nav>
+
     {% include text-expand.html %}
     <div class="btn-action" id="btn-desktop">
       <a href="/pages/GaleriePhotos" class="btn">Photos</a>
@@ -21,9 +22,7 @@
       <a href="/pages/bon_kdo" class="btn">Bon cadeau</a>
     </div>
   </div>
-  <div id="banner-bg">
-    <div id="banner-image">
-    <nav id="menu">
+  <nav id="menu">
       <a href="/pages/atelier" class="btn">Atelier</a>
       <a href="/pages/cours_adultes" class="btn">Cours</a>
       <a href="/pages/stages_adultes" class="btn">Stages</a>
@@ -37,7 +36,9 @@
       <a href="https://Fansdeterre.as.me" target="_blank" class="btn">Réserver</a>
       <a href="/pages/bon_kdo" class="btn">Bon cadeau</a>
     </div>
-  </div>
+  {% if include.param != "faq" %}<div id="banner-bg">
+    <div id="banner-image">
+  </div>{% endif %}
   </div>
   {% if site.show_downloads %}
   <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
