@@ -2,6 +2,10 @@
 title: faq
 layout: faq
 questions:
+    - question: "Comment savoir si je suis bien inscrite à mon stage ?"
+      réponse: |
+       Toute réservation est validée par l'envoi d'un mail automatique de notre système de réservation acuity.  
+        ᐉᐉᐉ Recherche "acuity" sur vos mails.
     - question: "Puis-je changer la date de mon stage ?"
       réponse: |
         Oui, vous pouvez changer sans frais la date de votre stage jusqu'à 1 mois avant l’activité pour les “Master-class” et 8 jours avant pour tous les autres stages.   
@@ -31,7 +35,7 @@ questions:
         Lorsque vous êtes bien inscrit, vous recevrez un mail de confirmation pour les réservations.
     - question: "Pourquoi y a-t-il un délai d’attente entre le stage de tournage/modelage et le stage déco-émail ?"
       réponse: |
-        Avant la décoration, les poteries doivent sécher lentement et cuire à une température de 980 °c pendant à peu près 2 jours pour se solidifier.
+        Avant la décoration, les poteries doivent sécher lentement et cuire à une température de 980 °c pendant à peu près 2 jours pour se solidifier.   
         Après l’émaillage elles vont cuire une seconde fois à 1250°c pour fixer l’émail à la terre.
         [En savoir plus](https://fansdeterre.com/pages/emaillage_adultes)
     - question: "Puis-je faire de la poterie avec mes enfants ?"
