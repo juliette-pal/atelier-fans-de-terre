@@ -85,7 +85,8 @@ questions:
         Elles sont compatibles micro-ondes et lave-vaisselle.    
     - question: "Combien coûte un atelier ?"
       réponse: | 
-        Tout dépend de la formule. Les prix sont affichés par catégorie sur le site en cliquant sur "en savoir +".   
+        Tout dépend de la formule.    
+        Les prix sont affichés par catégorie sur le site en cliquant sur "en savoir +".   
         Le prix commence à partir de 12€ pour un café céramique (pour une petite pièce de type pose sachet à thé).   
         À noter que vous pouvez également réserver un PACK afin de bénéficier d'une réduction pour l'achat simultané de plusieurs stages (fabrication + décoration)...   
         [Les tarifs](https://fansdeterre.as.me)
