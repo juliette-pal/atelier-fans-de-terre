@@ -60,7 +60,7 @@ questions:
     - question: "Je souhaite offrir un stage, quelles sont mes options ?"
       réponse: |
           Vous pouvez offrir un BON CADEAU de la valeur que vous souhaitez ou choisir parmi notre sélection de stages.
-          [Tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)
+          [Tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)   
           Les stages les plus demandés sont les suivants :
           - [Le modelage (avec option stage décoration et émaillage)](https://fansdeterre.com/pages/modelage_adultes)
           - [Le stage raku](https://fansdeterre.com/pages/raku_adultes), comprend un stage modelage et l'expérience de la cuisson et émaillage en raku
@@ -72,29 +72,31 @@ questions:
         [Bon Cadeau](https://fansdeterre.com/pages/bon_kdo)
     - question: "Quelle est la durée de validité de mon Bon Cadeau ?"
       réponse: | 
-        Votre bon cadeau est valable 1 an à compter de la date d'achat.
+        Votre bon cadeau est valable 1 an à compter de la date d'achat.   
         [Bon Cadeau](https://fansdeterre.com/pages/bon_kdo)
     - question: "Puis-je mettre mes céramiques au lave-vaisselle ou au micro-onde ?"
       réponse: |
-        Oui, sauf pour le pièces de raku (terre craquelée et sous cuite).
-        Vos céramiques émaillées à l’atelier Fans de terre (hors raku) sont en grès et donc imperméables pour permettre un usage alimentaire.
+        Oui, sauf pour le pièces de raku (terre craquelée et sous cuite).   
+        Vos céramiques émaillées à l’atelier Fans de terre (hors raku) sont en grès et donc imperméables pour permettre un usage alimentaire.   
         Vous pouvez boire et manger dedans.
-        Elles sont compatibles micro-ondes et lave-vaisselle.
+        Elles sont compatibles micro-ondes et lave-vaisselle.   
     - question: "Combien coûte un atelier ?"
       réponse: | 
-        Tout dépend de la formule. Les prix sont affichés par catégorie sur le site en cliquant sur "en savoir +".
-        Le prix commence à partir de 12€ pour un café céramique (pour une petite pièce de type pose sachet à thé).
-        À noter que vous pouvez également réserver un PACK afin de bénéficier d'une réduction pour l'achat simultané de plusieurs stages (fabrication + décoration)...
+        Tout dépend de la formule. Les prix sont affichés par catégorie sur le site en cliquant sur "en savoir +".   
+        Le prix commence à partir de 12€ pour un café céramique (pour une petite pièce de type pose sachet à thé).   
+        À noter que vous pouvez également réserver un PACK afin de bénéficier d'une réduction pour l'achat simultané de plusieurs stages (fabrication + décoration)...   
         [Les tarifs](https://fansdeterre.as.me)
     - question: "Puis-je organiser l'anniversaire de mon enfant à l'atelier ?"
       réponse: |
-        Oui, absolument. Nous proposons des formules anniversaires pour les enfants à partir de 4 ans (Modelage) ou 9 ans (Tournage).
+        Oui, absolument. Nous proposons des formules anniversaires pour les enfants à partir de 4 ans (Modelage) ou 9 ans (Tournage).   
         [Plus d’informations](https://fansdeterre.com/pages/anniversaire_enfants.html)
     - question: "Acceptez-vous les chèques vacances ou le CPF ?"
       réponse: Non, malheureusement nous n’avons pas l'agrément pour le CPF ou les chèques vacances.
     - question: "Je souhaite faire un essai avant de m'engager à l'année, est-ce possible ?"
       réponse: |
-        En fonction des disponibilités, nous proposons des "Cours d'essai" payant en fin d’année scolaire vers les mois de Mai/Juin. Ils ont lieu sur les cours existants, mais le nombre de participants est limité pour le confort de tous.
-        Pour découvrir l'atelier et les techniques (Raku, Tournage, Modelage) avant de choisir une formule annuelle, nous vous conseillons de vous inscrire à un stage. Ils ont lieu ponctuellement les week-end et pendant les vacances.
+        En fonction des disponibilités, nous proposons des "Cours d'essai" payant en fin d’année scolaire vers les mois de Mai/Juin.    
+        Ils ont lieu sur les cours existants, mais le nombre de participants est limité pour le confort de tous.   
+        Pour découvrir l'atelier et les techniques (Raku, Tournage, Modelage) avant de choisir une formule annuelle, nous vous conseillons de vous inscrire à un stage.   
+        ls ont lieu ponctuellement les week-end et pendant les vacances.   
         [Tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)
 ---
