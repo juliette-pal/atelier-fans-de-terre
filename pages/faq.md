@@ -7,17 +7,18 @@ questions:
         Oui, vous pouvez changer sans frais la date de votre stage jusqu'à 1 mois avant l’activité pour les “Master-class” et 8 jours avant pour tous les autres stages.   
         C’est le temps que nous prévoyons pour donner une chance à d’autres participants de s’inscrire.   
         Passer ce délais le stage ne sera pas échangeable, ni remboursable.   
-        Pour changer la date de votre stage, c’est simple : rendez-vous sur votre mail de réservation (envoyé par Acuity scheduling) et cliquez sur MODIFIER LE RDV."
+        ᐉᐉᐉ Pour changer la date de votre stage, c’est simple : rendez-vous sur votre mail de réservation (envoyé par Acuity scheduling) et cliquez sur MODIFIER LE RDV."
     - question: "Quand puis-je récupérer ma céramique après un stage ?"
       réponse: |
-        Pour connaître le délais d’attente pour récupérer vos pièces en fonction de votre stage, [cliquez ici](https://fansdeterre.com/pages/recuperation_pieces)
-        Passez ensuite quand vous le souhaitez sur les horaires d’ouverture (disponibles sur le même lien) sans message préalable.
+        Pour connaître le délais d’attente pour récupérer vos pièces en fonction de votre stage, [cliquez ici](https://fansdeterre.com/pages/recuperation_pieces)   
+        Passez ensuite quand vous le souhaitez sur les horaires d’ouverture (disponibles sur le même lien) sans message préalable.   
         Pensez simplement à prendre un sac pour le transport, et un tissu ou papier d'emballage.
     - question: "Comment savoir s'il reste de la place pour un stage ou un cours ?"
       réponse: |
-        Vous trouverez les disponibilités mises à jour en temps réel dans chaque catégories (stages, cours, activités enfants, café céramique) en bas de page.
-        Les réservations se font directement sur le site internet au même endroit en cliquant sur « PROGRAMMER ».
-        Si l’atelier que vous souhaitez réserver est complet, nous vous conseillons de vous inscrire sur la liste d'attente. Vous serez ainsi informé(e) en priorité si une place se libère : [ce lien](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform)
+        Vous trouverez les disponibilités mises à jour en temps réel dans chaque catégories (stages, cours, activités enfants, café céramique) en bas de page.   
+        Les réservations se font directement sur le site internet au même endroit en cliquant sur « PROGRAMMER ».   
+        Si l’atelier que vous souhaitez réserver est complet, nous vous conseillons de vous inscrire sur la liste d'attente. Vous serez ainsi informé(e) en priorité si une place se libère :  
+        [s'inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform)
     - question: "J’ai acheté un “PACK”, comment m’inscrire ensuite ?"
       réponse: |
         Exemple : Dans l’onglet « STAGES », catégorie « TOURNAGE » vous avez acheté un « Pack TOURNAGE 6H00 + Émaillage 3H » afin de profiter d’un prix préférentiel sur l’achat de plusieurs stage successifs.
