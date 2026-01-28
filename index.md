@@ -29,7 +29,8 @@ Il ne vous reste plus qu’à **y faire un tour** ou offrir un [**bon cadeau**](
 Vous souhaitez pratiquer une **activité hebdomadaire régulière** (1H30 pour les enfants à 3H pour les adultes).  
 Ce sera votre **pause artistique** de la semaine ! 
   - [Vori les cours Adultes 3H](pages/cours_adultes)
-  - [Voir les cours Enfants 1H30](pages/cours_enfants)  
+  - [Voir les cours Enfants 1H30](pages/cours_enfants)
+  - [Voir le tournage libre](pages/tournage_libre)  
 
 ---   
 
