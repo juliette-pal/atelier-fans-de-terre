@@ -5,11 +5,11 @@ redirect_from:
 ---
 # TOURNAGE LIBRE  
 
-Le tournage libre... est comme son nom l'indique, du tournage et non du modelage🤗      
+Le tournage libre... est du tournage(et non du modelage🤗), pratiqué en toute autonomie.         
 
 Nous privilégeons les personnes qui connaissent le fonctionnement de l'atelier et l'importance que nous accordons au rangement et au ménage pour que chacun soit accueilli, du mardi au dimanche, dans de bonnes conditions. 
 
-Cette possibilité de tournage libre n'est possible que si on fait au moins un stage de tournage de 6H avant ou qu'on est **actuel et ancien élève inscrit aux cours réguliers de l'atelier**.   
+Cette possibilité de tournage libre est possible si on fait au moins un stage de tournage de 6H avant ou qu'on est **actuel et ancien élève inscrit aux cours réguliers de l'atelier**.   
 
 Merci de nous préciser que vous souhaitez faire du tournage libre lors de votre stage pour que nous puisions vous montrer le fonctionnement de l'atelier...   
 
