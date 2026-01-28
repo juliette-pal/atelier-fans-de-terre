@@ -69,11 +69,11 @@ questions:
     - question: "J'ai reçu un Bon Cadeau, comment l'utiliser ?"
       réponse : |
         Pour utiliser votre bon, rendez-vous sur la page de réservation du stage correspondant à votre cadeau. Au moment de payer/réserver, il vous suffira d'entrer le code unique inscrit sur votre bon. Si vous avez un "montant à affecter", le code vous permettra de l'utiliser à votre guise sur nos offres. Et compléter si besoin, par carte bancaire.
-        [Bon Cadeau](https://fansdeterre.com/pages/bon_kdo)
+        [Voir les bons Cadeaux](https://fansdeterre.com/pages/bon_kdo)
     - question: "Quelle est la durée de validité de mon Bon Cadeau ?"
       réponse: | 
         Votre bon cadeau est valable 1 an à compter de la date d'achat.   
-        [Bon Cadeau](https://fansdeterre.com/pages/bon_kdo)
+        [Voir les bons Cadeaux](https://fansdeterre.com/pages/bon_kdo)
     - question: "Puis-je mettre mes céramiques au lave-vaisselle ou au micro-onde ?"
       réponse: |
         Oui, sauf pour le pièces de raku (terre craquelée et sous cuite).   
@@ -97,6 +97,6 @@ questions:
         En fonction des disponibilités, nous proposons des "Cours d'essai" payant en fin d’année scolaire vers les mois de Mai/Juin.    
         Ils ont lieu sur les cours existants, mais le nombre de participants est limité pour le confort de tous.   
         Pour découvrir l'atelier et les techniques (Raku, Tournage, Modelage) avant de choisir une formule annuelle, nous vous conseillons de vous inscrire à un stage.   
-        ls ont lieu ponctuellement les week-end et pendant les vacances.   
+        Ils ont lieu ponctuellement les week-end et pendant les vacances.   
         [Tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)
 ---
