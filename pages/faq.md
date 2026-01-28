@@ -54,7 +54,7 @@ questions:
         - [Les stages pour une pratique ponctuelle](https://fansdeterre.com/pages/stages_adultes)
 
     - question: "Je souhaite offrir un cours mais je ne connais pas les disponibilités de la personne. Comment faire ?"
-      réponse: Optez pour le Bon Cadeau "Montant à affecter".
+      réponse: Optez pour le Bon Cadeau "Montant à affecter".   
         Vous choisissez un montant, et le bénéficiaire pourra l'utiliser pour réserver le stage et la date de son choix.
         [En savoir plus](https://fansdeterre.com/pages/bon_kdo)
     - question: "Je souhaite offrir un stage, quelles sont mes options ?"
