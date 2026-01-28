@@ -4,8 +4,9 @@ layout: faq
 questions:
     - question: "Puis-je changer la date de mon stage ?"
       réponse: |
-        Oui, vous pouvez changer sans frais la date de votre stage jusqu'à 1 mois avant l’activité pour les “Master-class” et 8 jours avant pour tous les autres stages.
-        C’est le temps que nous prévoyons pour donner une chance à d’autres participants de s’inscrire. Passer ce délais le stage ne sera pas échangeable, ni remboursable.
+        Oui, vous pouvez changer sans frais la date de votre stage jusqu'à 1 mois avant l’activité pour les “Master-class” et 8 jours avant pour tous les autres stages.   
+        C’est le temps que nous prévoyons pour donner une chance à d’autres participants de s’inscrire.   
+        Passer ce délais le stage ne sera pas échangeable, ni remboursable.   
         Pour changer la date de votre stage, c’est simple : rendez-vous sur votre mail de réservation (envoyé par Acuity scheduling) et cliquez sur MODIFIER LE RDV."
     - question: "Quand puis-je récupérer ma céramique après un stage ?"
       réponse: |
