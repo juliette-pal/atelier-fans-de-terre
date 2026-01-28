@@ -21,13 +21,13 @@ questions:
         [s'inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform)
     - question: "J’ai acheté un “PACK”, comment m’inscrire ensuite ?"
       réponse: |
-        Exemple : Dans l’onglet « STAGES », catégorie « TOURNAGE » vous avez acheté un « Pack TOURNAGE 6H00 + Émaillage 3H » afin de profiter d’un prix préférentiel sur l’achat de plusieurs stage successifs.
-        1) En achetant le PACK vous recevez un code.
-        2) Dans l’onglet « STAGES », sélectionnez "TOURNAGE ». Consultez le calendrier des activités en bas de la page et cliquez sur "PROGRAMMER".
+        Exemple : vous avez acheté un « Pack TOURNAGE 6H00 + Émaillage 3H » afin de profiter d’un prix préférentiel sur l’achat de plusieurs stage successifs.   
+        1) En achetant le PACK vous recevez un code.   
+        2) Dans l’onglet « STAGES », sélectionnez "TOURNAGE ». Consultez le calendrier des activités en bas de la page et cliquez sur "PROGRAMMER".   
         Entrez vos information et utiliser le code reçu lors de l’inscription pour régler l’activité.
-        3) Dans l’onglet « STAGES », sélectionnez ensuite "DECOR / EMAILLAGE », et cliquez sur "PROGRAMMER" pour choisir votre seconde date de stage.
-        À noter : Si les stages ont lieu sur des journées séparées, pensez bien à respecter les délais inscrits entre deux dates (souvent de 2 semaines minimum).
-        Finalisez l’inscription avec le code reçu à l’achat du Pack .
+        3) Dans l’onglet « STAGES », sélectionnez ensuite "DECOR / EMAILLAGE », et cliquez sur "PROGRAMMER" pour choisir votre seconde date de stage.   
+        À noter : Si les stages ont lieu sur des journées séparées, pensez bien à respecter les délais inscrits entre deux dates (souvent de 2 semaines minimum).   
+        Finalisez l’inscription avec le code reçu à l’achat du Pack : code à saisir au niveau des coordonnées de carte bancaire.  
         Lorsque vous êtes bien inscrit, vous recevrez un mail de confirmation pour les réservations.
     - question: "Pourquoi y a-t-il un délai d’attente entre le stage de tournage/modelage et le stage déco-émail ?"
       réponse: |
