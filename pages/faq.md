@@ -47,19 +47,19 @@ questions:
           [En savoir plus](https://fansdeterre.com/pages/parent_enfant)
     - question : "Je suis débutante, que puis-je choisir comme formule ?"
       réponse: |
-        Tous nos ateliers (cours hebdomadaires ou stages) sont accessibles aux débutants comme aux plus avancés.
-        Nous savons nous adapter pour vous accompagner et transmettre notre savoir faire avec passion !
-        En fonction de vos envies, vous pouvez choisir :
+        Tous nos ateliers (cours hebdomadaires ou stages) sont accessibles aux débutants comme aux plus avancés.  
+        Nous savons nous adapter pour vous accompagner et transmettre notre savoir faire avec passion !   
+        En fonction de vos envies, vous pouvez choisir :    
         - [Les cours pour une pratique régulière](https://fansdeterre.com/pages/cours_adultes)
         - [Les stages pour une pratique ponctuelle](https://fansdeterre.com/pages/stages_adultes)
 
     - question: "Je souhaite offrir un cours mais je ne connais pas les disponibilités de la personne. Comment faire ?"
       réponse: Optez pour le Bon Cadeau "Montant à affecter".   
-        Vous choisissez un montant, et le bénéficiaire pourra l'utiliser pour réserver le stage et la date de son choix.
+        Vous choisissez un montant, et le bénéficiaire pourra l'utiliser pour réserver le stage et la date de son choix.  
         [En savoir plus](https://fansdeterre.com/pages/bon_kdo)
     - question: "Je souhaite offrir un stage, quelles sont mes options ?"
       réponse: |
-          Vous pouvez offrir un BON CADEAU de la valeur que vous souhaitez ou choisir parmi notre sélection de stages.
+          Vous pouvez offrir un BON CADEAU de la valeur que vous souhaitez ou choisir parmi notre sélection de stages.   
           [voir tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)   
           Les stages les plus demandés sont les suivants :
           - [Le modelage (avec option stage décoration et émaillage)](https://fansdeterre.com/pages/modelage_adultes)
@@ -68,7 +68,10 @@ questions:
           - La [Masterclass Sculpture](https://fansdeterre.com/pages/masterclass) (option modèle vivant, buste ou sculpture animalière)
     - question: "J'ai reçu un Bon Cadeau, comment l'utiliser ?"
       réponse : |
-        Pour utiliser votre bon, rendez-vous sur la page de réservation du stage correspondant à votre cadeau. Au moment de payer/réserver, il vous suffira d'entrer le code unique inscrit sur votre bon. Si vous avez un "montant à affecter", le code vous permettra de l'utiliser à votre guise sur nos offres. Et compléter si besoin, par carte bancaire.
+        Pour utiliser votre bon, rendez-vous sur la page de réservation du stage correspondant à votre cadeau.   
+        Au moment de payer/réserver, il vous suffira d'entrer le code unique inscrit sur votre bon.    
+        Si vous avez un "montant à affecter", le code vous permettra de l'utiliser à votre guise sur nos offres.    
+        Et compléter si besoin, par carte bancaire.   
         [Voir les bons Cadeaux](https://fansdeterre.com/pages/bon_kdo)
     - question: "Quelle est la durée de validité de mon Bon Cadeau ?"
       réponse: | 
@@ -78,8 +81,8 @@ questions:
       réponse: |
         Oui, sauf pour le pièces de raku (terre craquelée et sous cuite).   
         Vos céramiques émaillées à l’atelier Fans de terre (hors raku) sont en grès et donc imperméables pour permettre un usage alimentaire.   
-        Vous pouvez boire et manger dedans.
-        Elles sont compatibles micro-ondes et lave-vaisselle.   
+        Vous pouvez boire et manger dedans.   
+        Elles sont compatibles micro-ondes et lave-vaisselle.    
     - question: "Combien coûte un atelier ?"
       réponse: | 
         Tout dépend de la formule. Les prix sont affichés par catégorie sur le site en cliquant sur "en savoir +".   
@@ -91,7 +94,7 @@ questions:
         Oui, absolument. Nous proposons des formules anniversaires pour les enfants à partir de 4 ans (Modelage) ou 9 ans (Tournage).   
         [Plus d’informations](https://fansdeterre.com/pages/anniversaire_enfants.html)
     - question: "Acceptez-vous les chèques vacances ou le CPF ?"
-      réponse: Non, malheureusement nous n’avons pas l'agrément pour le CPF ou les chèques vacances.
+      réponse: Non, malheureusement nous n’avons pas l'agrément pour le CPF ou les chèques vacances. 
     - question: "Je souhaite faire un essai avant de m'engager à l'année, est-ce possible ?"
       réponse: |
         En fonction des disponibilités, nous proposons des "Cours d'essai" payant en fin d’année scolaire vers les mois de Mai/Juin.    
