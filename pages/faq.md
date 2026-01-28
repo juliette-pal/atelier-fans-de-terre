@@ -2,10 +2,10 @@
 title: faq
 layout: faq
 questions:
-    - question: "Comment savoir si je suis bien inscrite à mon stage ?"
+    - question: "Comment savoir si je suis bien inscrit(e) à mon stage ?"
       réponse: |
-       Toute réservation est validée par l'envoi d'un mail automatique de notre système de réservation acuity.  
-        ᐉᐉᐉ Recherche "acuity" sur vos mails.
+       Toute réservation est validée par l'envoi d'un mail automatique par notre système de réservation.  
+        ᐉᐉᐉ Recherchez "acuity" ou "helloasso" sur vos mails.
     - question: "Puis-je changer la date de mon stage ?"
       réponse: |
         Oui, vous pouvez changer sans frais la date de votre stage jusqu'à 1 mois avant l’activité pour les “Master-class” et 8 jours avant pour tous les autres stages.   
@@ -25,23 +25,22 @@ questions:
         [s'inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform)
     - question: "J’ai acheté un “PACK”, comment m’inscrire ensuite ?"
       réponse: |
-        Exemple : vous avez acheté un « Pack TOURNAGE 6H00 + Émaillage 3H » afin de profiter d’un prix préférentiel sur l’achat de plusieurs stage successifs.   
+        Exemple : vous avez acheté un « Pack TOURNAGE 6H00 + Émaillage 3H » afin de profiter d’un prix préférentiel sur l’achat de plusieurs stages successifs.   
         1) En achetant le PACK vous recevez un code.   
         2) Dans l’onglet « STAGES », sélectionnez "TOURNAGE ». Consultez le calendrier des activités en bas de la page et cliquez sur "PROGRAMMER".   
         Entrez vos information et utiliser le code reçu lors de l’inscription pour régler l’activité.
         3) Dans l’onglet « STAGES », sélectionnez ensuite "DECOR / EMAILLAGE », et cliquez sur "PROGRAMMER" pour choisir votre seconde date de stage.   
         À noter : Si les stages ont lieu sur des journées séparées, pensez bien à respecter les délais inscrits entre deux dates (souvent de 2 semaines minimum).   
-        Finalisez l’inscription avec le code reçu à l’achat du Pack : code à saisir au niveau des coordonnées de carte bancaire.  
+        Finalisez l’inscription avec le code reçu à l’achat du Pack. Ce code est à saisir au niveau des coordonnées de carte bancaire.  
         Lorsque vous êtes bien inscrit, vous recevrez un mail de confirmation pour les réservations.
     - question: "Pourquoi y a-t-il un délai d’attente entre le stage de tournage/modelage et le stage déco-émail ?"
       réponse: |
-        Avant la décoration, les poteries doivent sécher lentement et cuire à une température de 980 °c pendant à peu près 2 jours pour se solidifier.   
+        Avant la décoration, les poteries doivent sécher lentement et cuire à une température de 980 °c pendant à peu près 2 jours pour se solidifier.    
         Après l’émaillage elles vont cuire une seconde fois à 1250°c pour fixer l’émail à la terre.
         [En savoir plus](https://fansdeterre.com/pages/emaillage_adultes)
     - question: "Puis-je faire de la poterie avec mes enfants ?"
       réponse : |
-          Oui tout à fait. Nous proposons des ateliers parents-enfants pour vous permettre de venir en famille créer un projet en commun.
-          Voici les options :
+          Oui tout à fait. Nous proposons des ateliers parents-enfants pour vous permettre de venir en famille créer un projet en commun :
           -   Stage tournage (8 ans et +)
           -   Stage modelage (3 ans et +)
           -   Formule cafés-céramique (3 ans +) pour personnaliser vos céramiques.
