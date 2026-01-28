@@ -60,7 +60,7 @@ questions:
     - question: "Je souhaite offrir un stage, quelles sont mes options ?"
       réponse: |
           Vous pouvez offrir un BON CADEAU de la valeur que vous souhaitez ou choisir parmi notre sélection de stages.
-          [Tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)   
+          [voir tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)   
           Les stages les plus demandés sont les suivants :
           - [Le modelage (avec option stage décoration et émaillage)](https://fansdeterre.com/pages/modelage_adultes)
           - [Le stage raku](https://fansdeterre.com/pages/raku_adultes), comprend un stage modelage et l'expérience de la cuisson et émaillage en raku
