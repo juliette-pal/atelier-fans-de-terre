@@ -9,13 +9,30 @@
   <!-- End Google Tag Manager (noscript) -->
   <main id="content" class="main-content {{ page.name }}" role="main">
     {% for item in page.questions %}
-      {% if item["question"] %}
+      <!--{% if item["question"] %}
+      <div class="question-faq-container">
         <div class="question-faq" style="font-weight: bold;">{{ item["question"] }}</div>
         {% if item["réponse"] %}
-          <div class="question-faq">{{ item["réponse"] | markdownify }}</div>
+        <div class="question-faq">{{ item["réponse"] | markdownify }}</div>
         {% endif %}
+      {% endif %}-->
+
+      {% if item["question"] %}
+      <div class="tab">
+        <label for="radio{{ forloop.index }}" class="tab__label">{{ item["question"] }}</label>
+        <input type="radio" name="accordion" id="radio{{ forloop.index }}" >
+        {% if item["réponse"] %}
+        <div class="tab__content">
+          {{ item["réponse"] | markdownify }}
+        </div>
+        {% endif %}
+      </div>
       {% endif %}
-    {% endfor %}  
+
+      </div>
+    {% endfor %}
+    
+    
   </main>
   {% include footer.html %}
 </body>
