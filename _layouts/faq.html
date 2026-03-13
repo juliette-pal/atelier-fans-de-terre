@@ -20,10 +20,10 @@
       {% if item["question"] %}
       <div class="tab">
         <label for="radio{{ forloop.index }}" class="tab__label">{{ item["question"] }}</label>
-        <input type="radio" name="accordion" id="radio{{ forloop.index }}" checked>
+        <input type="radio" name="accordion" id="radio{{ forloop.index }}" >
         {% if item["réponse"] %}
         <div class="tab__content">
-          <p>{{ item["réponse"] | markdownify }}</p>
+          {{ item["réponse"] | markdownify }}
         </div>
         {% endif %}
       </div>
