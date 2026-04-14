@@ -39,7 +39,6 @@ questions:
       réponse: |
         Avant la décoration, les poteries doivent sécher lentement (1 semaine à 1 mois) et cuire à une température de 980 °c pendant à peu près 2 jours pour se solidifier.    
         Après l’émaillage elles vont cuire une seconde fois à 1250°c pour fixer l’émail à la terre.
-        [En savoir plus](https://fansdeterre.com/pages/emaillage_adultes)   
     - question: "Puis-je faire de la poterie avec mes enfants ?"
       réponse : |
           Oui tout à fait. Nous proposons des ateliers parents-enfants pour vous permettre de venir en famille créer un projet en commun :
