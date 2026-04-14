@@ -19,14 +19,7 @@ Il faudra attendre quelques jours pour récupérer votre œuvre car l'atelier de
 ## NOS PROCHAINES DATES    
 DIMANCHE 8 FEVRIER 2026 : chez **Pepites de familles** à Colombes - 14H 15h30 ou  15h30-17h     
 SAMEDI 14 MARS 2026     : à la **Halle Flachat** à Asnières    
-SAMEDI 18 AVRIL 2026    : chez **Pepites de familles** à Colombes   
----
-## RESERVER
-**DIMANCHE 8 FEVRIER 2026** : chez **PEPITES DE FAMILLES** au 4 rue hoche à Colombes  
-Réservation directement sur le site pépites de familles
-
-
-
+SAMEDI 18 AVRIL 2026    : chez **Pepites de familles** à Colombes - [RESERVER](https://www.pepitesdefamilles.fr/boutique-2/)   
 ---
 
 [Cliquer ici pour nous contacter pour votre évènement](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform?entry.1318731939&entry.625861564&entry.1682638982&entry.1661862399&entry.635975601){:target="_blank" }  
