@@ -21,7 +21,7 @@ Ce stage se tient sur 4 séances de 3 heures du lundi au jeudi.
 Les fournitures, les cuissons et l'émaillage par l'atelier, sont compris dans le prix.  
 
 [RESERVER](https://Fansdeterre.as.me/vacancestour)   
-<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79692499" width="100%" height="800" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=35942538&appointmentType=79692499" width="100%" height="400" frameBorder="0" allow="payment"></iframe>																																	<script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
 
   
 ## STAGE MODELAGE - ENFANTS / ADOS  
