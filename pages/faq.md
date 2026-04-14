@@ -22,16 +22,17 @@ questions:
         Vous trouverez les disponibilités mises à jour en temps réel dans chaque catégories (stages, cours, activités enfants, café céramique) en bas de page.   
         Les réservations se font directement sur le site internet au même endroit en cliquant sur « PROGRAMMER ».   
         Si l’atelier que vous souhaitez réserver est complet, nous vous conseillons de vous inscrire sur la liste d'attente. Vous serez ainsi informé(e) en priorité si une place se libère :  
-        [s'inscrire sur liste d'attente pour un cours](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform)   
-        [s'inscrire sur liste d'attente pour un stage](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform) 
+        [S'inscrire sur liste d'attente pour un cours](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform)   
+        [S'inscrire sur liste d'attente pour un stage](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform) 
     - question: "J’ai acheté un “PACK”, comment m’inscrire ensuite ?"
       réponse: |
         Exemple : vous avez acheté un « Pack TOURNAGE 6H00 + Émaillage 3H » afin de profiter d’un prix préférentiel sur l’achat de plusieurs stages successifs.   
         1) En achetant le PACK vous recevez un code.   
         2) Dans l’onglet « STAGES », sélectionnez "TOURNAGE ». Consultez le calendrier des activités en bas de la page et cliquez sur "PROGRAMMER".   
-        Entrez vos information et utiliser le code reçu lors de l’inscription pour régler l’activité.
+        Entrez vos information et utiliser le code reçu lors de l’inscription pour régler l’activité.   
         3) Dans l’onglet « STAGES », sélectionnez ensuite "DECOR / EMAILLAGE », et cliquez sur "PROGRAMMER" pour choisir votre seconde date de stage.   
-        À noter : Si les stages ont lieu sur des journées séparées, pensez bien à respecter les délais inscrits entre deux dates (souvent de 2 semaines minimum).   
+        À noter :   
+        Si les stages ont lieu sur des journées séparées, pensez bien à respecter les délais inscrits entre deux dates (souvent de 2 semaines minimum).   
         Finalisez l’inscription avec le code reçu à l’achat du Pack. Ce code est à saisir au niveau des coordonnées de carte bancaire.  
         Lorsque vous êtes bien inscrit, vous recevrez un mail de confirmation pour les réservations.
     - question: "Pourquoi y a-t-il un délai d’attente entre le stage de tournage/modelage et le stage déco-émail ?"
