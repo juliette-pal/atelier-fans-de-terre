@@ -9,9 +9,9 @@ questions:
     - question: "Puis-je changer la date de mon stage ?"
       réponse: |
         Oui, vous pouvez changer sans frais la date de votre stage jusqu'à 1 mois avant l’activité pour les “Master-class” et 8 jours avant pour tous les autres stages.   
-        C’est le temps que nous prévoyons pour donner une chance à d’autres participants de s’inscrire.   
+        C’est le temps minimum que nous prévoyons pour donner une chance à d’autres participants de s’inscrire.   
         Passer ce délais le stage ne sera pas échangeable, ni remboursable.   
-        ᐉᐉᐉ Pour changer la date de votre stage, c’est simple : rendez-vous sur votre mail de réservation (envoyé par Acuity scheduling) et cliquez sur MODIFIER LE RDV."
+        ᐉᐉᐉ Pour changer la date de votre stage, c’est simple : rendez-vous sur votre mail de réservation (envoyé par Acuity scheduling) et cliquez sur "MODIFIER LE RDV".
     - question: "Quand puis-je récupérer ma céramique après un stage ?"
       réponse: |
         Pour connaître le délais d’attente pour récupérer vos pièces en fonction de votre stage, [cliquez ici](https://fansdeterre.com/pages/recuperation_pieces)   
@@ -22,7 +22,8 @@ questions:
         Vous trouverez les disponibilités mises à jour en temps réel dans chaque catégories (stages, cours, activités enfants, café céramique) en bas de page.   
         Les réservations se font directement sur le site internet au même endroit en cliquant sur « PROGRAMMER ».   
         Si l’atelier que vous souhaitez réserver est complet, nous vous conseillons de vous inscrire sur la liste d'attente. Vous serez ainsi informé(e) en priorité si une place se libère :  
-        [s'inscrire sur liste d'attente](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform)
+        [s'inscrire sur liste d'attente pour un cours](https://docs.google.com/forms/d/e/1FAIpQLSfiOYuRfo39ey0bUvQk9uAFC9Z9DWT6ejF2WJXZdvXktcWh9g/viewform)   
+        [s'inscrire sur liste d'attente pour un stage](https://docs.google.com/forms/d/e/1FAIpQLScDnAGxa7UlusJ0sVcahW_FnYDXCc4BQsAE5W8vGXzb9_z4pg/viewform) 
     - question: "J’ai acheté un “PACK”, comment m’inscrire ensuite ?"
       réponse: |
         Exemple : vous avez acheté un « Pack TOURNAGE 6H00 + Émaillage 3H » afin de profiter d’un prix préférentiel sur l’achat de plusieurs stages successifs.   
