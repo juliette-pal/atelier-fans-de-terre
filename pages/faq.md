@@ -46,7 +46,7 @@ questions:
           -   Stage tournage (8 ans et +)
           -   Stage modelage (3 ans et +)
           -   Formule cafés-céramique (3 ans +) pour personnaliser vos céramiques.   
-        [En savoir plus sur toutes les formules](https://fansdeterre.com/pages/parent_enfant)
+         [En savoir plus sur toutes les formules](https://fansdeterre.com/pages/parent_enfant)
     - question : "Je suis débutante, que puis-je choisir comme formule ?"
       réponse: |
         Tous nos ateliers (cours hebdomadaires ou stages) sont accessibles aux débutants comme aux plus avancés.  
