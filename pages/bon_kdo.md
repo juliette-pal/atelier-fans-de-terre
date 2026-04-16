@@ -14,12 +14,12 @@ Renseignez-le code certificat au moment de saisir les coordonnées bancaires.
 [Utiliser son bon](https://Fansdeterre.as.me/)  
 
 
-## Offir un montant à affecter 
+## OffRir un montant à affecter 
 Si vous avez un doute, ou hésitez, optez pour un montant à affecter à n'importe quel stage Fans de terre.   
   
 1. Choisissez un bon (selon votre budget)     
 
-2. Un code vous sera délivré. il permettra au bénéficiaire de l'affecter à sa guise !
+2. Un code vous sera délivré. Il permettra au bénéficiaire de l'affecter à sa guise !
 
 [RESERVER un montant à affecter](https://app.acuityscheduling.com/catalog.php?owner=35942538)    
 
