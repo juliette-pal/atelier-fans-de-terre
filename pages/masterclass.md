@@ -3,32 +3,6 @@ redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/stages-sculpture/
 ---
 # MASTERCLASS
-
-## RECHERCHE EMAUX avec SYLVIE BARBARA
-Stage **émaux de grès** en cuisson **électrique**   
-
-Ce stage permettra de comprendre ce qu’est un émail de grès et comment on peut mener des recherches pour obtenir des textures et des couleurs.  
-
-**Les stagiaires devront venir avec chacun 125 tuiles de grès** (fournir la photo de l’étiquette du pain utilisé pour éviter que certains arrivent avec de la faïence…). Cela leur permet d’avoir les tests sur leur propre grès.   
-
-Trois méthodes seront mises en pratique :    
-- une recherche de bases d’émaux par variation d’alumine/silice permettant de faire varier la texture,  
-- une recherche de couleurs à partir d’oxydes métalliques par méthode binaire,  
-- une recherche de couleur à partir d’oxydes métalliques par la méthode en triangle.
-  
-Les stagiaires repartiront avec :
-- 1 exemplaire chacun tous les échantillons réalisés ce qui leur donnera déjà de nombreux émaux utilisables
-- 1 support de cours très complet est fourni
-
-**Durée :** 4 jours    
-
-**Niveau :** personnes ayant un four    
-
-**Tarif :** 560€ (élèves de l'atelier 450€)     
-
-[**RESERVER**](https://Fansdeterre.as.me/rechercheemaux)  
-
-
 ## STAGE SCULPTURE - ADULTES
 
 Nous vous accompagnons dans la **réalisation de bustes** ou des **représentations du corps humain**.  
@@ -55,8 +29,36 @@ Le tarif comprend une pièce de 30cm x 30cm maximum cuite à 1050°.
 Un supplément de 30€ (à payer le 1er jour du stage) est demandé pour le modèle vivant.   
 Dates et thèmes des stages sculpture de 10H :  
 Visage (décembre) - Animalier (janvier) - Modèle vivant (mai ou juin)   
+Horaires : samedi 15h - 18h et dimanche 10h 18h   
 
 [**RESERVER**](https://Fansdeterre.as.me/SCULPTURE)  
+
+## RECHERCHE EMAUX avec SYLVIE BARBARA
+Stage **émaux de grès** en cuisson **électrique**   
+
+Ce stage permettra de comprendre ce qu’est un émail de grès et comment on peut mener des recherches pour obtenir des textures et des couleurs.  
+
+**Les stagiaires devront venir avec chacun 125 tuiles de grès** (fournir la photo de l’étiquette du pain utilisé pour éviter que certains arrivent avec de la faïence…). Cela leur permet d’avoir les tests sur leur propre grès.   
+
+Trois méthodes seront mises en pratique :    
+- une recherche de bases d’émaux par variation d’alumine/silice permettant de faire varier la texture,  
+- une recherche de couleurs à partir d’oxydes métalliques par méthode binaire,  
+- une recherche de couleur à partir d’oxydes métalliques par la méthode en triangle.
+  
+Les stagiaires repartiront avec :
+- 1 exemplaire chacun tous les échantillons réalisés ce qui leur donnera déjà de nombreux émaux utilisables
+- 1 support de cours très complet est fourni
+
+**Durée :** 4 jours    
+
+**Niveau :** personnes ayant un four    
+
+**Tarif :** 560€ (élèves de l'atelier 450€)     
+
+[**RESERVER**](https://Fansdeterre.as.me/rechercheemaux)  
+
+
+
 
 ## Thierry LUANG RATH  
 
