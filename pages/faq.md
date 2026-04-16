@@ -37,15 +37,15 @@ questions:
         Lorsque vous êtes bien inscrit, vous recevrez un mail de confirmation pour les réservations.
     - question: "Pourquoi y a-t-il un délai d’attente entre le stage de tournage/modelage et le stage déco-émail ?"
       réponse: |
-        Avant la décoration, les poteries doivent sécher lentement (1 semaine à 1 mois) et cuire à une température de 980 °c pendant à peu près 2 jours pour se solidifier.    
+        Avant la décoration, les poteries doivent sécher lentement (1 semaine à 1 mois) et cuire à une température de 980 °c pendant à peu près 2 jours pour se solidifier.
         Après l’émaillage elles vont cuire une seconde fois à 1250°c pour fixer l’émail à la terre.
     - question: "Puis-je faire de la poterie avec mes enfants ?"
       réponse : |
           Oui tout à fait. Nous proposons des ateliers parents-enfants pour vous permettre de venir en famille créer un projet en commun :
           -   Stage tournage (8 ans et +)
           -   Stage modelage (3 ans et +)
-          -   Formule cafés-céramique (3 ans +) pour personnaliser vos céramiques.   
-         [En savoir plus sur toutes les formules](https://fansdeterre.com/pages/parent_enfant)
+          -   Formule cafés-céramique (3 ans +) pour personnaliser vos céramiques.
+          [En savoir plus sur toutes les formules](https://fansdeterre.com/pages/parent_enfant)
     - question : "Je suis débutante, que puis-je choisir comme formule ?"
       réponse: |
         Tous nos ateliers (cours hebdomadaires ou stages) sont accessibles aux débutants comme aux plus avancés.  
