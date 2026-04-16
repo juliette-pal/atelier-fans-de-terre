@@ -73,7 +73,7 @@ questions:
         Au moment de payer/réserver, il vous suffira d'entrer le code unique inscrit sur votre bon.    
         Si vous avez un "montant à affecter", le code vous permettra de l'utiliser à votre guise sur nos offres.    
         Et compléter si besoin, par carte bancaire.   
-        [Voir les bons Cadeaux](https://fansdeterre.com/pages/bon_kdo)
+        [Utiliser un bon reçu](https://fansdeterre.com/pages/bon_kdo)
     - question: "Quelle est la durée de validité de mon Bon Cadeau ?"
       réponse: | 
         Votre bon cadeau est valable 1 an à compter de la date d'achat.   
