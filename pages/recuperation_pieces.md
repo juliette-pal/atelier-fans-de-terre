@@ -33,8 +33,18 @@ Vous devez rajouter la durée des vacances (15 jours ou 2 mois pour l'été) aux
 
 ## Horaires d'ouverture de l'atelier      
 
-**Vacances de FEVRIER**   
-L'atelier est fermé du 23 février au 9 mars 2026         
+**Vacances d'AVRIL**   
+Ouvert de 20 au 23 avril de 10h à 13h  
+L'atelier est fermé du 24 avril au 11 mai 2026 
+
+**Vacances d'ETE**   
+Ouvert de 29 juin au 2 jhuillet de 10h à 13h  
+Ouvert de 6 au 9 jhuillet de 10h à 13h  
+L'atelier ferme le 10 juillet
+Reprise des cours en septembre
+
+**Semaine ASCENSION**   
+L'atelier est fermé toute la semaine soit du 12 au 18 mai 2026         
 
 **Horaires semaine HORS VACANCES** :     
 Lundi...... : fermé  
@@ -44,24 +54,18 @@ Jeudi....... : 19h30 - 22h30
 Vendredi : 10h00 - 13h00 et 14h00-20h00      
 
 **Ouvertures le week-end** :       
-•	Samedi..... **14/02** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **21/02** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **14/03** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **15/03** : 16h - 18h30   
-•	Samedi..... **21/03** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **22/03** : 11h  - 18h    
-•	Samedi..... **28/03** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **29/03** : 11h  - 18h    
-•	Samedi..... **04/04** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **11/04** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **12/04** : 13h  - 17h      
-•	Samedi..... **18/04** : 11h - 13h30      
-•	Dimanche **19/04** : 11h  - 18h    
+•	Samedi..... **09/05** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **10/05** : 11h - 13h30 et 16h - 18h30  
+•	Samedi..... **23/05** : 11h  - 18h    
+•	Samedi..... **30/05** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **06/06** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **07/06** : 11h  - 18h    
+•	Samedi..... **13/06** : 11h - 13h30 et 16h - 18h30   
+•	Dimanche **14/06** : 11h  - 18h    
+•	Samedi..... **20/06** : 11h - 13h30 et 16h - 18h30   
+•	Samedi..... **27/06** : 11h  - 18h      
+•	Dimanche **28/06** : 16h  - 18h30      
 
-
-**Vacances d'avrril**   
-L'atelier est ouvert du lundi 20 au jeudi 23 de 10h à 13H   
-L'atelier est fermé du 24 avril au 4 mai 2026       
 
 
   
