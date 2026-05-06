@@ -9,9 +9,9 @@ Veuillez préciser votre demande dans le formulaire contact :
 ---  
 ## Horaires d'ouverture de l'atelier      
 
-**Vacances d'AVRIL**   
-Ouvert de 20 au 23 avril de 10h à 13h  
-L'atelier est fermé du 24 avril au 11 mai 2026 
+**Fériés - ASCENSION**   
+L'atelier est ouvert le 8 mai : 10h00 - 13h00 et 14h00-17h00    
+L'atelier est fermé toute la semaine soit du 12 au 18 mai 2026     
 
 **Vacances d'ETE**   
 Ouvert de 29 juin au 2 jhuillet de 10h à 13h  
@@ -19,8 +19,7 @@ Ouvert de 6 au 9 jhuillet de 10h à 13h
 L'atelier ferme le 10 juillet
 Reprise des cours en septembre
 
-**Semaine ASCENSION**   
-L'atelier est fermé toute la semaine soit du 12 au 18 mai 2026         
+    
 
 **Horaires semaine HORS VACANCES** :     
 Lundi...... : fermé  
