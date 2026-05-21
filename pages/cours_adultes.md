@@ -124,7 +124,7 @@ L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours hab
 
 ---
 
-## Inscriptions 2025-2026     
+## Inscriptions 2026-2027     
 Si vous voulez vous donner toutes les chances d'avoir une place, inscrivez-vous sur la liste d'attente. Vous serez informé avant tout le monde, d'une place qui se libère.    
 Inscrivez vous sans tarder : **[Cliquer ici si vous souhaitez vous inscrire sur la liste d'attente d'un cours](https://forms.gle/RcWEHegz6js46Y7i8)    
 
