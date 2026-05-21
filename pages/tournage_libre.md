@@ -32,7 +32,7 @@ Les cuissons viennent en plus de ce forfait.
 • Les séances d'émaillage peuvent se faire en cours pour les élèves et en stage moyenant le prix du stage pour tous. Mais jamais en séance libre.     
 
 ## INSCRIPTIONS 
-Les inscriptions se font pour 3 séances à réaoiser sur 45 jours.    
+Les inscriptions se font pour 3 séances sur 45 jours.    
 Attention, il y a 2 à 4 places max par créneau !!!  
 
 [**Je souhaite RESERVER**](https://app.acuityscheduling.com/catalog.php?owner=35942538&action=addCart&id=1993655&clear=1)
