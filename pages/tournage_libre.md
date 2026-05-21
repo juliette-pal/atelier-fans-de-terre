@@ -16,7 +16,7 @@ Merci de nous préciser que vous souhaitez faire du tournage libre lors de votre
 ## Quand ?    
 Vous êtes en autonomie sur des créneaux de 4h.   
 L'heure indiquée est celle du début des 4 heures.   
-Tout créneau commencé est dü car la place vous a été réservée, souvent de longue date.   
+Tout créneau commencé est dû car la place vous a été réservée, souvent de longue date.   
 Idem si vous ne restez que 3H. Toute la plage vous a été réservée et ne peut bénéficier à d'autres.   
 
 ## Compris dans le forfait 
