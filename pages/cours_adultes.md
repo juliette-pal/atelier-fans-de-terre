@@ -55,8 +55,10 @@ Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposé
 A chacun son rythme selon ses envies !  
 
 
-----  
-[Cliquer ici](https://fansdeterre.com/pages/tournage_libre) pour en savoir plus sur le **TOURNAGE LIBRE**.   
+---- 
+## TOURNAGE LIBRE
+Il s'agit d'une pratique libre (sans prof) destinée à ceux qui s'y connaissent déjà un peu.  
+[Cliquer ici](https://fansdeterre.com/pages/tournage_libre) pour en savoir.    
   
 ## COURS MODELAGE et/ou TOURNAGE  
 
