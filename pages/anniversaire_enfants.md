@@ -44,9 +44,13 @@ Le gâteau est ramené par la famille.
 - Tournage (9 ans et +) - Max 8 enfants : 50€    
 
 
-## RESERVER
+## RESERVER UNE DATE
 Envoyez votre demande à **animations@fansdeterre.com**       
-Une fois la date trouvée, **Bloquez la en versant un acompte**       
+Une fois la date trouvée avec notre atelier, **Bloquez la en versant un acompte**       
 Pensez à préciser la date bloquée lors du règlement   
 <iframe id="haWidgetButton" allowtransparency="true" src="https://www.helloasso.com/associations/fans-de-terre/evenements/cadeaux-animations-expos/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
+## OFFRIR UN ATELIER
+C'est l'occasion de partager un moment privilégié via un **atelier parents/enfants**...   
+Vous pouvez aussi offir à votre enfant un **stage pendant les vacances**   
+Cliquer ici pour en savoir plus
