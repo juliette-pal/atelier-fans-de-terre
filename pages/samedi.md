@@ -27,57 +27,57 @@ redirect_from:
  
 
 ## Groupe A MATIN : 10H - 13H30  
-- Samedi n°01 - 04 Octobre  
-- Samedi n°02 - 18 Octobre  
-- Samedi n°03 - 08 Novembre   
-- Samedi n°04 - 22 Novembre  
-- Samedi n°05 - 13 Décembre  
-- Samedi n°06 - 20 Décembre  
-- Samedi n°07 - 17 Janvier   
-- Samedi n°08 - 31 Janvier  
-- Samedi n°09 - 14 Février  
-- Samedi n°10 - 14 Mars  
-- Samedi n°11 - 28 Mars  
-- Samedi n°12 - 11 Avril  
-- Samedi n°13 - 09 Mai  
-- Samedi n°14 - 06 Juin  
-- Samedi n°15 - 20 Juin  
+- Samedi n°01 - 03 Octobre  
+- Samedi n°02 - 17 Octobre  
+- Samedi n°03 - 07 Novembre   
+- Samedi n°04 - 21 Novembre  
+- Samedi n°05 - 12 Décembre  
+- Samedi n°06 - 19 Décembre  
+- Samedi n°07 - 16 Janvier   
+- Samedi n°08 - 30 Janvier  
+- Samedi n°09 - 27 Février  
+- Samedi n°10 - 13 Mars  
+- Samedi n°11 - 27 Mars  
+- Samedi n°12 - 24 Avril  
+- Samedi n°13 - 22 Mai  
+- Samedi n°14 - 05 Juin  
+- Samedi n°15 - 19 Juin  
 
 
 ## Groupe B MATIN : 10H - 13H30  
-- Samedi n°01 - 27 Septembre  
-- Samedi n°02 - 11 Octobre  
-- Samedi n°03 - 15 Novembre   
-- Samedi n°04 - 29 Novembre  
-- **Dimanche** n°05 - 14 Décembre  
-- Samedi n°06 - 10 Janvier   
-- Samedi n°07 - 24 Janvier  
-- Samedi n°08 - 07 Février  
-- Samedi n°09 - 21 Février  
-- Samedi n°10 - 21 Mars  
-- Samedi n°11 - 04 Avril  
-- Samedi n°12 - 18 Avril  
-- **Dimanche** n°13 - 10 Mai  
-- Samedi n°14 - 30 Mai  
-- Samedi n°15 - 13 Juin  
+- Samedi n°01 - 26 Septembre  
+- Samedi n°02 - 10 Octobre  
+- Samedi n°03 - 14 Novembre   
+- Samedi n°04 - 28 Novembre  
+- **Dimanche** n°05 - 13 Décembre  
+- Samedi n°06 - 09 Janvier   
+- Samedi n°07 - 23 Janvier  
+- Samedi n°08 - 06 Février  
+- Samedi n°09 - 06 Mars   
+- Samedi n°10 - 20 Mars  
+- Samedi n°11 - 03 Avril  
+- Samedi n°12 - 15 Mai 
+- **Dimanche** n°13 - 23 Mai  
+- Samedi n°14 - 29 Mai  
+- Samedi n°15 - 12 Juin  
 
 
 ## Groupe APRES-MIDI : 15H - 18H30  
-- Samedi n°01 - 04 Octobre  
-- Samedi n°02 - 18 Octobre  
-- Samedi n°03 - 08 Novembre   
-- Samedi n°04 - 22 Novembre  
-- Samedi n°05 - 13 Décembre  
-- Samedi n°06 - 20 Décembre  
-- Samedi n°07 - 17 Janvier   
-- Samedi n°08 - 31 Janvier  
-- Samedi n°09 - 14 Février  
-- Samedi n°10 - 14 Mars  
-- Samedi n°11 - 28 Mars  
-- Samedi n°12 - 11 Avril  
-- Samedi n°13 - 09 Mai  
-- Samedi n°14 - 06 Juin  
-- Samedi n°15 - 20 Juin  
+- Samedi n°01 - 03 Octobre  
+- Samedi n°02 - 17 Octobre  
+- Samedi n°03 - 07 Novembre   
+- Samedi n°04 - 21 Novembre  
+- Samedi n°05 - 12 Décembre  
+- Samedi n°06 - 19 Décembre  
+- Samedi n°07 - 16 Janvier   
+- Samedi n°08 - 30 Janvier  
+- Samedi n°09 - 27 Février  
+- Samedi n°10 - 13 Mars  
+- Samedi n°11 - 27 Mars  
+- Samedi n°12 - 24 Avril  
+- Samedi n°13 - 22 Mai  
+- Samedi n°14 - 05 Juin  
+- Samedi n°15 - 19 Juin  
 
   
   
