@@ -6,7 +6,8 @@ redirect_from:
 
 **ATTENTION** : les dates de cours de l'après midi sont après celles du matin BBB !!!  
 ---
-⭐⭐⭐ **Rattrapage** : possible **1 fois** par trimestre si **annoncée au minimum 1 semaine avant pendant les cours (les infos par sms... ne comptent pas)**.    
+⭐⭐⭐ **RATTRAPAGES** : 
+Possible **1 fois** par trimestre si **annoncée au minimum 1 semaine avant pendant les cours (les infos par sms... ne comptent pas)**.    
 
 ## Jeudi 15H - 18H30  
 - Jeudi n°01 - 01 Octobre  
