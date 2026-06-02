@@ -2,28 +2,28 @@
 redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/16-samedis/
 ---
-# 15 COURS ADULTES - JEUDI et SAMEDI 2025/2026  
+# 15 COURS ADULTES - JEUDI et SAMEDI 2026/2027   
 
 **ATTENTION** : les dates de cours de l'après midi sont après celles du matin BBB !!!  
 ---
-⭐⭐⭐ **Rattrapage** : possible **1 fois** par trimestre si **annoncée au minimum 1 semaine avant (uniquement pendant les cours)**.    
+⭐⭐⭐ **Rattrapage** : possible **1 fois** par trimestre si **annoncée au minimum 1 semaine avant pendant les cours (les infos par sms... ne comptent pas)**.    
 
 ## Jeudi 15H - 18H30  
-- Jeudi n°01 - 02 Octobre  
-- Jeudi n°02 - 16 Octobre  
-- Jeudi n°03 - 06 Novembre  
-- Jeudi n°04 - 20 Novembre   
-- Jeudi n°05 - 11 Décembre   
-- Jeudi n°06 - 15 Janvier    
-- Jeudi n°07 - 29 Janvier   
-- Jeudi n°08 - 12 Février  
-- Jeudi n°09 - 12 Mars    
-- Jeudi n°10 - 26 Mars  
-- Jeudi n°11 - 09 Avril   
-- Jeudi n°12 - 07 Mai   
-- Jeudi n°13 - 21 Mai 
-- Jeudi n°14 - 04 Juin  
-- Jeudi n°15 - 18 Juin  
+- Jeudi n°01 - 01 Octobre  
+- Jeudi n°02 - 15 Octobre  
+- Jeudi n°03 - 05 Novembre  
+- Jeudi n°04 - 19 Novembre   
+- Jeudi n°05 - 10 Décembre   
+- Jeudi n°06 - 07 Janvier    
+- Jeudi n°07 - 21 Janvier   
+- Jeudi n°08 - 04 Février
+- Jeudi n°09 - 25 Février 
+- Jeudi n°10 - 11 Mars    
+- Jeudi n°11 - 25 Mars  
+- Jeudi n°12 - 22 Avril   
+- Jeudi n°13 - 13 Mai   
+- Jeudi n°14 - 27 Mai  
+- Jeudi n°15 - 10 Juin  
  
 
 ## Groupe A MATIN : 10H - 13H30  
