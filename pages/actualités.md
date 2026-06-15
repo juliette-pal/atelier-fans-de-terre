@@ -9,14 +9,14 @@
 # Voir les **cours hebdomadaires** et les **stages ponctuels**  
 
 **COURS HEBDOMADAIRES** :   
-  - [Voir les cours Adultes (3H ou plus)](pages/cours_adultes)
-  - [Voir les cours Enfants 1H30](pages/cours_enfants)
-  - [Voir le tournage libre](pages/tournage_libre)
+  - [Voir les cours Adultes (3H ou plus)](https://fansdeterre.com/pages/cours_adultes)
+  - [Voir les cours Enfants 1H30](https://fansdeterre.com/pages/cours_enfants)
+  - [Voir le tournage libre](https://fansdeterre.com/pages/tournage_libre)
   - [**Vous inscrire sur la liste d'attente d'un cours complet**](https://forms.gle/RcWEHegz6js46Y7i8){:target="_blank" }
 
 **STAGES PONCTUELS** :  
-  - [Trouver un stage ADULTES](pages/stages_adultes)   
-  - [Trouver un stage ENFANTS](pages/stages_enfants)
+  - [Trouver un stage ADULTES](https://fansdeterre.com/pages/stages_adultes)   
+  - [Trouver un stage ENFANTS](https://fansdeterre.com/pages/stages_enfants)
   - [**Vous inscrire sur la liste d'attente d'un stage**](https://forms.gle/RcWEHegz6js46Y7i8){:target="_blank" }
 
 
