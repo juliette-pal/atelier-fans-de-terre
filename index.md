@@ -27,7 +27,7 @@ Pour vous donner plus de chances cette année, inscrivez vous sur liste d'attent
 Vous serez informé des places libres avant la mise en ligne pour tous !!!   
 **[Cliquer ici](https://forms.gle/RcWEHegz6js46Y7i8)**    
 
-Vous souhaitez pratiquer une **activité hebdomadaire régulière** (1H30 pour les enfants à 3H pour les adultes).  
+Vous souhaitez pratiquer une **activité hebdomadaire régulière** (1H30 pour les enfants à partir de 3H pour les adultes).  
 Ce sera votre **pause artistique** de la semaine ! 
   - [Voir les cours Adultes 3H](pages/cours_adultes)
   - [Voir les cours Enfants 1H30](pages/cours_enfants)
