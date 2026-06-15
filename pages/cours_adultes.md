@@ -126,12 +126,12 @@ L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours hab
 
 ## Inscriptions 2026-2027     
 Cette année, vous voulez vous donner toutes les chances d'avoir une place...     
-**[Cliquer ici](https://forms.gle/RcWEHegz6js46Y7i8) pour être informé.e avant tout le monde**    
+**[Cliquer ici](https://forms.gle/RcWEHegz6js46Y7i8) pour être sur liste d'attente en cas de désistement sur un cours complet !**    
 
-**AGENDA**   
-Réinscription des élèves déjà inscrits : **début juin**  
-Inscriptions de ceux qui sont sur liste d'attente : **10 juin**  
-Mise en ligne des places pour tous : **mi juin**  
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/adhesions/cours-adultes-26-27/widget" style="width: 100%; height: 750px; border: none;" onload="window.addEventListener('message', function(e) { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); 
+  if (dataHeight > parseFloat(haWidgetElement.height || 0)) { haWidgetElement.height = dataHeight + 'px';}})"></iframe>
+
+  
 
 
 
