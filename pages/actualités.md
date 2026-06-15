@@ -9,7 +9,7 @@
 # Voir les **cours hebdomadaires** et les **stages ponctuels**  
 
 **COURS HEBDOMADAIRES** :   
-  - [Voir les cours Adultes 3H](pages/cours_adultes)
+  - [Voir les cours Adultes (3H ou plus)](pages/cours_adultes)
   - [Voir les cours Enfants 1H30](pages/cours_enfants)
   - [Voir le tournage libre](pages/tournage_libre)
   - [**Vous inscrire sur la liste d'attente d'un cours complet**](https://forms.gle/RcWEHegz6js46Y7i8){:target="_blank" }
