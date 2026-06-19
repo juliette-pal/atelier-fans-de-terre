@@ -30,12 +30,12 @@ Les fournitures et les cuissons sont comprises dans le prix.
 ---  
   
 ## Inscriptions 2026-2027     
-Cette année, vous voulez vous donner toutes les chances d'avoir une place...     
-**[Cliquer ici](https://forms.gle/RcWEHegz6js46Y7i8) pour être sur la liste d'attente d'un cours complet**    
-
 <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/fans-de-terre/adhesions/cours-ados-enfants-26-27/widget" style="width: 100%; height: 750px; border: none;" onload="window.addEventListener('message', function(e) { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); 
   if (dataHeight > parseFloat(haWidgetElement.height || 0)) { haWidgetElement.height = dataHeight + 'px';}})"></iframe>
 
+
+Cette année, vous voulez vous donner toutes les chances d'avoir une place...     
+**[Cliquer ici](https://forms.gle/RcWEHegz6js46Y7i8) pour être sur la liste d'attente d'un cours complet**    
 
 
 
