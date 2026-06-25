@@ -10,6 +10,7 @@ Veuillez préciser votre demande dans le formulaire contact :
 ## Horaires d'ouverture de l'atelier      
 
 **SEMAINE - Juin / Juillet / Août**   
+Ouvert le vendredi 26 juin de 17H à 20H    
 Ouvert du 29 juin au 2 juillet de 10h à 13h  
 Ouvert du 6 au 9 juillet de 10h à 13h  
 L'atelier ferme le 10 juillet
