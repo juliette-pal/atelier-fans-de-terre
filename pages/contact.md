@@ -9,39 +9,12 @@ Veuillez préciser votre demande dans le formulaire contact :
 ---  
 ## Horaires d'ouverture de l'atelier      
 
-**Fériés - ASCENSION**   
-L'atelier est ouvert le 8 mai : 10h00 - 13h00 et 14h00-17h00    
-L'atelier est fermé toute la semaine soit du 12 au 18 mai 2026     
-
-**Vacances d'ETE**   
-Ouvert de 29 juin au 2 jhuillet de 10h à 13h  
-Ouvert de 6 au 9 jhuillet de 10h à 13h  
+**SEMAINE - Juin / Juillet / Août**   
+Ouvert du 29 juin au 2 juillet de 10h à 13h  
+Ouvert du 6 au 9 juillet de 10h à 13h  
 L'atelier ferme le 10 juillet
 Reprise des cours en septembre
-
-    
-
-**Horaires semaine HORS VACANCES** :     
-Lundi...... : fermé  
-Mardi...... : 19h30 - 22h30  
-Mercredi :  14h00 - 18h00 et 19h30 - 22h30  
-Jeudi....... : 19h30 - 22h30   
-Vendredi : 10h00 - 13h00 et 14h00-20h00      
-
-**Ouvertures le week-end** :       
-•	Samedi..... **09/05** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **10/05** : 11h - 13h30 et 16h - 18h30  
-•	Samedi..... **23/05** : 11h  - 18h    
-•	Samedi..... **30/05** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **06/06** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **07/06** : 11h  - 18h    
-•	Samedi..... **13/06** : 11h - 13h30 et 16h - 18h30   
-•	Dimanche **14/06** : 11h  - 18h    
-•	Samedi..... **20/06** : 11h - 13h30 et 16h - 18h30   
-•	Samedi..... **27/06** : 11h  - 18h      
-•	Dimanche **28/06** : 16h  - 18h30      
-
-
+  
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
   
