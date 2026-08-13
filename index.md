@@ -1,5 +1,6 @@
 ---
-title: COURS ET STAGES DE POTERIE ET CÉRAMIQUE À COLOMBES (92)
+title: "Atelier de poterie et céramique à Colombes (92) — Cours & stages | Fans de Terre"
+description: "Cours et stages de poterie à Colombes pour adultes et enfants : tournage, modelage, raku, café céramique, familles et entreprises."
 src-facebook: "images/icone_facebook.png"
 src-instagram: "images/icone_instagram.png"
 redirect_from:
