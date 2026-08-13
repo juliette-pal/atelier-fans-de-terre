@@ -1,6 +1,5 @@
 ---
 title: "Team building céramique à Colombes et Paris"
-description: "Atelier céramique créatif pour entreprises et groupes près de Paris : format collaboratif, accessible aux débutants et personnalisable."
 ---
 # TEAMBUILDING CERAMIQUE  
 # ANIMATIONS    
