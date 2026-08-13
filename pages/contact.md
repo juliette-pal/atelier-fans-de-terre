@@ -1,6 +1,5 @@
 ---
 title: "Contact & accès — Atelier Fans de Terre à Colombes"
-description: "Adresse, accès en train, bus ou voiture et informations de contact de l’atelier Fans de Terre, 51 rue Guerlain à Colombes."
 ---
 ## Atelier FANS DE TERRE  
 51, rue Guerlain  
