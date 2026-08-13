@@ -1,5 +1,23 @@
----
-layout: none
----
+# Fans de Terre — règles de crawl pour moteurs de recherche et assistants IA
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://fansdeterre.com/sitemap.xml
