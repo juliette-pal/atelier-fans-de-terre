@@ -1,6 +1,5 @@
 ---
 title: "Stages de poterie et céramique adultes à Colombes | Fans de Terre"
-description: "Stages ponctuels de céramique à Colombes : tournage, modelage, raku, émaillage, porcelaine et patine, pour tous niveaux."
 redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/
 ---
