@@ -1,6 +1,5 @@
 ---
 title: "Café céramique à Colombes — Décore ta poterie"
-description: "Décorez une poterie fabriquée à l’atelier de Colombes, puis récupérez-la après émaillage et cuisson. Activité enfants, familles et groupes."
 ---
 # CAFE CERAMIQUE OU DECORE TA POTERIE  !!!      
 
