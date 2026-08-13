@@ -7,14 +7,17 @@ redirect_from:
 ---
 
 # **ATELIER DE POTERIE ET CÉRAMIQUE**  
+**Fans de Terre est un atelier de céramique situé au 51 rue Guerlain à Colombes (92)**, à environ 5 minutes à pied de la gare de Colombes et 15mns de Saint-Lazare. Nous proposons des cours hebdomadaires et des stages ponctuels de modelage, tournage, raku, décoration et émaillage, pour adultes, enfants et familles. L’atelier accueille aussi les anniversaires, groupes et entreprises pour des cafés céramique et team buildings créatifs.
+ᐉ **Vous débutez ?** La plupart des cours et stages sont accessibles sans expérience préalable.  
 
-ᐉ Vous cherchez une **activité artistique** et **créative** ?  
-ᐉ Vous voulez découvrir la **céramique**, la **poterie**, la **sculpture,...** ?  
-ᐉ Vous recherchez une **activité créative zen** à pratiquer ponctuellement ou chaque semaine ?  
-ᐉ **Seul**, en **famille**, entre **amis** ou **collègues**...     
+ᐉ **Vous cherchez une activité ponctuelle ?** Consultez les stages adultes, enfants ou parents-enfants.  
 
-Il ne vous reste plus qu’à **y faire un tour** ou offrir un [**bon cadeau**](pages/bon_kdo) !!!    
- 
+ᐉ **Vous organisez un événement ?** Des formats café céramique, anniversaire et team building sont proposés.  
+
+ᐉ **Vous voulez offrir un atelier ?** Des bons cadeaux valables un an sont disponibles ici : [**bon cadeau**](pages/bon_kdo) !!!   
+
+
+**Seul**, en **famille**, entre **amis** ou **collègues**...     
 [Cliquer ici si vous souhaitez vous inscrire sur **la liste d'attente** d'un cours ou stage](https://forms.gle/RcWEHegz6js46Y7i8)        
 
 ---  
