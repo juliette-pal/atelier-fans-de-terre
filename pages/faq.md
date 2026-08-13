@@ -107,4 +107,3 @@ questions:
         Pour découvrir l'atelier et les techniques (Raku, Tournage, Modelage) avant de choisir une formule annuelle, nous vous conseillons de vous inscrire à un stage.   
         Ils ont lieu ponctuellement les week-end et pendant les vacances.   
         [Tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)
----
