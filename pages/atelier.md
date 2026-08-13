@@ -9,7 +9,7 @@ Vous pourrez y découvrir le **tournage**, le **modelage**, le **raku** et bien 
 
 Venez seul, entre amis, en famille, entre collègues, en amoureux… de la terre, ou tout simplement curieux de la découvrir !!!  
   
-Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 20mn de la gare St-Lazare, à proximité de Bois-Colombes, Courbevoie, Neuilly, Asnières-sur-seine, et à deux pas de l’A86.  
+Situé à Colombes (92) dans le quartier Guerlain, l'atelier est à 15mns de la gare St-Lazare, à proximité de Bois-Colombes, Courbevoie, Neuilly, Asnières-sur-seine, et à deux pas de l’A86.  
 
 Vous y trouverez **deux grands espaces** dont un dédié au tournage avec ses **6 tours**.  
 
