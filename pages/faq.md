@@ -1,7 +1,5 @@
 ---
-title: "FAQ — Cours et stages de poterie | Fans de Terre Colombes"
-description: "Réservation, changement de date, récupération des pièces, débutants, enfants, bons cadeaux et anniversaires : toutes les réponses utiles."
----
+title: FAQ
 layout: faq
 faq_schema: true
 questions:
@@ -107,3 +105,4 @@ questions:
         Pour découvrir l'atelier et les techniques (Raku, Tournage, Modelage) avant de choisir une formule annuelle, nous vous conseillons de vous inscrire à un stage.   
         Ils ont lieu ponctuellement les week-end et pendant les vacances.   
         [Tous les stages proposés](https://fansdeterre.com/pages/stages_adultes)
+---
