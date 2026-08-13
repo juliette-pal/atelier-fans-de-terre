@@ -1,6 +1,7 @@
 ---
 title: faq
 layout: faq
+faq_schema: true
 questions:
     - question: "Comment savoir si je suis bien inscrit(e) à mon stage ?"
       réponse: |
