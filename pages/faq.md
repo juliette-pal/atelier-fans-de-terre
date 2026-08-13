@@ -1,5 +1,6 @@
 ---
 title: FAQ
+description: "Réservation, changement de date, récupération des pièces, débutants, enfants, bons cadeaux et anniversaires : toutes les réponses utiles."
 layout: faq
 faq_schema: true
 questions:
