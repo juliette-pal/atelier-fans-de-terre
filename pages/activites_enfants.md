@@ -1,6 +1,5 @@
 ---
 title: "Poterie enfants à Colombes — Cours, stages & anniversaires"
-description: "Cours, stages vacances, ateliers parents-enfants et anniversaires poterie à Colombes. Formules adaptées selon l’âge et la technique."
 redirect_from:
     - /agenda-cours-poterie-ceramique-colombes/actualites-cours-de-poterie-ceramique-colombes/stages-ados-enfants/
 
