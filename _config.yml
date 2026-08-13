@@ -1,6 +1,8 @@
 title: Atelier Fans de Terre Colombes
 theme: jekyll-theme-cayman
-url: "https://www.fansdeterre.com" # the base hostname & protocol for your site
+url: "https://fansdeterre.com"
+baseurl: ""
+lang: "fr_FR"
 plugins:
   - jemoji
   - jekyll-seo-tag
