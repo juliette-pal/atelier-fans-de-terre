@@ -1,6 +1,5 @@
 ---
 title: "Cours de poterie adultes à Colombes — Tournage & modelage"
-description: "Cours hebdomadaires de poterie à Colombes pour adultes, débutants ou confirmés : tournage, modelage et formules spécialisées."
 redirect_from:
     - /stages-et-evenements-cours-poterie-ceramique-colombes/cours-de-tournage-uniquement/
 ---
