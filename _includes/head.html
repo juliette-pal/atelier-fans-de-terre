@@ -62,4 +62,8 @@ jQuery(document).ready(function($){
     href="{{ '/assets/css/style-fan.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap" rel="stylesheet">
+  {% include geo-entity-schema.html %}
+  {% if page.faq_schema %}
+    {% include faq-schema.html %}
+  {% endif %}
 </head>
