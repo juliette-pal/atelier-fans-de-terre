@@ -1,5 +1,5 @@
 # COURS ENFANTS HEBDOMADAIRES  
-
+🌟🌟🌟 **REPRISE DES COURS ENFANTS (le 23/9)**     
 La terre se travaille à tout âge, c’est pour cette raison que nous proposons aux **enfants dès 5ans**, et **adolescents** des cours hebdomadaires d'1H30. Ils pourront aborder en alternance :
 - des cours guidés autour d'une technique spécifique de façonnage ou de décoration
 - des cours pour donner libre cours à leur créativité.
