@@ -26,7 +26,8 @@ redirect_from:
 <img src="/images/Affiche_bon_cadeau_fansdeterre.jpg" class="image-stage">
 </a>
 
-## COURS HEBDOMADAIRES  
+## COURS HEBDOMADAIRES   
+🌟🌟🌟 **REPRISE DES COURS ENFANTS (le 23/9) et ADULTES (le 29/9)**     
 Pour vous donner plus de chances cette année, inscrivez vous sur liste d'attente.    
 Vous serez informé des places libres avant la mise en ligne pour tous !!!   
 **[Cliquer ici](https://forms.gle/RcWEHegz6js46Y7i8)**    
