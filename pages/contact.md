@@ -13,12 +13,11 @@ Veuillez préciser votre demande dans le formulaire contact :
 
 ---  
 ## Horaires d'ouverture de l'atelier      
+Du 7 au 25 septembre     
+Mercredi et vendredi   
+Sur RDV au 06 11 02 91 90    
 
-**SEMAINE - Juin / Juillet / Août**   
-Ouvert le vendredi 26 juin de 17H à 20H    
-Ouvert du 29 juin au 2 juillet de 10h à 13h  
-L'atelier ferme le 2 juillet
-Reprise des cours en septembre
+REPRISE DES COURS ENFANTS (le 23/9) et ADULTES (le 29/9)   
   
   
 **[Cliquer ici pour voir dans quel délai récupérer les pièces de stages](recuperation_pieces)**  
