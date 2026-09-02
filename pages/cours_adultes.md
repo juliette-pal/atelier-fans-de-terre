@@ -30,7 +30,7 @@ Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposé
 
 | Jours    | Horaires      | Infos          |
 | -------- | ------------- | ------------- |
-| Lundi    | 19H30 - 22H30 | Modelage et tournage - **NEW !!!** -  [S'incrire](https://www.helloasso.com/associations/fans-de-terre/adhesions/pre-resa-cours-adultes-26-27) |
+| Lundi    | 19H30 - 22H30 | Modelage et tournage - **NEW !!!** -  [S'incrire](https://www.helloasso.com/associations/fans-de-terre/adhesions/cours-adultes-26-27) |
 | Mardi    | 19H30 - 22H30 | Modelage et tournage              |
 | Mercredi | 19H30 - 22H30 | Modelage et tournage              |
 | Jeudi    | 15H00 - 18H30 | Modelage **1 jeudi sur 2** - [Voir les séances](samedi.md) |
