@@ -1,7 +1,7 @@
 ---
 title: "Café céramique à Colombes — Décore ta poterie"
 ---
-# CAFE CERAMIQUE OU DECORE TA POTERIE  !!!      
+# "DECORE TA POTERIE" notre CAFE CERAMIQUE  !!!      
 
 <img src="/images/cafe_ceramique_fansdeterre.JPG" class="image-horiz">
 
@@ -22,7 +22,7 @@ Il faudra attendre quelques jours pour récupérer votre œuvre car l'atelier de
 
 ## NOS PROCHAINES DATES    
 Samedi **17 Octobre** 2026     : chez **Pépites de familles** à Colombes - 14H00 à 15h30 - [RESERVER](https://www.pepitesdefamilles.fr/boutique-2/)    
-Dimanche **22 Novembre** 2026  : à la **Halle Flachat** à Asnières - 10H30 à 14H00   
+Dimanche **22 Novembre** 2026  : à la **Halle Flachat** à Asnières - 10H30 à 14H00 [RESERVER](https://Fansdeterre.as.me/?appointmentType=97595209)     
 Dimanche **29 Novembre** 2026  : chez **Pépites de familles** à Colombes - 10H00 à 13h00 - [RESERVER](https://www.pepitesdefamilles.fr/boutique-2/)      
 Samedi **5 Décembre** 2026     : au **Festival des créatrices** à Colombes - 14H00 à 19H00    
 Dimanche **20 Décembre** 2026  : chez **Fans de terre** - [RESERVER](https://Fansdeterre.as.me/?appointmentType=97595209)     
