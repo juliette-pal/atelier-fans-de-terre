@@ -39,7 +39,7 @@ Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposé
 |          | 14H00 - 17H00 | Modelage et tournage     |
 |          | 17H00 - 20H00 | **100% tournage** |
 | Samedi   | 10H00 - 13H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md) |
-|   | 15H00 - 18H30 | Modelage **1 samedi sur 2**   |
+|   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md)    |
 
 **Nos élèves incris à l'année bénéficient de 6 bonus :**   
 1 cuisson Raku par an, 20% de réduction sur les stages week-end, 3 rattrapages possibles en cas d'absence, l'accès privilégié au tournage libre, le paiment en plusieurs fois.   
