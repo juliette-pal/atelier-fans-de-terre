@@ -20,8 +20,8 @@ Tout créneau commencé est dû car la place vous a été réservée, souvent de
 Idem si vous ne restez que 3H. Toute la plage vous a été réservée et ne peut bénéficier à d'autres.   
 
 ## Compris dans le forfait 
-Le forfait de 100€ les 3 séances de 4h (soit 12h) comprend :    
-• La terre W11   
+Le forfait de 120€ (100 pour les élèves de l'atelier) les 3 séances de 4h (soit 12h) comprend :    
+• La terre W11 (vous payez uniquement ce que vous gardez)   
 • Le matériel et l'outillage   
 • un seau personnel pour la barbotine de tournage   
 • Une grande planche de stockage /pers   
