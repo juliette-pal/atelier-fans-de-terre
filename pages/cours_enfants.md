@@ -24,7 +24,7 @@ Les fournitures et les cuissons sont comprises dans le prix.
 - Mercredi : 16H – 17H30  
 - Vendredi : 17H - 18H30           
 
-
+[Inscrire son enfnat à un cours](https://www.helloasso.com/associations/fans-de-terre/adhesions/cours-enfants-26-27)   
 
 [Cliquer ici pour voir toutes les activités enfants](activites_enfants)  
 ---  
