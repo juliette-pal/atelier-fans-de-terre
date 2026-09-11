@@ -41,7 +41,7 @@ Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposé
 | Samedi   | 10H00 - 13H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md) |
 |   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md)    |
 
-[S'incrire à un cours](https://www.helloasso.com/associations/fans-de-terre/adhesions/cours-adultes-26-27)   
+[S'inscrire à un cours](https://www.helloasso.com/associations/fans-de-terre/adhesions/cours-adultes-26-27)   
 
 
 **Nos élèves incris à l'année bénéficient de 6 bonus :**   
