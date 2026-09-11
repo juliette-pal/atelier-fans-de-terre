@@ -5,7 +5,7 @@ redirect_from:
 ---
 
 # COURS ADULTES HEBDOMADAIRES   
-🌟🌟🌟 **REPRISE DES COURS ENFANTS (le 23/9) et ADULTES (le 29/9)**     
+🌟🌟🌟 **REPRISE DES COURS ENFANTS (le 23/9) et ADULTES (le 28/9)**     
 [Cliquer ici pour voir plus d'avis](https://www.google.com/search?sca_esv=7a7784c0b95b5c0d&rlz=1C1DLBX_frFR878FR880&sxsrf=AE3TifNL6jAnsxFHc8Wcz8NBM5FiLGSgQw:1765455304028&q=fansdeterre&si=AMgyJEvkVjFQtirYNBhM3ZJIRTaSJ6PxY6y1_6WZHGInbzDnMWvUeOmJK7INkDteKAWb-s8XqL8OWOOrdQta_Qb5H8P6_wjzWQJU2sdC_Pj9Bly3uEMVNa0%3D&uds=AOm0WdFjhyjv-N7IxYZGImag8WESIos6b5FG7Oiin7a7S_pku2Y4ryGygzzD2I6ehV04XUwrOedfN7ZwoFM6AtGOY3dGvghIMzrTZYbytlQv1Mum1mgd-_c&sa=X&ved=2ahUKEwjgyY3CwbWRAxXbRaQEHdhzK2YQ3PALegQIKhAF&biw=1396&bih=588&dpr=1.38")   
 
 <a href="https://www.google.com/search?sca_esv=7a7784c0b95b5c0d&rlz=1C1DLBX_frFR878FR880&sxsrf=AE3TifNL6jAnsxFHc8Wcz8NBM5FiLGSgQw:1765455304028&q=fansdeterre&si=AMgyJEvkVjFQtirYNBhM3ZJIRTaSJ6PxY6y1_6WZHGInbzDnMWvUeOmJK7INkDteKAWb-s8XqL8OWOOrdQta_Qb5H8P6_wjzWQJU2sdC_Pj9Bly3uEMVNa0%3D&uds=AOm0WdFjhyjv-N7IxYZGImag8WESIos6b5FG7Oiin7a7S_pku2Y4ryGygzzD2I6ehV04XUwrOedfN7ZwoFM6AtGOY3dGvghIMzrTZYbytlQv1Mum1mgd-_c&sa=X&ved=2ahUKEwjgyY3CwbWRAxXbRaQEHdhzK2YQ3PALegQIKhAF&biw=1396&bih=588&dpr=1.38">
@@ -41,6 +41,9 @@ Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposé
 | Samedi   | 10H00 - 13H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md) |
 |   | 15H00 - 18H30 | Modelage **1 samedi sur 2** - [Voir les séances](samedi.md)    |
 
+[S'incrire à un cours](https://www.helloasso.com/associations/fans-de-terre/adhesions/cours-adultes-26-27)   
+
+
 **Nos élèves incris à l'année bénéficient de 6 bonus :**   
 1 cuisson Raku par an, 20% de réduction sur les stages week-end, 3 rattrapages possibles en cas d'absence, l'accès privilégié au tournage libre, le paiment en plusieurs fois.   
 
@@ -69,27 +72,27 @@ Il s'agit d'une pratique libre (sans prof) destinée à ceux qui s'y connaissent
 **Niveau :**  
 Modelage (tous niveaux) - Tournage (tous niveaux)  
 
-**Tarif : 1255€ l’année** - 29 cours de 3H  
+**Tarif : 1275€ l’année** - 29 cours de 3H  
 
-**Jours :** Mardi 19H30 - Mercredi 19H30 - Jeudi 19H30 - Vendredi 10H00 et 14H
+**Jours :** Lundi 19H30 - Mardi 19H30 - Mercredi 19H30 - Jeudi 19H30 - Vendredi 10H00 et 14H
 
 Les cours hebdomadaires de 3h de **modelage et tournage** vous permettent de pratiquer ces deux techniques pour une **approche globale du travail de la terre**.  
 
-Il y a 6 tours pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme **décorer**, **émailler** !  
+Il y a 5 tours pour 8 participants, mais pas d'inquiétude car même quand on adore tourner, on a des choses à faire hors tour, comme **décorer**, **émailler** !  
 L'apprentissage du tournage demandant avant tout de la pratique, nous conseillons d'en faire pendant plusieurs séances de suite pour commencer à voir une progression et surtout prendre du plaisir.  
 
 Nous vous faisons également **découvrir de nouvelles techniques** chaque année en alternance avec des **projets personnels**.  
 Et pour les plus indépendants, il est possible de **suivre son propre rytme**.  
 
 
-:star: Forfait payable en 5 fois.  
+:star: Forfait payable en plusieurs fois (voir tarifs).    
 
   
 ## COURS 1 semaine sur 2 ( jeudi et samedi )   
 **Niveau :**  Modelage (tous niveaux)  
-**Tarif : 875€ l’année** - 15 cours de 3H30  
+**Tarif : 895€ l’année** - 15 cours de 3H30  
 
-:star: Forfait payable en 5 fois.     
+:star: Forfait payable en plusieurs fois.     
 
 3 possibilités :  
 - Jeudi après-midi : 15h - 18h30    
@@ -108,7 +111,7 @@ Nous aborderons ponctuellement le tournage, histoire de découvrir cette techniq
 
 **Niveau tournage :** tous niveaux  
 
-**Tarif : 405€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
+**Tarif : 415€ - 9 séances** - Sept à dec * janv à mars * avril à juin  
 
 **Jour :** Vendredi 17H00 - 20H  
 
@@ -120,8 +123,7 @@ Ceux qui connaissent le tournage le savent, il faut du temps et de l'entrainemen
 L'idée est donc pour un petit groupe de 5 ou 6 (au lieu de 8 pour les cours habituels), de compléter des enseignements par des entraînements individuels sans prof pour s'approprier ce qui a été vu.  
   
 :star: 1 séance par trimestre sera consacrée à l'émaillage.   
-:star: **Attention, 6 tours, 6 places** !!!   
-:star: Forfait payable en 2 fois.   
+:star: **Attention, 5 tours, 5 places** !!!   
 :star: PAS DE RATTRAPAGE SUR CE COURS  
   
 
