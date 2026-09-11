@@ -24,9 +24,13 @@ Les fournitures et les cuissons sont comprises dans le prix.
 - Mercredi : 16H – 17H30  
 - Vendredi : 17H - 18H30           
 
-[Inscrire son enfant à un cours](https://www.helloasso.com/associations/fans-de-terre/adhesions/cours-ados-enfants-26-27)   
+Les cours enfants 2026/2027 sont actuellement complets...     
+[Cliquer ici](https://forms.gle/RcWEHegz6js46Y7i8) pour être sur la liste d'attente    
 
-[Cliquer ici pour voir toutes les activités enfants](activites_enfants)  
+
+[Cliquer ici pour voir les autres activités enfants](activites_enfants)    
+
+
 ---  
   
 ## Inscriptions 2026-2027     
