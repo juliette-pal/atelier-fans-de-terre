@@ -48,7 +48,7 @@ Alors si vous décidez de franchir le pas, plusieurs formules vous sont proposé
 1 cuisson Raku par an, 20% de réduction sur les stages week-end, 3 rattrapages possibles en cas d'absence, l'accès privilégié au tournage libre, le paiment en plusieurs fois.   
 
 
-<img src="/images/bonuseleves.jpg" class="image-horiz" alt="IMG-20250529-WA0011(1)(1)">    
+<img src="/images/IMG-20250529-WA0011(1)(1).jpg" class="image-horiz" alt="Bonus élève">    
 
 :warning: Il n'y a **pas cours** pendant les **vacances scolaires** et sur la **semaine de l'ascension**  
 
