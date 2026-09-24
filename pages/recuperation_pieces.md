@@ -33,13 +33,35 @@ Vous devez rajouter la durée des vacances (15 jours ou 2 mois pour l'été) aux
 
 ## Horaires d'ouverture de l'atelier      
 
-## Horaires d'ouverture de l'atelier      
 
-**SEMAINE - Juin / Juillet / Août**   
-Ouvert le vendredi 26 juin de 17H à 20H   
-Ouvert du 29 juin au 2 juillet de 10h à 13h  
-L'atelier ferme le 2 juillet
-Reprise des cours en septembre
+**Horaires semaine HORS VACANCES** :     
+Lundi...... : 19h30 - 22h30  
+Mardi...... : 19h30 - 22h30  
+Mercredi :  14h00 - 18h00 et 19h30 - 22h30  
+Jeudi....... : 19h30 - 22h30   
+Vendredi : 10h00 - 13h00 et 14h00 - 20h00      
+Samedi.... : 11h00 - 13h30 et 16h00 - 18h30 - **Fermé 5/12- 9/1**   
+
+**Horaires semaine VACANCES** :   
+Du 19/10 au 22/11 : 10h - 13h   
+Du 23/10 au 01/11 : fermé   
+
+Du 20/12 au 03/01 : fermé    
+
+Du 08/02 au 21/02 : fermé   
+
+Du 05/04 au 08/04 : 10h - 13h   
+Du 09/04 au 18/04 : fermé   
+
+Du 01/05 au 09/05 : fermé   
+
+Du 28/06 au 01/07 : 10h - 13h   
+02/07 : fermé   
+
+Du 05/07 au 08/07 : 10h - 13h   
+Fermé à partir du 9 juillet 2027  
+Reprise en septembre  
+  
   
    
 **A très vite !!!**
