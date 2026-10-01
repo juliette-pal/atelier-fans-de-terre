@@ -7,16 +7,17 @@ title: "Café céramique à Colombes — Décore ta poterie"
 
 **Durée :**   
 **Niveau :** à partir de 3ans (accompagné) ou 5 ans (seul)  
-**Tarif :** 10€ l'activité + le prix de la pièce à décorer            
+**Tarif :** à partir de 20€ (activité + pièce à décorer)                 
 
 Vous connaissez le **café céramique** ?    
 
 Un atelier **DIY** qui s'adresse aux petits comme aux grands !!!   
-Vous y décorez des **poteries façonnées par l'atelier ou par des céramistes Français**, que vous pourrez ensuite utiliser au quotidien !!!  
-  
-Nos poteries sont généralement faites à l'atelier pour un 100% made in Colombes/France !!!
 
-Contrairement aux autres formules, **1 adulte peut accompagner plusieurs enfants**.       
+Vous y décorez des **poteries façonnées par l'atelier ou par des céramistes Français**, pour un 100% made in Colombes/France !!!  
+  
+Nos poteries sont généralement faites peuvent ensuite être utilisées au quotidien !!!  
+
+**1 adulte peut accompagner plusieurs enfants**.       
 
 Il faudra attendre quelques jours pour récupérer votre œuvre car l'atelier devra l'**émailler et la cuire une seconde fois** pour vous.   
 
